@@ -74,3 +74,5 @@ def test_high_quality_human_cancer_xenium_is_accepted():
  assert record.record_status=="accepted"
  assert record.record_kind=="xenium_dataset"
  assert record.is_human is True and record.is_cancer is True
+ assert restored.import_json(exports/"records.json",key)==1
+ assert restored.all()[0].doi=="10.1/durable"
