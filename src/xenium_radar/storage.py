@@ -69,6 +69,50 @@ class Store:
     def export(self, directory: str | Path, snapshot_date: date | None = None) -> Path:
         output = Path(directory)
         output.mkdir(parents=True, exist_ok=True)
+        all_rows = [record.model_dump(mode="json") for record in self.all()]
+        accepted = [row for row in all_rows if row["record_status"] == "accepted"]
+        review = [row for row in all_rows if row["record_status"] == "manual_review"]
+        datasets = [row for row in accepted if row["record_kind"] == "xenium_dataset"]
+        models = [row for row in accepted if row["record_kind"] == "foundation_model"]
+
+        self._write_json(output / "records.json", accepted)
+        self._write_json(output / "candidates.json", all_rows)
+        self._write_json(output / "manual_review.json", review)
+        self._write_json(output / "xenium_datasets.json", datasets)
+        self._write_json(output / "foundation_models.json", models)
+        self._write_csv(output / "records.csv", self._csv_rows(accepted))
+        self._write_csv(output / "manual_review.csv", self._csv_rows(review))
+
+        snapshot = output / "history" / (snapshot_date or date.today()).isoformat()
+        snapshot.mkdir(parents=True, exist_ok=True)
+        self._write_json(snapshot / "records.json", accepted)
+        self._write_json(snapshot / "candidates.json", all_rows)
+        self._write_csv(snapshot / "records.csv", self._csv_rows(accepted))
+        report = {
+            "total_candidates": len(all_rows), "accepted": len(accepted),
+            "manual_review": len(review),
+            "rejected": sum(row["record_status"] == "rejected" for row in all_rows),
+            "xenium_datasets": len(datasets), "foundation_models": len(models),
+        }
+        self._write_json(output / "quality_report.json", report)
+        return output
+
+    @staticmethod
+    def _write_json(path: Path, value) -> None:
+        path.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    @staticmethod
+    def _csv_rows(rows: list[dict]) -> list[dict]:
+        result = []
+        for source in rows:
+            row = dict(source)
+            row["file_manifest"] = json.dumps(row["file_manifest"], ensure_ascii=False)
+            row["evidence"] = json.dumps(row["evidence"], ensure_ascii=False)
+            row["rejection_reasons"] = json.dumps(row["rejection_reasons"], ensure_ascii=False)
+            result.append(row)
+        return result
+
+    @staticmethod
         rows = [record.model_dump(mode="json") for record in self.all()]
         json_text = json.dumps(rows, ensure_ascii=False, indent=2)
         (output / "records.json").write_text(json_text, encoding="utf-8")

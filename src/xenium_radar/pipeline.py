@@ -1,4 +1,4 @@
-from .classify import biological_filter, classify_xenium
+from .classify import triage_record
 from .dedupe import deduplicate, key
 from .sources import (
     ArxivSource, BioStudiesSource, BiorxivSource, CrossrefSource,
@@ -7,42 +7,36 @@ from .sources import (
 )
 from .storage import Store
 
-LITERATURE = [
-    EuropePMCSource, CrossrefSource, PubMedSource, OpenAlexSource,
-    BiorxivSource, MedrxivSource, ArxivSource,
-]
-REPOSITORIES = [
-    GEOSource, BioStudiesSource, ZenodoSource, FigshareSource,
-    HuggingFaceSource, TenXSource,
-]
+LITERATURE = [EuropePMCSource, CrossrefSource, PubMedSource, OpenAlexSource, BiorxivSource, MedrxivSource, ArxivSource]
+REPOSITORIES = [GEOSource, BioStudiesSource, ZenodoSource, FigshareSource, HuggingFaceSource, TenXSource]
+
+
+def build_queries(config: dict, kind: str) -> list[str]:
+    if kind == "foundation":
+        return [f'"{term}" cancer' for term in config["keywords"]["foundation_model"][:5]]
+    return [
+        '"Xenium" cancer human',
+        '"Xenium In Situ" tumor patient',
+        '"10x Xenium" carcinoma',
+    ]
 
 
 def run(config: dict, kind: str = "all"):
-    classes = (
-        LITERATURE if kind == "literature"
-        else REPOSITORIES if kind == "repositories"
-        else LITERATURE + REPOSITORIES
-    )
+    classes = LITERATURE if kind == "literature" else REPOSITORIES if kind == "repositories" else LITERATURE + REPOSITORIES
     store = Store(config["database"])
-    # GitHub runners are ephemeral. Rehydrate history from the committed export.
-    store.import_json(f'{config["exports"]}/records.json', key)
+    candidate_history = f'{config["exports"]}/candidates.json'
+    restored = store.import_json(candidate_history, key)
+    if not restored:
+        # One-time migration from exports produced before candidate separation.
+        store.import_json(f'{config["exports"]}/records.json', key)
     records = []
-    queries = ["Xenium cancer", "spatial transcriptomics cancer foundation model"]
+    queries = build_queries(config, "foundation" if kind == "foundation" else "xenium")
+    if kind == "all": queries += build_queries(config, "foundation")
     for source_class in classes:
-        if not config.get("sources", {}).get(source_class.name, {}).get("enabled", True):
-            continue
+        if not config.get("sources", {}).get(source_class.name, {}).get("enabled", True): continue
         for query in queries:
-            try:
-                records.extend(source_class(config).search(query))
-            except Exception as exc:
-                print(f"{source_class.name}: {exc}")
-    for record in records:
-        text = " ".join(filter(None, [record.title, record.evidence_text]))
-        record.xenium_role, record.xenium_reason, record.confidence_score = classify_xenium(text)
-        record.is_human, is_cancer = biological_filter(text, config["keywords"]["cancer"])
-        record.manual_review_required = not (
-            record.is_human and is_cancer and record.confidence_score >= 0.7
-        )
+            try: records.extend(source_class(config).search(query))
+            except Exception as exc: print(f"SOURCE_ERROR source={source_class.name} query={query!r} error={exc}")
     for record in deduplicate(records):
-        store.upsert(record, key(record))
+        store.upsert(triage_record(record, config), key(record))
     return records

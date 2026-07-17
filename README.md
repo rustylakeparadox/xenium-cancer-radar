@@ -70,3 +70,11 @@ GitHub Actions 的 runner 是临时环境。每次运行会先从版本化的 `d
 - `data/exports/history/YYYY-MM-DD/records.csv`：不可覆盖的每日 CSV 快照。
 
 上述导出会由 workflow 提交回仓库，同时作为 Actions artifact 保留 90 天。SQLite (`data/radar.sqlite3`) 仍作为运行期缓存而不提交，避免二进制数据库频繁产生难以审查的 Git diff。workflow 使用 concurrency group 防止两次每日任务并发写入。
+
+## 高精度筛选与人工确认
+
+检索命中首先作为 candidate 保存；`records.json` 和 `records.csv` 只导出通过证据门槛的记录。完全没有 Xenium 文件/文本或 foundation-model 证据的命中会进入 rejected，物种或癌症语境不明确的 Xenium 命中进入 `manual_review.json/csv`。`candidates.json` 保留全部候选，便于审计而不会污染正式列表。
+
+分类采用三态证据：`is_human`、`is_cancer`、`is_xenium_related` 的 `null` 表示尚未确认，而不是否定。Europe PMC 会补充 core metadata、摘要，并在有 PMCID 时限量提取全文 Data/Code Availability；BioStudies 会限量请求 study detail、递归提取文本、accession 和文件元数据。限额由 `settings.yaml` 的 `enrichment` 控制。
+
+每日额外生成 `quality_report.json`、`xenium_datasets.json`、`foundation_models.json` 和人工审核队列。人工审核时应打开 `dataset_url`/`paper_url`，核对 Data Availability、物种/患者、癌症类型、Xenium 角色和文件清单；证据不足时不要手工推断为真。

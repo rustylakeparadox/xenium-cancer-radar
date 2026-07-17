@@ -47,10 +47,32 @@ def test_export_snapshot_and_restore(tmp_path):
  from xenium_radar.storage import Store
  from xenium_radar.dedupe import key
  first=Store(str(tmp_path/"first.sqlite3")); record=DatasetRecord(title="Durable",doi="10.1/durable")
+ record.record_status="accepted"; record.record_kind="xenium_dataset"
  first.upsert(record,key(record)); exports=first.export(tmp_path/"exports",date(2026,7,17))
  assert (exports/"records.json").exists()
  assert (exports/"records.csv").exists()
  assert (exports/"history"/"2026-07-17"/"records.json").exists()
  restored=Store(str(tmp_path/"second.sqlite3"))
+ assert restored.import_json(exports/"candidates.json",key)==1
+ assert restored.all()[0].doi=="10.1/durable"
+
+
+def test_low_quality_spatial_hit_is_rejected():
+ from xenium_radar.classify import triage_record
+ config={"keywords":{"cancer":["cancer","tumor"],"foundation_model":["foundation model"]}}
+ record=DatasetRecord(title="A spatial clustering framework",repository="BioStudies")
+ triage_record(record,config)
+ assert record.record_status=="rejected"
+ assert record.is_human is None
+ assert "no_xenium_or_foundation_model_evidence" in record.rejection_reasons
+
+def test_high_quality_human_cancer_xenium_is_accepted():
+ from xenium_radar.classify import triage_record
+ config={"keywords":{"cancer":["cancer","tumor"],"foundation_model":["foundation model"]}}
+ record=DatasetRecord(title="Human lung cancer",evidence_text="We profiled patient tumor sections using Xenium.")
+ triage_record(record,config)
+ assert record.record_status=="accepted"
+ assert record.record_kind=="xenium_dataset"
+ assert record.is_human is True and record.is_cancer is True
  assert restored.import_json(exports/"records.json",key)==1
  assert restored.all()[0].doi=="10.1/durable"

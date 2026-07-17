@@ -1,5 +1,6 @@
 from .base import BaseSource
 from ..models import DatasetRecord,FileEntry
+from ..extract import parse_size, extract_identifiers
 from ..extract import parse_size
 class GEOSource(BaseSource):
  name="geo"
@@ -26,6 +27,39 @@ class BioStudiesSource(BaseSource):
  name="biostudies"
  def search(self,query):
   rows=self.http.get("https://www.ebi.ac.uk/biostudies/api/v1/search",params={"query":query,"pageSize":100}).json().get("hits",[])
+  limit=self.config.get("enrichment",{}).get("max_details_per_source",50); out=[]
+  for index,hit in enumerate(rows):
+   accession=hit.get("accession"); url=f"https://www.ebi.ac.uk/biostudies/studies/{accession}"
+   detail={}; text=" ".join(str(value) for value in hit.values() if value)
+   files=[]
+   if accession and index < limit:
+    try:
+     detail=self.http.get(f"https://www.ebi.ac.uk/biostudies/api/v1/studies/{accession}").json()
+     text += " " + self._flatten_text(detail)
+     files=self._files(detail)
+    except Exception as exc: print(f"ENRICHMENT_ERROR source=biostudies id={accession} error={exc}")
+   evidence=extract_identifiers(text,"repository_detail")
+   out.append(DatasetRecord(title=hit.get("title") or accession or "Untitled",accession=accession,repository="BioStudies",dataset_url=url,file_manifest=files,file_count=len(files),total_size_bytes=sum(f.size_bytes or 0 for f in files) or None,downloadable=True if files else None,evidence=evidence,evidence_text=text,source=self.name,raw={"hit":hit,"detail":detail}))
+  return out
+ @staticmethod
+ def _flatten_text(value):
+  if isinstance(value,dict): return " ".join(BioStudiesSource._flatten_text(v) for v in value.values())
+  if isinstance(value,list): return " ".join(BioStudiesSource._flatten_text(v) for v in value)
+  return str(value) if value is not None else ""
+ @staticmethod
+ def _files(value):
+  found=[]
+  def visit(node):
+   if isinstance(node,dict):
+    path=node.get("path") or node.get("name")
+    if path and any(key in node for key in ("size","sizeBytes","fileSize")):
+     size=parse_size(node.get("sizeBytes") or node.get("fileSize") or node.get("size"))
+     link=node.get("url") or node.get("downloadUrl") or ""
+     found.append(FileEntry(name=str(path),url=str(link),size_bytes=size))
+    for child in node.values(): visit(child)
+   elif isinstance(node,list):
+    for child in node: visit(child)
+  visit(value); return found
   return [DatasetRecord(title=x.get("title") or x.get("accession","Untitled"),accession=x.get("accession"),repository="BioStudies",dataset_url=f"https://www.ebi.ac.uk/biostudies/studies/{x.get('accession')}",source=self.name,raw=x) for x in rows]
 class JsonRepositorySource(BaseSource):
  endpoint=""; repository=""; name=""

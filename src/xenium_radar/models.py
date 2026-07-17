@@ -8,6 +8,7 @@ class Evidence(BaseModel):
     identifier: str
     location: str = "unknown"
     text: str
+    source_url: str | None = None
 
 class FileEntry(BaseModel):
     name: str
@@ -44,6 +45,8 @@ class DatasetRecord(BaseModel):
     file_manifest: list[FileEntry] = Field(default_factory=list)
     species: str | None = None
     is_human: bool | None = None
+    is_cancer: bool | None = None
+    is_xenium_related: bool | None = None
     cancer_type_raw: str | None = None
     cancer_type: str | None = None
     cancer_subtype: str | None = None
@@ -73,6 +76,12 @@ class DatasetRecord(BaseModel):
     evidence: list[Evidence] = Field(default_factory=list)
     evidence_text: str | None = None
     confidence_score: float = 0.0
+    xenium_confidence: float = 0.0
+    human_confidence: float = 0.0
+    cancer_confidence: float = 0.0
+    record_kind: Literal["xenium_dataset", "foundation_model", "candidate"] = "candidate"
+    record_status: Literal["accepted", "manual_review", "rejected"] = "manual_review"
+    rejection_reasons: list[str] = Field(default_factory=list)
     manual_review_required: bool = True
     source_updated_at: datetime | None = None
     first_seen_at: datetime = Field(default_factory=now)

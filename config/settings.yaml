@@ -42,3 +42,6 @@ sources:
   arxiv: {enabled: true}
   huggingface: {enabled: true}
   tenx: {enabled: true}
+enrichment:
+  max_details_per_source: 50
+  max_fulltext_per_query: 20
