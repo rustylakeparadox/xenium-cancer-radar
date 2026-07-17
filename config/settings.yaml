@@ -1,0 +1,44 @@
+database: data/radar.sqlite3
+exports: data/exports
+network:
+  timeout: 20
+  retries: 3
+  backoff_factor: 0.5
+  user_agent: XeniumCancerDataRadar/0.1 (mailto:your-email@example.org)
+keywords:
+  xenium: [Xenium, 10x Xenium, Xenium In Situ, Xenium In Situ Analyzer, imaging-based spatial transcriptomics, single-cell spatial transcriptomics]
+  cancer: [cancer, tumor, tumour, carcinoma, adenocarcinoma, sarcoma, lymphoma, leukemia, melanoma, glioma, neoplasm, metastasis]
+  foundation_model: [foundation model, multimodal foundation model, pathology foundation model, single-cell foundation model, spatial foundation model, pretrained model, large-scale pretrained model, virtual spatial transcriptomics, H&E to spatial transcriptomics, spatial gene expression prediction]
+journals:
+  - Nature
+  - Nature Medicine
+  - Nature Cancer
+  - Nature Genetics
+  - Nature Biotechnology
+  - Nature Methods
+  - Nature Communications
+  - Scientific Data
+  - Cell
+  - Cancer Cell
+  - Cell Systems
+  - Cell Genomics
+  - Cell Reports Medicine
+  - Patterns
+  - Science
+  - Science Translational Medicine
+  - Science Advances
+  - Science Immunology
+sources:
+  europe_pmc: {enabled: true}
+  geo: {enabled: true}
+  biostudies: {enabled: true}
+  crossref: {enabled: true}
+  pubmed: {enabled: true}
+  zenodo: {enabled: true}
+  figshare: {enabled: true}
+  openalex: {enabled: true}
+  biorxiv: {enabled: true}
+  medrxiv: {enabled: true}
+  arxiv: {enabled: true}
+  huggingface: {enabled: true}
+  tenx: {enabled: true}
