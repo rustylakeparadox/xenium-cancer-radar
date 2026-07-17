@@ -13,7 +13,15 @@ class GEOSource(BaseSource):
   url=f"https://ftp.ncbi.nlm.nih.gov/geo/series/{accession[:-3]}nnn/{accession}/suppl/"
   text=self.http.get(url).text
   import re
-  return [FileEntry(name=n,url=url+n,size_bytes=parse_size(s)) for n,s in re.findall(r'href="([^"]+)"[^\n]*?\s([\d.]+[KMG]?B)',text,re.I)]
+  matches = re.findall(
+   r'href="([^"]+)"[^\n]*?(\d+(?:\.\d+)?)\s*([KMGTPE]?B)\b',
+   text,
+   re.I,
+  )
+  return [
+   FileEntry(name=name, url=url + name, size_bytes=parse_size(number + " " + unit))
+   for name, number, unit in matches
+  ]
 class BioStudiesSource(BaseSource):
  name="biostudies"
  def search(self,query):
