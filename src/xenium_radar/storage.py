@@ -113,6 +113,8 @@ class Store:
         return result
 
     @staticmethod
+    def _write_csv(path: Path, rows: list[dict]) -> None:
+        """Write flattened records without retaining any prior export state."""
         rows = [record.model_dump(mode="json") for record in self.all()]
         json_text = json.dumps(rows, ensure_ascii=False, indent=2)
         (output / "records.json").write_text(json_text, encoding="utf-8")
