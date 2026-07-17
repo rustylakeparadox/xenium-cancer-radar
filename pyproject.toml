@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "xenium-cancer-data-radar"
+version = "0.1.0"
+description = "Public human cancer Xenium and foundation-model metadata radar"
+requires-python = ">=3.11"
+dependencies = ["pydantic>=2", "PyYAML>=6", "requests>=2.31", "typer>=0.12", "pandas>=2", "streamlit>=1.35", "feedparser>=6"]
+[project.optional-dependencies]
+test = ["pytest>=8", "responses>=0.25"]
+[project.scripts]
+xenium-radar = "xenium_radar.cli:app"
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
