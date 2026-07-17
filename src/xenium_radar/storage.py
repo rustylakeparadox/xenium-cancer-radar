@@ -115,6 +115,25 @@ class Store:
     @staticmethod
     def _write_csv(path: Path, rows: list[dict]) -> None:
         """Write flattened records without retaining any prior export state."""
+        rows = [record.model_dump(mode="json") for record in self.all()]
+        json_text = json.dumps(rows, ensure_ascii=False, indent=2)
+        (output / "records.json").write_text(json_text, encoding="utf-8")
+
+        csv_rows = []
+        for row in rows:
+            row["file_manifest"] = json.dumps(row["file_manifest"], ensure_ascii=False)
+            row["evidence"] = json.dumps(row["evidence"], ensure_ascii=False)
+            csv_rows.append(row)
+        self._write_csv(output / "records.csv", csv_rows)
+
+        snapshot = output / "history" / (snapshot_date or date.today()).isoformat()
+        snapshot.mkdir(parents=True, exist_ok=True)
+        (snapshot / "records.json").write_text(json_text, encoding="utf-8")
+        self._write_csv(snapshot / "records.csv", csv_rows)
+        return output
+
+    @staticmethod
+    def _write_csv(path: Path, rows: list[dict]) -> None:
         if not rows:
             path.write_text("", encoding="utf-8")
             return

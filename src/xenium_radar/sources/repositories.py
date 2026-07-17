@@ -1,6 +1,7 @@
 from .base import BaseSource
 from ..models import DatasetRecord,FileEntry
 from ..extract import parse_size, extract_identifiers
+from ..extract import parse_size
 class GEOSource(BaseSource):
  name="geo"
  def search(self,query):
@@ -59,6 +60,7 @@ class BioStudiesSource(BaseSource):
    elif isinstance(node,list):
     for child in node: visit(child)
   visit(value); return found
+  return [DatasetRecord(title=x.get("title") or x.get("accession","Untitled"),accession=x.get("accession"),repository="BioStudies",dataset_url=f"https://www.ebi.ac.uk/biostudies/studies/{x.get('accession')}",source=self.name,raw=x) for x in rows]
 class JsonRepositorySource(BaseSource):
  endpoint=""; repository=""; name=""
  def search(self,query):
