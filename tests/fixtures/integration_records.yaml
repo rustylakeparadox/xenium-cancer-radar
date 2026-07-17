@@ -1,0 +1,3 @@
+# Discovery regression identifiers only; these are never inserted as production results.
+geo: [GSE311609, GSE300147]
+biostudies: [S-BIAD2146]
