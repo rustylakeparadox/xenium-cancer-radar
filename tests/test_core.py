@@ -30,3 +30,27 @@ def test_geo_manifest_mock():
  responses.get("https://ftp.ncbi.nlm.nih.gov/geo/series/GSE311nnn/GSE311609/suppl/",body=html)
  files=GEOSource({"network":{"timeout":1,"retries":0,"user_agent":"test"}}).file_manifest("GSE311609")
  assert [f.name for f in files]==["cells.parquet","experiment.xenium"]
+
+def test_first_seen_is_preserved_on_upsert(tmp_path):
+ from datetime import datetime, timezone
+ from xenium_radar.storage import Store
+ from xenium_radar.dedupe import key
+ store=Store(str(tmp_path/"radar.sqlite3"))
+ original=DatasetRecord(title="A",doi="10.1/history",first_seen_at=datetime(2024,1,1,tzinfo=timezone.utc))
+ store.upsert(original,key(original))
+ refreshed=DatasetRecord(title="A updated",doi="10.1/history",first_seen_at=datetime(2026,1,1,tzinfo=timezone.utc))
+ store.upsert(refreshed,key(refreshed))
+ assert store.all()[0].first_seen_at==datetime(2024,1,1,tzinfo=timezone.utc)
+
+def test_export_snapshot_and_restore(tmp_path):
+ from datetime import date
+ from xenium_radar.storage import Store
+ from xenium_radar.dedupe import key
+ first=Store(str(tmp_path/"first.sqlite3")); record=DatasetRecord(title="Durable",doi="10.1/durable")
+ first.upsert(record,key(record)); exports=first.export(tmp_path/"exports",date(2026,7,17))
+ assert (exports/"records.json").exists()
+ assert (exports/"records.csv").exists()
+ assert (exports/"history"/"2026-07-17"/"records.json").exists()
+ restored=Store(str(tmp_path/"second.sqlite3"))
+ assert restored.import_json(exports/"records.json",key)==1
+ assert restored.all()[0].doi=="10.1/durable"

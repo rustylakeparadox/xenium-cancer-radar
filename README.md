@@ -59,3 +59,14 @@ streamlit run app.py
 ## 已知限制
 
 元数据文本经常不完整，患者数、Xenium 角色和公开性可能需要人工复核；受控数据不会变为公开下载。全文及补充材料解析受版权、robots、登录和 API 能力限制。通用适配器只实现公开元数据的最小共同字段，复杂分页、10x 页面变化、Hugging Face dataset ID/Zenodo/Figshare DOI 的深层解析需要按服务迭代。关键词分类是可解释启发式而非医学结论，网页的 Failed URL 页面在 MVP 中展示存储记录而非后台任务日志。
+
+## 每日结果持久化
+
+GitHub Actions 的 runner 是临时环境。每次运行会先从版本化的 `data/exports/records.json` 恢复 SQLite 历史，再检索和 upsert，因此不会因为 runner 销毁而丢失 `first_seen_at`。运行后会更新：
+
+- `data/exports/records.json`：当前完整结构化记录；
+- `data/exports/records.csv`：当前完整表格记录；
+- `data/exports/history/YYYY-MM-DD/records.json`：不可覆盖的每日 JSON 快照；
+- `data/exports/history/YYYY-MM-DD/records.csv`：不可覆盖的每日 CSV 快照。
+
+上述导出会由 workflow 提交回仓库，同时作为 Actions artifact 保留 90 天。SQLite (`data/radar.sqlite3`) 仍作为运行期缓存而不提交，避免二进制数据库频繁产生难以审查的 Git diff。workflow 使用 concurrency group 防止两次每日任务并发写入。
