@@ -1,0 +1,97 @@
+"""SQLite persistence and durable CSV/JSON exports."""
+
+import csv
+import json
+import sqlite3
+from datetime import date, datetime
+from pathlib import Path
+
+from .models import DatasetRecord
+
+
+class Store:
+    def __init__(self, path: str):
+        Path(path).parent.mkdir(parents=True, exist_ok=True)
+        self.db = sqlite3.connect(path)
+        self.db.execute(
+            """CREATE TABLE IF NOT EXISTS records (
+                record_key TEXT PRIMARY KEY,
+                data TEXT NOT NULL,
+                first_seen_at TEXT NOT NULL,
+                last_checked_at TEXT NOT NULL,
+                source_updated_at TEXT
+            )"""
+        )
+        self.db.commit()
+
+    def upsert(self, record: DatasetRecord, record_key: object) -> None:
+        serialized_key = str(record_key)
+        existing = self.db.execute(
+            "SELECT first_seen_at FROM records WHERE record_key = ?", (serialized_key,)
+        ).fetchone()
+        if existing:
+            # Preserve the authoritative historical value in both the SQL column and JSON.
+            record.first_seen_at = datetime.fromisoformat(existing[0])
+        payload = record.model_dump_json()
+        self.db.execute(
+            """INSERT INTO records VALUES (?, ?, ?, ?, ?)
+               ON CONFLICT(record_key) DO UPDATE SET
+                 data = excluded.data,
+                 last_checked_at = excluded.last_checked_at,
+                 source_updated_at = excluded.source_updated_at""",
+            (
+                serialized_key,
+                payload,
+                record.first_seen_at.isoformat(),
+                record.last_checked_at.isoformat(),
+                record.source_updated_at.isoformat() if record.source_updated_at else None,
+            ),
+        )
+        self.db.commit()
+
+    def all(self) -> list[DatasetRecord]:
+        return [
+            DatasetRecord.model_validate_json(row[0])
+            for row in self.db.execute("SELECT data FROM records ORDER BY last_checked_at DESC")
+        ]
+
+    def import_json(self, path: str | Path, key_function) -> int:
+        """Restore the SQLite cache from the versioned aggregate JSON export."""
+        source = Path(path)
+        if not source.exists() or self.db.execute("SELECT 1 FROM records LIMIT 1").fetchone():
+            return 0
+        records = json.loads(source.read_text(encoding="utf-8"))
+        for item in records:
+            record = DatasetRecord.model_validate(item)
+            self.upsert(record, key_function(record))
+        return len(records)
+
+    def export(self, directory: str | Path, snapshot_date: date | None = None) -> Path:
+        output = Path(directory)
+        output.mkdir(parents=True, exist_ok=True)
+        rows = [record.model_dump(mode="json") for record in self.all()]
+        json_text = json.dumps(rows, ensure_ascii=False, indent=2)
+        (output / "records.json").write_text(json_text, encoding="utf-8")
+
+        csv_rows = []
+        for row in rows:
+            row["file_manifest"] = json.dumps(row["file_manifest"], ensure_ascii=False)
+            row["evidence"] = json.dumps(row["evidence"], ensure_ascii=False)
+            csv_rows.append(row)
+        self._write_csv(output / "records.csv", csv_rows)
+
+        snapshot = output / "history" / (snapshot_date or date.today()).isoformat()
+        snapshot.mkdir(parents=True, exist_ok=True)
+        (snapshot / "records.json").write_text(json_text, encoding="utf-8")
+        self._write_csv(snapshot / "records.csv", csv_rows)
+        return output
+
+    @staticmethod
+    def _write_csv(path: Path, rows: list[dict]) -> None:
+        if not rows:
+            path.write_text("", encoding="utf-8")
+            return
+        with path.open("w", newline="", encoding="utf-8") as handle:
+            writer = csv.DictWriter(handle, fieldnames=rows[0])
+            writer.writeheader()
+            writer.writerows(rows)
