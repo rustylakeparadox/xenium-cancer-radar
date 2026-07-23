@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-07-22T06:10:16.848986Z",
+    "last_checked_at": "2026-07-23T06:16:33.152956Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-07-22T06:10:16.847209Z",
+    "last_checked_at": "2026-07-23T06:16:33.150891Z",
     "source": "biostudies"
   },
   {
@@ -226,7 +226,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-07-22T06:10:15.752814Z",
+    "last_checked_at": "2026-07-23T06:16:32.296914Z",
     "source": "biostudies"
   },
   {
@@ -318,7 +318,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813565Z",
-    "last_checked_at": "2026-07-22T06:09:56.899593Z",
+    "last_checked_at": "2026-07-23T06:16:18.368287Z",
     "source": "biostudies"
   },
   {
@@ -415,7 +415,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813444Z",
-    "last_checked_at": "2026-07-22T06:09:53.938396Z",
+    "last_checked_at": "2026-07-23T06:16:15.067736Z",
     "source": "biostudies"
   },
   {
@@ -609,7 +609,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-07-22T06:09:50.370127Z",
+    "last_checked_at": "2026-07-23T06:16:12.012558Z",
     "source": "biostudies"
   },
   {
@@ -754,7 +754,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-07-22T06:09:50.228594Z",
+    "last_checked_at": "2026-07-23T06:16:11.648038Z",
     "source": "biostudies"
   },
   {
@@ -845,7 +845,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-07-22T06:09:49.225282Z",
+    "last_checked_at": "2026-07-23T06:16:10.567551Z",
     "source": "biostudies"
   },
   {
@@ -942,7 +942,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-07-22T06:09:49.070840Z",
+    "last_checked_at": "2026-07-23T06:16:10.460290Z",
     "source": "biostudies"
   },
   {
@@ -1027,7 +1027,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-07-22T06:09:48.732895Z",
+    "last_checked_at": "2026-07-23T06:16:10.191381Z",
     "source": "biostudies"
   },
   {
@@ -1093,7 +1093,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-07-22T06:08:25.491063Z",
+    "last_checked_at": "2026-07-23T06:14:00.928702Z",
     "source": "crossref"
   },
   {
@@ -1159,7 +1159,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-07-22T06:08:25.491025Z",
+    "last_checked_at": "2026-07-23T06:14:00.928646Z",
     "source": "crossref"
   },
   {
@@ -1225,7 +1225,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-07-22T06:08:25.490982Z",
+    "last_checked_at": "2026-07-23T06:14:00.928594Z",
     "source": "crossref"
   },
   {
@@ -1291,7 +1291,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654485Z",
-    "last_checked_at": "2026-07-22T06:08:24.572743Z",
+    "last_checked_at": "2026-07-23T06:14:00.011058Z",
     "source": "crossref"
   },
   {
@@ -1357,7 +1357,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-07-22T06:08:24.572727Z",
+    "last_checked_at": "2026-07-23T06:14:00.011038Z",
     "source": "crossref"
   },
   {
@@ -1423,7 +1423,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654325Z",
-    "last_checked_at": "2026-07-22T06:08:24.572643Z",
+    "last_checked_at": "2026-07-23T06:14:00.010934Z",
     "source": "crossref"
   },
   {
@@ -1489,7 +1489,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-07-22T06:08:24.572363Z",
+    "last_checked_at": "2026-07-23T06:14:00.010606Z",
     "source": "crossref"
   },
   {
@@ -1555,7 +1555,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-07-22T06:08:24.572336Z",
+    "last_checked_at": "2026-07-23T06:14:00.010544Z",
     "source": "crossref"
   },
   {
@@ -1621,7 +1621,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-07-22T06:08:24.572231Z",
+    "last_checked_at": "2026-07-23T06:14:00.010432Z",
     "source": "crossref"
   },
   {
@@ -1687,7 +1687,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-07-22T06:08:24.572223Z",
+    "last_checked_at": "2026-07-23T06:14:00.010423Z",
     "source": "crossref"
   },
   {
@@ -1753,7 +1753,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-07-22T06:08:24.572050Z",
+    "last_checked_at": "2026-07-23T06:14:00.010208Z",
     "source": "crossref"
   },
   {
@@ -1819,7 +1819,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-07-22T06:08:24.572004Z",
+    "last_checked_at": "2026-07-23T06:14:00.010148Z",
     "source": "crossref"
   },
   {
@@ -1885,7 +1885,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-07-22T06:07:21.398043Z",
+    "last_checked_at": "2026-07-23T06:12:45.805232Z",
     "source": "europe_pmc"
   },
   {
@@ -1958,7 +1958,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.623722Z",
-    "last_checked_at": "2026-07-22T06:07:21.393690Z",
+    "last_checked_at": "2026-07-23T06:12:45.643643Z",
     "source": "europe_pmc"
   },
   {
@@ -2037,7 +2037,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.582544Z",
-    "last_checked_at": "2026-07-22T06:07:20.821988Z",
+    "last_checked_at": "2026-07-23T06:12:44.805349Z",
     "source": "europe_pmc"
   },
   {
@@ -2122,7 +2122,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-07-22T06:07:10.200169Z",
+    "last_checked_at": "2026-07-23T06:12:31.978147Z",
     "source": "europe_pmc"
   },
   {
@@ -2237,7 +2237,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-07-22T06:07:09.919636Z",
+    "last_checked_at": "2026-07-23T06:12:31.723972Z",
     "source": "europe_pmc"
   },
   {
@@ -2328,7 +2328,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-07-22T06:07:09.354359Z",
+    "last_checked_at": "2026-07-23T06:12:31.245677Z",
     "source": "europe_pmc"
   },
   {
@@ -2791,7 +2791,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-07-22T06:07:02.575079Z",
+    "last_checked_at": "2026-07-23T06:12:23.486353Z",
     "source": "europe_pmc"
   },
   {
@@ -2864,7 +2864,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:48.074500Z",
-    "last_checked_at": "2026-07-22T06:06:31.382033Z",
+    "last_checked_at": "2026-07-23T06:11:44.973834Z",
     "source": "europe_pmc"
   },
   {
@@ -3003,7 +3003,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:47.801584Z",
-    "last_checked_at": "2026-07-22T06:06:31.104518Z",
+    "last_checked_at": "2026-07-23T06:11:44.663588Z",
     "source": "europe_pmc"
   },
   {
@@ -3076,7 +3076,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-07-22T06:06:17.001247Z",
+    "last_checked_at": "2026-07-23T06:11:28.344184Z",
     "source": "europe_pmc"
   },
   {
@@ -3142,7 +3142,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-07-22T06:06:15.989115Z",
+    "last_checked_at": "2026-07-23T06:11:27.240823Z",
     "source": "europe_pmc"
   },
   {
@@ -3208,7 +3208,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.380942Z",
-    "last_checked_at": "2026-07-22T06:06:04.898517Z",
+    "last_checked_at": "2026-07-23T06:11:13.336128Z",
     "source": "europe_pmc"
   },
   {
@@ -3274,139 +3274,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-07-22T06:06:04.897039Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Personalizing the treatment of head and neck cancer in vitro: The 3D-OTC model.",
-    "doi": "10.1186/s12916-026-04883-z",
-    "pmid": "42035072",
-    "pmcid": "PMC13123083",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-04-25",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/42035072",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "reused_public_dataset",
-    "xenium_reason": "Text indicates reuse of public Xenium data",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Personalizing the treatment of head and neck cancer in vitro: The 3D-OTC model. BACKGROUND: Treatment of head and neck squamous cell carcinoma (HNSCC) remains challenging and the survival rates of affected patients remain poor. A three-dimensional organotypic co-culture (3D-OTC) model where patient derived tumor tissue is cultured on human-derived fibroblasts (dermal equivalent, DE) was evaluated regarding its comparability to primary tumor tissue and its applicability in drug resistance testing. METHODS: 3D-OTC models were cultured from n = 10 HNSCC patients for up to 21 days. The growth pattern at the DE was compared to tumor budding of corresponding resection specimens. Furthermore, we immunohistochemically determined the immune cell infiltrate of primary tumor tissue and corresponding 3D-OTC models. Spatially resolved gene expression analysis (“Xenium in situ”) was performed for separate regions of interest within the 3D-OTC specimens and within primary tumor tissue. Up-regulated and down-regulated genes of the 3D-OTC samples were included in gene set enrichment analysis and up-regulated genes between invasive (invading the DE) and non-invasive tumor cells within the 3D-OTC samples were included in drug resistance testing using publicly available databases. RESULTS: The growth pattern observed at the DE was associated with tumor budding in primary tumor tissue. The density of CD3-/CD20-/CD56-positive cells was lower in 3D-OTC samples compared to primary tumor tissue. No such changes were observed for CD68-positive cells and no significant changes in the density of the immune cell infiltrate were detected during the cultivation period. The centroids and dispersion of the gene expression of the 3D-OTC samples did not differ from the corresponding primary tumor tissue. The regions of interest within the 3D-OTC samples showed distinct functional states in gene set enrichment analysis. The comparison of genes up-regulated in invasive tumor parts of the 3D-OTC samples could explain resistance of tumor subclones to certain chemotherapeutics. CONCLUSIONS: The 3D-OTC model morphologically and transcriptomically resembles primary tumor tissue and its biology while preserving the tumor microenvironment. Furthermore, the 3D-OTC model allows the standardized evaluation of tumor tissue by the definition of transcriptomically separate regions of interest and thus, could help to evaluate the impact of personalized therapeutic interventions on the tumor and its microenvironment in vitro.",
-    "confidence_score": 0.827,
-    "xenium_confidence": 0.78,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-07-22T06:06:04.894151Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Spatial and temporal dynamics of cancer-associated fibroblast niches in breast cancer.",
-    "doi": "10.1186/s13058-025-02183-7",
-    "pmid": "41521297",
-    "pmcid": "PMC12849564",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-01-11",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/41521297",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "validation_dataset",
-    "xenium_reason": "Xenium is explicitly used for validation",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Spatial and temporal dynamics of cancer-associated fibroblast niches in breast cancer. BACKGROUND: Cancer-associated fibroblasts (CAFs) are the main constituents of the tumor microenvironment. Several studies have delineated CAF heterogeneity in different types of tumors, however, it is still unknown how the distinct CAF transcriptional profiles are established during tumor progression. METHODS: We reanalyzed a previously published single-cell RNA-sequencing dataset of MMTV-PyMT tumors at higher resolution using Seurat , and CytoTRACE to characterize CAF subtypes and their differentiation states. Wilcoxon rank sum test was applied for differential gene expression. Multiplex immunostaining (Akoya PhenoImager HT) was performed on 38 murine mammary tumors from MMTV-PyMT mice to identify the distinct CAF subtypes. Whole-slide imaging and spatial analysis were conducted using QuPath and Cellpose , followed by neighborhood clustering and interaction mapping with CytoMAP . Cellular distances from CAFs to immune, tumor, and endothelial cells were quantified using SPIAT and Wilcoxon tests for comparisons. In parallel, human spatial transcriptomics data from the 10X Genomics Xenium platform were integrated for cross-species validation. RESULTS: Here, by single cell RNA-sequencing and multiplex immunostaining, we identify six CAF substates. Spatial analysis on immunostained murine mammary tumors and human spatial transcriptomics data outlined temporal changes in stromal composition and the existence of distinct functional niches enriched with different CAF substates. Immunomodulatory CAFs co-localized with immune cells while myofibroblastic CAFs formed a shield around the tumor core, thus preventing immune infiltration. CONCLUSIONS: Our work supports the idea that distinct spatial locations dictate different CAF transcriptional programs. Targeting specific functional niches will ultimately hinder tumor progression by inhibiting signaling between distinct CAF substates and the surrounding tumor microenvironment.",
-    "confidence_score": 0.84,
-    "xenium_confidence": 0.82,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.722277Z",
-    "last_checked_at": "2026-07-22T06:06:04.893488Z",
+    "last_checked_at": "2026-07-23T06:11:13.334980Z",
     "source": "europe_pmc"
   },
   {
@@ -3472,7 +3340,139 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721331Z",
-    "last_checked_at": "2026-07-22T06:06:04.893248Z",
+    "last_checked_at": "2026-07-23T06:11:13.331289Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Spatial and temporal dynamics of cancer-associated fibroblast niches in breast cancer.",
+    "doi": "10.1186/s13058-025-02183-7",
+    "pmid": "41521297",
+    "pmcid": "PMC12849564",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-01-11",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/41521297",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "validation_dataset",
+    "xenium_reason": "Xenium is explicitly used for validation",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Spatial and temporal dynamics of cancer-associated fibroblast niches in breast cancer. BACKGROUND: Cancer-associated fibroblasts (CAFs) are the main constituents of the tumor microenvironment. Several studies have delineated CAF heterogeneity in different types of tumors, however, it is still unknown how the distinct CAF transcriptional profiles are established during tumor progression. METHODS: We reanalyzed a previously published single-cell RNA-sequencing dataset of MMTV-PyMT tumors at higher resolution using Seurat , and CytoTRACE to characterize CAF subtypes and their differentiation states. Wilcoxon rank sum test was applied for differential gene expression. Multiplex immunostaining (Akoya PhenoImager HT) was performed on 38 murine mammary tumors from MMTV-PyMT mice to identify the distinct CAF subtypes. Whole-slide imaging and spatial analysis were conducted using QuPath and Cellpose , followed by neighborhood clustering and interaction mapping with CytoMAP . Cellular distances from CAFs to immune, tumor, and endothelial cells were quantified using SPIAT and Wilcoxon tests for comparisons. In parallel, human spatial transcriptomics data from the 10X Genomics Xenium platform were integrated for cross-species validation. RESULTS: Here, by single cell RNA-sequencing and multiplex immunostaining, we identify six CAF substates. Spatial analysis on immunostained murine mammary tumors and human spatial transcriptomics data outlined temporal changes in stromal composition and the existence of distinct functional niches enriched with different CAF substates. Immunomodulatory CAFs co-localized with immune cells while myofibroblastic CAFs formed a shield around the tumor core, thus preventing immune infiltration. CONCLUSIONS: Our work supports the idea that distinct spatial locations dictate different CAF transcriptional programs. Targeting specific functional niches will ultimately hinder tumor progression by inhibiting signaling between distinct CAF substates and the surrounding tumor microenvironment.",
+    "confidence_score": 0.84,
+    "xenium_confidence": 0.82,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.722277Z",
+    "last_checked_at": "2026-07-23T06:11:13.331091Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Personalizing the treatment of head and neck cancer in vitro: The 3D-OTC model.",
+    "doi": "10.1186/s12916-026-04883-z",
+    "pmid": "42035072",
+    "pmcid": "PMC13123083",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-04-25",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42035072",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "reused_public_dataset",
+    "xenium_reason": "Text indicates reuse of public Xenium data",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Personalizing the treatment of head and neck cancer in vitro: The 3D-OTC model. BACKGROUND: Treatment of head and neck squamous cell carcinoma (HNSCC) remains challenging and the survival rates of affected patients remain poor. A three-dimensional organotypic co-culture (3D-OTC) model where patient derived tumor tissue is cultured on human-derived fibroblasts (dermal equivalent, DE) was evaluated regarding its comparability to primary tumor tissue and its applicability in drug resistance testing. METHODS: 3D-OTC models were cultured from n = 10 HNSCC patients for up to 21 days. The growth pattern at the DE was compared to tumor budding of corresponding resection specimens. Furthermore, we immunohistochemically determined the immune cell infiltrate of primary tumor tissue and corresponding 3D-OTC models. Spatially resolved gene expression analysis (“Xenium in situ”) was performed for separate regions of interest within the 3D-OTC specimens and within primary tumor tissue. Up-regulated and down-regulated genes of the 3D-OTC samples were included in gene set enrichment analysis and up-regulated genes between invasive (invading the DE) and non-invasive tumor cells within the 3D-OTC samples were included in drug resistance testing using publicly available databases. RESULTS: The growth pattern observed at the DE was associated with tumor budding in primary tumor tissue. The density of CD3-/CD20-/CD56-positive cells was lower in 3D-OTC samples compared to primary tumor tissue. No such changes were observed for CD68-positive cells and no significant changes in the density of the immune cell infiltrate were detected during the cultivation period. The centroids and dispersion of the gene expression of the 3D-OTC samples did not differ from the corresponding primary tumor tissue. The regions of interest within the 3D-OTC samples showed distinct functional states in gene set enrichment analysis. The comparison of genes up-regulated in invasive tumor parts of the 3D-OTC samples could explain resistance of tumor subclones to certain chemotherapeutics. CONCLUSIONS: The 3D-OTC model morphologically and transcriptomically resembles primary tumor tissue and its biology while preserving the tumor microenvironment. Furthermore, the 3D-OTC model allows the standardized evaluation of tumor tissue by the definition of transcriptomically separate regions of interest and thus, could help to evaluate the impact of personalized therapeutic interventions on the tumor and its microenvironment in vitro.",
+    "confidence_score": 0.827,
+    "xenium_confidence": 0.78,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.721700Z",
+    "last_checked_at": "2026-07-23T06:11:13.330794Z",
     "source": "europe_pmc"
   },
   {
@@ -3538,7 +3538,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718322Z",
-    "last_checked_at": "2026-07-22T06:06:04.886587Z",
+    "last_checked_at": "2026-07-23T06:11:13.321852Z",
     "source": "europe_pmc"
   },
   {
@@ -3604,7 +3604,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-07-22T06:06:04.886045Z",
+    "last_checked_at": "2026-07-23T06:11:13.321532Z",
     "source": "europe_pmc"
   },
   {
@@ -3670,7 +3670,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-07-22T06:06:04.885241Z",
+    "last_checked_at": "2026-07-23T06:11:13.320623Z",
     "source": "europe_pmc"
   },
   {
@@ -4163,7 +4163,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718458Z",
-    "last_checked_at": "2026-07-22T06:06:04.884902Z",
+    "last_checked_at": "2026-07-23T06:11:13.319828Z",
     "source": "europe_pmc"
   },
   {
@@ -4290,7 +4290,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718536Z",
-    "last_checked_at": "2026-07-22T06:06:04.617710Z",
+    "last_checked_at": "2026-07-23T06:11:13.049322Z",
     "source": "europe_pmc"
   },
   {
@@ -4356,7 +4356,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-07-22T06:05:55.026458Z",
+    "last_checked_at": "2026-07-23T06:11:12.646844Z",
     "source": "europe_pmc"
   },
   {
@@ -4807,7 +4807,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718154Z",
-    "last_checked_at": "2026-07-22T06:05:53.185178Z",
+    "last_checked_at": "2026-07-23T06:10:58.374826Z",
     "source": "europe_pmc"
   },
   {
@@ -4873,7 +4873,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718363Z",
-    "last_checked_at": "2026-07-22T06:05:49.704047Z",
+    "last_checked_at": "2026-07-23T06:10:54.200278Z",
     "source": "europe_pmc"
   },
   {
@@ -5018,7 +5018,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717940Z",
-    "last_checked_at": "2026-07-22T06:05:49.384368Z",
+    "last_checked_at": "2026-07-23T06:10:53.902258Z",
     "source": "europe_pmc"
   },
   {
@@ -5103,7 +5103,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717628Z",
-    "last_checked_at": "2026-07-22T06:05:49.115077Z",
+    "last_checked_at": "2026-07-23T06:10:53.664416Z",
     "source": "europe_pmc"
   },
   {
@@ -5296,7 +5296,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718002Z",
-    "last_checked_at": "2026-07-22T06:05:48.469705Z",
+    "last_checked_at": "2026-07-23T06:10:52.988544Z",
     "source": "europe_pmc"
   },
   {
@@ -5399,7 +5399,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-07-22T06:05:47.362268Z",
+    "last_checked_at": "2026-07-23T06:10:51.717082Z",
     "source": "europe_pmc"
   },
   {
@@ -5538,7 +5538,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-07-22T06:05:47.077788Z",
+    "last_checked_at": "2026-07-23T06:10:51.493152Z",
     "source": "europe_pmc"
   },
   {
@@ -5604,7 +5604,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717540Z",
-    "last_checked_at": "2026-07-22T06:05:46.857672Z",
+    "last_checked_at": "2026-07-23T06:10:51.292558Z",
     "source": "europe_pmc"
   }
 ]
