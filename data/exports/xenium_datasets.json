@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-07-23T06:16:33.152956Z",
+    "last_checked_at": "2026-07-24T06:09:21.632026Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-07-23T06:16:33.150891Z",
+    "last_checked_at": "2026-07-24T06:09:21.628918Z",
     "source": "biostudies"
   },
   {
@@ -226,7 +226,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-07-23T06:16:32.296914Z",
+    "last_checked_at": "2026-07-24T06:09:20.997889Z",
     "source": "biostudies"
   },
   {
@@ -318,7 +318,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813565Z",
-    "last_checked_at": "2026-07-23T06:16:18.368287Z",
+    "last_checked_at": "2026-07-24T06:09:09.624914Z",
     "source": "biostudies"
   },
   {
@@ -415,7 +415,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813444Z",
-    "last_checked_at": "2026-07-23T06:16:15.067736Z",
+    "last_checked_at": "2026-07-24T06:09:07.675827Z",
     "source": "biostudies"
   },
   {
@@ -609,7 +609,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-07-23T06:16:12.012558Z",
+    "last_checked_at": "2026-07-24T06:09:05.375968Z",
     "source": "biostudies"
   },
   {
@@ -754,7 +754,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-07-23T06:16:11.648038Z",
+    "last_checked_at": "2026-07-24T06:09:05.195967Z",
     "source": "biostudies"
   },
   {
@@ -845,7 +845,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-07-23T06:16:10.567551Z",
+    "last_checked_at": "2026-07-24T06:09:04.640761Z",
     "source": "biostudies"
   },
   {
@@ -942,7 +942,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-07-23T06:16:10.460290Z",
+    "last_checked_at": "2026-07-24T06:09:04.546924Z",
     "source": "biostudies"
   },
   {
@@ -1027,7 +1027,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-07-23T06:16:10.191381Z",
+    "last_checked_at": "2026-07-24T06:09:04.330235Z",
     "source": "biostudies"
   },
   {
@@ -1093,7 +1093,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-07-23T06:14:00.928702Z",
+    "last_checked_at": "2026-07-24T06:08:03.379751Z",
     "source": "crossref"
   },
   {
@@ -1159,7 +1159,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-07-23T06:14:00.928646Z",
+    "last_checked_at": "2026-07-24T06:08:03.379698Z",
     "source": "crossref"
   },
   {
@@ -1225,7 +1225,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-07-23T06:14:00.928594Z",
+    "last_checked_at": "2026-07-24T06:08:03.379652Z",
     "source": "crossref"
   },
   {
@@ -1291,7 +1291,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654485Z",
-    "last_checked_at": "2026-07-23T06:14:00.011058Z",
+    "last_checked_at": "2026-07-24T06:08:02.567678Z",
     "source": "crossref"
   },
   {
@@ -1357,7 +1357,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-07-23T06:14:00.011038Z",
+    "last_checked_at": "2026-07-24T06:08:02.567657Z",
     "source": "crossref"
   },
   {
@@ -1423,7 +1423,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654325Z",
-    "last_checked_at": "2026-07-23T06:14:00.010934Z",
+    "last_checked_at": "2026-07-24T06:08:02.567545Z",
     "source": "crossref"
   },
   {
@@ -1489,7 +1489,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-07-23T06:14:00.010606Z",
+    "last_checked_at": "2026-07-24T06:08:02.567267Z",
     "source": "crossref"
   },
   {
@@ -1555,7 +1555,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-07-23T06:14:00.010544Z",
+    "last_checked_at": "2026-07-24T06:08:02.567213Z",
     "source": "crossref"
   },
   {
@@ -1621,7 +1621,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-07-23T06:14:00.010432Z",
+    "last_checked_at": "2026-07-24T06:08:02.567109Z",
     "source": "crossref"
   },
   {
@@ -1687,7 +1687,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-07-23T06:14:00.010423Z",
+    "last_checked_at": "2026-07-24T06:08:02.567099Z",
     "source": "crossref"
   },
   {
@@ -1753,7 +1753,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-07-23T06:14:00.010208Z",
+    "last_checked_at": "2026-07-24T06:08:02.566828Z",
     "source": "crossref"
   },
   {
@@ -1819,7 +1819,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-07-23T06:14:00.010148Z",
+    "last_checked_at": "2026-07-24T06:08:02.566779Z",
     "source": "crossref"
   },
   {
@@ -1885,7 +1885,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-07-23T06:12:45.805232Z",
+    "last_checked_at": "2026-07-24T06:06:52.973097Z",
     "source": "europe_pmc"
   },
   {
@@ -1958,7 +1958,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.623722Z",
-    "last_checked_at": "2026-07-23T06:12:45.643643Z",
+    "last_checked_at": "2026-07-24T06:06:52.846575Z",
     "source": "europe_pmc"
   },
   {
@@ -2037,7 +2037,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.582544Z",
-    "last_checked_at": "2026-07-23T06:12:44.805349Z",
+    "last_checked_at": "2026-07-24T06:06:52.669699Z",
     "source": "europe_pmc"
   },
   {
@@ -2122,7 +2122,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-07-23T06:12:31.978147Z",
+    "last_checked_at": "2026-07-24T06:06:39.816210Z",
     "source": "europe_pmc"
   },
   {
@@ -2237,7 +2237,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-07-23T06:12:31.723972Z",
+    "last_checked_at": "2026-07-24T06:06:39.588832Z",
     "source": "europe_pmc"
   },
   {
@@ -2328,7 +2328,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-07-23T06:12:31.245677Z",
+    "last_checked_at": "2026-07-24T06:06:39.167436Z",
     "source": "europe_pmc"
   },
   {
@@ -2791,7 +2791,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-07-23T06:12:23.486353Z",
+    "last_checked_at": "2026-07-24T06:06:31.388758Z",
     "source": "europe_pmc"
   },
   {
@@ -2864,7 +2864,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:48.074500Z",
-    "last_checked_at": "2026-07-23T06:11:44.973834Z",
+    "last_checked_at": "2026-07-24T06:05:54.563743Z",
     "source": "europe_pmc"
   },
   {
@@ -3003,7 +3003,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:47.801584Z",
-    "last_checked_at": "2026-07-23T06:11:44.663588Z",
+    "last_checked_at": "2026-07-24T06:05:54.087068Z",
     "source": "europe_pmc"
   },
   {
@@ -3076,7 +3076,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-07-23T06:11:28.344184Z",
+    "last_checked_at": "2026-07-24T06:05:37.227897Z",
     "source": "europe_pmc"
   },
   {
@@ -3142,73 +3142,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-07-23T06:11:27.240823Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Interpretable, flexible and spatially aware integration of multiple spatial transcriptomics datasets from diverse sources.",
-    "doi": "10.1038/s41588-026-02579-x",
-    "pmid": "42045691",
-    "pmcid": "PMC13175893",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-04-27",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/42045691",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "primary_dataset",
-    "xenium_reason": "New profiling/generation with Xenium is stated",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Interpretable, flexible and spatially aware integration of multiple spatial transcriptomics datasets from diverse sources. Recent advances in spatial transcriptomics (ST) have generated an expanding collection of heterogeneous datasets, offering unprecedented opportunities to investigate tissue organizations and functions. However, effective interpretation and integration of data originating from diverse sources and conditions remain a major challenge. We present INSPIRE, a deep-learning method for interpretable, integrative analysis of multiple ST datasets. INSPIRE adopts an adversarial learning strategy with graph neural networks to achieve spatially informed and adaptive data integration. By incorporating non-negative matrix factorization, INSPIRE identifies interpretable spatial factors and associated gene programs that characterize tissue architecture, cell-type organization and biological processes. Across a broad range of applications, INSPIRE demonstrates superior performance in resolving fine-grained biological signals, integrating complementary strengths across technologies, capturing condition-specific variation, uncovering tumor microenvironment heterogeneity, elucidating developmental dynamics and facilitating three-dimensional tissue reconstruction. INSPIRE also scales to extremely large datasets, as demonstrated by applications to Xenium-profiled human breast cancer and Stereo-seq mouse organogenesis datasets.",
-    "confidence_score": 0.867,
-    "xenium_confidence": 0.9,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T07:27:11.380942Z",
-    "last_checked_at": "2026-07-23T06:11:13.336128Z",
+    "last_checked_at": "2026-07-24T06:05:36.126523Z",
     "source": "europe_pmc"
   },
   {
@@ -3274,7 +3208,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-07-23T06:11:13.334980Z",
+    "last_checked_at": "2026-07-24T06:05:23.870292Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Interpretable, flexible and spatially aware integration of multiple spatial transcriptomics datasets from diverse sources.",
+    "doi": "10.1038/s41588-026-02579-x",
+    "pmid": "42045691",
+    "pmcid": "PMC13175893",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-04-27",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42045691",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Interpretable, flexible and spatially aware integration of multiple spatial transcriptomics datasets from diverse sources. Recent advances in spatial transcriptomics (ST) have generated an expanding collection of heterogeneous datasets, offering unprecedented opportunities to investigate tissue organizations and functions. However, effective interpretation and integration of data originating from diverse sources and conditions remain a major challenge. We present INSPIRE, a deep-learning method for interpretable, integrative analysis of multiple ST datasets. INSPIRE adopts an adversarial learning strategy with graph neural networks to achieve spatially informed and adaptive data integration. By incorporating non-negative matrix factorization, INSPIRE identifies interpretable spatial factors and associated gene programs that characterize tissue architecture, cell-type organization and biological processes. Across a broad range of applications, INSPIRE demonstrates superior performance in resolving fine-grained biological signals, integrating complementary strengths across technologies, capturing condition-specific variation, uncovering tumor microenvironment heterogeneity, elucidating developmental dynamics and facilitating three-dimensional tissue reconstruction. INSPIRE also scales to extremely large datasets, as demonstrated by applications to Xenium-profiled human breast cancer and Stereo-seq mouse organogenesis datasets.",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T07:27:11.380942Z",
+    "last_checked_at": "2026-07-24T06:05:23.869699Z",
     "source": "europe_pmc"
   },
   {
@@ -3340,7 +3340,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721331Z",
-    "last_checked_at": "2026-07-23T06:11:13.331289Z",
+    "last_checked_at": "2026-07-24T06:05:23.865622Z",
     "source": "europe_pmc"
   },
   {
@@ -3406,7 +3406,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.722277Z",
-    "last_checked_at": "2026-07-23T06:11:13.331091Z",
+    "last_checked_at": "2026-07-24T06:05:23.865425Z",
     "source": "europe_pmc"
   },
   {
@@ -3472,73 +3472,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-07-23T06:11:13.330794Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Spatially interpretable artificial intelligence framework to tailored neoadjuvant dual HER2 blockade in HER2-positive breast cancer.",
-    "doi": "10.1038/s41392-026-02734-0",
-    "pmid": "42315499",
-    "pmcid": "PMC13280384",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-06-19",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/42315499",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "primary_dataset",
-    "xenium_reason": "New profiling/generation with Xenium is stated",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Spatially interpretable artificial intelligence framework to tailored neoadjuvant dual HER2 blockade in HER2-positive breast cancer. Neoadjuvant dual HER2 blockade with trastuzumab and pertuzumab plus chemotherapy represents the current standard-of-care for HER2-positive breast cancer. However, treatment responses remain heterogeneous, underscoring the lack of clinically practical tools for predicting treatment efficacy and informing personalized therapy. Here, we developed HER2-LADDER (Layered AI-based Dual-targeteD anti-HER2 Recommendation), a spatially interpretable and clinically accessible artificial intelligence framework that integrates clinicopathological and spatial topological features from routine hematoxylin and eosin (H&E) and HER2 immunohistochemistry (IHC) slides. Using these spatially derived features, HER2-LADDER accurately predicted response to neoadjuvant TCbHP/PCbHP, achieving AUCs of 0.944 in the model construction cohort (N = 276), 0.917 in the temporal validation cohort (N = 82), and 0.869 in the trial-based validation cohort (N = 85). On the basis of HER2-LADDER scores, patients were stratified into Low (highly responsive), Medium (responsive), and High (resistant) groups, identifying candidates for treatment de-escalation (THP or TCbH/PCbH), standard-of-care (TCbHP/PCbHP), or alternative regimens (e.g., next-generation anti-HER2 antibody-drug conjugates), respectively. Importantly, Xenium in situ profiling further revealed biological correlates underlying model predictions, including HER2-enriched tumor cell aggregation and neutrophil-helper T-cell interactions, thereby highlighting the mechanistic interpretability of the model. Collectively, HER2-LADDER unites digital pathology and high-resolution spatial profiling into a clinically accessible AI framework, offering a robust, transparent, and biologically grounded tool to tailor individualized HER2-targeted therapy optimization.",
-    "confidence_score": 0.867,
-    "xenium_confidence": 0.9,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.718322Z",
-    "last_checked_at": "2026-07-23T06:11:13.321852Z",
+    "last_checked_at": "2026-07-24T06:05:23.865111Z",
     "source": "europe_pmc"
   },
   {
@@ -3604,7 +3538,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-07-23T06:11:13.321532Z",
+    "last_checked_at": "2026-07-24T06:05:23.855942Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Spatially interpretable artificial intelligence framework to tailored neoadjuvant dual HER2 blockade in HER2-positive breast cancer.",
+    "doi": "10.1038/s41392-026-02734-0",
+    "pmid": "42315499",
+    "pmcid": "PMC13280384",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-06-19",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42315499",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Spatially interpretable artificial intelligence framework to tailored neoadjuvant dual HER2 blockade in HER2-positive breast cancer. Neoadjuvant dual HER2 blockade with trastuzumab and pertuzumab plus chemotherapy represents the current standard-of-care for HER2-positive breast cancer. However, treatment responses remain heterogeneous, underscoring the lack of clinically practical tools for predicting treatment efficacy and informing personalized therapy. Here, we developed HER2-LADDER (Layered AI-based Dual-targeteD anti-HER2 Recommendation), a spatially interpretable and clinically accessible artificial intelligence framework that integrates clinicopathological and spatial topological features from routine hematoxylin and eosin (H&E) and HER2 immunohistochemistry (IHC) slides. Using these spatially derived features, HER2-LADDER accurately predicted response to neoadjuvant TCbHP/PCbHP, achieving AUCs of 0.944 in the model construction cohort (N = 276), 0.917 in the temporal validation cohort (N = 82), and 0.869 in the trial-based validation cohort (N = 85). On the basis of HER2-LADDER scores, patients were stratified into Low (highly responsive), Medium (responsive), and High (resistant) groups, identifying candidates for treatment de-escalation (THP or TCbH/PCbH), standard-of-care (TCbHP/PCbHP), or alternative regimens (e.g., next-generation anti-HER2 antibody-drug conjugates), respectively. Importantly, Xenium in situ profiling further revealed biological correlates underlying model predictions, including HER2-enriched tumor cell aggregation and neutrophil-helper T-cell interactions, thereby highlighting the mechanistic interpretability of the model. Collectively, HER2-LADDER unites digital pathology and high-resolution spatial profiling into a clinically accessible AI framework, offering a robust, transparent, and biologically grounded tool to tailor individualized HER2-targeted therapy optimization.",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.718322Z",
+    "last_checked_at": "2026-07-24T06:05:23.855617Z",
     "source": "europe_pmc"
   },
   {
@@ -3670,7 +3670,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-07-23T06:11:13.320623Z",
+    "last_checked_at": "2026-07-24T06:05:23.854640Z",
     "source": "europe_pmc"
   },
   {
@@ -4163,7 +4163,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718458Z",
-    "last_checked_at": "2026-07-23T06:11:13.319828Z",
+    "last_checked_at": "2026-07-24T06:05:23.853828Z",
     "source": "europe_pmc"
   },
   {
@@ -4290,7 +4290,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718536Z",
-    "last_checked_at": "2026-07-23T06:11:13.049322Z",
+    "last_checked_at": "2026-07-24T06:05:23.636743Z",
     "source": "europe_pmc"
   },
   {
@@ -4356,7 +4356,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-07-23T06:11:12.646844Z",
+    "last_checked_at": "2026-07-24T06:05:23.435107Z",
     "source": "europe_pmc"
   },
   {
@@ -4807,7 +4807,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718154Z",
-    "last_checked_at": "2026-07-23T06:10:58.374826Z",
+    "last_checked_at": "2026-07-24T06:05:09.650565Z",
     "source": "europe_pmc"
   },
   {
@@ -4873,7 +4873,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718363Z",
-    "last_checked_at": "2026-07-23T06:10:54.200278Z",
+    "last_checked_at": "2026-07-24T06:05:05.736516Z",
     "source": "europe_pmc"
   },
   {
@@ -5018,7 +5018,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717940Z",
-    "last_checked_at": "2026-07-23T06:10:53.902258Z",
+    "last_checked_at": "2026-07-24T06:05:05.528087Z",
     "source": "europe_pmc"
   },
   {
@@ -5103,7 +5103,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717628Z",
-    "last_checked_at": "2026-07-23T06:10:53.664416Z",
+    "last_checked_at": "2026-07-24T06:05:05.328142Z",
     "source": "europe_pmc"
   },
   {
@@ -5296,7 +5296,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718002Z",
-    "last_checked_at": "2026-07-23T06:10:52.988544Z",
+    "last_checked_at": "2026-07-24T06:05:04.651971Z",
     "source": "europe_pmc"
   },
   {
@@ -5399,7 +5399,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-07-23T06:10:51.717082Z",
+    "last_checked_at": "2026-07-24T06:05:03.663611Z",
     "source": "europe_pmc"
   },
   {
@@ -5538,7 +5538,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-07-23T06:10:51.493152Z",
+    "last_checked_at": "2026-07-24T06:05:03.475728Z",
     "source": "europe_pmc"
   },
   {
@@ -5604,7 +5604,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717540Z",
-    "last_checked_at": "2026-07-23T06:10:51.292558Z",
+    "last_checked_at": "2026-07-24T06:05:03.275584Z",
     "source": "europe_pmc"
   }
 ]
