@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-07-27T06:47:54.278904Z",
+    "last_checked_at": "2026-07-28T06:08:19.175098Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-07-27T06:47:54.276801Z",
+    "last_checked_at": "2026-07-28T06:08:19.172897Z",
     "source": "biostudies"
   },
   {
@@ -226,7 +226,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-07-27T06:47:53.187362Z",
+    "last_checked_at": "2026-07-28T06:08:18.494008Z",
     "source": "biostudies"
   },
   {
@@ -318,7 +318,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813565Z",
-    "last_checked_at": "2026-07-27T06:47:34.737868Z",
+    "last_checked_at": "2026-07-28T06:08:06.231875Z",
     "source": "biostudies"
   },
   {
@@ -415,7 +415,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813444Z",
-    "last_checked_at": "2026-07-27T06:47:31.468230Z",
+    "last_checked_at": "2026-07-28T06:08:04.301644Z",
     "source": "biostudies"
   },
   {
@@ -609,7 +609,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-07-27T06:47:27.337852Z",
+    "last_checked_at": "2026-07-28T06:08:01.723779Z",
     "source": "biostudies"
   },
   {
@@ -754,7 +754,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-07-27T06:47:27.025061Z",
+    "last_checked_at": "2026-07-28T06:08:01.488694Z",
     "source": "biostudies"
   },
   {
@@ -845,7 +845,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-07-27T06:47:26.079447Z",
+    "last_checked_at": "2026-07-28T06:08:01.040369Z",
     "source": "biostudies"
   },
   {
@@ -942,7 +942,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-07-27T06:47:25.919443Z",
+    "last_checked_at": "2026-07-28T06:08:00.941115Z",
     "source": "biostudies"
   },
   {
@@ -1027,7 +1027,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-07-27T06:47:25.556377Z",
+    "last_checked_at": "2026-07-28T06:08:00.719346Z",
     "source": "biostudies"
   },
   {
@@ -1093,7 +1093,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-07-27T06:46:10.077111Z",
+    "last_checked_at": "2026-07-28T06:07:07.265428Z",
     "source": "crossref"
   },
   {
@@ -1159,7 +1159,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-07-27T06:46:10.077060Z",
+    "last_checked_at": "2026-07-28T06:07:07.265364Z",
     "source": "crossref"
   },
   {
@@ -1225,7 +1225,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-07-27T06:46:10.077016Z",
+    "last_checked_at": "2026-07-28T06:07:07.265316Z",
     "source": "crossref"
   },
   {
@@ -1291,7 +1291,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654485Z",
-    "last_checked_at": "2026-07-27T06:46:08.878756Z",
+    "last_checked_at": "2026-07-28T06:07:06.816649Z",
     "source": "crossref"
   },
   {
@@ -1357,7 +1357,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-07-27T06:46:08.878736Z",
+    "last_checked_at": "2026-07-28T06:07:06.816624Z",
     "source": "crossref"
   },
   {
@@ -1423,7 +1423,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654325Z",
-    "last_checked_at": "2026-07-27T06:46:08.878621Z",
+    "last_checked_at": "2026-07-28T06:07:06.816512Z",
     "source": "crossref"
   },
   {
@@ -1489,7 +1489,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-07-27T06:46:08.878292Z",
+    "last_checked_at": "2026-07-28T06:07:06.816206Z",
     "source": "crossref"
   },
   {
@@ -1555,7 +1555,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-07-27T06:46:08.878231Z",
+    "last_checked_at": "2026-07-28T06:07:06.816169Z",
     "source": "crossref"
   },
   {
@@ -1621,7 +1621,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-07-27T06:46:08.878136Z",
+    "last_checked_at": "2026-07-28T06:07:06.815980Z",
     "source": "crossref"
   },
   {
@@ -1687,7 +1687,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-07-27T06:46:08.878124Z",
+    "last_checked_at": "2026-07-28T06:07:06.815968Z",
     "source": "crossref"
   },
   {
@@ -1753,7 +1753,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-07-27T06:46:08.877912Z",
+    "last_checked_at": "2026-07-28T06:07:06.815731Z",
     "source": "crossref"
   },
   {
@@ -1819,7 +1819,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-07-27T06:46:08.877865Z",
+    "last_checked_at": "2026-07-28T06:07:06.815681Z",
     "source": "crossref"
   },
   {
@@ -1885,7 +1885,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-07-27T06:44:47.349145Z",
+    "last_checked_at": "2026-07-28T06:05:54.634956Z",
     "source": "europe_pmc"
   },
   {
@@ -1958,7 +1958,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.623722Z",
-    "last_checked_at": "2026-07-27T06:44:47.149821Z",
+    "last_checked_at": "2026-07-28T06:05:54.491712Z",
     "source": "europe_pmc"
   },
   {
@@ -2037,7 +2037,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.582544Z",
-    "last_checked_at": "2026-07-27T06:44:46.912063Z",
+    "last_checked_at": "2026-07-28T06:05:54.298347Z",
     "source": "europe_pmc"
   },
   {
@@ -2122,7 +2122,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-07-27T06:44:33.376726Z",
+    "last_checked_at": "2026-07-28T06:05:40.787902Z",
     "source": "europe_pmc"
   },
   {
@@ -2237,7 +2237,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-07-27T06:44:33.081931Z",
+    "last_checked_at": "2026-07-28T06:05:40.559567Z",
     "source": "europe_pmc"
   },
   {
@@ -2328,7 +2328,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-07-27T06:44:32.504936Z",
+    "last_checked_at": "2026-07-28T06:05:40.068772Z",
     "source": "europe_pmc"
   },
   {
@@ -2791,7 +2791,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-07-27T06:44:24.292599Z",
+    "last_checked_at": "2026-07-28T06:05:32.353905Z",
     "source": "europe_pmc"
   },
   {
@@ -2864,7 +2864,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:48.074500Z",
-    "last_checked_at": "2026-07-27T06:43:46.737984Z",
+    "last_checked_at": "2026-07-28T06:04:55.511261Z",
     "source": "europe_pmc"
   },
   {
@@ -3003,7 +3003,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:47.801584Z",
-    "last_checked_at": "2026-07-27T06:43:46.340925Z",
+    "last_checked_at": "2026-07-28T06:04:55.215946Z",
     "source": "europe_pmc"
   },
   {
@@ -3076,7 +3076,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-07-27T06:43:28.366842Z",
+    "last_checked_at": "2026-07-28T06:04:38.496295Z",
     "source": "europe_pmc"
   },
   {
@@ -3142,7 +3142,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-07-27T06:43:27.198374Z",
+    "last_checked_at": "2026-07-28T06:04:37.443577Z",
     "source": "europe_pmc"
   },
   {
@@ -3208,7 +3208,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-07-27T06:43:13.140925Z",
+    "last_checked_at": "2026-07-28T06:04:24.265309Z",
     "source": "europe_pmc"
   },
   {
@@ -3274,7 +3274,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.380942Z",
-    "last_checked_at": "2026-07-27T06:43:13.138743Z",
+    "last_checked_at": "2026-07-28T06:04:24.262977Z",
     "source": "europe_pmc"
   },
   {
@@ -3340,7 +3340,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721331Z",
-    "last_checked_at": "2026-07-27T06:43:13.135818Z",
+    "last_checked_at": "2026-07-28T06:04:24.259697Z",
     "source": "europe_pmc"
   },
   {
@@ -3406,7 +3406,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.722277Z",
-    "last_checked_at": "2026-07-27T06:43:13.135433Z",
+    "last_checked_at": "2026-07-28T06:04:24.259271Z",
     "source": "europe_pmc"
   },
   {
@@ -3472,7 +3472,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-07-27T06:43:13.134428Z",
+    "last_checked_at": "2026-07-28T06:04:24.258156Z",
     "source": "europe_pmc"
   },
   {
@@ -3538,7 +3538,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-07-27T06:43:13.126417Z",
+    "last_checked_at": "2026-07-28T06:04:24.249127Z",
     "source": "europe_pmc"
   },
   {
@@ -3604,7 +3604,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718322Z",
-    "last_checked_at": "2026-07-27T06:43:13.125901Z",
+    "last_checked_at": "2026-07-28T06:04:24.248549Z",
     "source": "europe_pmc"
   },
   {
@@ -3670,7 +3670,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-07-27T06:43:13.124988Z",
+    "last_checked_at": "2026-07-28T06:04:24.247546Z",
     "source": "europe_pmc"
   },
   {
@@ -4163,73 +4163,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718458Z",
-    "last_checked_at": "2026-07-27T06:43:13.124214Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Deep spatial transcriptomic profiling of ovarian clear cell carcinoma in the real-world setting.",
-    "doi": "10.1186/s13048-026-02048-3",
-    "pmid": "41776662",
-    "pmcid": "PMC13063787",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-03-03",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/41776662",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "primary_dataset",
-    "xenium_reason": "New profiling/generation with Xenium is stated",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Deep spatial transcriptomic profiling of ovarian clear cell carcinoma in the real-world setting. Ovarian clear cell carcinoma (OCCC) is a rare cancer type of significant relevance to East Asian women harboring critical unmet needs for novel therapeutic options. It is a histological subtype of ovarian cancer with distinct pathological features, molecular profiles, and biological functions. Diverse heterogeneity contributing from histopathological and multiomic molecular features has yet to be translated to guide clinical care. Here, we presented a proof-of-concept study to demonstrate the feasibility of applying deep spatial transcriptomic (ST) profiling of tumor samples from an advanced OCCC patient in the real-world setting, aiming to identify therapeutic options beyond standard-of-care. Matched primary ovarian and metastatic bladder tumor sections were profiled by using GeoMx Digital Spatial Profiling and Xenium In Situ platforms. The spatial architecture and neighborhood niches were identified from GeoMx Cancer Transcriptome Atlas (CTA) and Xenium 5K Human Pan Tissue and Pathways Panel. An immunosuppressive Wnt-activating tumor microenvironment (TME) was identified by GeoMx while a tripartite spatial relationship between SLC2A1+ hypoxic cancer cells, IFIT2+ inflammatory cancer cells, and MMP12+ dendritic cells linking towards metabolism and immune responses was identified by Xenium. Our deep ST profiling findings provided significant biological insights and demonstrated feasibility to make novel discoveries, one patient at a time.",
-    "confidence_score": 0.867,
-    "xenium_confidence": 0.9,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-07-27T06:43:12.848894Z",
+    "last_checked_at": "2026-07-28T06:04:24.246683Z",
     "source": "europe_pmc"
   },
   {
@@ -4356,7 +4290,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718536Z",
-    "last_checked_at": "2026-07-27T06:43:10.469143Z",
+    "last_checked_at": "2026-07-28T06:04:24.010801Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Deep spatial transcriptomic profiling of ovarian clear cell carcinoma in the real-world setting.",
+    "doi": "10.1186/s13048-026-02048-3",
+    "pmid": "41776662",
+    "pmcid": "PMC13063787",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-03-03",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/41776662",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Deep spatial transcriptomic profiling of ovarian clear cell carcinoma in the real-world setting. Ovarian clear cell carcinoma (OCCC) is a rare cancer type of significant relevance to East Asian women harboring critical unmet needs for novel therapeutic options. It is a histological subtype of ovarian cancer with distinct pathological features, molecular profiles, and biological functions. Diverse heterogeneity contributing from histopathological and multiomic molecular features has yet to be translated to guide clinical care. Here, we presented a proof-of-concept study to demonstrate the feasibility of applying deep spatial transcriptomic (ST) profiling of tumor samples from an advanced OCCC patient in the real-world setting, aiming to identify therapeutic options beyond standard-of-care. Matched primary ovarian and metastatic bladder tumor sections were profiled by using GeoMx Digital Spatial Profiling and Xenium In Situ platforms. The spatial architecture and neighborhood niches were identified from GeoMx Cancer Transcriptome Atlas (CTA) and Xenium 5K Human Pan Tissue and Pathways Panel. An immunosuppressive Wnt-activating tumor microenvironment (TME) was identified by GeoMx while a tripartite spatial relationship between SLC2A1+ hypoxic cancer cells, IFIT2+ inflammatory cancer cells, and MMP12+ dendritic cells linking towards metabolism and immune responses was identified by Xenium. Our deep ST profiling findings provided significant biological insights and demonstrated feasibility to make novel discoveries, one patient at a time.",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.717880Z",
+    "last_checked_at": "2026-07-28T06:04:23.799971Z",
     "source": "europe_pmc"
   },
   {
@@ -4807,7 +4807,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718154Z",
-    "last_checked_at": "2026-07-27T06:42:59.133477Z",
+    "last_checked_at": "2026-07-28T06:04:10.671471Z",
     "source": "europe_pmc"
   },
   {
@@ -4873,7 +4873,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718363Z",
-    "last_checked_at": "2026-07-27T06:42:55.432543Z",
+    "last_checked_at": "2026-07-28T06:04:06.843692Z",
     "source": "europe_pmc"
   },
   {
@@ -5018,7 +5018,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717940Z",
-    "last_checked_at": "2026-07-27T06:42:55.152645Z",
+    "last_checked_at": "2026-07-28T06:04:06.656010Z",
     "source": "europe_pmc"
   },
   {
@@ -5103,7 +5103,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717628Z",
-    "last_checked_at": "2026-07-27T06:42:54.886874Z",
+    "last_checked_at": "2026-07-28T06:04:06.434415Z",
     "source": "europe_pmc"
   },
   {
@@ -5296,7 +5296,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718002Z",
-    "last_checked_at": "2026-07-27T06:42:54.108184Z",
+    "last_checked_at": "2026-07-28T06:04:05.732425Z",
     "source": "europe_pmc"
   },
   {
@@ -5399,7 +5399,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-07-27T06:42:52.891195Z",
+    "last_checked_at": "2026-07-28T06:04:04.743413Z",
     "source": "europe_pmc"
   },
   {
@@ -5538,7 +5538,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-07-27T06:42:52.618107Z",
+    "last_checked_at": "2026-07-28T06:04:04.480715Z",
     "source": "europe_pmc"
   },
   {
@@ -5604,7 +5604,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717540Z",
-    "last_checked_at": "2026-07-27T06:42:52.377080Z",
+    "last_checked_at": "2026-07-28T06:04:04.324653Z",
     "source": "europe_pmc"
   }
 ]
