@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-08-03T06:40:27.989317Z",
+    "last_checked_at": "2026-08-04T06:09:16.108179Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-08-03T06:40:27.987511Z",
+    "last_checked_at": "2026-08-04T06:09:16.105959Z",
     "source": "biostudies"
   },
   {
@@ -214,7 +214,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:35.557703Z",
-    "last_checked_at": "2026-08-03T06:40:27.840973Z",
+    "last_checked_at": "2026-08-04T06:09:15.994851Z",
     "source": "biostudies"
   },
   {
@@ -312,7 +312,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-08-03T06:40:27.255119Z",
+    "last_checked_at": "2026-08-04T06:09:15.588180Z",
     "source": "biostudies"
   },
   {
@@ -506,7 +506,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-08-03T06:40:03.567756Z",
+    "last_checked_at": "2026-08-04T06:08:58.799098Z",
     "source": "biostudies"
   },
   {
@@ -651,7 +651,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-08-03T06:40:02.775884Z",
+    "last_checked_at": "2026-08-04T06:08:58.291498Z",
     "source": "biostudies"
   },
   {
@@ -730,7 +730,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-08-03T06:40:00.149167Z",
+    "last_checked_at": "2026-08-04T06:08:56.640551Z",
     "source": "biostudies"
   },
   {
@@ -827,7 +827,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-08-03T06:39:59.106924Z",
+    "last_checked_at": "2026-08-04T06:08:55.971979Z",
     "source": "biostudies"
   },
   {
@@ -918,7 +918,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-08-03T06:39:58.917709Z",
+    "last_checked_at": "2026-08-04T06:08:55.850165Z",
     "source": "biostudies"
   },
   {
@@ -1009,7 +1009,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-08-03T06:39:58.599716Z",
+    "last_checked_at": "2026-08-04T06:08:55.649699Z",
     "source": "biostudies"
   },
   {
@@ -1075,7 +1075,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-08-03T06:37:48.862272Z",
+    "last_checked_at": "2026-08-04T06:08:03.081049Z",
     "source": "crossref"
   },
   {
@@ -1141,7 +1141,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-08-03T06:37:48.862258Z",
+    "last_checked_at": "2026-08-04T06:08:03.081032Z",
     "source": "crossref"
   },
   {
@@ -1207,7 +1207,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-08-03T06:37:48.862218Z",
+    "last_checked_at": "2026-08-04T06:08:03.080981Z",
     "source": "crossref"
   },
   {
@@ -1273,73 +1273,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-08-03T06:37:48.862187Z",
-    "source": "crossref"
-  },
-  {
-    "title": "Cross-Modal Training Using Xenium Spatial Transcriptomics Enables DINO-DETR Based Detection of Vascular Niches in H&amp;E Whole-Slide Images",
-    "doi": "10.64898/2026.03.17.712266",
-    "pmid": null,
-    "pmcid": null,
-    "journal": null,
-    "issn": null,
-    "publisher": "openRxiv",
-    "container_title": null,
-    "first_author": null,
-    "publication_date": null,
-    "publication_tier": null,
-    "paper_url": "https://doi.org/10.64898/2026.03.17.712266",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "validation_dataset",
-    "xenium_reason": "Xenium is explicitly used for validation",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Cross-Modal Training Using Xenium Spatial Transcriptomics Enables DINO-DETR Based Detection of Vascular Niches in H&amp;E Whole-Slide Images <jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Tumor vasculature is a key driver of glioma progression, yet routine quantification depends on subjective histopathologic assessment or resource-intensive ancillary immunohistochemistry. A scalable, objective method for vascular phenotyping from routine histology remains an unmet need.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We leveraged 10x Genomics Xenium spatial transcriptomics data from a glioblastoma specimen to generate molecularly resolved annotations of GBM-associated endothelial cells and pericytes across 809,041 cells. These annotations were transferred to matched H&amp;E-stained sections to train a DINO-DETR-based object detection model using a binary classification scheme (vascular vs. other). The model was validated on four independent Xenium patient slides and applied to a retrospective cohort of 119 diffuse gliomas spanning WHO grades 2-4 (oligodendroglioma, astrocytoma, and glioblastoma) with linked survival data.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Binary vascular cell detection achieved a precision of 0.78, a recall of 0.63, and an F1 score of 0.70, with an overall accuracy of 98.6%. Orthogonal spatial validation confirmed that predicted vascular cells were preferentially localized within annotated blood vessel regions. In subtype-stratified survival analysis, high AI-derived vascular cell proportion was significantly associated with worse overall survival in astrocytoma patients (log-rank p &lt; 0.019).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Cross-modal AI training using spatial transcriptomics enables scalable, molecularly informed vascular quantification directly from routine H&amp;E slides. Within the astrocytoma subtype, where tumor grade is most heterogeneous and vascular phenotype most variable, objective vascular quantification provides independent prognostic information demonstrating the potential of spatially supervised deep learning to extract clinically meaningful microenvironmental signals from universally available histologic material.</jats:p>\n                </jats:sec>",
-    "confidence_score": 0.84,
-    "xenium_confidence": 0.82,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:19.654485Z",
-    "last_checked_at": "2026-08-03T06:37:47.233114Z",
+    "last_checked_at": "2026-08-04T06:08:03.080944Z",
     "source": "crossref"
   },
   {
@@ -1405,7 +1339,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-08-03T06:37:47.233105Z",
+    "last_checked_at": "2026-08-04T06:08:00.897933Z",
+    "source": "crossref"
+  },
+  {
+    "title": "Cross-Modal Training Using Xenium Spatial Transcriptomics Enables DINO-DETR Based Detection of Vascular Niches in H&amp;E Whole-Slide Images",
+    "doi": "10.64898/2026.03.17.712266",
+    "pmid": null,
+    "pmcid": null,
+    "journal": null,
+    "issn": null,
+    "publisher": "openRxiv",
+    "container_title": null,
+    "first_author": null,
+    "publication_date": null,
+    "publication_tier": null,
+    "paper_url": "https://doi.org/10.64898/2026.03.17.712266",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "validation_dataset",
+    "xenium_reason": "Xenium is explicitly used for validation",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Cross-Modal Training Using Xenium Spatial Transcriptomics Enables DINO-DETR Based Detection of Vascular Niches in H&amp;E Whole-Slide Images <jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Tumor vasculature is a key driver of glioma progression, yet routine quantification depends on subjective histopathologic assessment or resource-intensive ancillary immunohistochemistry. A scalable, objective method for vascular phenotyping from routine histology remains an unmet need.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We leveraged 10x Genomics Xenium spatial transcriptomics data from a glioblastoma specimen to generate molecularly resolved annotations of GBM-associated endothelial cells and pericytes across 809,041 cells. These annotations were transferred to matched H&amp;E-stained sections to train a DINO-DETR-based object detection model using a binary classification scheme (vascular vs. other). The model was validated on four independent Xenium patient slides and applied to a retrospective cohort of 119 diffuse gliomas spanning WHO grades 2-4 (oligodendroglioma, astrocytoma, and glioblastoma) with linked survival data.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Binary vascular cell detection achieved a precision of 0.78, a recall of 0.63, and an F1 score of 0.70, with an overall accuracy of 98.6%. Orthogonal spatial validation confirmed that predicted vascular cells were preferentially localized within annotated blood vessel regions. In subtype-stratified survival analysis, high AI-derived vascular cell proportion was significantly associated with worse overall survival in astrocytoma patients (log-rank p &lt; 0.019).</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Cross-modal AI training using spatial transcriptomics enables scalable, molecularly informed vascular quantification directly from routine H&amp;E slides. Within the astrocytoma subtype, where tumor grade is most heterogeneous and vascular phenotype most variable, objective vascular quantification provides independent prognostic information demonstrating the potential of spatially supervised deep learning to extract clinically meaningful microenvironmental signals from universally available histologic material.</jats:p>\n                </jats:sec>",
+    "confidence_score": 0.84,
+    "xenium_confidence": 0.82,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:19.654485Z",
+    "last_checked_at": "2026-08-04T06:08:00.897920Z",
     "source": "crossref"
   },
   {
@@ -1471,7 +1471,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654325Z",
-    "last_checked_at": "2026-08-03T06:37:47.233026Z",
+    "last_checked_at": "2026-08-04T06:08:00.897739Z",
     "source": "crossref"
   },
   {
@@ -1537,7 +1537,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-08-03T06:37:47.232806Z",
+    "last_checked_at": "2026-08-04T06:08:00.897457Z",
     "source": "crossref"
   },
   {
@@ -1603,7 +1603,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-08-03T06:37:47.232770Z",
+    "last_checked_at": "2026-08-04T06:08:00.897420Z",
     "source": "crossref"
   },
   {
@@ -1669,7 +1669,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-08-03T06:37:47.232689Z",
+    "last_checked_at": "2026-08-04T06:08:00.897309Z",
     "source": "crossref"
   },
   {
@@ -1735,7 +1735,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-08-03T06:37:47.232516Z",
+    "last_checked_at": "2026-08-04T06:08:00.897068Z",
     "source": "crossref"
   },
   {
@@ -1801,7 +1801,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-08-03T06:37:47.232472Z",
+    "last_checked_at": "2026-08-04T06:08:00.897029Z",
     "source": "crossref"
   },
   {
@@ -1867,7 +1867,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-08-03T06:36:44.437461Z",
+    "last_checked_at": "2026-08-04T06:06:47.488898Z",
     "source": "europe_pmc"
   },
   {
@@ -1940,7 +1940,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.623722Z",
-    "last_checked_at": "2026-08-03T06:36:44.433512Z",
+    "last_checked_at": "2026-08-04T06:06:47.484073Z",
     "source": "europe_pmc"
   },
   {
@@ -2019,7 +2019,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.582544Z",
-    "last_checked_at": "2026-08-03T06:36:44.013361Z",
+    "last_checked_at": "2026-08-04T06:06:47.148460Z",
     "source": "europe_pmc"
   },
   {
@@ -2104,7 +2104,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-08-03T06:36:33.302837Z",
+    "last_checked_at": "2026-08-04T06:06:34.220094Z",
     "source": "europe_pmc"
   },
   {
@@ -2219,7 +2219,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-08-03T06:36:33.022704Z",
+    "last_checked_at": "2026-08-04T06:06:33.928748Z",
     "source": "europe_pmc"
   },
   {
@@ -2310,7 +2310,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-08-03T06:36:32.488580Z",
+    "last_checked_at": "2026-08-04T06:06:33.524530Z",
     "source": "europe_pmc"
   },
   {
@@ -2773,7 +2773,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-08-03T06:36:25.567951Z",
+    "last_checked_at": "2026-08-04T06:06:25.624472Z",
     "source": "europe_pmc"
   },
   {
@@ -3062,7 +3062,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:56.806118Z",
-    "last_checked_at": "2026-08-03T06:36:03.597187Z",
+    "last_checked_at": "2026-08-04T06:05:57.531227Z",
     "source": "europe_pmc"
   },
   {
@@ -3135,7 +3135,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:48.074500Z",
-    "last_checked_at": "2026-08-03T06:36:03.376464Z",
+    "last_checked_at": "2026-08-04T06:05:57.348185Z",
     "source": "europe_pmc"
   },
   {
@@ -3274,7 +3274,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:47.801584Z",
-    "last_checked_at": "2026-08-03T06:36:03.143035Z",
+    "last_checked_at": "2026-08-04T06:05:57.136713Z",
     "source": "europe_pmc"
   },
   {
@@ -3377,7 +3377,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-08-03T06:35:49.600517Z",
+    "last_checked_at": "2026-08-04T06:05:41.379730Z",
     "source": "europe_pmc"
   },
   {
@@ -3443,7 +3443,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-08-03T06:35:49.123985Z",
+    "last_checked_at": "2026-08-04T06:05:40.978046Z",
     "source": "europe_pmc"
   },
   {
@@ -3509,7 +3509,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.380942Z",
-    "last_checked_at": "2026-08-03T06:35:37.848979Z",
+    "last_checked_at": "2026-08-04T06:05:28.389460Z",
     "source": "europe_pmc"
   },
   {
@@ -3575,7 +3575,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-08-03T06:35:37.847289Z",
+    "last_checked_at": "2026-08-04T06:05:28.387366Z",
     "source": "europe_pmc"
   },
   {
@@ -3641,7 +3641,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-08-03T06:35:37.845185Z",
+    "last_checked_at": "2026-08-04T06:05:28.383971Z",
     "source": "europe_pmc"
   },
   {
@@ -3707,7 +3707,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.722277Z",
-    "last_checked_at": "2026-08-03T06:35:37.843831Z",
+    "last_checked_at": "2026-08-04T06:05:28.383245Z",
     "source": "europe_pmc"
   },
   {
@@ -3773,73 +3773,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721331Z",
-    "last_checked_at": "2026-08-03T06:35:37.843574Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Spatially interpretable artificial intelligence framework to tailored neoadjuvant dual HER2 blockade in HER2-positive breast cancer.",
-    "doi": "10.1038/s41392-026-02734-0",
-    "pmid": "42315499",
-    "pmcid": "PMC13280384",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-06-19",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/42315499",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "primary_dataset",
-    "xenium_reason": "New profiling/generation with Xenium is stated",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Spatially interpretable artificial intelligence framework to tailored neoadjuvant dual HER2 blockade in HER2-positive breast cancer. Neoadjuvant dual HER2 blockade with trastuzumab and pertuzumab plus chemotherapy represents the current standard-of-care for HER2-positive breast cancer. However, treatment responses remain heterogeneous, underscoring the lack of clinically practical tools for predicting treatment efficacy and informing personalized therapy. Here, we developed HER2-LADDER (Layered AI-based Dual-targeteD anti-HER2 Recommendation), a spatially interpretable and clinically accessible artificial intelligence framework that integrates clinicopathological and spatial topological features from routine hematoxylin and eosin (H&E) and HER2 immunohistochemistry (IHC) slides. Using these spatially derived features, HER2-LADDER accurately predicted response to neoadjuvant TCbHP/PCbHP, achieving AUCs of 0.944 in the model construction cohort (N = 276), 0.917 in the temporal validation cohort (N = 82), and 0.869 in the trial-based validation cohort (N = 85). On the basis of HER2-LADDER scores, patients were stratified into Low (highly responsive), Medium (responsive), and High (resistant) groups, identifying candidates for treatment de-escalation (THP or TCbH/PCbH), standard-of-care (TCbHP/PCbHP), or alternative regimens (e.g., next-generation anti-HER2 antibody-drug conjugates), respectively. Importantly, Xenium in situ profiling further revealed biological correlates underlying model predictions, including HER2-enriched tumor cell aggregation and neutrophil-helper T-cell interactions, thereby highlighting the mechanistic interpretability of the model. Collectively, HER2-LADDER unites digital pathology and high-resolution spatial profiling into a clinically accessible AI framework, offering a robust, transparent, and biologically grounded tool to tailor individualized HER2-targeted therapy optimization.",
-    "confidence_score": 0.867,
-    "xenium_confidence": 0.9,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.718322Z",
-    "last_checked_at": "2026-08-03T06:35:37.836962Z",
+    "last_checked_at": "2026-08-04T06:05:28.382799Z",
     "source": "europe_pmc"
   },
   {
@@ -3905,7 +3839,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-08-03T06:35:37.836705Z",
+    "last_checked_at": "2026-08-04T06:05:28.374500Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Spatially interpretable artificial intelligence framework to tailored neoadjuvant dual HER2 blockade in HER2-positive breast cancer.",
+    "doi": "10.1038/s41392-026-02734-0",
+    "pmid": "42315499",
+    "pmcid": "PMC13280384",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-06-19",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42315499",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Spatially interpretable artificial intelligence framework to tailored neoadjuvant dual HER2 blockade in HER2-positive breast cancer. Neoadjuvant dual HER2 blockade with trastuzumab and pertuzumab plus chemotherapy represents the current standard-of-care for HER2-positive breast cancer. However, treatment responses remain heterogeneous, underscoring the lack of clinically practical tools for predicting treatment efficacy and informing personalized therapy. Here, we developed HER2-LADDER (Layered AI-based Dual-targeteD anti-HER2 Recommendation), a spatially interpretable and clinically accessible artificial intelligence framework that integrates clinicopathological and spatial topological features from routine hematoxylin and eosin (H&E) and HER2 immunohistochemistry (IHC) slides. Using these spatially derived features, HER2-LADDER accurately predicted response to neoadjuvant TCbHP/PCbHP, achieving AUCs of 0.944 in the model construction cohort (N = 276), 0.917 in the temporal validation cohort (N = 82), and 0.869 in the trial-based validation cohort (N = 85). On the basis of HER2-LADDER scores, patients were stratified into Low (highly responsive), Medium (responsive), and High (resistant) groups, identifying candidates for treatment de-escalation (THP or TCbH/PCbH), standard-of-care (TCbHP/PCbHP), or alternative regimens (e.g., next-generation anti-HER2 antibody-drug conjugates), respectively. Importantly, Xenium in situ profiling further revealed biological correlates underlying model predictions, including HER2-enriched tumor cell aggregation and neutrophil-helper T-cell interactions, thereby highlighting the mechanistic interpretability of the model. Collectively, HER2-LADDER unites digital pathology and high-resolution spatial profiling into a clinically accessible AI framework, offering a robust, transparent, and biologically grounded tool to tailor individualized HER2-targeted therapy optimization.",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.718322Z",
+    "last_checked_at": "2026-08-04T06:05:28.374178Z",
     "source": "europe_pmc"
   },
   {
@@ -3971,7 +3971,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-08-03T06:35:37.835491Z",
+    "last_checked_at": "2026-08-04T06:05:28.372722Z",
     "source": "europe_pmc"
   },
   {
@@ -4464,7 +4464,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718458Z",
-    "last_checked_at": "2026-08-03T06:35:37.835302Z",
+    "last_checked_at": "2026-08-04T06:05:28.372499Z",
     "source": "europe_pmc"
   },
   {
@@ -4591,7 +4591,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718536Z",
-    "last_checked_at": "2026-08-03T06:35:37.534823Z",
+    "last_checked_at": "2026-08-04T06:05:28.140476Z",
     "source": "europe_pmc"
   },
   {
@@ -4657,7 +4657,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-08-03T06:35:37.274713Z",
+    "last_checked_at": "2026-08-04T06:05:27.757792Z",
     "source": "europe_pmc"
   },
   {
@@ -5108,7 +5108,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718154Z",
-    "last_checked_at": "2026-08-03T06:35:26.393023Z",
+    "last_checked_at": "2026-08-04T06:05:12.437569Z",
     "source": "europe_pmc"
   },
   {
@@ -5174,7 +5174,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718363Z",
-    "last_checked_at": "2026-08-03T06:35:22.931712Z",
+    "last_checked_at": "2026-08-04T06:05:08.624292Z",
     "source": "europe_pmc"
   },
   {
@@ -5319,7 +5319,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717940Z",
-    "last_checked_at": "2026-08-03T06:35:22.662696Z",
+    "last_checked_at": "2026-08-04T06:05:08.393044Z",
     "source": "europe_pmc"
   },
   {
@@ -5512,7 +5512,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718002Z",
-    "last_checked_at": "2026-08-03T06:35:22.406245Z",
+    "last_checked_at": "2026-08-04T06:05:08.148105Z",
     "source": "europe_pmc"
   },
   {
@@ -5597,7 +5597,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717628Z",
-    "last_checked_at": "2026-08-03T06:35:22.165099Z",
+    "last_checked_at": "2026-08-04T06:05:07.834961Z",
     "source": "europe_pmc"
   },
   {
@@ -5700,7 +5700,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-08-03T06:35:20.674460Z",
+    "last_checked_at": "2026-08-04T06:05:06.325614Z",
     "source": "europe_pmc"
   },
   {
@@ -5839,7 +5839,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-08-03T06:35:20.281287Z",
+    "last_checked_at": "2026-08-04T06:05:05.821332Z",
     "source": "europe_pmc"
   },
   {
@@ -5905,7 +5905,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717540Z",
-    "last_checked_at": "2026-08-03T06:35:20.035412Z",
+    "last_checked_at": "2026-08-04T06:05:05.616590Z",
     "source": "europe_pmc"
   }
 ]
