@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-08-04T06:09:16.108179Z",
+    "last_checked_at": "2026-08-05T06:06:54.987543Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-08-04T06:09:16.105959Z",
+    "last_checked_at": "2026-08-05T06:06:54.985201Z",
     "source": "biostudies"
   },
   {
@@ -214,7 +214,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:35.557703Z",
-    "last_checked_at": "2026-08-04T06:09:15.994851Z",
+    "last_checked_at": "2026-08-05T06:06:54.883782Z",
     "source": "biostudies"
   },
   {
@@ -312,7 +312,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-08-04T06:09:15.588180Z",
+    "last_checked_at": "2026-08-05T06:06:54.463693Z",
     "source": "biostudies"
   },
   {
@@ -506,7 +506,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-08-04T06:08:58.799098Z",
+    "last_checked_at": "2026-08-05T06:06:35.265635Z",
     "source": "biostudies"
   },
   {
@@ -651,7 +651,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-08-04T06:08:58.291498Z",
+    "last_checked_at": "2026-08-05T06:06:34.697126Z",
     "source": "biostudies"
   },
   {
@@ -730,7 +730,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-08-04T06:08:56.640551Z",
+    "last_checked_at": "2026-08-05T06:06:32.753951Z",
     "source": "biostudies"
   },
   {
@@ -827,7 +827,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-08-04T06:08:55.971979Z",
+    "last_checked_at": "2026-08-05T06:06:32.042553Z",
     "source": "biostudies"
   },
   {
@@ -918,7 +918,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-08-04T06:08:55.850165Z",
+    "last_checked_at": "2026-08-05T06:06:31.909688Z",
     "source": "biostudies"
   },
   {
@@ -1009,7 +1009,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-08-04T06:08:55.649699Z",
+    "last_checked_at": "2026-08-05T06:06:31.700605Z",
     "source": "biostudies"
   },
   {
@@ -1075,7 +1075,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-08-04T06:08:03.081049Z",
+    "last_checked_at": "2026-08-05T06:05:17.285826Z",
     "source": "crossref"
   },
   {
@@ -1141,7 +1141,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-08-04T06:08:03.081032Z",
+    "last_checked_at": "2026-08-05T06:05:17.285669Z",
     "source": "crossref"
   },
   {
@@ -1207,7 +1207,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-08-04T06:08:03.080981Z",
+    "last_checked_at": "2026-08-05T06:05:17.285617Z",
     "source": "crossref"
   },
   {
@@ -1273,7 +1273,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-08-04T06:08:03.080944Z",
+    "last_checked_at": "2026-08-05T06:05:17.285580Z",
     "source": "crossref"
   },
   {
@@ -1339,7 +1339,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-08-04T06:08:00.897933Z",
+    "last_checked_at": "2026-08-05T06:05:14.331343Z",
     "source": "crossref"
   },
   {
@@ -1405,7 +1405,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654485Z",
-    "last_checked_at": "2026-08-04T06:08:00.897920Z",
+    "last_checked_at": "2026-08-05T06:05:14.331333Z",
     "source": "crossref"
   },
   {
@@ -1471,7 +1471,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654325Z",
-    "last_checked_at": "2026-08-04T06:08:00.897739Z",
+    "last_checked_at": "2026-08-05T06:05:14.331214Z",
     "source": "crossref"
   },
   {
@@ -1537,7 +1537,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-08-04T06:08:00.897457Z",
+    "last_checked_at": "2026-08-05T06:05:14.330894Z",
     "source": "crossref"
   },
   {
@@ -1603,7 +1603,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-08-04T06:08:00.897420Z",
+    "last_checked_at": "2026-08-05T06:05:14.330852Z",
     "source": "crossref"
   },
   {
@@ -1669,7 +1669,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-08-04T06:08:00.897309Z",
+    "last_checked_at": "2026-08-05T06:05:14.330680Z",
     "source": "crossref"
   },
   {
@@ -1735,7 +1735,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-08-04T06:08:00.897068Z",
+    "last_checked_at": "2026-08-05T06:05:14.330446Z",
     "source": "crossref"
   },
   {
@@ -1801,7 +1801,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-08-04T06:08:00.897029Z",
+    "last_checked_at": "2026-08-05T06:05:14.330389Z",
     "source": "crossref"
   },
   {
@@ -1867,7 +1867,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-08-04T06:06:47.488898Z",
+    "last_checked_at": "2026-08-05T06:04:00.863665Z",
     "source": "europe_pmc"
   },
   {
@@ -1940,7 +1940,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.623722Z",
-    "last_checked_at": "2026-08-04T06:06:47.484073Z",
+    "last_checked_at": "2026-08-05T06:04:00.858601Z",
     "source": "europe_pmc"
   },
   {
@@ -2019,7 +2019,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.582544Z",
-    "last_checked_at": "2026-08-04T06:06:47.148460Z",
+    "last_checked_at": "2026-08-05T06:04:00.533069Z",
     "source": "europe_pmc"
   },
   {
@@ -2104,7 +2104,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-08-04T06:06:34.220094Z",
+    "last_checked_at": "2026-08-05T06:03:47.479871Z",
     "source": "europe_pmc"
   },
   {
@@ -2219,7 +2219,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-08-04T06:06:33.928748Z",
+    "last_checked_at": "2026-08-05T06:03:47.270503Z",
     "source": "europe_pmc"
   },
   {
@@ -2310,7 +2310,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-08-04T06:06:33.524530Z",
+    "last_checked_at": "2026-08-05T06:03:46.877379Z",
     "source": "europe_pmc"
   },
   {
@@ -2773,7 +2773,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-08-04T06:06:25.624472Z",
+    "last_checked_at": "2026-08-05T06:03:38.890908Z",
     "source": "europe_pmc"
   },
   {
@@ -3062,7 +3062,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:56.806118Z",
-    "last_checked_at": "2026-08-04T06:05:57.531227Z",
+    "last_checked_at": "2026-08-05T06:03:11.424933Z",
     "source": "europe_pmc"
   },
   {
@@ -3135,7 +3135,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:48.074500Z",
-    "last_checked_at": "2026-08-04T06:05:57.348185Z",
+    "last_checked_at": "2026-08-05T06:03:11.177763Z",
     "source": "europe_pmc"
   },
   {
@@ -3274,7 +3274,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:47.801584Z",
-    "last_checked_at": "2026-08-04T06:05:57.136713Z",
+    "last_checked_at": "2026-08-05T06:03:10.832982Z",
     "source": "europe_pmc"
   },
   {
@@ -3377,7 +3377,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-08-04T06:05:41.379730Z",
+    "last_checked_at": "2026-08-05T06:02:52.950942Z",
     "source": "europe_pmc"
   },
   {
@@ -3443,7 +3443,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-08-04T06:05:40.978046Z",
+    "last_checked_at": "2026-08-05T06:02:52.666928Z",
     "source": "europe_pmc"
   },
   {
@@ -3509,7 +3509,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.380942Z",
-    "last_checked_at": "2026-08-04T06:05:28.389460Z",
+    "last_checked_at": "2026-08-05T06:02:39.885836Z",
     "source": "europe_pmc"
   },
   {
@@ -3575,7 +3575,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-08-04T06:05:28.387366Z",
+    "last_checked_at": "2026-08-05T06:02:39.882289Z",
     "source": "europe_pmc"
   },
   {
@@ -3641,7 +3641,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-08-04T06:05:28.383971Z",
+    "last_checked_at": "2026-08-05T06:02:39.880465Z",
     "source": "europe_pmc"
   },
   {
@@ -3707,7 +3707,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.722277Z",
-    "last_checked_at": "2026-08-04T06:05:28.383245Z",
+    "last_checked_at": "2026-08-05T06:02:39.878999Z",
     "source": "europe_pmc"
   },
   {
@@ -3773,73 +3773,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721331Z",
-    "last_checked_at": "2026-08-04T06:05:28.382799Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma.",
-    "doi": "10.1007/s00262-026-04487-9",
-    "pmid": "42406139",
-    "pmcid": null,
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-07-06",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/42406139",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "validation_dataset",
-    "xenium_reason": "Xenium is explicitly used for validation",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma. <h4>Background and aims</h4>The conserved human correlate of interleukin-18 receptor 1 (IL-18R1)-associated immune states in hepatocellular carcinoma (HCC) remains undefined. We aimed to identify a minimal, reproducible, immune-state component associated with IL18R1 across independent human HCC cohorts and evaluate its clinical relevance.<h4>Methods</h4>Publicly available single-cell RNA sequencing datasets from five independent HCC cohorts were analyzed using a unified framework. Paired tumor-adjacent cohorts were prioritized for primary analyses, whereas tumor-only cohorts served as supportive datasets. CD8 T cells were stratified by IL18R1 expression, and tumor-specific enrichment was quantified using difference-in-differences. We validated the spatial transcriptomics using a murine liver tumor Xenium dataset. Clinical relevance was evaluated using The Cancer Genome Atlas Liver Hepatocellular Carcinoma (TCGA-LIHC) bulk RNA-seq data.<h4>Results</h4>IL18R1-positive CD8 T cells exhibited a tumor-specific, C-C motif chemokine ligand 5 (CCL5)-centered cytotoxic transcriptional program, consistently enriched across datasets. Alternative IL18R1 stratification confirmed the identified immune program's robustness. Spatial transcriptomics localized this cytotoxic state in tumor-associated CD8 T cells and highlighted increased expression of Ccl5 and Cxcr3. Tumor-only cohorts demonstrated substantial heterogeneity, highlighting the importance of paired cohort design. In TCGA-LIHC, a composite CCL5-centered cytotoxic core score, not CCL5 alone, was associated with improved overall survival, although this attenuated after adjusting for clinical covariates.<h4>Conclusions</h4>The dominant human correlate of an IL18R1-associated immune state in HCC is a compact, CCL5-centered CD8 cytotoxic module, not a broad inflammatory response. This spatially validated unit provides a reproducible framework for HCC immune-state characterization and stratification.",
-    "confidence_score": 0.84,
-    "xenium_confidence": 0.82,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-08-04T06:05:28.374500Z",
+    "last_checked_at": "2026-08-05T06:02:39.878228Z",
     "source": "europe_pmc"
   },
   {
@@ -3905,7 +3839,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718322Z",
-    "last_checked_at": "2026-08-04T06:05:28.374178Z",
+    "last_checked_at": "2026-08-05T06:02:39.869766Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma.",
+    "doi": "10.1007/s00262-026-04487-9",
+    "pmid": "42406139",
+    "pmcid": null,
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-07-06",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42406139",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "validation_dataset",
+    "xenium_reason": "Xenium is explicitly used for validation",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma. <h4>Background and aims</h4>The conserved human correlate of interleukin-18 receptor 1 (IL-18R1)-associated immune states in hepatocellular carcinoma (HCC) remains undefined. We aimed to identify a minimal, reproducible, immune-state component associated with IL18R1 across independent human HCC cohorts and evaluate its clinical relevance.<h4>Methods</h4>Publicly available single-cell RNA sequencing datasets from five independent HCC cohorts were analyzed using a unified framework. Paired tumor-adjacent cohorts were prioritized for primary analyses, whereas tumor-only cohorts served as supportive datasets. CD8 T cells were stratified by IL18R1 expression, and tumor-specific enrichment was quantified using difference-in-differences. We validated the spatial transcriptomics using a murine liver tumor Xenium dataset. Clinical relevance was evaluated using The Cancer Genome Atlas Liver Hepatocellular Carcinoma (TCGA-LIHC) bulk RNA-seq data.<h4>Results</h4>IL18R1-positive CD8 T cells exhibited a tumor-specific, C-C motif chemokine ligand 5 (CCL5)-centered cytotoxic transcriptional program, consistently enriched across datasets. Alternative IL18R1 stratification confirmed the identified immune program's robustness. Spatial transcriptomics localized this cytotoxic state in tumor-associated CD8 T cells and highlighted increased expression of Ccl5 and Cxcr3. Tumor-only cohorts demonstrated substantial heterogeneity, highlighting the importance of paired cohort design. In TCGA-LIHC, a composite CCL5-centered cytotoxic core score, not CCL5 alone, was associated with improved overall survival, although this attenuated after adjusting for clinical covariates.<h4>Conclusions</h4>The dominant human correlate of an IL18R1-associated immune state in HCC is a compact, CCL5-centered CD8 cytotoxic module, not a broad inflammatory response. This spatially validated unit provides a reproducible framework for HCC immune-state characterization and stratification.",
+    "confidence_score": 0.84,
+    "xenium_confidence": 0.82,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.719684Z",
+    "last_checked_at": "2026-08-05T06:02:39.869437Z",
     "source": "europe_pmc"
   },
   {
@@ -3971,7 +3971,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-08-04T06:05:28.372722Z",
+    "last_checked_at": "2026-08-05T06:02:39.867875Z",
     "source": "europe_pmc"
   },
   {
@@ -4464,7 +4464,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718458Z",
-    "last_checked_at": "2026-08-04T06:05:28.372499Z",
+    "last_checked_at": "2026-08-05T06:02:39.867645Z",
     "source": "europe_pmc"
   },
   {
@@ -4591,73 +4591,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718536Z",
-    "last_checked_at": "2026-08-04T06:05:28.140476Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Deep spatial transcriptomic profiling of ovarian clear cell carcinoma in the real-world setting.",
-    "doi": "10.1186/s13048-026-02048-3",
-    "pmid": "41776662",
-    "pmcid": "PMC13063787",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-03-03",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/41776662",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "primary_dataset",
-    "xenium_reason": "New profiling/generation with Xenium is stated",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Deep spatial transcriptomic profiling of ovarian clear cell carcinoma in the real-world setting. Ovarian clear cell carcinoma (OCCC) is a rare cancer type of significant relevance to East Asian women harboring critical unmet needs for novel therapeutic options. It is a histological subtype of ovarian cancer with distinct pathological features, molecular profiles, and biological functions. Diverse heterogeneity contributing from histopathological and multiomic molecular features has yet to be translated to guide clinical care. Here, we presented a proof-of-concept study to demonstrate the feasibility of applying deep spatial transcriptomic (ST) profiling of tumor samples from an advanced OCCC patient in the real-world setting, aiming to identify therapeutic options beyond standard-of-care. Matched primary ovarian and metastatic bladder tumor sections were profiled by using GeoMx Digital Spatial Profiling and Xenium In Situ platforms. The spatial architecture and neighborhood niches were identified from GeoMx Cancer Transcriptome Atlas (CTA) and Xenium 5K Human Pan Tissue and Pathways Panel. An immunosuppressive Wnt-activating tumor microenvironment (TME) was identified by GeoMx while a tripartite spatial relationship between SLC2A1+ hypoxic cancer cells, IFIT2+ inflammatory cancer cells, and MMP12+ dendritic cells linking towards metabolism and immune responses was identified by Xenium. Our deep ST profiling findings provided significant biological insights and demonstrated feasibility to make novel discoveries, one patient at a time.",
-    "confidence_score": 0.867,
-    "xenium_confidence": 0.9,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-08-04T06:05:27.757792Z",
+    "last_checked_at": "2026-08-05T06:02:39.551187Z",
     "source": "europe_pmc"
   },
   {
@@ -5108,7 +5042,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718154Z",
-    "last_checked_at": "2026-08-04T06:05:12.437569Z",
+    "last_checked_at": "2026-08-05T06:02:26.861370Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Deep spatial transcriptomic profiling of ovarian clear cell carcinoma in the real-world setting.",
+    "doi": "10.1186/s13048-026-02048-3",
+    "pmid": "41776662",
+    "pmcid": "PMC13063787",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-03-03",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/41776662",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Deep spatial transcriptomic profiling of ovarian clear cell carcinoma in the real-world setting. Ovarian clear cell carcinoma (OCCC) is a rare cancer type of significant relevance to East Asian women harboring critical unmet needs for novel therapeutic options. It is a histological subtype of ovarian cancer with distinct pathological features, molecular profiles, and biological functions. Diverse heterogeneity contributing from histopathological and multiomic molecular features has yet to be translated to guide clinical care. Here, we presented a proof-of-concept study to demonstrate the feasibility of applying deep spatial transcriptomic (ST) profiling of tumor samples from an advanced OCCC patient in the real-world setting, aiming to identify therapeutic options beyond standard-of-care. Matched primary ovarian and metastatic bladder tumor sections were profiled by using GeoMx Digital Spatial Profiling and Xenium In Situ platforms. The spatial architecture and neighborhood niches were identified from GeoMx Cancer Transcriptome Atlas (CTA) and Xenium 5K Human Pan Tissue and Pathways Panel. An immunosuppressive Wnt-activating tumor microenvironment (TME) was identified by GeoMx while a tripartite spatial relationship between SLC2A1+ hypoxic cancer cells, IFIT2+ inflammatory cancer cells, and MMP12+ dendritic cells linking towards metabolism and immune responses was identified by Xenium. Our deep ST profiling findings provided significant biological insights and demonstrated feasibility to make novel discoveries, one patient at a time.",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.717880Z",
+    "last_checked_at": "2026-08-05T06:02:26.613616Z",
     "source": "europe_pmc"
   },
   {
@@ -5174,7 +5174,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718363Z",
-    "last_checked_at": "2026-08-04T06:05:08.624292Z",
+    "last_checked_at": "2026-08-05T06:02:20.533946Z",
     "source": "europe_pmc"
   },
   {
@@ -5319,7 +5319,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717940Z",
-    "last_checked_at": "2026-08-04T06:05:08.393044Z",
+    "last_checked_at": "2026-08-05T06:02:20.271882Z",
     "source": "europe_pmc"
   },
   {
@@ -5512,7 +5512,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718002Z",
-    "last_checked_at": "2026-08-04T06:05:08.148105Z",
+    "last_checked_at": "2026-08-05T06:02:20.063213Z",
     "source": "europe_pmc"
   },
   {
@@ -5597,7 +5597,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717628Z",
-    "last_checked_at": "2026-08-04T06:05:07.834961Z",
+    "last_checked_at": "2026-08-05T06:02:19.849609Z",
     "source": "europe_pmc"
   },
   {
@@ -5700,7 +5700,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-08-04T06:05:06.325614Z",
+    "last_checked_at": "2026-08-05T06:02:17.992983Z",
     "source": "europe_pmc"
   },
   {
@@ -5839,7 +5839,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-08-04T06:05:05.821332Z",
+    "last_checked_at": "2026-08-05T06:02:17.774997Z",
     "source": "europe_pmc"
   },
   {
@@ -5905,7 +5905,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717540Z",
-    "last_checked_at": "2026-08-04T06:05:05.616590Z",
+    "last_checked_at": "2026-08-05T06:02:17.590195Z",
     "source": "europe_pmc"
   }
 ]
