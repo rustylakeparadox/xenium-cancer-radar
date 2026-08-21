@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-08-20T04:03:42.095879Z",
+    "last_checked_at": "2026-08-21T04:17:12.904046Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-08-20T04:03:42.093735Z",
+    "last_checked_at": "2026-08-21T04:17:12.901781Z",
     "source": "biostudies"
   },
   {
@@ -214,7 +214,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:35.557703Z",
-    "last_checked_at": "2026-08-20T04:03:42.091673Z",
+    "last_checked_at": "2026-08-21T04:17:12.899776Z",
     "source": "biostudies"
   },
   {
@@ -312,7 +312,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-08-20T04:03:41.676813Z",
+    "last_checked_at": "2026-08-21T04:17:12.424723Z",
     "source": "biostudies"
   },
   {
@@ -506,7 +506,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-08-20T04:03:25.042299Z",
+    "last_checked_at": "2026-08-21T04:16:55.124366Z",
     "source": "biostudies"
   },
   {
@@ -651,7 +651,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-08-20T04:03:24.540266Z",
+    "last_checked_at": "2026-08-21T04:16:54.536505Z",
     "source": "biostudies"
   },
   {
@@ -730,7 +730,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-08-20T04:03:22.704874Z",
+    "last_checked_at": "2026-08-21T04:16:52.638744Z",
     "source": "biostudies"
   },
   {
@@ -827,7 +827,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-08-20T04:03:21.962272Z",
+    "last_checked_at": "2026-08-21T04:16:51.804149Z",
     "source": "biostudies"
   },
   {
@@ -918,7 +918,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-08-20T04:03:21.838703Z",
+    "last_checked_at": "2026-08-21T04:16:51.679139Z",
     "source": "biostudies"
   },
   {
@@ -1009,7 +1009,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-08-20T04:03:21.632881Z",
+    "last_checked_at": "2026-08-21T04:16:51.474720Z",
     "source": "biostudies"
   },
   {
@@ -1075,7 +1075,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-08-20T04:01:11.422595Z",
+    "last_checked_at": "2026-08-21T04:08:46.779929Z",
     "source": "crossref"
   },
   {
@@ -1141,7 +1141,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-08-20T04:01:11.422538Z",
+    "last_checked_at": "2026-08-21T04:08:46.779884Z",
     "source": "crossref"
   },
   {
@@ -1207,7 +1207,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-08-20T04:01:11.422467Z",
+    "last_checked_at": "2026-08-21T04:08:46.779819Z",
     "source": "crossref"
   },
   {
@@ -1273,7 +1273,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-08-20T04:01:11.422440Z",
+    "last_checked_at": "2026-08-21T04:08:46.779793Z",
     "source": "crossref"
   },
   {
@@ -1339,7 +1339,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654485Z",
-    "last_checked_at": "2026-08-20T04:01:06.723621Z",
+    "last_checked_at": "2026-08-21T04:08:46.251248Z",
     "source": "crossref"
   },
   {
@@ -1405,7 +1405,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-08-20T04:01:06.723612Z",
+    "last_checked_at": "2026-08-21T04:08:46.251240Z",
     "source": "crossref"
   },
   {
@@ -1471,7 +1471,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654325Z",
-    "last_checked_at": "2026-08-20T04:01:06.723492Z",
+    "last_checked_at": "2026-08-21T04:08:46.251129Z",
     "source": "crossref"
   },
   {
@@ -1537,7 +1537,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-08-20T04:01:06.723211Z",
+    "last_checked_at": "2026-08-21T04:08:46.250771Z",
     "source": "crossref"
   },
   {
@@ -1603,7 +1603,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-08-20T04:01:06.723183Z",
+    "last_checked_at": "2026-08-21T04:08:46.250747Z",
     "source": "crossref"
   },
   {
@@ -1669,7 +1669,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-08-20T04:01:06.723070Z",
+    "last_checked_at": "2026-08-21T04:08:46.250637Z",
     "source": "crossref"
   },
   {
@@ -1735,7 +1735,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-08-20T04:01:06.722782Z",
+    "last_checked_at": "2026-08-21T04:08:46.250421Z",
     "source": "crossref"
   },
   {
@@ -1801,7 +1801,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-08-20T04:01:06.722733Z",
+    "last_checked_at": "2026-08-21T04:08:46.250367Z",
     "source": "crossref"
   },
   {
@@ -1867,7 +1867,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-08-20T04:00:40.002818Z",
+    "last_checked_at": "2026-08-21T04:07:39.765618Z",
     "source": "europe_pmc"
   },
   {
@@ -1933,7 +1933,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-08-20T04:00:33.777196Z",
+    "last_checked_at": "2026-08-21T04:07:34.231819Z",
     "source": "europe_pmc"
   },
   {
@@ -2048,7 +2048,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-08-20T04:00:33.046389Z",
+    "last_checked_at": "2026-08-21T04:07:33.566588Z",
     "source": "europe_pmc"
   },
   {
@@ -2295,7 +2295,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-08-20T04:00:32.456300Z",
+    "last_checked_at": "2026-08-21T04:07:33.145662Z",
     "source": "europe_pmc"
   },
   {
@@ -2758,7 +2758,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-08-20T04:00:23.155118Z",
+    "last_checked_at": "2026-08-21T04:07:24.952800Z",
     "source": "europe_pmc"
   },
   {
@@ -3065,7 +3065,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:48.074500Z",
-    "last_checked_at": "2026-08-20T03:59:57.024709Z",
+    "last_checked_at": "2026-08-21T04:06:30.497735Z",
     "source": "europe_pmc"
   },
   {
@@ -3204,7 +3204,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:47.801584Z",
-    "last_checked_at": "2026-08-20T03:59:56.743315Z",
+    "last_checked_at": "2026-08-21T04:06:20.033867Z",
     "source": "europe_pmc"
   },
   {
@@ -3307,7 +3307,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-08-20T03:59:39.773970Z",
+    "last_checked_at": "2026-08-21T04:04:23.299105Z",
     "source": "europe_pmc"
   },
   {
@@ -3373,7 +3373,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-08-20T03:59:38.130706Z",
+    "last_checked_at": "2026-08-21T04:04:02.977311Z",
     "source": "europe_pmc"
   },
   {
@@ -3439,7 +3439,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.380942Z",
-    "last_checked_at": "2026-08-20T03:59:29.741707Z",
+    "last_checked_at": "2026-08-21T04:02:05.910312Z",
     "source": "europe_pmc"
   },
   {
@@ -3505,7 +3505,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-08-20T03:59:29.739784Z",
+    "last_checked_at": "2026-08-21T04:02:05.908397Z",
     "source": "europe_pmc"
   },
   {
@@ -3571,7 +3571,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-08-20T03:59:29.736370Z",
+    "last_checked_at": "2026-08-21T04:02:05.905027Z",
     "source": "europe_pmc"
   },
   {
@@ -3637,7 +3637,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.722277Z",
-    "last_checked_at": "2026-08-20T03:59:29.735435Z",
+    "last_checked_at": "2026-08-21T04:02:05.904020Z",
     "source": "europe_pmc"
   },
   {
@@ -3703,7 +3703,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721331Z",
-    "last_checked_at": "2026-08-20T03:59:29.735136Z",
+    "last_checked_at": "2026-08-21T04:02:05.903711Z",
     "source": "europe_pmc"
   },
   {
@@ -3769,7 +3769,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718322Z",
-    "last_checked_at": "2026-08-20T03:59:29.726605Z",
+    "last_checked_at": "2026-08-21T04:02:05.895022Z",
     "source": "europe_pmc"
   },
   {
@@ -3835,7 +3835,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-08-20T03:59:29.726096Z",
+    "last_checked_at": "2026-08-21T04:02:05.894484Z",
     "source": "europe_pmc"
   },
   {
@@ -3901,7 +3901,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-08-20T03:59:29.725164Z",
+    "last_checked_at": "2026-08-21T04:02:05.893488Z",
     "source": "europe_pmc"
   },
   {
@@ -3967,7 +3967,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-08-08T04:29:03.436036Z",
-    "last_checked_at": "2026-08-20T03:59:18.866566Z",
+    "last_checked_at": "2026-08-21T04:02:05.892384Z",
     "source": "europe_pmc"
   },
   {
@@ -4418,7 +4418,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718154Z",
-    "last_checked_at": "2026-08-20T03:59:15.194853Z",
+    "last_checked_at": "2026-08-21T04:01:52.092408Z",
     "source": "europe_pmc"
   },
   {
@@ -4755,7 +4755,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718363Z",
-    "last_checked_at": "2026-08-20T03:59:14.995804Z",
+    "last_checked_at": "2026-08-21T04:01:50.651311Z",
     "source": "europe_pmc"
   },
   {
@@ -4846,7 +4846,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717940Z",
-    "last_checked_at": "2026-08-20T03:59:14.802518Z",
+    "last_checked_at": "2026-08-21T04:01:50.367559Z",
     "source": "europe_pmc"
   },
   {
@@ -4931,7 +4931,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717628Z",
-    "last_checked_at": "2026-08-20T03:59:13.495976Z",
+    "last_checked_at": "2026-08-21T04:01:48.986853Z",
     "source": "europe_pmc"
   },
   {
@@ -5124,7 +5124,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718002Z",
-    "last_checked_at": "2026-08-20T03:59:12.766619Z",
+    "last_checked_at": "2026-08-21T04:01:48.347544Z",
     "source": "europe_pmc"
   },
   {
@@ -5431,7 +5431,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-08-20T03:59:12.207406Z",
+    "last_checked_at": "2026-08-21T04:01:46.092459Z",
     "source": "europe_pmc"
   },
   {
@@ -5570,7 +5570,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-08-20T03:59:12.022406Z",
+    "last_checked_at": "2026-08-21T04:01:44.705192Z",
     "source": "europe_pmc"
   },
   {
@@ -5636,7 +5636,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717540Z",
-    "last_checked_at": "2026-08-20T03:59:11.827411Z",
+    "last_checked_at": "2026-08-21T04:01:43.996414Z",
     "source": "europe_pmc"
   }
 ]
