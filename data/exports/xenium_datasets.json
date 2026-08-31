@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-08-30T09:18:24.136486Z",
+    "last_checked_at": "2026-08-31T09:49:52.478026Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-08-30T09:18:24.134331Z",
+    "last_checked_at": "2026-08-31T09:49:52.476224Z",
     "source": "biostudies"
   },
   {
@@ -214,7 +214,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:35.557703Z",
-    "last_checked_at": "2026-08-30T09:18:24.132156Z",
+    "last_checked_at": "2026-08-31T09:49:52.474574Z",
     "source": "biostudies"
   },
   {
@@ -312,7 +312,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-08-30T09:18:23.659051Z",
+    "last_checked_at": "2026-08-31T09:49:51.701482Z",
     "source": "biostudies"
   },
   {
@@ -506,7 +506,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-08-30T09:17:49.019032Z",
+    "last_checked_at": "2026-08-31T09:49:20.594907Z",
     "source": "biostudies"
   },
   {
@@ -651,7 +651,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-08-30T09:17:48.380317Z",
+    "last_checked_at": "2026-08-31T09:49:19.913152Z",
     "source": "biostudies"
   },
   {
@@ -730,7 +730,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-08-30T09:17:46.368087Z",
+    "last_checked_at": "2026-08-31T09:49:17.976988Z",
     "source": "biostudies"
   },
   {
@@ -827,7 +827,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-08-30T09:17:45.367999Z",
+    "last_checked_at": "2026-08-31T09:49:17.093509Z",
     "source": "biostudies"
   },
   {
@@ -918,7 +918,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-08-30T09:17:45.222883Z",
+    "last_checked_at": "2026-08-31T09:49:16.929799Z",
     "source": "biostudies"
   },
   {
@@ -1009,7 +1009,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-08-30T09:17:44.972473Z",
+    "last_checked_at": "2026-08-31T09:49:16.655795Z",
     "source": "biostudies"
   },
   {
@@ -1075,7 +1075,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-08-30T09:16:48.934167Z",
+    "last_checked_at": "2026-08-31T09:48:20.816543Z",
     "source": "crossref"
   },
   {
@@ -1141,7 +1141,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-08-30T09:16:48.934085Z",
+    "last_checked_at": "2026-08-31T09:48:20.816487Z",
     "source": "crossref"
   },
   {
@@ -1207,7 +1207,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-08-30T09:16:48.934031Z",
+    "last_checked_at": "2026-08-31T09:48:20.816450Z",
     "source": "crossref"
   },
   {
@@ -1273,7 +1273,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-08-30T09:16:48.279638Z",
+    "last_checked_at": "2026-08-31T09:48:19.237513Z",
     "source": "crossref"
   },
   {
@@ -1339,7 +1339,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-08-30T09:16:48.279608Z",
+    "last_checked_at": "2026-08-31T09:48:19.237491Z",
     "source": "crossref"
   },
   {
@@ -1405,7 +1405,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654325Z",
-    "last_checked_at": "2026-08-30T09:16:48.279591Z",
+    "last_checked_at": "2026-08-31T09:48:19.237480Z",
     "source": "crossref"
   },
   {
@@ -1471,7 +1471,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-08-30T09:16:48.279308Z",
+    "last_checked_at": "2026-08-31T09:48:19.237270Z",
     "source": "crossref"
   },
   {
@@ -1537,7 +1537,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-08-30T09:16:48.279190Z",
+    "last_checked_at": "2026-08-31T09:48:19.237171Z",
     "source": "crossref"
   },
   {
@@ -1603,7 +1603,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-08-30T09:16:48.279145Z",
+    "last_checked_at": "2026-08-31T09:48:19.237143Z",
     "source": "crossref"
   },
   {
@@ -1669,7 +1669,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-08-30T09:16:48.278793Z",
+    "last_checked_at": "2026-08-31T09:48:19.236884Z",
     "source": "crossref"
   },
   {
@@ -1735,7 +1735,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-08-30T09:16:48.278772Z",
+    "last_checked_at": "2026-08-31T09:48:19.236865Z",
     "source": "crossref"
   },
   {
@@ -1801,7 +1801,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-08-30T09:16:23.583408Z",
+    "last_checked_at": "2026-08-31T09:47:45.565652Z",
     "source": "europe_pmc"
   },
   {
@@ -1867,7 +1867,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-08-30T09:16:18.683596Z",
+    "last_checked_at": "2026-08-31T09:47:41.812684Z",
     "source": "europe_pmc"
   },
   {
@@ -1982,7 +1982,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-08-30T09:16:17.988020Z",
+    "last_checked_at": "2026-08-31T09:47:41.277128Z",
     "source": "europe_pmc"
   },
   {
@@ -2229,7 +2229,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-08-30T09:16:17.731286Z",
+    "last_checked_at": "2026-08-31T09:47:40.978386Z",
     "source": "europe_pmc"
   },
   {
@@ -2446,7 +2446,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.382543Z",
-    "last_checked_at": "2026-08-30T09:16:17.528913Z",
+    "last_checked_at": "2026-08-31T09:47:40.740171Z",
     "source": "europe_pmc"
   },
   {
@@ -2909,7 +2909,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-08-30T09:16:08.427663Z",
+    "last_checked_at": "2026-08-31T09:47:34.855272Z",
     "source": "europe_pmc"
   },
   {
@@ -3216,7 +3216,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:48.074500Z",
-    "last_checked_at": "2026-08-30T09:15:43.465634Z",
+    "last_checked_at": "2026-08-31T09:47:15.292452Z",
     "source": "europe_pmc"
   },
   {
@@ -3355,7 +3355,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:47.801584Z",
-    "last_checked_at": "2026-08-30T09:15:43.206357Z",
+    "last_checked_at": "2026-08-31T09:47:15.060854Z",
     "source": "europe_pmc"
   },
   {
@@ -3458,7 +3458,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-08-30T09:15:25.101742Z",
+    "last_checked_at": "2026-08-31T09:47:03.911804Z",
     "source": "europe_pmc"
   },
   {
@@ -3524,7 +3524,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-08-30T09:15:24.910641Z",
+    "last_checked_at": "2026-08-31T09:47:03.670913Z",
     "source": "europe_pmc"
   },
   {
@@ -3590,73 +3590,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.380942Z",
-    "last_checked_at": "2026-08-30T09:15:16.939104Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Personalizing the treatment of head and neck cancer in vitro: The 3D-OTC model.",
-    "doi": "10.1186/s12916-026-04883-z",
-    "pmid": "42035072",
-    "pmcid": "PMC13123083",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-04-25",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/42035072",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "reused_public_dataset",
-    "xenium_reason": "Text indicates reuse of public Xenium data",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Personalizing the treatment of head and neck cancer in vitro: The 3D-OTC model. BACKGROUND: Treatment of head and neck squamous cell carcinoma (HNSCC) remains challenging and the survival rates of affected patients remain poor. A three-dimensional organotypic co-culture (3D-OTC) model where patient derived tumor tissue is cultured on human-derived fibroblasts (dermal equivalent, DE) was evaluated regarding its comparability to primary tumor tissue and its applicability in drug resistance testing. METHODS: 3D-OTC models were cultured from n = 10 HNSCC patients for up to 21 days. The growth pattern at the DE was compared to tumor budding of corresponding resection specimens. Furthermore, we immunohistochemically determined the immune cell infiltrate of primary tumor tissue and corresponding 3D-OTC models. Spatially resolved gene expression analysis (“Xenium in situ”) was performed for separate regions of interest within the 3D-OTC specimens and within primary tumor tissue. Up-regulated and down-regulated genes of the 3D-OTC samples were included in gene set enrichment analysis and up-regulated genes between invasive (invading the DE) and non-invasive tumor cells within the 3D-OTC samples were included in drug resistance testing using publicly available databases. RESULTS: The growth pattern observed at the DE was associated with tumor budding in primary tumor tissue. The density of CD3-/CD20-/CD56-positive cells was lower in 3D-OTC samples compared to primary tumor tissue. No such changes were observed for CD68-positive cells and no significant changes in the density of the immune cell infiltrate were detected during the cultivation period. The centroids and dispersion of the gene expression of the 3D-OTC samples did not differ from the corresponding primary tumor tissue. The regions of interest within the 3D-OTC samples showed distinct functional states in gene set enrichment analysis. The comparison of genes up-regulated in invasive tumor parts of the 3D-OTC samples could explain resistance of tumor subclones to certain chemotherapeutics. CONCLUSIONS: The 3D-OTC model morphologically and transcriptomically resembles primary tumor tissue and its biology while preserving the tumor microenvironment. Furthermore, the 3D-OTC model allows the standardized evaluation of tumor tissue by the definition of transcriptomically separate regions of interest and thus, could help to evaluate the impact of personalized therapeutic interventions on the tumor and its microenvironment in vitro.",
-    "confidence_score": 0.827,
-    "xenium_confidence": 0.78,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-08-30T09:15:16.937068Z",
+    "last_checked_at": "2026-08-31T09:46:56.274842Z",
     "source": "europe_pmc"
   },
   {
@@ -3722,7 +3656,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-08-30T09:15:16.936411Z",
+    "last_checked_at": "2026-08-31T09:46:56.273818Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Personalizing the treatment of head and neck cancer in vitro: The 3D-OTC model.",
+    "doi": "10.1186/s12916-026-04883-z",
+    "pmid": "42035072",
+    "pmcid": "PMC13123083",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-04-25",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42035072",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "reused_public_dataset",
+    "xenium_reason": "Text indicates reuse of public Xenium data",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Personalizing the treatment of head and neck cancer in vitro: The 3D-OTC model. BACKGROUND: Treatment of head and neck squamous cell carcinoma (HNSCC) remains challenging and the survival rates of affected patients remain poor. A three-dimensional organotypic co-culture (3D-OTC) model where patient derived tumor tissue is cultured on human-derived fibroblasts (dermal equivalent, DE) was evaluated regarding its comparability to primary tumor tissue and its applicability in drug resistance testing. METHODS: 3D-OTC models were cultured from n = 10 HNSCC patients for up to 21 days. The growth pattern at the DE was compared to tumor budding of corresponding resection specimens. Furthermore, we immunohistochemically determined the immune cell infiltrate of primary tumor tissue and corresponding 3D-OTC models. Spatially resolved gene expression analysis (“Xenium in situ”) was performed for separate regions of interest within the 3D-OTC specimens and within primary tumor tissue. Up-regulated and down-regulated genes of the 3D-OTC samples were included in gene set enrichment analysis and up-regulated genes between invasive (invading the DE) and non-invasive tumor cells within the 3D-OTC samples were included in drug resistance testing using publicly available databases. RESULTS: The growth pattern observed at the DE was associated with tumor budding in primary tumor tissue. The density of CD3-/CD20-/CD56-positive cells was lower in 3D-OTC samples compared to primary tumor tissue. No such changes were observed for CD68-positive cells and no significant changes in the density of the immune cell infiltrate were detected during the cultivation period. The centroids and dispersion of the gene expression of the 3D-OTC samples did not differ from the corresponding primary tumor tissue. The regions of interest within the 3D-OTC samples showed distinct functional states in gene set enrichment analysis. The comparison of genes up-regulated in invasive tumor parts of the 3D-OTC samples could explain resistance of tumor subclones to certain chemotherapeutics. CONCLUSIONS: The 3D-OTC model morphologically and transcriptomically resembles primary tumor tissue and its biology while preserving the tumor microenvironment. Furthermore, the 3D-OTC model allows the standardized evaluation of tumor tissue by the definition of transcriptomically separate regions of interest and thus, could help to evaluate the impact of personalized therapeutic interventions on the tumor and its microenvironment in vitro.",
+    "confidence_score": 0.827,
+    "xenium_confidence": 0.78,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.721700Z",
+    "last_checked_at": "2026-08-31T09:46:56.273649Z",
     "source": "europe_pmc"
   },
   {
@@ -3788,7 +3788,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.722277Z",
-    "last_checked_at": "2026-08-30T09:15:16.933435Z",
+    "last_checked_at": "2026-08-31T09:46:56.271349Z",
     "source": "europe_pmc"
   },
   {
@@ -3854,7 +3854,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721331Z",
-    "last_checked_at": "2026-08-30T09:15:16.932544Z",
+    "last_checked_at": "2026-08-31T09:46:56.270718Z",
     "source": "europe_pmc"
   },
   {
@@ -3920,7 +3920,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718322Z",
-    "last_checked_at": "2026-08-30T09:15:16.924130Z",
+    "last_checked_at": "2026-08-31T09:46:56.264649Z",
     "source": "europe_pmc"
   },
   {
@@ -3986,7 +3986,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-08-30T09:15:16.923385Z",
+    "last_checked_at": "2026-08-31T09:46:56.264440Z",
     "source": "europe_pmc"
   },
   {
@@ -4052,7 +4052,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-08-30T09:15:16.921728Z",
+    "last_checked_at": "2026-08-31T09:46:56.263126Z",
     "source": "europe_pmc"
   },
   {
@@ -4118,7 +4118,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-08-08T04:29:03.436036Z",
-    "last_checked_at": "2026-08-30T09:15:16.921131Z",
+    "last_checked_at": "2026-08-31T09:46:56.262820Z",
     "source": "europe_pmc"
   },
   {
@@ -4569,7 +4569,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718154Z",
-    "last_checked_at": "2026-08-30T09:15:06.482255Z",
+    "last_checked_at": "2026-08-31T09:46:49.978951Z",
     "source": "europe_pmc"
   },
   {
@@ -4660,7 +4660,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717940Z",
-    "last_checked_at": "2026-08-30T09:15:06.088246Z",
+    "last_checked_at": "2026-08-31T09:46:49.566128Z",
     "source": "europe_pmc"
   },
   {
@@ -4997,7 +4997,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718363Z",
-    "last_checked_at": "2026-08-30T09:15:04.998312Z",
+    "last_checked_at": "2026-08-31T09:46:48.767013Z",
     "source": "europe_pmc"
   },
   {
@@ -5082,7 +5082,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717628Z",
-    "last_checked_at": "2026-08-30T09:15:04.632604Z",
+    "last_checked_at": "2026-08-31T09:46:48.537472Z",
     "source": "europe_pmc"
   },
   {
@@ -5275,7 +5275,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718002Z",
-    "last_checked_at": "2026-08-30T09:15:03.993911Z",
+    "last_checked_at": "2026-08-31T09:46:47.888122Z",
     "source": "europe_pmc"
   },
   {
@@ -5582,7 +5582,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-08-30T09:15:03.228396Z",
+    "last_checked_at": "2026-08-31T09:46:47.178606Z",
     "source": "europe_pmc"
   },
   {
@@ -5721,7 +5721,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-08-30T09:15:03.013454Z",
+    "last_checked_at": "2026-08-31T09:46:46.960847Z",
     "source": "europe_pmc"
   },
   {
@@ -5787,7 +5787,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717540Z",
-    "last_checked_at": "2026-08-30T09:15:02.822269Z",
+    "last_checked_at": "2026-08-31T09:46:46.697149Z",
     "source": "europe_pmc"
   },
   {
