@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-09-06T07:58:56.919444Z",
+    "last_checked_at": "2026-09-07T08:24:28.883212Z",
     "source": "biostudies"
   },
   {
@@ -128,93 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-09-06T07:58:56.917514Z",
-    "source": "biostudies"
-  },
-  {
-    "title": "FlashDeconv enables atlas-scale, multi-resolution spatial deconvolution via structure-preserving sketching.",
-    "doi": null,
-    "pmid": null,
-    "pmcid": null,
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": null,
-    "publication_tier": null,
-    "paper_url": null,
-    "accession": "S-EPMC12776147",
-    "repository": "BioStudies",
-    "dataset_url": "https://www.ebi.ac.uk/biostudies/studies/S-EPMC12776147",
-    "downloadable": true,
-    "download_status": null,
-    "total_size_bytes": 126435,
-    "file_count": 1,
-    "file_manifest": [
-      {
-        "name": "media-1.pdf",
-        "url": "",
-        "size_bytes": 126435,
-        "format": null,
-        "http_status": null,
-        "content_type": null,
-        "supports_range": null,
-        "last_modified": null,
-        "login_required": false,
-        "publicly_downloadable": null
-      }
-    ],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "validation_dataset",
-    "xenium_reason": "Xenium is explicitly used for validation",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [
-      {
-        "identifier": "10.64898/2025.12.22.696108",
-        "location": "repository_detail",
-        "text": "e preprint server for biology Pages 2025.12.22.696108 Publication date 2026 Feb 10.64898/2025.12.22.696108 Type DOI PMC12776147 Type PMC 41509391 Type PMID a1 Author Name Yang C affiliat",
-        "source_url": null
-      }
-    ],
-    "evidence_text": "S-EPMC12776147 study FlashDeconv enables atlas-scale, multi-resolution spatial deconvolution via structure-preserving sketching. Yang C Zhang X Chen J 3 1 2026-01-01 3 True  on a standard laptop. Systematic multi-resolution analysis of Visium HD mouse intestine reveals a tissue-specific <i>resolution horizon</i> (8-16 <b><i>μ</i></b> m)-the scale at which this sign inversion occurs-validated by Xenium ground truth. Below this horizon, FlashDeconv provides the first S-EPMC12776147 DataSource Europe PMC Title FlashDeconv enables atlas-scale, multi-resolution spatial deconvolution via structure-preserving sketching. ReleaseDate 2026-01-01 AttachTo EuropePMC Study Title FlashDeconv enables atlas-scale, multi-resolution spatial deconvolution via structure-preserving sketching. Abstract Coarsening Visium HD resolution from 8 to 64 <i>μ</i>m can flip cell-type co-localization from negative to positive ( r=-0.12→+0.80 ), yet investigators are routinely forced to coarsen because current deconvolution methods cannot scale to million-bin datasets. Here we introduce FlashDeconv, which combines leverage-score importance sampling with sparse spatial regularization to match top-tier Bayesian accuracy while processing 1.6 million bins in 153 seconds on a standard laptop. Systematic multi-resolution analysis of Visium HD mouse intestine reveals a tissue-specific <i>resolution horizon</i> (8-16 <b><i>μ</i></b> m)-the scale at which this sign inversion occurs-validated by Xenium ground truth. Below this horizon, FlashDeconv provides the first sequencing-based quantification of Tuft cell chemosensory niches (15.3-fold stem cell enrichment). In a 1.6-million-bin human colorectal cancer cohort, FlashDeconv further uncovers neutrophil inflammatory microdomains in low-UMI regions that classification-based methods discard, recovering spatially organized biology from measurements previously considered uninformative. media-1.pdf 126435 file Funding Agency National Science Foundation grant_id DMS2113360 Funding Agency NIGMS NIH HHS grant_id R01 GM144351 Funding Agency Mayo Clinic Center for Individualized Medicine Funding Agency National Institutes of Health grant_id R01GM144351 Funding Agency National Science Foundation grant_id DMS1811747 Funding Agency National Science Foundation grant_id DMS1830392 Funding Agency National Science Foundation grant_id DMS2113359 Publication Journal bioRxiv : the preprint server for biology Pages 2025.12.22.696108 Publication date 2026 Feb 10.64898/2025.12.22.696108 Type DOI PMC12776147 Type PMC 41509391 Type PMID a1 Author Name Yang C affiliation o1 True a2 Author Name Zhang X affiliation o1 True a3 Author Name Chen J affiliation o2 True o1 Organization Name Department of Statistics, Texas A&M University, College Station, Texas, 77843, USA o2 Organization Name Division of Computational Biology, Department of Quantitative Health Sciences, Mayo Clinic, Rochester, Minnesota, 55905, USA submission",
-    "confidence_score": 0.84,
-    "xenium_confidence": 0.82,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-29T06:14:35.557703Z",
-    "last_checked_at": "2026-09-06T07:58:56.915910Z",
+    "last_checked_at": "2026-09-07T08:24:28.880817Z",
     "source": "biostudies"
   },
   {
@@ -312,7 +226,104 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-09-06T07:58:56.429459Z",
+    "last_checked_at": "2026-09-07T08:24:28.682545Z",
+    "source": "biostudies"
+  },
+  {
+    "title": "STHELAR, a multi-tissue dataset linking spatial transcriptomics and histology for cell type annotation",
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": null,
+    "publication_tier": null,
+    "paper_url": null,
+    "accession": "S-BIAD2146",
+    "repository": "BioStudies",
+    "dataset_url": "https://www.ebi.ac.uk/biostudies/studies/S-BIAD2146",
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "reused_public_dataset",
+    "xenium_reason": "Text indicates reuse of public Xenium data",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [
+      {
+        "identifier": "S-BIAD2146",
+        "location": "repository_detail",
+        "text": "S-BIAD2146 study STHELAR, a multi-tissue dataset linking spatial transcriptomics and histo",
+        "source_url": null
+      },
+      {
+        "identifier": "S-BIAD2146",
+        "location": "repository_detail",
+        "text": " designed to accommodate a pan-cancer setting. Annotations were derived through S-BIAD2146 Template BioImages.v5 Title STHELAR, a multi-tissue dataset linking spatial tra",
+        "source_url": null
+      },
+      {
+        "identifier": "S-BIAD2146",
+        "location": "repository_detail",
+        "text": "king spatial transcriptomics and histology for cell type annotation DOI 10.6019/S-BIAD2146 ReleaseDate 2025-07-09 AttachTo BioImages study-0 Study Title STHELAR, a multi-",
+        "source_url": null
+      },
+      {
+        "identifier": "10.6019/S-BIAD2146",
+        "location": "repository_detail",
+        "text": "aset linking spatial transcriptomics and histology for cell type annotation DOI 10.6019/S-BIAD2146 ReleaseDate 2025-07-09 AttachTo BioImages study-0 Study Title STHELAR, a multi-",
+        "source_url": null
+      },
+      {
+        "identifier": "10.1038/s41597-026-06937-6",
+        "location": "repository_detail",
+        "text": "tomics and histology for cell type annotation. Sci Data (2026). https://doi.org/10.1038/s41597-026-06937-6 submission",
+        "source_url": null
+      }
+    ],
+    "evidence_text": "S-BIAD2146 study STHELAR, a multi-tissue dataset linking spatial transcriptomics and histology for cell type annotation Félicie Giraud-Sauveur Paul-Henry Cournède Stergios Christodoulidis 4 492 2025-07-09 620 True  annotation. The dataset comprises 31 human Xenium FFPE sections across 16 tissue types, for 22 cancerous and 9 non-cancerous patients. It contains over 11 million cells, each assigned to one of ten curated cell-type categories designed to accommodate a pan-cancer setting. Annotations were derived through S-BIAD2146 Template BioImages.v5 Title STHELAR, a multi-tissue dataset linking spatial transcriptomics and histology for cell type annotation DOI 10.6019/S-BIAD2146 ReleaseDate 2025-07-09 AttachTo BioImages study-0 Study Title STHELAR, a multi-tissue dataset linking spatial transcriptomics and histology for cell type annotation ReleaseDate 2025-07-09 Description \nUnderstanding the composition of the tumor microenvironment is critical for cancer research. Spatial transcriptomics profiles gene expressions in spatial context, revealing tissue architecture and cellular heterogeneity, but its cost and technical complexity limit adoption. To address this issue, we introduce a pipeline to build STHELAR, a large-scale dataset that integrates spatial transcriptomics with Hematoxylin and Eosin (H&E) whole slide images for cell type annotation. The dataset comprises 31 human Xenium FFPE sections across 16 tissue types, for 22 cancerous and 9 non-cancerous patients. It contains over 11 million cells, each assigned to one of ten curated cell-type categories designed to accommodate a pan-cancer setting. Annotations were derived through Tangram-based alignment to single-cell reference atlases, followed by slide-specific clustering and differential expression analysis. Co-registered H&E images enabled the extraction of over 500,000 patches with segmentation and classification masks. Quality control steps assessed segmentation accuracy, filtered out low-confidence regions, and verified annotation integrity. STHELAR provides a reference resource for developing models to predict cell-type annotations directly from histological images.\n\nThe following describes the organization of the dataset folder:\n\n\n*** 1. A SpatialData object for each slide in .zarr format ***\n\nIn the 'sdata_slides' folder, a SpatialData object named 'sdata_slide-id.zarr.zip' is provided for each slide with all the information and analyses. The SpatialData format can be manipulated using all the tools in the Scverse ecosystem, making it easy and convenient to use. This SpatialData object includes the following components:\n- 'he' image: H&E slide at several levels (with level 0 corresponding to 40x resolution and level 1 corresponding to 20x resolution), aligned with ST using the Xenium software from 10x Genomics.\n- 'morpho' image: DAPI image at several levels showing each nucleus.\n- 'st' points: Transcripts location on the slide.\n- 'cell_boundaries' shapes: Polygons for cell boundaries with corresponding cell id.\n- 'nucleus_boundaries' shapes: Polygons for nucleus boundaries with same corresponding cell id.\n- 'he_patches' shapes: Coordinates for H&E patches of size 256 px with 64 x overlap at 40x resolution, with metrics (Dice coefficient, Jaccard index, and Panoptic Quality) that compare the given mask with pre-trained CellViT prediction.\n- 'table_cells' table: Table that gives the RNA count for each cell, along with preprocessing layer, cell type annotation, cell id, and clustering.\n- 'table_nuclei' table: Table that gives the RNA count for each nucleus, along with preprocessing layer, cell type annotation, cell id, clustering, and PanNuke label.\n- 'table_combined' table: Table for MFA analysis with RNA count for cytoplasm and for nucleus, along with clustering analysis and cell type annotations.\n- 'features_cellvit' table: Table that gives the nucleus embeddings for each cell using the pre-trained CellViT model as encoder.\n- 'features_phikonv2' table: Table that gives the cell embeddings for each cell using the Phikon-v2 model as encoder.\n- 'features_vit_google' table: Table that gives the cell embeddings for each cell using the ViT based model from Google as encoder.\n- 'table_scvi' table: Table that gives the scVI embeddings for each cell, using scVI model specifically trained for each slide.\n\n\nNOTE: Contents of table_cells and table_nuclei:\nBoth tables are stored as AnnData-like feature tables and share the same internal organization (layers, obs, obsm, obsp). They contain one row per segmented biological cell in the slide, and differ only by the RNA compartment and the presence of an additional Tangram field in table_nuclei. You find in these anndatas:\n\n- 'layers': \n'count' stores the raw integer gene-count matrix; \n'log_norm' stores the library-size-normalized and log-transformed expression used for PCA, kNN graph construction, UMAP, and Leiden clustering.\n\nWarning:\nIn the SpatialData objects (`sdata_final/sdata_{slide_id}.zarr`), RNA count information is stored differently depending on the cell label, for both `table_cells` and `table_nuclei`.\nIf rows corresponding to cells with `final_label == \"Less10\"` are excluded, then:\n* `sdata.tables[name_table].layers[\"count\"]` contains the raw RNA counts.\n* `sdata.tables[name_table].layers[\"log_norm\"]` contains RNA counts processed with `normalize_total` followed by `log1p`.\nFor cells labeled `\"Less10\"`, these layers are not informative, as their values are set to 0 by default. To access RNA counts for these cells, one must look at `.X`, where raw counts are still stored. For all other cells, `.X` instead contains log-normalized RNA counts.\nIn addition, all downstream analyses — including UMAP embeddings, neighborhood graph construction, clustering, and related computations — were performed after excluding cells labeled `\"Less10\"`, so information for these cells is again missing below.\n\n- 'Cell-level metadata ('obs')':\n'cell_id' (unique identifier within the slide);\n'final_label' (harmonized cell-type category used throughout STHELAR, categories are \"Epithelial\", \"Blood_vessel\", \"Fibroblast_Myofibroblast\", \"Myeloid\", \"B_Plasma\", \"T_NK\", \"Melanocyte\", \"Glioblastoma\", \"Specialized\", \"Stem_like\", \"Unknown\", and \"Less10\".);\n'label1', 'label2', 'label3' (intermediate, slide-specific curation levels);\n'transcript_counts' (total detected transcripts per cell);\ngraph-clustering labels of the form 'pca_n{N}_pcs{N_pcs}_leiden_res{res_value}' (Leiden cluster IDs computed after PCA on 'log_norm', typically for 'res_value' in {0.2,0.4,0.6};\nhistology-derived unsupervised cluster IDs 'kmeans_clustersHE_cellvit', 'kmeans_clustersHE_phikonv2', and 'kmeans_clustersHE_vit_google' (k-means on H&E encoder embeddings);\nand CellViT/PanNuke-derived nucleus phenotype fields 'PanNuke_label' and 'PanNuke_proba'.\nIn addition, 'table_nuclei' contains 'ct_tangram' (fine-grained Tangram-predicted cell-type label from nucleus RNA counts).\n\n- 'Multi-dimensional embeddings ('obsm')':\n'spatial' stores the 2D coordinates of each cell in the slide reference frame;\n'X_pca' stores PCA coordinates computed from 'log_norm';\n'X_umap' stores the corresponding UMAP embedding.\n\n- 'Cell-cell graphs ('obsp')':\n'pca_n{N}_pcs{N_pcs}_connectivities' and 'pca_n{N}_pcs{N_pcs}_distances' store the weighted kNN graph (connectivities) and neighbor distances used for Leiden clustering and UMAP, matched to the PCA parameterization indicated in the key.\n\n\n*** 2. A table summarizing all information related to cell-type labels ***\n\nTo enable users to easily access all information related to cell type labels, a summary table is provided for each slide ID. This table compiles, for all cell IDs, the nucleus and whole-cell cell type labels, alternative labels, as well as the associated confidence metrics. The table is available for each slide ID at \"summary_all_labels_per_slide/{slide_id}_cell_metadata.parquet\". It contains the following columns:\n\n- 'cell_id': Unique identifier of the biological cell within the given slide.\n    \n- 'nuclei_ct_tangram': Fine-grained cell-type label predicted by Tangram using nucleus RNA counts.\n- 'nuclei_ct_tangram_group': Grouped version of nuclei_ct_tangram, obtained by mapping Tangram’s fine labels to the harmonized label space used in STHELAR.\n\n- 'nuclei_label1': Curated nucleus-derived label assigned after Tangram-guided and marker-gene-driven refinement, level 1 annotation for nuclei (first-stage label used during refinement; slide-specific granularity).\n- 'nuclei_label2': Curated nucleus-derived label assigned after Tangram-guided and marker-gene-driven refinement, level 2 annotation for nuclei (more precise/secondary label level; slide-specific granularity).\n- 'nuclei_label3': Attempt to label \"cancer\" versus \"normal\" cell, level 3 annotation for nuclei.\n    \n- 'nuclei_final_label': nuclei_label1 harmonized across slides. Categories are \"Epithelial\", \"Blood_vessel\", \"Fibroblast_Myofibroblast\", \"Myeloid\", \"B_Plasma\", \"T_NK\", \"Melanocyte\", \"Glioblastoma\", \"Specialized\", \"Stem_like\", \"Unknown\", and \"Less10\".\n- 'nuclei_final_label_group': Grouped  nuclei_final_label labels, where low-information categories are collapsed (\"Less10\", \"Unknown\", \"Stem_like\" to \"Other\").\n\n- 'cells_label1': Curated whole-cell-derived label assigned after Tangram-guided and marker-gene-driven refinement, level 1 annotation for cells (first-stage label used during refinement; slide-specific granularity).\n- 'cells_label2': Curated whole-cell-derived label assigned after Tangram-guided and marker-gene-driven refinement, level 2 annotation for cells (more precise/secondary label level; slide-specific granularity).\n- 'cells_label3': Attempt to label \"cancer\" versus \"normal\" cell, level 3 annotation for cells.\n    \n- 'cells_final_label': cells_label1 harmonized across slides. Categories are \"Epithelial\", \"Blood_vessel\", \"Fibroblast_Myofibroblast\", \"Myeloid\", \"B_Plasma\", \"T_NK\", \"Melanocyte\", \"Glioblastoma\", \"Specialized\", \"Stem_like\", \"Unknown\", and \"Less10\". These are the labels used in the various analyses.\n- 'cells_final_label_group': Grouped  cells_final_label labels, where low-information categories are collapsed (\"Less10\", \"Unknown\", \"Stem_like\" to \"Other\"). These labels were used to construct the patches for CellViT fine-tuning below.\n    \n- 'cells_transcript_counts': Total number of detected transcripts assigned to the whole cell (library size for that cell; used both for QC and as an RNA-depth proxy).\n    \n- 'cells_singleR': Fine-grained reference-based label predicted by SingleR from whole-cell RNA counts.\n- 'cells_singleR_group': Grouped version of cells_singleR, obtained by mapping SingleR’s fine labels to the harmonized label space used in STHELAR.\n    \n- 'cells_final_label_confidence': Neighborhood purity score = 1 - normalized Shannon entropy of the full kNN label distribution induced by connectivities weights ([0,1]; higher = more locally unambiguous). Also named \"ct_confidence\" in the following analysis.\n- 'cells_final_label_prob': Assigned-label agreement = p_i(assigned label), i.e. the connectivity-weighted fraction of neighbor mass matching the cell’s label. Also named \"ct_support\" in the following analysis.\n    \n- 'cells_final_label_alt1': First alternative label according to the kNN-neighborhood label distribution.\n- 'cells_final_label_alt1_prob': Probability/support associated with cells_final_label_alt1 in the kNN-neighborhood label distribution.\n    \n- 'cells_final_label_alt2': Second alternative label according to the kNN-neighborhood label distribution.\n- 'cells_final_label_alt2_prob': Probability/support associated with cells_final_label_alt2.\n    \n- 'cells_final_label_alt3': Third alternative label according to the kNN-neighborhood label distribution.\n- 'cells_final_label_alt3_prob': Probability/support associated with cells_final_label_alt3.\n    \n- 'cells_knn_row_sum': Total kNN-graph connectivity weight for the cell (row-sum of the Scanpy connectivities matrix, equals the cell’s weighted degree/strength in the neighbor graph, after self-edge removal). Low values indicate weak/absent neighborhood connectivity and can make confidence/support undefined (NaN when row-sum is 0).\n    \n- 'cells_rna_depth_log1p': Log-transformed RNA depth proxy computed as log(1+cells_transcript_counts), providing a stabilized per-cell library-size measure.\n- 'cells_rna_depth_quantile': Within-slide rank-based quantile of RNA depth (in[0,1]), enabling comparison of RNA abundance across cells in the same slide independently of panel size and scale.\n\n- 'combined_final_label': Label obtained from the \"table_combined\" (integration of nuclear and cytoplasmic RNA information using MFA analysis).\n\nNOTE: ct_tangram, label_1, label_2, label_3, final_label, and transcript_counts are the same information provided previously in the table_cells and table_nuclei in '1. A SpatialData object for each slide in .zarr format'.\n\nNOTE: 'cells_final_label_group' is the one used to construct the patches for CellViT fine-tuning below.\n\n\n*** 3. H&E patches with corresponding segmentation and classification masks ***\n\nIn the 'data_40x/data' folder, we provide:\n- 'images.zip': H&E patches for all the slides together, using slide-id_patch-id identification.\n- 'masks_slides' folder: Contains a 'masks_slide-id.npz' file for each slide containing segmentation and cell type classification masks, formatted identically to those in PanNuke.\n- 'annot_dicts_ct_1' folder: Contains the 'label2cat.json' dictionary which maps the final cell labels in sdata to categories in the classification masks, the 'cat2color.json' dictionary which maps each category in the masks to a plotting color for visual inspection, and the 'cat2idx.json' dictionary which maps each category to its corresponding index position within the mask.\n- 'masks_cell_ids_nuclei.zip': Segmentation masks for all the slides together, assigning to each pixel the cell ID corresponding to its nucleus.\n- 'pretrained_CellViT_mask_preds' folder: Contains an 'instance_map_predictions_slide-id.h5' file for each slide with the predicted segmentation for each patch using the pre-trained CellViT model.\n\n- 'patches_overview_sthelar40x.parquet': Global patch-level summary file for all slides together. This file enables rapid dataset-level exploration and filtering without loading the images or per-cell metadata, and provides access to each patch’s coordinates on its originating slide. This Parquet table contains one row per H&E patch and provides spatial location, segmentation quality metrics, and cell-type composition.  \nIt includes the following columns:\n* slide_id: Identifier of the originating whole-slide image (e.g., breast_s0).\n* file_name: Patch filename (`{slide_id}_{patch_number}.png`) (e.g., breast_s0_10.png).\n* xmin, ymin, xmax, ymax: Patch coordinates in slide space.\n* Dice, Jaccard, bPQ: Segmentation quality metrics.\n* T_NK, B_Plasma, Myeloid, Blood_vessel, Fibroblast_Myofibroblast, Epithelial, Specialized, Melanocyte, Other: Number of cells present in the patch for each cell-type label.\n\n\n*** 4. Data for CellViT fine-tuning ***\n\nFor the global dataset, the following element can be found in the 'data_40x/data' folder:\n- 'cell_count.csv': Table summarizing, for each patch_id across all slides, the nucleus count per cell type. It follows the same format as the cell_count.csv file provided by the CellViT authors.\n- 'labels.zip': Segmentation and classification masks for all slides. Unlike the previous masks.npz files, this format follows the CellViT convention, which separates the original mask into an instance mask and a cell type mask.\n- 'patch_metrics.csv': Table presenting the evaluation metrics for each mask, using Dice coefficient, Jaccard index, and Panoptic Quality, and comparing with the predicted masks from the pre-trained CellViT model.\n- 'types.csv': Table giving the tissue type for each patch.\n\nTwo fine-tuning have been done with detailed or grouped cell type classes. We provide for each fine-tuning in 'data_40x/finetuning_CellViT_detailed' or 'data_40x/finetuning_CellViT_grouped' folders:\n- 'cell_count_train.csv', 'cell_count_valid.csv', and 'cell_count_test.csv': Split versions of the cell_count file indicating which patch belongs to the train, validation, or test sets.\n- 'dataset_config.yaml' and 'weight_config.yaml': Configuration files required for fine-tuning CellViT.\n\nIMPORTANT NOTE: These splits (i.e.  'cell_count_train.csv', 'cell_count_valid.csv', and 'cell_count_test.csv') are provided to reproduce the 'CellViT fine-tuning' illustrative experiments presented in the 'Technical validation' section. As noted in the paper, this patch-level splitting with overlap can lead to over-optimistic results. We provide full metadata, including slide_id and patch coordinates, to allow users to implement more robust validation strategies, such as slide-level (WSI) splitting or spatial cross-validation.\n\nIMPORTANT NOTE: The label \"Other\" appears both in the article and in several data files, for instance for nuclei_final_label_group and cells_final_label_group in the summary_all_labels_per_slide/{slide_id}_cell_metadata.parquet files, or in the parquet files patches_overview. The label \"Dead\" appears in some other data files, for example in cell_count.csv. In all cases, however, \"Other\" and \"Dead\" are strictly interchangeable and correspond to exactly the same set of cells. The difference is purely in naming, not in the underlying data. In the manuscript, we consistently use the neutral term \"Other\", whereas \"Dead\" appears only in parts of the code or data. The term \"Dead\" reflects an unverified hypothesis about cell state and may be incorrect for some cells, which is why we deliberately avoid it in the article. As a reminder, this category groups \"Less10\", \"Unknown\", \"Stem_like\" from final_label.\n\n\n*** 5. CellViT fine-tuning outputs ***\n\nIn each fine-tuning directory ('data_40x/finetuning_CellViT_detailed' or 'data_40x/finetuning_CellViT_grouped'), the subfolder 'output' contains all results from the fine-tuning and evaluation processes:\n- 'config.yaml': Configuration file used for CellViT fine-tuning.\n- 'logs.log.1–5': Log files for fine-tuning.\n- 'checkpoint_n.pth': Checkpoint for the best model with n the corresponding epoch number.\n- 'inference_results.json': File containing inference results on the test set.\n- 'inference.log': Log file for inference.\n\n\n*** 6. Analysis of the fine-tuned CellViT models ***\n\nFor each fine-tuning, the resulting model was applied to all slides. Results can be found in the 'data_40x/finetuning_CellViT_detailed/finetuned_model_analysis' or 'data_40x/finetuning_CellViT_grouped/finetuned_model_analysis'folder, that contains a subfolder for each slide ID with the following files:\n- 'config.yaml': Configuration from the fine-tuning.\n- 'inference_results.json': Prediction results.\n- 'inference.log': Log file for inference.\n- 'inference_instance_map_predictions.h5': Predicted segmentation mask for each patch for all the slides.\n- 'cell_features_cellvit.npy': Nucleus embeddings for each cell using the given fine-tuned CellViT model as encoder.\n- 'pixel_class_gt_mask.pth': The pixel count for each cell type category for each nucleus using Xenium based segmentation mask instead of the predicted one.\n\n\n*** 7. Additional data ***\n\nAll analyses were conducted on H&E patches at 40x resolution. However, 'images.zip', 'labels.zip', 'masks_cell_ids_nuclei.zip', 'instance_map_predictions_all_slides.h5' (segmentation prediction using pre-trained CellViT), 'patches_overview_sthelar20x.parquet', 'patch_metrics.csv', 'cell_count.csv', and 'types.csv' are also provided at 20x resolution in 'data_20x/data' folder for research purposes.\n\n\n*** NB: HuggingFace access ***\n\nTo facilitate access to this dataset for model training tasks, we also extracted a subset containing only the H&E patch images, along with their masks, and uploaded it to HuggingFace in parquet format. The 40x resolution is available at https://huggingface.co/datasets/FelicieGS/STHELAR_40x, and the 20x resolution at https://huggingface.co/datasets/FelicieGS/STHELAR_20x.\n\n\n Keywords Whole Slide Image Keywords Cell type annotation Keywords Spatial Transcriptomics Keywords Cancer Keywords Deep Learning Keywords Segmentation Acknowledgements \nQuentin Blampey, Stergios Christodoulidis, Paul-Henry Cournède designed the study.  Félicie Giraud-Sauveur conducted the study, developed the source code, developed the annotation method, ran all the tests, published the data and library, wrote the manuscript. Arianna Marinello is the pathologist who performed the visual qualitative annotation. Quentin Blampey, Hakim Benkirane, Stergios Christodoulidis provided technical support. Paul-Henry Cournède, Stergios Christodoulidis supervised the study.\n\nThe original data come from publicly available datasets provided by 10x Genomics. License CC BY 4.0 URL https://creativecommons.org/licenses/by/4.0/legalcode Funding statement \nThis work was granted access to the HPC resources of IDRIS under the allocation 2025-AD011015999 made by GENCI.\nThis work has benefited from the ANR grant under the investment program France 2030: PRISM ANR-23-IAHU-0002. https://github.com/MICS-Lab/STHELAR Description Code for generating the dataset and validation analysis https://github.com/MICS-Lab/CellViT_for_STHELAR Description Code from the original CellViT repository and adapted for our dataset https://huggingface.co/datasets/FelicieGS/STHELAR_40x Description HuggingFace dataset containing H&E patches at 40x and associated masks https://huggingface.co/datasets/FelicieGS/STHELAR_20x Description HuggingFace dataset containing H&E patches at 20x and associated masks funding-3 Funding Agency IDRIS grant_id 2025-AD011015999 Funding Agency ANR grant_id ANR-23-IAHU-0002 biosample-4 Biosample Title Human tissues Organism Homo sapiens (human) Description \nSingle-cell spatial transcriptomics (ST) data paired with corresponding H&E images were acquired from the 10x Genomics platform (public datasets), specifically using datasets generated with Xenium technology that provides both data modalities. The data selection was restricted to human FFPE tissue sections. Manual quality inspection was performed on each slide using the Xenium Explorer software to assess tissue alignment and integrity. \n\nData originates from 10x Genomics under the CC BY 4.0 license, with the following references:\n- bone_s0: Human Bone and Bone Marrow Data with Custom Add-on Panel (April 3, 2024). Retrieved from https://www.10xgenomics.com/datasets/human-bone-and-bone-marrow-data-with-custom-add-on-panel-1-standard \n- bone_marrow_s0: Human Bone and Bone Marrow Data with Custom Add-on Panel (April 3, 2024). Retrieved from https://www.10xgenomics.com/datasets/human-bone-and-bone-marrow-data-with-custom-add-on-panel-1-standard\n- bone_marrow_s1: Human Bone and Bone Marrow Data with Custom Add-on Panel (April 3, 2024). Retrieved from https://www.10xgenomics.com/datasets/human-bone-and-bone-marrow-data-with-custom-add-on-panel-1-standard \n- brain_s0: FFPE Human Brain Cancer Data with Human Immuno-Oncology Profiling Panel and Custom Add-on (April 15, 2024). Retrieved from https://www.10xgenomics.com/datasets/ffpe-human-brain-cancer-data-with-human-immuno-oncology-profiling-panel-and-custom-add-on-1-standard \n- breast_s0: Xenium FFPE Human Breast with Custom Add-on Panel (April 18, 2023). Retrieved from https://www.10xgenomics.com/datasets/xenium-ffpe-human-breast-with-custom-add-on-panel-1-standard \n- breast_s1: FFPE Human Breast using the Entire Sample Area (January 22, 2023). Retrieved from https://www.10xgenomics.com/datasets/ffpe-human-breast-using-the-entire-sample-area-1-standard \n- breast_s3: FFPE Human Breast with Custom Add-on Panel (January 22, 2023). Retrieved from https://www.10xgenomics.com/datasets/ffpe-human-breast-with-custom-add-on-panel-1-standard \n- breasts6: FFPE Human Breast Cancer with 5K Human Pan Tissue and Pathways Panel plus 100 Custom Genes (October 24, 2024). Retrieved from https://www.10xgenomics.com/datasets/xenium-prime-ffpe-human-breast-cancer \n- cervix_s0: FFPE Human Cervical Cancer with 5K Human Pan Tissue and Pathways Panel plus 100 Custom Genes (September 4, 2024). Retrieved from https://www.10xgenomics.com/datasets/xenium-prime-ffpe-human-cervical-cancer \n- colon_s1: Human Colon Preview Data (Xenium Human Colon Gene Expression Panel) (August 29, 2023). Retrieved from https://www.10xgenomics.com/datasets/human-colon-preview-data-xenium-human-colon-gene-expression-panel-1-standard \n- colon_s2: FFPE Human Colorectal Cancer Data with Human Immuno-Oncology Profiling Panel and Custom Add-on (May 14, 2024). Retrieved from https://www.10xgenomics.com/datasets/ffpe-human-colorectal-cancer-data-with-human-immuno-oncology-profiling-panel-and-custom-add-on-1-standard \n- heart_s0: Human Heart Data with Xenium Human Multi-Tissue and Cancer Panel (March 5, 2024). Retrieved from https://www.10xgenomics.com/datasets/human-heart-data-xenium-human-multi-tissue-and-cancer-panel-1-standard \n- kidney_s0: Human Kidney Preview Data (Xenium Human Multi-Tissue and Cancer Panel) (July 17, 2023). Retrieved from https://www.10xgenomics.com/datasets/human-kidney-preview-data-xenium-human-multi-tissue-and-cancer-panel-1-standard \n- kidney_s1: Human Kidney Preview Data (Xenium Human Multi-Tissue and Cancer Panel) (July 17, 2023). Retrieved from https://www.10xgenomics.com/datasets/human-kidney-preview-data-xenium-human-multi-tissue-and-cancer-panel-1-standard \n- liver_s0: Human Liver Data with Xenium Human Multi-Tissue and Cancer Panel (May 3, 2024). Retrieved from https://www.10xgenomics.com/datasets/human-liver-data-xenium-human-multi-tissue-and-cancer-panel-1-standard \n- liver_s1: Human Liver Data with Xenium Human Multi-Tissue and Cancer Panel (May 3, 2024). Retrieved from https://www.10xgenomics.com/datasets/human-liver-data-xenium-human-multi-tissue-and-cancer-panel-1-standard \n- lung_s1: FFPE Human Lung Cancer Data with Human Immuno-Oncology Profiling Panel and Custom Add-on (May 14, 2024). Retrieved from https://www.10xgenomics.com/datasets/ffpe-human-lung-cancer-data-with-human-immuno-oncology-profiling-panel-and-custom-add-on-1-standard \n- lung_s3: Post-Xenium Technical Note: Xenium v1 and Xenium Prime 5K for FFPE Human Lung Cancer (November 6, 2024). Retrieved from https://www.10xgenomics.com/datasets/xenium-human-lung-cancer-post-xenium-technote \n- lymph_node_s0: Preview Data: FFPE Human Lymph Node with 5K Pan Tissue and Pathways Panel (May 28, 2024). Retrieved from https://www.10xgenomics.com/datasets/preview-data-xenium-prime-gene-expression \n- ovary_s0: FFPE Human Ovarian Cancer Data with Human Immuno-Oncology Profiling Panel and Custom Add-on (May 14, 2024). Retrieved from https://www.10xgenomics.com/datasets/ffpe-human-ovarian-cancer-data-with-human-immuno-oncology-profiling-panel-and-custom-add-on-1-standard \n- ovary_s1: FFPE Human Ovarian Cancer with 5K Human Pan Tissue and Pathways Panel plus 100 Custom Genes (December 17, 2024). Retrieved from https://www.10xgenomics.com/datasets/xenium-prime-ffpe-human-ovarian-cancer \n- pancreatic_s0: Pancreatic Cancer with Xenium Human Multi-Tissue and Cancer Panel (November 16, 2023). Retrieved from https://www.10xgenomics.com/datasets/pancreatic-cancer-with-xenium-human-multi-tissue-and-cancer-panel-1-standard \n- pancreatic_s1: FFPE Human Pancreatic Ductal Adenocarcinoma Data with Human Immuno-Oncology Profiling Panel (May 14, 2024). Retrieved from https://www.10xgenomics.com/datasets/ffpe-human-ductal-adenocarcinoma-data-with-human-immuno-oncology-profiling-panel-1-standard \n- pancreatic_s2: FFPE Human Pancreas with Xenium Multimodal Cell Segmentation (March 19, 2024). Retrieved from https://www.10xgenomics.com/datasets/ffpe-human-pancreas-with-xenium-multimodal-cell-segmentation-1-standard\n- prostate_s0: Preview Data: FFPE Human Prostate Adenocarcinoma with 5K Human Pan Tissue and Pathways Panel (July 31, 2024). Retrieved from https://www.10xgenomics.com/datasets/xenium-prime-ffpe-human-prostate \n- skin_s1: Human Skin Data with Xenium Human Multi-Tissue and Cancer Panel (March 5, 2024). Retrieved from https://www.10xgenomics.com/datasets/human-skin-data-xenium-human-multi-tissue-and-cancer-panel-1-standard \n- skin_s2: Human Skin Preview Data (Xenium Human Skin Gene Expression Panel with Custom Add-On) (December 7, 2023). Retrieved from https://www.10xgenomics.com/datasets/human-skin-preview-data-xenium-human-skin-gene-expression-panel-add-on-1-standard \n- skin_s3: Human Skin Preview Data (Xenium Human Skin Gene Expression Panel) (September 18, 2023). Retrieved from https://www.10xgenomics.com/datasets/human-skin-preview-data-xenium-human-skin-gene-expression-panel-1-standard \n- skin_s4: Preview Data: FFPE Human Skin Primary Dermal Melanoma with 5K Human Pan Tissue and Pathways Panel (July 31, 2024). Retrieved from https://www.10xgenomics.com/datasets/xenium-prime-ffpe-human-skin \n- tonsil_s0: Human Tonsil Data with Xenium Human Multi-Tissue and Cancer Panel (March 5, 2024). Retrieved from https://www.10xgenomics.com/datasets/human-tonsil-data-xenium-human-multi-tissue-and-cancer-panel-1-standard \n- tonsil_s1: Human Tonsil Data with Xenium Human Multi-Tissue and Cancer Panel (March 5, 2024). Retrieved from https://www.10xgenomics.com/datasets/human-tonsil-data-xenium-human-multi-tissue-and-cancer-panel-1-standard  Biological entity \nThe dataset comprises 31 human Xenium FFPE sections across 16 tissue types (breast, bone, bone marrow, brain, cervix, colon, heart, kidney, liver, lung, lymph node, ovarian, pancreatic, prostate, skin, tonsil), for 22 cancerous and 9 non-cancerous patients.\n\nMore specifically, for each slide (with in order slide_id / tissue / disease or information):\n- bone_s0 / bone / healthy\n- bone_marrow_s0 / bone marrow / acute lymphoid leukemia\n- bone_marrow_s1 / bone marrow / healthy\n- brain_s0 / brain / brain cancer (glioblastoma multiforme)\n- breast_s0 / breast / breast cancer (ductal carcinoma)\n- breast_s1 / breast / breast cancer (ductal carcinoma)\n- breast_s3 / breast / breast cancer (lobular carcinoma)\n- breast_s6 / breast / breast cancer (II-A, T1cN1MX))\n- cervix_s0 / cervix / cervical cancer (III-B,T1bN1MX)\n- colon_s1 / colon / colorectal cancer adenocarcinoma\n- colon_s2 / colon / colorectal cancer adenocarcinoma\n- heart_s0 / heart / healthy\n- kidney_s0 / kidney / healthy\n- kidney_s1 / kidney / papillary renal cell carcinoma (PRCC)\n- liver_s0 / liver / healthy\n- liver_s1 / liver / liver cancer\n- lung_s1 / lung / lung cancer (NSCLC)\n- lung_s3 / lung / invasive acinar adenocarcinoma (IB,T2aN0MX)\n- lymph_node_s0 / lymph node / reactive lymph node (left axilla)\n- ovary_s0 / ovary / ovary serous carcinoma\n- ovary_s1 / ovary / ovarian papillary serous carcinoma (III-B, T3bN0MX)\n- pancreatic_s0 / pancreatic / pancreatic adenocarcinoma\n- pancreatic_s1 / pancreatic / pancreatic ductal adenocarcinoma\n- pancreatic_s2 / pancreatic / pancreatic adenocarcinoma\n- prostate_s0 / prostate / prostate adenocarcinoma\n- skin_s1 / skin / healthy\n- skin_s2 / skin / melanoma\n- skin_s3 / skin / melanoma\n- skin_s4 / skin / primary dermal melanoma\n- tonsil_s0 / tonsil / reactive follicular hyperplasia\n- tonsil_s1 / tonsil / follicular lymphoid hyperplasia specimen-5 Specimen Title ST and H&E Sample preparation protocol \n* Tissues were prepared following the Demonstrated Protocols Xenium In Situ for FFPE - Tissue Preparation Guide CG000578 (https://www.10xgenomics.com/support/in-situ-gene-expression/documentation/steps/tissue-prep-ffpe/xenium-in-situ-spatial-profiling-for-ffpe-%E2%80%93-tissue-preparation-guide) and Xenium In Situ for FFPE Tissues – Deparaffinization & Decrosslinking CG000580 (https://www.10xgenomics.com/support/instruments/xenium-analyzer/xenium-in-situ-for-ffpe-tissues-%E2%80%93-deparaffinization-decrosslinking).\n\n* Post-instrument processing followed the Demonstrated Protocol Xenium In Situ Gene Expression - Post-Xenium Analyzer H&E Staining CG000613 (https://www.10xgenomics.com/support/in-situ-gene-expression/documentation/steps/assay/xenium-in-situ-gene-expression-h-e-staining).\n\n* Additional information on 10x Genomics is also provided in the following slides:\n\n- bone_s0: Human Bone was decalcified for approximately 3 weeks with 0.5M EDTA in 50 mL conical stored at 4°C. EDTA was replenished tri-weekly to minimize reagent degradation. \n\n- bone_marrow_s0, bone_marrow_s1: No decalcification necessary. Proceeded directly with tissue processing and paraffin embedding. \n\n- bone_s0, bone_marrow_s0, bone_marrow_s1, colon_s2, lung_s1, ovary_s0, pancreatic_s1: Probe hybridization, washing, ligation, and amplification were performed following the Xenium In Situ Gene Expression User Guide CG000582 (https://www.10xgenomics.com/support/in-situ-gene-expression/documentation/steps/assay/xenium-in-situ-gene-expression-probe-hybridization-ligation-amplification).\n\n- brain_s0, pancreatic_s2: Probe hybridization, washing, ligation, amplification, and cell segmentation staining were performed following the Xenium In Situ Gene Expression with Cell Segmentation Staining User Guide CG000749 (https://www.10xgenomics.com/support/in-situ-gene-expression/documentation/steps/assay/xenium-in-situ-gene-expression-with-morphology-based-cell-segmentation-staining-user-guide).\n\n- breast_s6, cervix_s0, lung_s3, ovary_s1, prostate_s0, skin_s4: Probe hybridization, washing, ligation, amplification, and cell segmentation staining were performed following the Xenium Prime In Situ Gene Expression with optional Cell Segmentation Staining User Guide CG000760 (https://www.10xgenomics.com/support/in-situ-gene-expression/documentation/steps/assay/xenium-prime-in-situ-gene-expression-with-optional-cell-segmentation-staining-user-guide).\n\n- lymph_node_s0: Probe hybridization, washing, ligation, amplification, and cell segmentation staining were performed following a development version of the Xenium Prime In Situ Gene Expression with optional Cell Segmentation Staining User Guide.  image-acquisition-6 Image acquisition Title Xenium technology Imaging instrument \nXenium Analyzer (10x Genomics instrument) Image acquisition parameters \nThe instrument run was performed following the Xenium Analyzer User Guide CG000584 (https://www.10xgenomics.com/support/in-situ-gene-expression/documentation/instruments/xenium-analyzer/xenium-analyzer-user-guide).\nThe on-instrument analysis was run with Xenium Onboard Analysis with following versions:\n- bone_s0: v1.9.0.\n- bone_marrow_s0: v1.9.0.\n- bone_marrow_s1: v1.9.0.\n- brain_s0: v2.0.0.\n- breast_s0: v1.3.\n- breast_s1: v1.0.2.\n- breast_s3: v1.0.2.\n- breast_s6: v3.0.0.\n- cervix_s0: v3.0.0.\n- colon_s1: v1.6.0.\n- colon_s2: v2.0.0.\n- heart_s0: v1.9.0.\n- kidney_s0: v1.5.0.\n- kidney_s1: v1.5.0.\n- liver_s0: v1.9.0.\n- liver_s1: v1.9.0.\n- lung_s1: v2.0.0.\n- lung_s3: v3.0.0.\n- lymph_node_s0: v3.0.0.\n- ovary_s0: v2.0.0.\n- ovary_s1: v3.0.0.\n- pancreatic_s0: v1.6.0.\n- pancreatic_s1: v2.0.0.\n- pancreatic_s2: v2.0.0.\n- prostate_s0: v3.0.0.\n- skin_s1: v1.9.0.\n- skin_s2: v1.7.0. The data were reanalyzed with Xenium Ranger to reduce false positive cells in the dermis using the xeniumranger resegment pipeline and a --dapi-filter of 400.\n- skin_s3: v1.6.0.\n- skin_s4: v3.0.0.\n- tonsil_s0: v1.9.0.\n- tonsil_s1: v1.9.0. Imaging method bright-field microscopy Imaging method fluorescence microscopy image-analysis-8 Image analysis Title Overall analysis Image analysis overview \n##### 1. Dataset Construction #####\n\n** Data Acquisition **\nSingle-cell spatial transcriptomics (ST) data and corresponding hematoxylin and eosin (H&E) whole slide images (WSIs) were acquired from human formalin-fixed paraffin-embedded (FFPE) tissues using the Xenium technology platform (10x Genomics). Quality inspection and precise alignment between ST and H&E data were performed using Xenium Explorer software, ensuring accurate spatial correspondence through manual annotation of matching points across modalities. Slides failing alignment standards were excluded. Subsequently, data were converted into SpatialData objects compatible with Python-based analyses, leveraging tools from the Scverse consortium and the Sopa library. Default nuclear and cellular segmentations, along with default transcript count tables for cell boundaries, were retained. Nuclear transcript counts were determined using the Aggregator tool from Sopa. Cell identifiers remained consistent across all data.\n\n** Cell Type Annotation **\nCell type annotation initially used Tangram, a method that learns spatial alignment between sc/snRNA-seq data and a reference spatial dataset, and tailored for ST datasets characterized by limited gene coverage. DISCO platform datasets, which provide Deeply Integrated human Single-Cell Omics data organized by tissue, were used as references for each tissue. Tangram annotations were subsequently refined through slide-specific clustering analyses. Cells with fewer than 10 transcripts were filtered out, followed by normalization, log-transformation, and dimensionality reduction using Principal Component Analysis (PCA). Clustering via the Leiden algorithm and visualization using Uniform Manifold Approximation and Projection (UMAP) enabled refined annotation informed by differential gene expression analyses. Final annotations were standardized across all slides into the following categories:\n- \"Epithelial\": Includes epithelial cells specific to various tissues (e.g., pancreatic acinar, ductal, and islet cells).\n- \"Blood_vessel\": Encompasses endothelial cells, pericytes, and smooth muscle cells.\n- \"Fibroblast_Myofibroblast\": Includes fibroblasts, myofibroblasts, and mesenchymal stromal cells.\n- \"Myeloid\": Consists of macrophages, monocytes, dendritic cells, neutrophils, mast cells, and plasmacytoid dendritic cells (pDCs). Due to their dual lineage characteristics and rarity, pDCs were grouped here, with minimal expected impact.\n- \"B_Plasma\": Combines B lymphocytes and plasma cells.\n- \"T_NK\": Includes T lymphocytes and natural killer (NK) cells.\n- \"Melanocyte\": Melanocytes or melanoma cells, specific to skin tissue.\n- \"Glioblastoma\": Glioblastoma cells, specific to brain tissue.\n- \"Specialized\": Tissue-specific cells (e.g., cardiomyocytes, osteoblasts, osteoclasts, certain endocrine cells).\n- \"Stem_like\": Cells lacking specific marker genes.\n- \"Unknown\": Cells lacking specific marker genes.\n- \"Less10\": Cells with fewer than 10 RNAs.\nThese final labels are available in the \"final_label\" column within the \"table_cells\" observations for each SpatialData object.\nNote: A column named \"label3\" attempts to differentiate cancer cells from normal cells, but confidence in this annotation remains low due to inherent challenges in distinguishing these categories based solely on RNA expression and pathway analyses. This label is available but should be used cautiously.\n\n** Generation of H&E Patches with Corresponding Masks **\nTo facilitate deep learning model training, each H&E slide was divided into patches of 256×256 pixels with 64-pixel overlaps at 40× magnification. Some slides exhibiting specialized characteristics (\"bone_s0\", \"bone_marrow_s0\", \"bone_marrow_s1\", and \"brain_s0\") were excluded to maintain dataset generalizability. Corresponding segmentation and classification masks were generated using the finalized cell labels. At this stage, the categories \"Stem_like\", \"Unknown\", and \"Less10\" were combined into a single category termed \"Dead\" (or \"Other, this is completely similar). This category serves as a proxy for dead cells due to their typically low RNA content, although pathway analyses did not provide conclusive validation. Thus, in related publication, we prefer to use the term \"Other\" for this combined category which is safer. Final labels for masks are: \"Epithelial\", \"Blood_vessel\", \"Fibroblast_Myofibroblast\", \"Myeloid\", \"B_Plasma\", \"T_NK\", \"Melanocyte\", \"Specialized\", and \"Other\". Segmentation employed nuclear boundaries, consistent with typical deep learning applications. Masks are available in two formats (PanNuke dataset format or CellViT model input format). The dataset is also available at 20× magnification for research purposes.\n\n##### 2. Technical Validation #####\n\n** Cell Type Annotation **\nCell type annotations were first validated by examining the effects of boundary definitions. Comparisons of final labels were conducted between annotations derived from nuclear transcript counts, whole-cell transcript counts, and a combined Multiple Factor Analysis (MFA) of nuclear and cytoplasmic counts. Additionally, qualitative validation was performed using the single-cell Variational Inference (scVI) model, trained independently for each slide, with embeddings compared to the final labels via UMAP visualization. An expert pathologist further validated annotations qualitatively, using the napari visualization tool (Scverse) alongside corresponding H&E images.\n\n** Segmentation and Alignment **\nThe quality of segmentation and spatial alignment between ST data and H&E images was quantitatively evaluated by comparing segmentation masks from Xenium data with segmentation predictions from the pre-trained CellViT model (SAM-H/HoVer-Net). The CellViT model, based on Vision Transformers (ViT), predicts nuclear segmentation and annotations from WSIs. Evaluation metrics included the Dice coefficient, Jaccard index, and Panoptic Quality (bPQ). Segmentation quality scores were incorporated into the dataset, enabling dynamic filtering if necessary.\n\n** Dataset Utility **\n- Performance of the pre-trained CellViT model (initially trained on PanNuke) was first evaluated on our dataset using segmentation masks from Xenium data. \n- Then, the utility of our dataset was demonstrated by fine-tuning the CellViT model using two dataset versions: one with previous detailed cell types, and another with broader classifications. Quality filtering (Jaccard score >0.45) retained 508,483 patches from an initial 587,555. Fine-tuning used pre-trained CellViT-SAM-H model weights. \n- Comparative analyses were also conducted between RNA-derived clusters and cell-level embeddings extracted from H&E images using five H&E encoder models: pre-trained CellViT, fine-tuned CellViT with detailed or grouped labels, Phikon-v2, and Google’s ViT. H&E cell embeddings were clustered using k-means and cluster were visualized on RNA derived UMAPs, highlighting that fine-tuned CellViT embeddings exhibited superior alignment with RNA-derived embeddings.\n\nNote1: All data for technical validation are also available.\n\nNote2: Additional details are provided in the future associated publication. study-component-10 Study Component Name STHELAR Description A large-scale cell-type annotated dataset derived from 10x Genomics Xenium slides linking ST and H&E data. It includes 31 WSIs with 16 tissue types, each processed into a comprehensive multi-modal object. For each slide, we provide per-cell and per-nucleus transcript count tables with clustering results and standardized cell type annotations, scVI-derived embeddings, cell feature vectors from multiple H&E encoders, nuclei and cell segmentation boundaries, co-registered DAPI and H&E images, and patch coordinates with segmentation metrics. These components are included in a single SpatialData object per slide, with unique identifiers per cell and nucleus to facilitate integration, visualization, and downstream analysis using the Scverse ecosystem. In total, the dataset contains over 11 million individual cells before patch extraction. The dataset also includes 587,555 H&E image patches at 40x with segmentation and cell type classification masks. For research purposes, H&E patches with corresponding masks are also provided at 20x resolution. File List STHELAR.json associations-11 Associations Biosample Human tissues Specimen ST and H&E Image acquisition Xenium technology Image correlation H&E and ST alignment Image analysis Overall analysis author-1 Author Name Félicie Giraud-Sauveur E-mail felicie.giraud-sauveur@centralesupelec.fr Role corresponding author ORCID 0009-0006-9029-180X affiliation o2 True Author Name Paul-Henry Cournède E-mail paul-henry.cournede@centralesupelec.fr Role corresponding author ORCID 0000-0001-7679-6197 affiliation o2 True Author Name Stergios Christodoulidis E-mail stergios.christodoulidis@centralesupelec.fr Role corresponding author ORCID 0000-0002-8773-1070 affiliation o2 True image-correlation-0-removable Image correlation Title H&E and ST alignment Transformation matrix \nTo align H&E data with DAPI and ST data, transformation matrices were generated through manual annotation of matching points across modalities using the Xenium Explorer, and applied via SOPA/Scverse Python tools. Spatial and temporal alignment \nSee tutorial at https://www.10xgenomics.com/support/software/xenium-explorer/latest/tutorials/xe-image-alignment o2 organisation Name CentraleSupélec - Université Paris-Saclay Publication Title Giraud-Sauveur, F., Blampey, Q., Benkirane, H. et al. STHELAR, a multi-tissue dataset linking spatial transcriptomics and histology for cell type annotation. Sci Data (2026). https://doi.org/10.1038/s41597-026-06937-6 submission",
+    "confidence_score": 0.827,
+    "xenium_confidence": 0.78,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:41.813444Z",
+    "last_checked_at": "2026-09-07T08:24:26.440178Z",
     "source": "biostudies"
   },
   {
@@ -506,7 +517,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-09-06T07:58:32.355354Z",
+    "last_checked_at": "2026-09-07T08:24:11.750323Z",
     "source": "biostudies"
   },
   {
@@ -651,7 +662,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-09-06T07:58:31.192123Z",
+    "last_checked_at": "2026-09-07T08:24:10.973635Z",
     "source": "biostudies"
   },
   {
@@ -730,7 +741,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-09-06T07:58:28.363534Z",
+    "last_checked_at": "2026-09-07T08:24:08.724027Z",
     "source": "biostudies"
   },
   {
@@ -827,7 +838,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-09-06T07:58:26.799870Z",
+    "last_checked_at": "2026-09-07T08:24:07.801976Z",
     "source": "biostudies"
   },
   {
@@ -918,7 +929,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-09-06T07:58:26.612596Z",
+    "last_checked_at": "2026-09-07T08:24:07.678244Z",
     "source": "biostudies"
   },
   {
@@ -1009,7 +1020,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-09-06T07:58:26.306532Z",
+    "last_checked_at": "2026-09-07T08:24:07.470115Z",
     "source": "biostudies"
   },
   {
@@ -1075,7 +1086,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-09-06T07:57:22.908797Z",
+    "last_checked_at": "2026-09-07T08:21:34.872411Z",
     "source": "crossref"
   },
   {
@@ -1141,7 +1152,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-09-06T07:57:22.908732Z",
+    "last_checked_at": "2026-09-07T08:21:34.872330Z",
     "source": "crossref"
   },
   {
@@ -1207,7 +1218,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-09-06T07:57:22.908699Z",
+    "last_checked_at": "2026-09-07T08:21:34.872268Z",
     "source": "crossref"
   },
   {
@@ -1273,7 +1284,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-09-06T07:57:22.908685Z",
+    "last_checked_at": "2026-09-07T08:21:34.872249Z",
     "source": "crossref"
   },
   {
@@ -1339,7 +1350,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-09-06T07:57:21.475740Z",
+    "last_checked_at": "2026-09-07T08:21:31.666487Z",
     "source": "crossref"
   },
   {
@@ -1405,7 +1416,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654325Z",
-    "last_checked_at": "2026-09-06T07:57:21.475707Z",
+    "last_checked_at": "2026-09-07T08:21:31.666443Z",
     "source": "crossref"
   },
   {
@@ -1471,7 +1482,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-09-06T07:57:21.475462Z",
+    "last_checked_at": "2026-09-07T08:21:31.666114Z",
     "source": "crossref"
   },
   {
@@ -1537,7 +1548,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-09-06T07:57:21.475360Z",
+    "last_checked_at": "2026-09-07T08:21:31.665928Z",
     "source": "crossref"
   },
   {
@@ -1603,7 +1614,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-09-06T07:57:21.474876Z",
+    "last_checked_at": "2026-09-07T08:21:31.665893Z",
     "source": "crossref"
   },
   {
@@ -1669,7 +1680,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-09-06T07:57:21.474658Z",
+    "last_checked_at": "2026-09-07T08:21:31.665606Z",
     "source": "crossref"
   },
   {
@@ -1735,7 +1746,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-09-06T07:57:21.474641Z",
+    "last_checked_at": "2026-09-07T08:21:31.665585Z",
     "source": "crossref"
   },
   {
@@ -1801,7 +1812,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-09-06T07:56:44.531526Z",
+    "last_checked_at": "2026-09-07T08:20:56.233839Z",
     "source": "europe_pmc"
   },
   {
@@ -1867,7 +1878,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-09-06T07:56:40.019953Z",
+    "last_checked_at": "2026-09-07T08:20:51.280391Z",
     "source": "europe_pmc"
   },
   {
@@ -1982,7 +1993,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-09-06T07:56:39.346021Z",
+    "last_checked_at": "2026-09-07T08:20:50.621415Z",
     "source": "europe_pmc"
   },
   {
@@ -2199,7 +2210,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.382543Z",
-    "last_checked_at": "2026-09-06T07:56:38.989657Z",
+    "last_checked_at": "2026-09-07T08:20:50.357437Z",
     "source": "europe_pmc"
   },
   {
@@ -2446,7 +2457,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-09-06T07:56:38.726471Z",
+    "last_checked_at": "2026-09-07T08:20:49.963313Z",
     "source": "europe_pmc"
   },
   {
@@ -2909,7 +2920,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-09-06T07:56:30.630827Z",
+    "last_checked_at": "2026-09-07T08:20:40.507980Z",
     "source": "europe_pmc"
   },
   {
@@ -3282,7 +3293,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721553Z",
-    "last_checked_at": "2026-09-06T07:55:33.560767Z",
+    "last_checked_at": "2026-09-07T08:19:47.386689Z",
     "source": "europe_pmc"
   },
   {
@@ -3385,7 +3396,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-09-06T07:55:32.100148Z",
+    "last_checked_at": "2026-09-07T08:19:44.384745Z",
     "source": "europe_pmc"
   },
   {
@@ -3451,7 +3462,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-09-06T07:55:29.604323Z",
+    "last_checked_at": "2026-09-07T08:19:43.874751Z",
     "source": "europe_pmc"
   },
   {
@@ -3517,7 +3528,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-09-06T07:55:29.604079Z",
+    "last_checked_at": "2026-09-07T08:19:43.874432Z",
     "source": "europe_pmc"
   },
   {
@@ -3620,7 +3631,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721739Z",
-    "last_checked_at": "2026-09-06T07:55:29.331779Z",
+    "last_checked_at": "2026-09-07T08:19:43.128322Z",
     "source": "europe_pmc"
   },
   {
@@ -3686,7 +3697,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-09-06T07:55:26.009420Z",
+    "last_checked_at": "2026-09-07T08:19:42.949572Z",
     "source": "europe_pmc"
   },
   {
@@ -3752,7 +3763,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.722277Z",
-    "last_checked_at": "2026-09-06T07:55:17.989167Z",
+    "last_checked_at": "2026-09-07T08:19:35.669908Z",
     "source": "europe_pmc"
   },
   {
@@ -3818,7 +3829,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721331Z",
-    "last_checked_at": "2026-09-06T07:55:17.988851Z",
+    "last_checked_at": "2026-09-07T08:19:35.668999Z",
     "source": "europe_pmc"
   },
   {
@@ -3884,73 +3895,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-02T07:57:24.426652Z",
-    "last_checked_at": "2026-09-06T07:55:17.981952Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma.",
-    "doi": "10.1007/s00262-026-04487-9",
-    "pmid": "42406139",
-    "pmcid": null,
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-07-06",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/42406139",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "validation_dataset",
-    "xenium_reason": "Xenium is explicitly used for validation",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma. <h4>Background and aims</h4>The conserved human correlate of interleukin-18 receptor 1 (IL-18R1)-associated immune states in hepatocellular carcinoma (HCC) remains undefined. We aimed to identify a minimal, reproducible, immune-state component associated with IL18R1 across independent human HCC cohorts and evaluate its clinical relevance.<h4>Methods</h4>Publicly available single-cell RNA sequencing datasets from five independent HCC cohorts were analyzed using a unified framework. Paired tumor-adjacent cohorts were prioritized for primary analyses, whereas tumor-only cohorts served as supportive datasets. CD8 T cells were stratified by IL18R1 expression, and tumor-specific enrichment was quantified using difference-in-differences. We validated the spatial transcriptomics using a murine liver tumor Xenium dataset. Clinical relevance was evaluated using The Cancer Genome Atlas Liver Hepatocellular Carcinoma (TCGA-LIHC) bulk RNA-seq data.<h4>Results</h4>IL18R1-positive CD8 T cells exhibited a tumor-specific, C-C motif chemokine ligand 5 (CCL5)-centered cytotoxic transcriptional program, consistently enriched across datasets. Alternative IL18R1 stratification confirmed the identified immune program's robustness. Spatial transcriptomics localized this cytotoxic state in tumor-associated CD8 T cells and highlighted increased expression of Ccl5 and Cxcr3. Tumor-only cohorts demonstrated substantial heterogeneity, highlighting the importance of paired cohort design. In TCGA-LIHC, a composite CCL5-centered cytotoxic core score, not CCL5 alone, was associated with improved overall survival, although this attenuated after adjusting for clinical covariates.<h4>Conclusions</h4>The dominant human correlate of an IL18R1-associated immune state in HCC is a compact, CCL5-centered CD8 cytotoxic module, not a broad inflammatory response. This spatially validated unit provides a reproducible framework for HCC immune-state characterization and stratification.",
-    "confidence_score": 0.84,
-    "xenium_confidence": 0.82,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-09-06T07:55:17.981173Z",
+    "last_checked_at": "2026-09-07T08:19:35.660331Z",
     "source": "europe_pmc"
   },
   {
@@ -4016,7 +3961,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718322Z",
-    "last_checked_at": "2026-09-06T07:55:17.980591Z",
+    "last_checked_at": "2026-09-07T08:19:35.659693Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma.",
+    "doi": "10.1007/s00262-026-04487-9",
+    "pmid": "42406139",
+    "pmcid": null,
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-07-06",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42406139",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "validation_dataset",
+    "xenium_reason": "Xenium is explicitly used for validation",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma. <h4>Background and aims</h4>The conserved human correlate of interleukin-18 receptor 1 (IL-18R1)-associated immune states in hepatocellular carcinoma (HCC) remains undefined. We aimed to identify a minimal, reproducible, immune-state component associated with IL18R1 across independent human HCC cohorts and evaluate its clinical relevance.<h4>Methods</h4>Publicly available single-cell RNA sequencing datasets from five independent HCC cohorts were analyzed using a unified framework. Paired tumor-adjacent cohorts were prioritized for primary analyses, whereas tumor-only cohorts served as supportive datasets. CD8 T cells were stratified by IL18R1 expression, and tumor-specific enrichment was quantified using difference-in-differences. We validated the spatial transcriptomics using a murine liver tumor Xenium dataset. Clinical relevance was evaluated using The Cancer Genome Atlas Liver Hepatocellular Carcinoma (TCGA-LIHC) bulk RNA-seq data.<h4>Results</h4>IL18R1-positive CD8 T cells exhibited a tumor-specific, C-C motif chemokine ligand 5 (CCL5)-centered cytotoxic transcriptional program, consistently enriched across datasets. Alternative IL18R1 stratification confirmed the identified immune program's robustness. Spatial transcriptomics localized this cytotoxic state in tumor-associated CD8 T cells and highlighted increased expression of Ccl5 and Cxcr3. Tumor-only cohorts demonstrated substantial heterogeneity, highlighting the importance of paired cohort design. In TCGA-LIHC, a composite CCL5-centered cytotoxic core score, not CCL5 alone, was associated with improved overall survival, although this attenuated after adjusting for clinical covariates.<h4>Conclusions</h4>The dominant human correlate of an IL18R1-associated immune state in HCC is a compact, CCL5-centered CD8 cytotoxic module, not a broad inflammatory response. This spatially validated unit provides a reproducible framework for HCC immune-state characterization and stratification.",
+    "confidence_score": 0.84,
+    "xenium_confidence": 0.82,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.719684Z",
+    "last_checked_at": "2026-09-07T08:19:35.658913Z",
     "source": "europe_pmc"
   },
   {
@@ -4082,7 +4093,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-09-06T07:55:17.979522Z",
+    "last_checked_at": "2026-09-07T08:19:35.656549Z",
     "source": "europe_pmc"
   },
   {
@@ -4148,7 +4159,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-08-08T04:29:03.436036Z",
-    "last_checked_at": "2026-09-06T07:55:17.978817Z",
+    "last_checked_at": "2026-09-07T08:19:35.655965Z",
     "source": "europe_pmc"
   },
   {
@@ -4214,7 +4225,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-09-06T07:55:17.978146Z",
+    "last_checked_at": "2026-09-07T08:19:35.655137Z",
     "source": "europe_pmc"
   },
   {
@@ -4521,7 +4532,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-09-06T07:55:15.655916Z",
+    "last_checked_at": "2026-09-07T08:19:32.672749Z",
     "source": "europe_pmc"
   },
   {
@@ -4666,7 +4677,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:37.849439Z",
-    "last_checked_at": "2026-09-06T07:55:15.149156Z",
+    "last_checked_at": "2026-09-07T08:19:32.478165Z",
     "source": "europe_pmc"
   },
   {
@@ -4757,7 +4768,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:25.929282Z",
-    "last_checked_at": "2026-09-06T07:55:14.645546Z",
+    "last_checked_at": "2026-09-07T08:19:32.233401Z",
     "source": "europe_pmc"
   },
   {
@@ -4896,7 +4907,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-09-06T07:55:13.748744Z",
+    "last_checked_at": "2026-09-07T08:19:31.216122Z",
     "source": "europe_pmc"
   },
   {
@@ -4962,7 +4973,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717540Z",
-    "last_checked_at": "2026-09-06T07:55:13.292900Z",
+    "last_checked_at": "2026-09-07T08:19:31.034374Z",
     "source": "europe_pmc"
   },
   {
@@ -5593,7 +5604,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:37.058589Z",
-    "last_checked_at": "2026-09-06T07:55:12.644736Z",
+    "last_checked_at": "2026-09-07T08:19:30.541534Z",
     "source": "europe_pmc"
   },
   {
@@ -5684,7 +5695,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719644Z",
-    "last_checked_at": "2026-09-06T07:55:12.286196Z",
+    "last_checked_at": "2026-09-07T08:19:30.323219Z",
     "source": "europe_pmc"
   },
   {
@@ -5811,7 +5822,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:36.660632Z",
-    "last_checked_at": "2026-09-06T07:55:11.969083Z",
+    "last_checked_at": "2026-09-07T08:19:30.103841Z",
     "source": "europe_pmc"
   },
   {
@@ -6190,7 +6201,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721377Z",
-    "last_checked_at": "2026-09-06T07:55:10.505566Z",
+    "last_checked_at": "2026-09-07T08:19:28.790771Z",
     "source": "europe_pmc"
   },
   {
@@ -6293,7 +6304,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:35.067313Z",
-    "last_checked_at": "2026-09-06T07:55:10.000542Z",
+    "last_checked_at": "2026-09-07T08:19:27.475172Z",
     "source": "europe_pmc"
   },
   {
@@ -6678,7 +6689,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:22.103796Z",
-    "last_checked_at": "2026-09-06T07:55:09.747223Z",
+    "last_checked_at": "2026-09-07T08:19:27.290867Z",
     "source": "europe_pmc"
   },
   {
