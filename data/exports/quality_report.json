@@ -1,8 +1,8 @@
 {
-  "total_candidates": 4481,
+  "total_candidates": 4489,
   "accepted": 725,
-  "manual_review": 1092,
-  "rejected": 2664,
-  "xenium_datasets": 60,
-  "foundation_models": 665
+  "manual_review": 1095,
+  "rejected": 2669,
+  "xenium_datasets": 59,
+  "foundation_models": 666
 }
