@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-10-19T09:00:52.135306Z",
+    "last_checked_at": "2026-10-20T08:40:16.008553Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-10-19T09:00:52.133026Z",
+    "last_checked_at": "2026-10-20T08:40:16.006000Z",
     "source": "biostudies"
   },
   {
@@ -226,7 +226,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-10-19T09:00:51.799573Z",
+    "last_checked_at": "2026-10-20T08:40:15.513234Z",
     "source": "biostudies"
   },
   {
@@ -323,7 +323,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813444Z",
-    "last_checked_at": "2026-10-19T09:00:47.382801Z",
+    "last_checked_at": "2026-10-20T08:40:13.252602Z",
     "source": "biostudies"
   },
   {
@@ -517,7 +517,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-10-19T09:00:24.890489Z",
+    "last_checked_at": "2026-10-20T08:39:55.832800Z",
     "source": "biostudies"
   },
   {
@@ -662,7 +662,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-10-19T09:00:24.291990Z",
+    "last_checked_at": "2026-10-20T08:39:55.531790Z",
     "source": "biostudies"
   },
   {
@@ -741,7 +741,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-10-19T09:00:21.197160Z",
+    "last_checked_at": "2026-10-20T08:39:53.565124Z",
     "source": "biostudies"
   },
   {
@@ -838,7 +838,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-10-19T09:00:20.605502Z",
+    "last_checked_at": "2026-10-20T08:39:53.168244Z",
     "source": "biostudies"
   },
   {
@@ -929,7 +929,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-10-19T09:00:19.521097Z",
+    "last_checked_at": "2026-10-20T08:39:52.473127Z",
     "source": "biostudies"
   },
   {
@@ -1020,7 +1020,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-10-19T09:00:19.204375Z",
+    "last_checked_at": "2026-10-20T08:39:52.257264Z",
     "source": "biostudies"
   },
   {
@@ -1086,7 +1086,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-10-19T08:59:15.681796Z",
+    "last_checked_at": "2026-10-20T08:38:58.412927Z",
     "source": "crossref"
   },
   {
@@ -1152,7 +1152,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-10-19T08:59:15.681744Z",
+    "last_checked_at": "2026-10-20T08:38:58.412867Z",
     "source": "crossref"
   },
   {
@@ -1218,7 +1218,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-10-19T08:59:15.681719Z",
+    "last_checked_at": "2026-10-20T08:38:58.412842Z",
     "source": "crossref"
   },
   {
@@ -1284,7 +1284,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-10-19T08:59:15.681695Z",
+    "last_checked_at": "2026-10-20T08:38:58.412804Z",
     "source": "crossref"
   },
   {
@@ -1350,7 +1350,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-10-19T08:59:14.185635Z",
+    "last_checked_at": "2026-10-20T08:38:57.434662Z",
     "source": "crossref"
   },
   {
@@ -1416,7 +1416,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-10-19T08:59:12.204984Z",
+    "last_checked_at": "2026-10-20T08:38:56.585144Z",
     "source": "crossref"
   },
   {
@@ -1482,7 +1482,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-10-19T08:59:12.204856Z",
+    "last_checked_at": "2026-10-20T08:38:56.584974Z",
     "source": "crossref"
   },
   {
@@ -1548,7 +1548,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-10-19T08:59:12.204832Z",
+    "last_checked_at": "2026-10-20T08:38:56.584945Z",
     "source": "crossref"
   },
   {
@@ -1614,7 +1614,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-10-19T08:59:12.204564Z",
+    "last_checked_at": "2026-10-20T08:38:56.584604Z",
     "source": "crossref"
   },
   {
@@ -1680,7 +1680,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-10-19T08:59:12.204556Z",
+    "last_checked_at": "2026-10-20T08:38:56.584584Z",
     "source": "crossref"
   },
   {
@@ -1746,7 +1746,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-10-19T08:56:41.200970Z",
+    "last_checked_at": "2026-10-20T08:36:08.513871Z",
     "source": "europe_pmc"
   },
   {
@@ -1837,7 +1837,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:57:17.666892Z",
-    "last_checked_at": "2026-10-19T08:56:41.192225Z",
+    "last_checked_at": "2026-10-20T08:36:08.504489Z",
     "source": "europe_pmc"
   },
   {
@@ -1903,7 +1903,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-10-19T08:56:40.782790Z",
+    "last_checked_at": "2026-10-20T08:36:08.212406Z",
     "source": "europe_pmc"
   },
   {
@@ -2018,7 +2018,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-10-19T08:56:39.881748Z",
+    "last_checked_at": "2026-10-20T08:36:07.441847Z",
     "source": "europe_pmc"
   },
   {
@@ -2265,7 +2265,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-10-19T08:56:33.432722Z",
+    "last_checked_at": "2026-10-20T08:36:03.505263Z",
     "source": "europe_pmc"
   },
   {
@@ -2482,7 +2482,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.382543Z",
-    "last_checked_at": "2026-10-19T08:56:33.071017Z",
+    "last_checked_at": "2026-10-20T08:36:03.279212Z",
     "source": "europe_pmc"
   },
   {
@@ -2633,7 +2633,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719349Z",
-    "last_checked_at": "2026-10-19T08:56:24.224461Z",
+    "last_checked_at": "2026-10-20T08:35:54.559847Z",
     "source": "europe_pmc"
   },
   {
@@ -2814,7 +2814,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:09:05.256805Z",
-    "last_checked_at": "2026-10-19T08:55:49.280766Z",
+    "last_checked_at": "2026-10-20T08:35:16.715181Z",
     "source": "europe_pmc"
   },
   {
@@ -3277,7 +3277,452 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-10-19T08:55:48.693864Z",
+    "last_checked_at": "2026-10-20T08:35:16.266504Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Chromosome 6q mediated loss of LATS1 tumour suppression as a targetable mechanism of ultra-high-risk posterior fossa A ependymoma",
+    "doi": null,
+    "pmid": null,
+    "pmcid": "PMC13661668",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-01-01",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/PMC/PMC13661668",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "reused_public_dataset",
+    "xenium_reason": "Text indicates reuse of public Xenium data",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [
+      {
+        "identifier": "GSE226961",
+        "location": "data_availability",
+        "text": "Bulk RNA-seq analysis was performed on a dataset of primary and recurrent PFA ( GSE226961 ,  GSE243682 ,  GSE327676 )[ 10 ,  13 ]. RNA was isolated from snap-frozen mate",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "GSE243682",
+        "location": "data_availability",
+        "text": "analysis was performed on a dataset of primary and recurrent PFA ( GSE226961 ,  GSE243682 ,  GSE327676 )[ 10 ,  13 ]. RNA was isolated from snap-frozen material and sequ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "GSE327676",
+        "location": "data_availability",
+        "text": "performed on a dataset of primary and recurrent PFA ( GSE226961 ,  GSE243682 ,  GSE327676 )[ 10 ,  13 ]. RNA was isolated from snap-frozen material and sequenced on the ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "GSE327676",
+        "location": "data_availability",
+        "text": "ubpopulation analyses. Xenium spatial transcriptomic data is available at GEO ( GSE327676 ).     Statistics  Statistical analyses were performed using R, GraphPad Prism,",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "GSE327676",
+        "location": "data_availability",
+        "text": "erated and analysed during the current study are available at GEO (Superseries  GSE327676 ). Existing published datasets referenced in this study are available from thei",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "GSE327676",
+        "location": "data_availability",
+        "text": "erated and analysed during the current study are available at GEO (Superseries  GSE327676 ). Existing published datasets referenced in this study are available from thei",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1007/s00401-026-03098-z",
+        "location": "data_availability",
+        "text": "he online version contains supplementary material available at  https://doi.org/10.1007/s00401-026-03098-z .     Keywords:  PFA, Ependymoma, Chromosome instability, LATS1, Hippo signalli",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/jnen/nlx040",
+        "location": "data_availability",
+        "text": " from posterior fossa tumors of childhood. J Neuropathol Exp Neurol 76:595–604. 10.1093/jnen/nlx040         2.   Araki A, Chocholous M, Gojo J, Dorfer C, Czech T, Heinzl H et al (",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1186/s40478-016-0349-9",
+        "location": "data_availability",
+        "text": "k groups in pediatric posterior fossa ependymoma. Acta Neuropathol Commun 4:88. 10.1186/s40478-016-0349-9         3.   Bailey MH, Tokheim C, Porta-Pardo E, Sengupta S, Bertrand D, Weera",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.cell.2018.02.060",
+        "location": "data_availability",
+        "text": "ve characterization of cancer driver genes and mutations. Cell 173:371-385.e18. 10.1016/j.cell.2018.02.060         4.   Barbie DA, Tamayo P, Boehm JS, Kim SY, Moody SE, Dunn IF et al (20",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/nature08460",
+        "location": "data_availability",
+        "text": "ce reveals that oncogenic KRAS-driven cancers require TBK1. Nature 462:108–112. 10.1038/nature08460         5.   Baroni LV, Sundaresan L, Heled A, Coltin H, Pajtler KW, Lin T et a",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/neuonc/noab034",
+        "location": "data_availability",
+        "text": "ependymoma is characterized by loss of chromosome 6q. Neuro Oncol 23:1360–1370. 10.1093/neuonc/noab034         6.   Cao X, Pfaff SL, Gage FH (2008) YAP regulates neural progenitor ce",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1101/gad.1726608",
+        "location": "data_availability",
+        "text": "or cell number via the TEA domain transcription factor. Genes Dev 22:3320–3334. 10.1101/gad.1726608         7.   DeSisto J, Donson AM, Griesinger AM, Fu R, Riemondy K, Mulcahy Lev",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/neuonc/noad207",
+        "location": "data_availability",
+        "text": "eterogeneous phenotypes of pediatric high-grade glioma. Neuro Oncol 26:538–552. 10.1093/neuonc/noad207         8.   Dobin A, Davis CA, Schlesinger F, Drenkow J, Zaleski C, Jha S et a",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/bioinformatics/bts635",
+        "location": "data_availability",
+        "text": "t al (2013) STAR: ultrafast universal RNA-seq aligner. Bioinformatics 29:15–21. 10.1093/bioinformatics/bts635         9.   Donson AM, Amani V, Warner EA, Griesinger AM, Witt DA, Levy JMM et",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1158/1535-7163.MCT-17-1185",
+        "location": "data_availability",
+        "text": "ective potency in high-risk childhood ependymoma. Mol Cancer Ther 17:1984–1994. 10.1158/1535-7163.MCT-17-1185         10.   Donson AM, Bertrand KC, Riemondy KA, Gao D, Zhuang Y, Sanford B e",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/neuonc/noad096",
+        "location": "data_availability",
+        "text": "terior fossa group A ependymoma: a multicenter study. Neuro Oncol 25:1854–1867. 10.1093/neuonc/noad096         11.   Eder N, Roncaroli F, Domart M-C, Horswell S, Andreiuolo F, Flynn ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41467-020-16167-y",
+        "location": "data_availability",
+        "text": ") YAP1/TAZ drives ependymoma-like tumour formation in mice. Nat Commun 11:2380. 10.1038/s41467-020-16167-y         12.   Engel RM, Chan WH, Nickless D, Hlavca S, Richards E, Kerr G et al",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.3390/jcm9010128",
+        "location": "data_availability",
+        "text": " stem cell marker genes following chemotherapeutic treatment. J Clin Med 9:128. 10.3390/jcm9010128         13.   Fu R, Norris GA, Willard N, Griesinger AM, Riemondy KA, Amani V e",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/neuonc/noac219",
+        "location": "data_availability",
+        "text": "ymal subpopulations and transition stages in childhood ependymoma. Neuro Oncol. 10.1093/neuonc/noac219         14.   Gillen AE, Riemondy KA, Amani V, Griesinger AM, Gilani A, Venkata",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.celrep.2020.108023",
+        "location": "data_availability",
+        "text": "ell subpopulations that impact molecular classification and etiology. Cell Rep. 10.1016/j.celrep.2020.108023         15.   Griesinger AM, Calzadilla AJ, Grimaldo E, Donson AM, Amani V, Pie",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1158/1078-0432.CCR-23-3156",
+        "location": "data_availability",
+        "text": "ighest risk pediatric posterior fossa ependymoma. Clin Cancer Res 30:1544–1554. 10.1158/1078-0432.CCR-23-3156         16.   Griesinger AM, Riemondy K, Eswaran N, Donson AM, Willard N, Princ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.isci.2023.107585",
+        "location": "data_availability",
+        "text": "that drive immunobiology of high-risk pediatric ependymoma. iScience 26:107585. 10.1016/j.isci.2023.107585         17.   Han Y (2019) Analysis of the role of the Hippo pathway in cancer.",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1186/s12967-019-1869-4",
+        "location": "data_availability",
+        "text": "2019) Analysis of the role of the Hippo pathway in cancer. J Transl Med 17:116. 10.1186/s12967-019-1869-4         18.   Hao Y, Chun A, Cheung K, Rashidi B, Yang X (2008) Tumor suppresso",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1074/jbc.M709037200",
+        "location": "data_availability",
+        "text": "essor LATS1 is a negative regulator of oncogene YAP. J Biol Chem 283:5496–5509. 10.1074/jbc.M709037200        19.   Harrold AP, Cleary MM, Bharathy N, Lathara M, Berlow NE, Foreman N",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.ejphar.2020.172981",
+        "location": "data_availability",
+        "text": "l (2020) In vitro benchmarking of NF-κB inhibitors. Eur J Pharmacol 873:172981. 10.1016/j.ejphar.2020.172981         20.   Harvey KF, Tang TT (2025) Targeting the Hippo pathway in cancer. ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41573-025-01234-0",
+        "location": "data_availability",
+        "text": " KF, Tang TT (2025) Targeting the Hippo pathway in cancer. Nat Rev Drug Discov. 10.1038/s41573-025-01234-0        21.   von Hoff K, Obrecht-Sturm D, Ghasemi DR, Wenning J, Mynarek M, Ger",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/neuonc/noaf218",
+        "location": "data_availability",
+        "text": "ased on the prospective trial E-HIT2000 and subsequent registries. Neuro Oncol. 10.1093/neuonc/noaf218         22.   Hu S, Molina L, Tao J, Liu S, Hassan M, Singh S et al (2022) NOTC",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1053/j.gastro.2022.05.007",
+        "location": "data_availability",
+        "text": "programming into intrahepatic cholangiocarcinoma. Gastroenterology 163:449–465. 10.1053/j.gastro.2022.05.007         23.   Huang B, Starostik P, Kühl J, Tonn J, Roggendorf W (2002) Loss of",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1007/s00401-001-0479-3",
+        "location": "data_availability",
+        "text": "rozygosity on chromosome 22 in human ependymomas. Acta Neuropathol 103:415–420. 10.1007/s00401-001-0479-3        24.   Kardian AS, Sun H, Ippagunta S, Laboe N, Varadharajan S, Yu K et a",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41586-026-10270-8",
+        "location": "data_availability",
+        "text": "nt clones leverage developmental epigenomic states to drive ependymoma. Nature. 10.1038/s41586-026-10270-8         25.   Kilday JP, Mitra B, Domerg C, Ward J, Andreiuolo F, Osteso-Ibanez",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1158/1078-0432.CCR-11-2489",
+        "location": "data_availability",
+        "text": "f of the Children’s Cancer Leukaemia Group (CCLG. Clin Cancer Res 18:2001–2011. 10.1158/1078-0432.CCR-11-2489        26.   Kumar A, Ali S, Shen Q, Zhou J (2026) FDA approval of the first-ev",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1021/acs.jmedchem.6c02076",
+        "location": "data_availability",
+        "text": "71) marks a new era in targeted protein degradation. J Med Chem 69:16135–16142. 10.1021/acs.jmedchem.6c02076         27.   Lu Y, Yan Z, Sun J, Wang C, Xu L, Lyu X et al (2025) Selective de",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1021/acs.jmedchem.4c02884",
+        "location": "data_availability",
+        "text": "bited robust anticancer efficacy in vitro and in vivo. J Med Chem 68:5616–5640. 10.1021/acs.jmedchem.4c02884        28.   Ma S, Meng Z, Chen R, Guan K-L (2019) The Hippo pathway: biology a",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1146/annurev-biochem-013118-111829",
+        "location": "data_availability",
+        "text": "9) The Hippo pathway: biology and pathophysiology. Annu Rev Biochem 88:577–604. 10.1146/annurev-biochem-013118-111829        29.   Mendrzyk F, Korshunov A, Benner A, Toedt G, Pfister S, Radlwimmer ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1158/1078-0432.CCR-05-2363",
+        "location": "data_availability",
+        "text": "nt prognostic markers in intracranial ependymoma. Clin Cancer Res 12:2070–2079. 10.1158/1078-0432.CCR-05-2363        30.   Milde T, Kleber S, Korshunov A, Witt H, Hielscher T, Koch P et al ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1007/s00401-011-0866-3",
+        "location": "data_availability",
+        "text": " of the histone deacetylase inhibitor Vorinostat. Acta Neuropathol 122:637–650. 10.1007/s00401-011-0866-3         31.   Pajtler KW, Wei Y, Okonechnikov K, Silva PBG, Vouri M, Zhang L et",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41467-019-11884-5",
+        "location": "data_availability",
+        "text": "or I-mediated transcriptional programmes for tumorigenesis. Nat Commun 10:3914. 10.1038/s41467-019-11884-5         32.   Pajtler KW, Wen J, Sill M, Lin T, Orisme W, Tang B et al (2018) M",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1007/s00401-018-1877-0",
+        "location": "data_availability",
+        "text": "f67 alterations in posterior fossa group A (PFA) ependymomas. Acta Neuropathol. 10.1007/s00401-018-1877-0         33.   Pajtler KW, Witt H, Sill M, Jones DTW, Hovestadt V, Kratochwil F ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.ccell.2015.04.002",
+        "location": "data_availability",
+        "text": "compartments, histopathological grades, and age groups. Cancer Cell 27:728–743. 10.1016/j.ccell.2015.04.002         34.   Pan D (2010) The Hippo signaling pathway in development and cance",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.devcel.2010.09.011",
+        "location": "data_availability",
+        "text": "10) The Hippo signaling pathway in development and cancer. Dev Cell 19:491–505. 10.1016/j.devcel.2010.09.011         35.   Pathania R, Ramachandran S, Elangovan S, Padia R, Yang P, Cinghu ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/ncomms7910",
+        "location": "data_availability",
+        "text": " mammary and cancer stem cell maintenance and tumorigenesis. Nat Commun 6:6910. 10.1038/ncomms7910         36.   Primi MC, Rangarajan ES, Patil DN, Izard T (2021) Conformational ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.mbplus.2021.100074",
+        "location": "data_availability",
+        "text": "termines the Nf2/merlin tumor suppressor functions. Matrix Biol Plus 12:100074. 10.1016/j.mbplus.2021.100074         37.   Riemondy KA, Venkataraman S, Willard N, Nellan A, Sanford B, Grie",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/neuonc/noab135",
+        "location": "data_availability",
+        "text": "tra-tumoral heterogeneity of childhood medulloblastoma. Neuro Oncol 24:273–286. 10.1093/neuonc/noab135         38.   Ritzmann TA, Chapman RJ, Kilday J-P, Thorp N, Modena P, Dineen RA",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/neuonc/noac012",
+        "location": "data_availability",
+        "text": "molecular analysis of the trial cohort—A BIOMECA Consortium Study. Neuro Oncol. 10.1093/neuonc/noac012         39.   Ritzmann TA, Kilday JP, Grundy RG (2021) Pediatric ependymomas: d",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1002/pbc.28426",
+        "location": "data_availability",
+        "text": "central nervous system locations and molecular subgroups. Pediatr Blood Cancer. 10.1002/pbc.28426        41.   Robert M-F, Morin S, Beaulieu N, Gauthier F, Chute IC, Barsalou A ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/ng1068",
+        "location": "data_availability",
+        "text": "hylation and aberrant gene silencing in human cancer cells. Nat Genet 33:61–65. 10.1038/ng1068        42.   Rubio-San-Simón A, Ritzmann TA, Obrecht-Sturm D, Benesch M, Timmer",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.ejcped.2025.100227",
+        "location": "data_availability",
+        "text": "diagnosed ependymoma of childhood and adolescence. EJC Paediatr Oncol 5:100227. 10.1016/j.ejcped.2025.100227       43.   Sharma A, Blériot C, Currenti J, Ginhoux F (2022) Oncofetal reprogr",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41568-022-00497-8",
+        "location": "data_availability",
+        "text": "reprogramming in tumour development and progression. Nat Rev Cancer 22:593–602. 10.1038/s41568-022-00497-8        44.   Sievers P, Henneken SC, Blume C, Sill M, Schrimpf D, Stichel D et ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1007/s00401-021-02356-6",
+        "location": "data_availability",
+        "text": "atric-type supratentorial neuroepithelial tumors. Acta Neuropathol 142:827–839. 10.1007/s00401-021-02356-6         45.   Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillet",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1073/pnas.0506580102",
+        "location": "data_availability",
+        "text": "ting genome-wide expression profiles. Proc Natl Acad Sci U S A 102:15545–15550. 10.1073/pnas.0506580102         46.   Sun X, Gao H, Yang Y, He M, Wu Y, Song Y et al (2019) PROTACs: gr",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41392-019-0101-6",
+        "location": "data_availability",
+        "text": "eat opportunities for academia and industry. Signal Transduct Target Ther 4:64. 10.1038/s41392-019-0101-6         47.   Tallon-Cobos AC, Vazaios K, Waranecki P, van Hoesel M, Cornel A, ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1172/JCI193332",
+        "location": "data_availability",
+        "text": "2 show potent antitumor efficacy in high-risk ependymoma models. J Clin Invest. 10.1172/JCI193332         48.   Tang TT, Konradi AW, Feng Y, Peng X, Ma M, Li J et al (2021) Smal",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1158/1535-7163.MCT-20-0717",
+        "location": "data_availability",
+        "text": "ion and tumor growth of NF2-deficient mesothelioma. Mol Cancer Ther 20:986–998. 10.1158/1535-7163.MCT-20-0717        49.   Tape CJ (2024) Plastic persisters: revival stem cells in colorecta",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.trecan.2023.11.003",
+        "location": "data_availability",
+        "text": " persisters: revival stem cells in colorectal cancer. Trends Cancer 10:185–195. 10.1016/j.trecan.2023.11.003        50.   Trapnell C, Roberts A, Goff L, Pertea G, Kim D, Kelley DR et al (2",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/nprot.2012.016",
+        "location": "data_availability",
+        "text": "nalysis of RNA-seq experiments with TopHat and Cufflinks. Nat Protoc 7:562–578. 10.1038/nprot.2012.016         51.   Wani K, Armstrong TS, Vera-Bolanos E, Raghunathan A, Ellison D, G",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1007/s00401-012-0941-4",
+        "location": "data_availability",
+        "text": "xpression signature in infratentorial ependymoma. Acta Neuropathol 123:727–738. 10.1007/s00401-012-0941-4         52.   Witt DA, Donson AM, Amani V, Moreira DC, Sanford B, Hoffman LM et",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1002/pbc.26960",
+        "location": "data_availability",
+        "text": "dymoma: implications for PD-1-targeted therapy. Pediatr Blood Cancer 65:e26960. 10.1002/pbc.26960         53.   Witt H, Mack SC, Ryzhova M, Bender S, Sill M, Isserlin R et al (2",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.ccr.2011.07.007",
+        "location": "data_availability",
+        "text": "larly distinct subgroups of posterior fossa ependymoma. Cancer Cell 20:143–157. 10.1016/j.ccr.2011.07.007         54.   Yap TA, Kwiatkowski DJ, Dagogo-Jack I, Offin M, Zauderer MG, Krat",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41591-025-04029-3",
+        "location": "data_availability",
+        "text": "TEAD inhibitor VT3989 in solid tumors: a phase 1/2 trial. Nat Med 31:4281–4290. 10.1038/s41591-025-04029-3        55.   Yu T, Bachman J, Lai Z-C (2013) Evidence for a tumor suppressor ro",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1534/genetics.113.156372",
+        "location": "data_availability",
+        "text": " suppressor  genes  LATS1  and  LATS2  in human cancer. Genetics 195:1193–1196. 10.1534/genetics.113.156372         56.   Zacharoulis S, Ashley S, Moreno L, Gentet JC, Massimino M, Frappa",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1007/s00381-009-1067-4",
+        "location": "data_availability",
+        "text": "oma: a multi-institutional retrospective analysis. Childs Nerv Syst 26:905–911. 10.1007/s00381-009-1067-4        57.   Zahedi S, Riemondy K, Liu T, Griesinger AM, Donson AM, Apfelbaum A",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      },
+      {
+        "identifier": "10.1111/bpa.70023",
+        "location": "data_availability",
+        "text": "nique tumor microenvironment associated with BRAF alterations. Brain Pathology. 10.1111/bpa.70023            Associated Data   Supplementary Materials        Supplementary file1",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13661668/fullTextXML"
+      }
+    ],
+    "evidence_text": "Chromosome 6q mediated loss of LATS1 tumour suppression as a targetable mechanism of ultra-high-risk posterior fossa A ependymoma Supplementary Information  The online version contains supplementary material available at  https://doi.org/10.1007/s00401-026-03098-z .     Keywords:  PFA, Ependymoma, Chromosome instability, LATS1, Hippo signalling      status  released    display-pdf  yes    is-in-collection-domain  yes    is-olf  no    is-manuscript  no    is-preprint  no    is-journal-matter  no    is-scanned  no    is-retracted  no       Received 2026 May 19; Revised 2026 Sep 28; Accepted 2026 Sep 30; Issue date 2026.       Introduction  Ependymoma (EPN) is the second most common malignant brain tumour in childhood and comprises multiple molecular entities [ 32 ,  33 ]. Posterior fossa A (PFA) EPN is the most frequent subgroup, affects the youngest children, and carries the poorest outcomes [ 32 ,  40 ]. Despite modern therapy targeting maximal tumour resection followed by focal radiotherapy [ 42 ], relapse occurs in around 50% of cases, and only 25% of these children survive beyond 5 years [ 40 ,  56 ]. PFA EPNs showing chromosomal instability—typically gain of chromosome 1q (1q +) and/or loss of chromosome 6q (6q-) exhibit an especially dismal prognosis, forming an ultra-high-risk group for whom current standard-of-care interventions are rarely curative [ 5 ].  We previously hypothesised that certain molecularly defined EPN subgroups are destined to have poor outcomes [ 39 ]. Since then, we have presented evidence from a large, international cohort showing that 1q+ and 6q- increase in frequency during PFA EPN recurrence and progression. Up to two-thirds of patients acquire a high-risk copy number alteration by first relapse, compared to one-fifth at initial presentation [ 10 ]. This evolution of tumour biology may explain why recurrence is associated with such dismal outcomes.  Recent work into the biology of 1q+ in PFA progression has highlighted the role of  MDM4,  located on chromosome 1q, as a negative downstream regulator of P53, mimicking a P53 mutation [ 15 ]. In addition,  UCK2,  also on 1q, represents a potential therapeutic weakness that may render 1q+ PFA EPN sensitive to the chemotherapy agent 5-Fluorouracil (5-FU). This hypothesised therapeutic intervention is now a focus for the development of biology-driven clinical trials of 5-FU and radiotherapy in both North America (ACNS2422) and Europe.  In contrast, the biological basis for the poor prognosis associated with 6q- PFA EPN remains undefined. Here, we investigate the tumour biology of 6q- PFA EPN using an established international dataset. We hypothesise that the adverse outcome associated with 6q- results from the loss of the tumour-suppressor gene  LATS1 , leading to dysregulation of the Hippo pathway and offering a druggable target through inhibition of YAP/TEAD signalling.    Methods   Cohort details  Matched primary and recurrent tumour sample copy-number variation (CNV) data was previously obtained by DNA methylation profiling in our prior multi-institutional study [ 10 ]. This dataset included 101 children with recurrent, DNA methylation-classified PFA EPNs.  For additional experiments beyond the original multi-institutional cohort, immunohistochemistry was performed on archival FFPE material from 75 PFA EPNs (25 6q- and 50 wild type), which were obtained from Children’s Colorado Hospital. Xenium in situ spatial transcriptomics was performed on 14 snap-frozen tumour samples from the Colorado paediatric neuro-oncology brain tumour bank. Bulk RNAseq, Immunohistochemistry and Xenium samples were obtained during routine surgery or autopsy respectively, with institutional approval and patient consent (COMIRB 95–500).    Bulk RNA sequencing analysis  Bulk RNA-seq analysis was performed on a dataset of primary and recurrent PFA ( GSE226961 ,  GSE243682 ,  GSE327676 )[ 10 ,  13 ]. RNA was isolated from snap-frozen material and sequenced on the Illumina NovaSeq 6000 platform. Sequencing data were aligned using STAR [ 8 ], and transcript quantification (in fragments per kilobase per million reads, FPKM) was generated with Cufflinks [ 50 ]. Single-sample gene-set enrichment analysis (ssGSEA) was performed on individual RNA-seq FPKM data using the GenePattern portal [ 4 ,  45 ].    Survival analysis  Univariate analyses using the Kaplan–Meier method were employed to assess the effect of whole or partial loss of chromosome 6q on survival from both primary disease and recurrence. We also evaluated the impact of gene expression and transcription-factor target gene enrichment score (ssGSEA) on survival using the same method. Progression free survival was modelled as a time-dependent variable to capture the effect of CNV changes and associated biological effects at recurrence. This approach addresses the significant outcome impact of 1q gains and/or 6q losses at recurrence in PFA, which significantly confound overall survival analyses.    LATS1 knock-in experiments  LATS1 open reading frame (ORF) knock-in expression vector was designed and purchased through GeneCopia. Lentiviral LATS1 vector (hLATS1) and corresponding control vector (Ctl) were generated using the pLKO system, where LATS1 and control vectors are transfected into HEK293FT cells with psPAX and pMD2.G viral packaging plasmids and TransIT-LT1 Reagent (Mirus Bio). For in vitro assays, viral supernatant was collected in Opti-MEM with 15% FBS and 1% pen/strep. LATS1 ORF knock-in was performed in two PFA 6q- cell lines previously established and characterized in our laboratory (MAF-811; MAF-928)[ 1 ]. We used three comparator cell lines with PFA 6q WT: two supratentorial EPN ZFTA-fused cell lines (MAF-1329 [ 19 ] and DFKZ-EP1NS [ 30 ]) and a paediatric glioblastoma (GBM) cell line SF188 [ 9 ]. All cell lines were subjected to routine authentication by DNA fingerprinting and mycoplasma testing. For this study cell lines were propagated under standard tissue culture conditions and grown in fetal bovine serum (FBS)-supplemented media as monolayers, Cells used in in vitro experiments were transduced with viral supernatant using 8 μg/mL polybrene. LATS1 knock-in was confirmed by Western blot analysis.    In vitro comparative TEAD palmitoylation inhibitor VT107 and TEAD PROTAC degrader H122 drug screen  We screened the effect of TEAD palmitoylation inhibitor VT107 (MedChemExpress. Cat. no. HY-134957) [ 48 ] and TEAD PROTAC (proteolysis-targeting chimera) degrader H122 (MedChemExpress. Cat. no. HY-172113) [ 27 ] in PFA 6q- cell lines MAF-811 and MAF-928 and a panel of comparator paediatric brain tumour cell lines as previously described to identify ependymoma selective drug sensitivity [ 9 ]. These included EPN PFA 6q WT cell line DKFZ-BT232 [ 47 ], EPN ZFTA-fused cell lines MAF-1329 and DFKZ-EP1NS and non-EPN paediatric high-grade glioma (HGG) cell lines (diffuse intrinsic pontine gliomas DIPG-IV and glioblastoma SF188) and medulloblastoma (MED) cell lines (DAOY, ONS76, FH-411and D458) that were maintained as described previously [ 9 ]. Cell lines were propagated as monolayers apart from semi-adherent suspension cell lines FH-411 and D458.  Cell lines were plated at ~50% confluence in 96-well plates and treated with a range of doses of VT107 (range = 10μM to 0.6 nM) and H122 (range = 1000 nM to 0.06 nM) for 72 h. Cell proliferation was measured using tritiated thymidine incorporation as previously described [ 9 ]. Treatment dose curves and associated IC-50 values were modelled using Prism statistical software (GraphPad Software, Inc., La Jolla, CA).  H122 PROTAC-specific degradation of TEAD was determined by Western blot analysis of protein extracted from PFA 6q- cell lines treated with a range of H122 doses (1000 nM to 8 nM) for 4 h. Determination of the baseline endogenous TEAD degradation rate in PFA 6q- cell lines was performed by extracting protein at 4 h and 24 h after treatment with protein translation inhibitor cycloheximide (100μγ/ml; Sigma Cat. no. C-6679).    Western blot  Western blots were performed as previously described [ 52 ]. Primary antibodies used were anti-LATS1 (1:1000, Proteintech #17,049–1-AP), anti-phospho-YAP (S127) (Cell Signaling, #4911), pan-TEAD (Cell-signaling #13,295), DNMT1 (Cell Signaling #5032) and anti-β-actin. Densitometry was performed using ImageJ software.    YAP immunohistochemistry  Standard immunohistochemistry was performed for YAP (1:200, antigen, Santa Cruz sc-101199) with antigen retrieval (10 mM Sodium Citrate pH 6.0, 110 °C, 10 min) and counterstained with hematoxylin, using techniques described previously [ 13 ]. Blinded scoring was performed using a subjective scoring scale (range 0–4) (AMD).    Xenium  in-situ  spatial transcriptomic analyses  The spatial expression of TEAD2 in PFA 6q- (n=5) and PFA WT (n=9) neoplastic subpopulations was performed using Xenium in situ spatial transcriptomics (10X Genomics). Snap-frozen samples were embedded in Optimal Cutting Temperature (OCT) compound, cryosectioned at 10μM thickness (Leica CM1520 cryostat) and mounted onto Xenium Slides. Slides were processed on a Xenium Analyzer (Instrument software v3.3.0.0.; analysis v 3.3.0.1) following the manufacturer’s instructions. The Xenium Analyzer detected and amplified RNA, DNA, and protein probes in 15 serial decoding and imaging cycles whilst maintaining tissue integrity and producing images of whole tissue sections with single-cell and single-molecule resolution. A custom gene probe panel of 480 genes was synthesized that included marker genes of previously identified cellular subpopulations in ependymoma [ 13 – 15 ] and other paediatric brain tumour diagnoses [ 7 ,  37 ,  57 ] (Supplementary Table 1). RNA probes were hybridized overnight, ligated, and then amplified using rolling circle amplification according to the manufacturer’s instructions (10× Genomics  CG000578 ,  CG000580 ,  CG000613 ). All incubations were performed using reagents provided by 10× Genomics on an XT96 PCR machine (VWR). Autofluorescence was then quenched and morphology stains added for cell segmentation, either nuclear (DAPI) (samples 812–1, 821–1, 928–1, 723–1 and 723–2) or, cytoplasmic (18S RNA, alphaSMA and vimentin protein), and membrane (ATP1A1, CD45, E-cadherin) stain cell segmentation cocktail for improved cell segmentation (samples 928–2, 897–1, 897-X, 987–1, 911–1, 1536–1, 1536–2, 459–1 and 459–2). Slides were then loaded onto the Xenium Analyser for whole-slide tissue overview scanning and region selection. Tissue regions were denoted, and the onboard cyclic decoding and imaging occurred over a 20 – 48 h period. Data were analysed on the instrument after image acquisition, performing probe deconvolution, cell segmentation, and probe graph-based clustering. Quality control, image heatmaps and run data were reviewed in the Xenium Explorer (4.1.0) software. After Xenium analysis, H&amp;E staining was performed on Xenium slides and whole-slide scans were performed (PhenoImager HT: 20× objective, 0.5 micron resolution). Images were converted to OME. TIFFs file using QuPath v0.5.1 and imported to Xenium Explorer and aligned with tissue images.  Cell cluster identities were assigned based on overlap with gene expression signatures from PFA neoplastic and non-neoplastic subpopulations identified by single-cell and single-nuclei RNAseq [ 10 ,  14 ] and Visium spatial transcriptomics [ 13 ] using hypergeometric analysis. For each sample, neoplastic clusters were then consolidated into five categories (ciliated (CEC), transportive (TEC), mesenchymal (MEC), undifferentiated-A (UEC) and proliferative undifferentiated-A (UECprolif.) EPN cells. Per cell TEAD2 and LATS1 transcript counts for each cluster were then extracted for comparative inter-sample and inter-subpopulation analyses. Xenium spatial transcriptomic data is available at GEO ( GSE327676 ).     Statistics  Statistical analyses were performed using R, GraphPad Prism, and Excel (Microsoft) software. Kaplan–Meier survival curves were compared with log-rank tests, and p&lt;0.05 was considered statistically significant unless otherwise stated.    Results   Cumulative loss of chromosome 6q underlies almost 50% of PFA deaths  We re-analysed data from our previously published international cohort of primary and recurrent ependymomas [ 10 ] to provide a more detailed view of the high-risk copy-number changes, focusing on chromosome 6q- (Fig.  1 ). Compared with 1q+, 6q- was relatively uncommon at first diagnosis, occurring in 4% (3/75) of tumours in isolation, and 8% (6/75) when co-occurring with 1q+. The distribution was consistent with data from a large independent cohort [ 33 ] (Fig.  1 a). The proportion of tumours with 6q- increased progressively across recurrences, affecting 34% (25/73) at the first recurrence, 47% (8/17) of the cohort by the second recurrence, and 69% (9/13) of the third and later recurrences. Both isolated 6q- and 1q+/6q- co-occurrence rose over time (Fig.  1 a). In contrast, 1q+ appeared early – affecting 48% (36/75) of cases at first recurrence and then remained relatively stable, with 100% (5/5) of 1q+ co-occurring with 6q- by third and later recurrences (Fig.  1 b).    Fig. 1   Impact of 6q loss (6q-) in late recurrence and death in PFA. Cumulative acquisition of  a  6q- and  b  1q+ in successive PFA recurrences.  c  Proportion of acquired 6q-, 1q+ or 6q-/1q+ co-occurrence in PFA tumours at time of death. Abbr: P, presentation: R1; 1st recurrence; R2, 2nd recurrence; R3+, 3rd and subsequent recurrence and autopsy combined                   Consistent with prior studies delineating the high-risk behaviour of 1q+ in EPN [ 2 ,  5 ,  25 ,  29 ,  38 ], patients with 1q+, either alone or combined with 6q-, accounted for 55% (22/40) of all deaths. However, 6q- was also strongly associated with fatal outcomes; tumours harbouring 6q- (either alone or co-occurring with 1q +) also represented 45% (18/40) of all deaths, underscoring its major contribution to mortality in this cohort (Fig.  1 c).    The  LATS1  locus is lost in both whole and partial 6q- ependymoma, and outcome is poor irrespective of extent of loss  To explore the aggressive phenotype of 6q- PFA EPN, we sought to identify the gene or genes driving the 6q- phenotype. We first examined an autopsy sample (case−1), which showed a focal region of 6q loss spanning q23.3-q25.1, covering 13.6 megabases (Fig.  2 a). Among 60 genes in this region, eight were documented tumour suppressors [ 55 ]:  TNFAIP3 ,  PERP, HECA ,  PLAGL1 ,  SASH1 ,  SHPRH ,  LATS1 , and  ZC3H12D . Of these,  LATS1  and  PLAGL1  have been previously linked to EPN. Large Tumour Suppressor Kinase 1 ( LATS1 ) is an established tumour suppressor in a broad range of human malignancies [ 55 ] and, of the eight PFA 6q- minimal region of loss tumour suppressors, has the highest incidence of loss (1.5%) in a pan cancer study of tumour drivers [ 3 ]    Fig. 2   Candidate 6q tumour suppressor genes in the aggressive PFA 6q- phenotype.  a  PFA autopsy sample (case #1) showing a 60 Mb focal loss in 6q-, spanning 60 genes, including 8 tumour suppressor genes.  b  10 of 60 PFA 6q- cases examined had partial loss of 6q all of which encompassed the LATS1 locus.  c  PFS and  d  OS for partial loss versus complete loss of 6q in PFA.  e  LATS1 transcript in PFA 6q- (n=23), PFA 6q WT (n=60), a panel of other paediatric brain tumour types and normal cerebellum (ACP, adamantinomatous craniopharyngioma (n=9); ATRT, atypical teratoid rhabdoid tumour (n=13); HGG, high-grade glioma (n=25); MED, medulloblastoma (n=36); PA, pilocytic astrocytoma (n=21); normal cerebellum (n=5)). (f) LATS1 transcript expression decrease in successive recurrences in PFA (P=presentation; R1 = 1st recurrence; R2 = 2nd recurrence; R3+= 3rd and successive recurrences)                   This PFA 6q- focal region of loss also contained tumour suppressor  PLAGL1 , however  PLAGL1  has been reported as an oncogene in the context of EPN, therefore not consistent with the proposed loss of tumour suppressor function via 6q-. Specifically,  PLAGL1  fusions, resulting in high expression of  PLAGL1  transcripts, have been identified in a novel subset of paediatric supratentorial neuro-epithelial tumours, of which a high proportion were histopathologically diagnosed as EPN [ 44 ]. Additionally, a more recent study has shown that increased  PLAGL1  transcriptional activity is a result of ZFTA fusion in a subset of supratentorial EPN [ 24 ].  To understand the importance of this region, we reviewed the DNA-methylation-derived copy-number plots for all cases of 6q- in our cohort. Of 60 cases with 6q-, 10 (16.7%) demonstrated only partial deletions. Notably, all these areas of partial deletion encompassed the focal region of 6q loss as seen in case−1 that includes that  LATS1  locus (Fig.  2 b), implicating its role as the principal gene associated with the PFA 6q- phenotype in those cases with partial 6q loss.  We next compared survival between tumours with partial versus whole 6q loss. Progression-free survival from the time of 6q- acquisition showed no significant difference between these two groups (log-rank HR = 1.6, 95% CI 0.4–4.5; 26.65 months for partial loss and 18 months for whole loss; Fig.  2 c). Both exhibited poor overall survival, with median overall survival of around 50 months in either group (Fig.  2 d).  Analysis of bulk RNA-seq data confirmed markedly reduced  LATS1  transcript expression in 6q- (n=18) compared with 6q wild-type (n=58) PFA EPN (Fold change = 1.5; 2-tailed p=2×10 –5 ),  LATS1  in 6q- PFA EPN also had the lowest expression of any brain tumour type examined (Fig.  2 e). Mirroring the increased 6q loss seen in successive recurrences of PFA (Fig.  1 a) we observed a decrease in the expression of LATS1 transcript in successive recurrences (Fig.  2 f). Unlike 6q loss however, LATS1 transcript expression was not associated with progression free survival in our bulk RNAseq cohort where samples were dichotomized to higher or lower than median  LATS1  expression for progression free survival (PFS), either in all cases (n=88), or after exclusion of cases with confounding high-risk clinical variables (1q gain, 6q loss, infants under 1 year old)(n=40).    LATS1 knock-in restores protein expression and suppresses proliferation in 6q- PFA cell lines  To identify differences in cellular proliferation between 6q- and 6q wild-type PFA EPN, we reanalysed quantified Ki-67 proliferation indices by highest high-power field count from our prior study [ 10 ]. The 6q- tumours exhibited significantly increased Ki-67 levels (6q- n=17, 6q WT n=36, 2-tailed p = 0.0005), supporting the hypothesis that the 6q- PFA EPN cells have an intrinsically more proliferative phenotype (Fig.  3 a).    Fig. 3   Impact of LATS1 loss on PFA 6q- proliferation.  a  Ki-67 positive cell count per highest high power field (HPF) in individual patient samples grouped according to (i) 6q- and (ii) 6q WT (*** p&lt;0.0001; Student’s t-test, 2-tailed).  b  LATS1 lentiviral knock-in increases protein expression of (i) LATS1 and (ii) phospho-YAP (pYAP)(S127), (iii) pan-TEAD and (iv) DNMT1 in PFA 6q- cell line MAF-811, and associated densitometric quantification of  c  LATS1 protein knock-in,  d  pYAP,  e  pan-TEAD, and (f) DNMT1. LATS1 lentiviral knock-in blocks proliferation in PFA 6q- cell lines  g  MAF-811 and  h  MAF-928 compared to empty vector controls. (i) LATS1 knock-in blocks growth in PFA 6q- compared to 6q WT ZFTA-fused EPN and pGBM cell lines (Student’s t-tests, 1-tailed) as measured by mCherry positive cell count                   Given the association between 6q-, increased Ki-67 indices, and poor prognosis [ 5 ], we investigated whether loss of  LATS1  contributes functionally to tumour growth. We performed  LATS1  lentiviral knock-in experiments and quantified LATS1 protein expression by western blot, normalised to beta-actin. In the 6q- PFA EPN cell line, MAF-811, LATS1 protein increased significantly at 24 h post-knock-in and continued rising through 72 h (Figs.  3 b and c), remaining persistently above control levels.  Furthermore,  LATS1  restoration resulted in markedly reduced proliferation in two independent 6q- PFA EPN lines (MAF-811 and MAF-928), compared to controls (Figs.  3 g,h). Moreover, compared with other established paediatric brain tumour lines (ZFTA-fused EPNs EP1NS and MAF-1329, and paediatric GBM line SF188),  LATS1- reconstituted 6q- EPN cells displayed the most restricted growth patterns with a rapid fall in cellular proliferation, whilst the 6q wildtype lines maintained steady proliferation (Fig.  3 i).    Loss of chromosome 6q suppresses  LATS1  and activates the Hippo pathway   LATS1  is a key negative regulator of the Hippo signalling pathway originally implicated in controlling organ size, cell fate, and proliferation, through S127 phosphorylation and subsequent degradation of YAP in the cytoplasm, preventing its transit to the nucleus where it binds and activates TEAD transcription factors [ 18 ,  28 ]. It acts as a tumour suppressor in multiple malignancies, including lung, breast, gastric, hepatic, renal, colorectal, and haematologic cancers [ 17 ,  34 ] .   Hippo dysregulation exists in several other EPN variants. A rare supratentorial EPN of childhood is driven by a Hippo pathway dysregulating YAP1-fusion [ 33 ]. NF2 mutant spinal ependymomas show Hippo dysregulation through the disrupted interaction of NF2 and LATS1 [ 36 ], and similarly, loss of chromosome 22 that includes the NF2 locus potentially disrupts LATS1 activity [ 23 ,  31 ,  36 ]. In addition to the formation of EPN-like tumours following LATS1 knockdown in neural progenitors in vivo, Eder et al. also showed YAP1 activation in this model produced EPN-like tumours [ 11 ]. We therefore hypothesised that  LATS1  loss in PFA 6q- deregulates Hippo signalling via release of YAP/TEAD activity and promotes their nuclear translocation.  To test this hypothesis, we performed immunohistochemistry for YAP expression on a cohort of 75 PFA EPNs (25 6q- and 50 wild type). Both nuclear and cytoplasmic YAP expression were significantly higher in 6q- tumours (p = 0.0081 and p = 0.0010, respectively; Fig.  4 ), consistent with Hippo pathway activation in those cases with reduced LATS1. We further hypothesise that increased nuclear YAP drives TEAD expression, whereas elevated cytoplasmic YAP likely reflects reduced LATS1-mediated degradation. The functional impact of LATS1 on the Hippo pathway in PFA is indicated by increased phospho-YAP (S127) upon LATS1 knock-in in PFA 6q- cell line MAF-811 (Fig.  3 b,d).    Fig. 4   Impact of LATS1 loss on YAP expression in situ. Representative  a  nuclear and  b  cytoplasmic YAP protein expression in PFA 6q-  c  Nuclear and  d  cytoplasmic YAP score in a cohort of 75 PFA EPN                     TEAD2 expression is upregulated in 6q- PFA EPN and predicts poor survival  We next examined the involvement of TEAD transcription factors, the primary effectors of the Hippo signalling cascade, in PFA 6q-. Reanalysis of bulk RNA-seq data revealed significantly higher  TEAD2  RNA expression in 6q- (n=23) versus 6q wild-type (n=60) PFA EPNs (FC=1.63; p=2.08×10 –6 )(Fig.  5 a). Consistent with this negative correlation between 6q- and increased TEAD2 RNA, we observed increased TEAD2 expression in successive PFA recurrence (Fig.  5 b) whereas 6q is increasingly lost (Fig.  1 a). TEAD4 was also significantly higher in PFA 6q- (FC=1.47; p=0.035), whereas TEAD1 and TEAD3 were not differentially expressed. Functionally, LATS1 knock-in did not significantly change pan-TEAD protein expression (Fig.  3 b,e), consistent with TEADs role as a transcription factor in the Hippo pathway that is activated once bound to nuclear YAP.    Fig. 5   TEAD expression, prognostic impact and growth dependency in PFA 6q-.  a  TEAD2 transcript in PFA 6q- versus PFA 6q WT (**** p&lt;10 –5 ; Student’s t-test, 2-tailed).  b  LATS1 transcript expression decrease in successive recurrences in PFA (P=presentation; R1 = 1st recurrence; R2 = 2nd recurrence; R3+= 3rd and successive recurrences). c  TEAD transcript ranking in 28,000 transcripts correlated with time to progression (TTP) in a cohort of 79 recurrent PFA samples from any presentation.  d  Progression free survival (PFS) from any presentation for higher than median TEAD2 transcript expression in PFA from any presentation (n = 88).  e  TEAD2 transcription factor target geneset enrichment (ssGSEA) in PFA 6q- versus PFA 6q WT (*** p&lt;10 –3 ; Student’s t-test, 2-tailed).  f  TEAD transcription factor targets (TFT) geneset enrichment (ssGSEA) ranking in 1066 transcripts correlated with time to progression (TTP) in a cohort of 79 recurrent PFA samples from any presentation.  g  Progression free survival (PFS) from any presentation for higher than median TEAD2 TFT geneset enrichment in PFA from any presentation (n = 88).  h  In vitro effect (IC-50 dose) of TEAD palmitoylation inhibitor VT107 on  3 H-thymidine incorporation in PFA 6q- cell lines MAF-811 and MAF-928 and a panel of comparator pediatric brain tumor cell lines.  i  In vitro effect (IC-50 dose) of TEAD PROTAC H122 in PFA 6q- cell lines MAF-811 and MAF-928 and a panel of comparator pediatric brain tumor cell lines as measured by  3 H-thymidine incorporation. (j) H122-mediated degradation of TEADs in PFA 6q- cell lines MAF-811 and MAF-928 at 4 h post-treatment at a range of concentrations (left). No significant endogenous degradation of TEADs was observed up to 24 h after inhibition of protein synthesis (100 mg/ml cycloheximide treatment) (right)                   To determine the relative prognostic association of TEAD1-4 gene expression, we correlated all transcripts’ gene expression values with time to progression (TTP) in 79 recurrent PFA from any presentation.  TEAD2  ranked 45th out of a total of 28,595 transcripts negatively correlated with time to progression (Fig.  5 c). Higher than median  TEAD2  target-gene expression was associated with poor survival (HR = 3.2; p = 4×10 –7 )(Fig.  5 d). Similar trends were observed for  TEAD3  (HR = 1.8; p = 0.017) and  TEAD4  (HR = 1.9; p = 0.013), where high expression correlated with worse outcomes.  The Molecular Signatures Database (MSigDB; UC San Diego and Broad Institute) includes Transcription Factor Target (TFT) genesets (n=1066) of which TEAD2 is included, but not TEADs 1, 3 or 4.  TEAD2  TFT single sample gene set enrichment (ssGSE) scores were higher in 6q- cases (n=23) versus 6q wild-type (n=60) PFA EPNs (p = 3.44×10 –4 )(Fig.  5 e). The most significantly overexpressed TEAD2 TFTs in PFA 6q- cases included DNMT1 (DNA methyltransferase 1) (p=0.0013). DNMT1 is frequently overexpressed in cancers and drives silencing of tumor suppressor gene via promoter hypermethylation [ 41 ] and silencing of differentiation genes and maintenance of a stem-like state [ 35 ]. We examined the impact of LATS1 knock-in on TEAD2 transcriptional target DNMT1 (DNA methyltransferase 1)[ 22 ], which showed decreased protein expression 3 and 4 days post-LATS1 knock-in (Fig.  3 b,f).  As above for individual gene expression, we correlated all TFT geneset enrichments with TTP in recurrent PFA (n=79), which showed TEAD2 was the 65th most negatively correlated TFT geneset enrichment of all 1066 TFTs (Fig.  5 f). Kaplan–Meier analysis confirmed that high  TEAD2  target-gene expression enrichment (ssGSEA) was associated with poor survival (n=88) (HR = 2.80; p = 3.6×10 –6 ) (Fig.  5 g).    PFA 6q- cells are sensitive to TEAD palmitoylation inhibition and PROTAC-mediated TEAD degradation  We performed dose curve analysis of pan-TEAD palmitoylation inhibitor VT017 [ 48 ] in vitro in PFA 6q- cell lines MAF-811 and MAF-928 alongside PFA 6q WT cell line DKFZ-BT232, supratentorial ZFTA::RELA fusion ependymomas EP1NS and 1329 and a panel of comparator paediatric brain tumour cell lines as previously used to further determine PFA 6q- selective effects [ 9 ]. IC-50 values of VT107, as measured by  3 H-thymidine incorporation, showed sensitivity in both PFA 6q- cell lines, showing high nanomolar sensitivity (MAF-811 = 845 nM; MAF-928 = 420 nM) (Fig.  5 h). Comparator paediatric brain tumour cell lines showed variable sensitivity to VT107, with IC-50 doses not achieved in a number of cell lines at the broad dose range tested (0.61 nM to 10μM)(Figs.  5 h). PFA 6q WT cell line DKFZ-BT232 had a higher IC-50 value (1.36 μM) than PFA 6q- cell lines, although the IC-50 revealed a relatively high sensitivity to the drug compared to non-ependymoma high-grade glioma (HGG) and medulloblastoma (MED) pediatric comparator lines. Collectively, the sensitivity of BT232 and ZFTA::RELA fusion supratentorial ependymoma cell lines in addition to PFA 6q- suggest that ependymomas subtypes are broadly dependent on TEAD activity and implicate dysregulated Hippo signaling that is already known to drive YAP-fusion supratentorial EPN [ 33 ].  Proteolysis targeted chimeras (PROTACs) are in clinical trial in the oncology setting and represent a paradigm-shifting therapeutic approach to target transcription factors with several advantages over small molecule inhibitors, with improved efficiency at lower dosing and their ability to overcome drug resistance [ 46 ]. These compounds also provide a powerful laboratory tool for selective and rapid knock-down of target proteins. We tested a recently developed pan-TEAD-targeted PROTAC degrader H122 [ 27 ] in the PFA 6q- and comparator cell line panel as described above. PFA 6q- demonstrated the lowest IC-50 values for H122 (MAF-811 = 9.8 nM; MAF-928 = 4.5 nM) (Fig.  5 i), approximately 100-fold lower than those obtained using VT107. As for VT107, H122 IC-50 s were significantly higher for non-ependymoma HGG and MED cell lines. PFA 6q WT DKFZ-BT232 had a higher IC-50 (25.1 nM) than PFA 6q- cell lines, as did ZFTA::RELA fused supratentorial ependymoma cell lines, as seen using VT107 TEAD inhibition, again suggesting an underlying Hippo pathway dysregulation in EPN as a whole. Mechanistically, H122-treated PFA 6q- cell lines showed complete degradation of TEAD protein after 4 h and endogenous TEAD degradation was not seen up to 24 h post-protein translation inhibition (100μγ/ml cycloheximide) (Fig.  5 j), confirming H122 PROTAC on target effects and also demonstrating that PFA 6q- cell lines have an intact ubiquitination degradation pathway that is critical for PROTAC efficacy.    TEAD2 is enriched in undifferentiated ependymoma cell subpopulations (UEC-A)  Building on our prior work identifying intratumoural heterogeneity in PFA EPN [ 13 ,  14 ,  16 ], we examined  TEAD2  expression within distinct neoplastic subpopulations. In earlier single-cell analyses, we defined an Undifferentiated Ependymoma Cell type (UEC) population with neural stem-like features and progenitor potential [ 13 ].  Using Xenium in situ spatial transcriptomics, we measured the expression of  TEAD2  and  LATS1  in individual cells in 14 PFA tissue sections (5 PFA 6q- and 9 PFA 6q WT patient samples) (1,096,706 total cells). Subcellular resolution in situ spatial transcriptomics was performed using a panel of 480 custom probes based on previously identified cellular subpopulations in EPN [ 13 – 15 ] and other paediatric brain tumour diagnoses [ 7 ,  37 ,  57 ] (Supplementary Table 1). Cell segmentation of tissue sections was combined with corresponding custom probe expression to identify cell types using graph-based clustering. Xenium clusters were annotated by comparison of marker genes with EPN single-cell RNAseq (scRNAseq) and Visium spatial transcriptomic neoplastic and non-neoplastic cell subpopulation markers [ 13 ,  14 ] and neoplastic cells were assigned to correspond with major PFA neoplastic subpopulations: undifferentiated EPN cell UEC-A (including a proliferative UEC-A subpopulation (UEC-A prolif.)), ependymally-differentiated transportive TEC and ciliated CEC EPN cells or and mesenchymally-differentiated MEC EPN cells. Significantly higher  TEAD2  expression was seen in UEC and UEC-A proliferative subpopulations than other neoplastic subpopulations (TEC, CEC and MEC) both in PFA 6q- and PFA 6q WT (Fig.  6 e). LATS1, was collectively lower in PFA 6q- than PFA 6q WT, but did not show differential expression between UEC and other populations (Supplementary Fig. 1). Gain-of-function activity of TEAD has previously been shown to drive expansion of the neural progenitor pool [ 6 ]. Consistent with this, our data indicate that TEADs—particularly TEAD2—underlie UEC-A proliferation, supporting our hypothesis that UEC-A cells represent a proliferative progenitor population contributing to the aggressive behaviour of PFA EPN.    Fig. 6   Overexpression of TEAD2 expression in UEC-A PFA stem-like subpopulation.  a  PFA 6q- (sample 459–2) representative H&amp;E staining and  b  corresponding section overlaid colored by UEC-A progenitor cells (red) in relation to more differentiated TEC, CEC and MEC neoplastic subpopulations (grey) and vascular endothelium (mauve) as identified by Xenium in situ spatial transcriptomic analysis, showing differential abundance of TEAD2 transcripts (yellow spots, scaled according to transcript abundance).  c  PFA 6q WT H&amp;E and  d  overlayed cellular subpopulations as described in  b .  e  Quantification of TEAD2 transcripts in UEC-A cells versus other neoplastic cell types in 5 PFA 6q- and 9 PFA WT samples. Abbreviations: UEC, undifferentiated EPN cell; TEC, transportive EPN cell, CEC, ciliated EPN cell; MEC, mesenchymal EPN cell                      Discussion  In this study, we show that 6q- is progressively accumulated at successive recurrences and is a prognostically adverse event in PFA EPN. 6q- at any recurrence is associated with shortened survival and accounts for nearly half of deaths. Through analysis of partial versus whole chromosome 6q loss, we demonstrate that  LATS1  deletion underlies this, leading to Hippo pathway dysregulation and downstream activation of TEAD family transcription factors – particularly  TEAD2 . Preclinical testing showed PFA 6q- cell lines were sensitive to TEAD inhibition. Spatial transcriptomics further localised  TEAD2  over-expression to undifferentiated, stem-like UEC-A progenitor cells. Our findings support a model in which chromosome 6q- leads to  LATS1  inactivation, thereby releasing  YAP , enhancing  TEAD2  transcriptional activity, and this stem-like tumour-cell population. Thus, Hippo pathway dysregulation emerges as a central feature of aggressive, recurrent PFA EPN.  Unlike 1q gain, which appears at presentation and earlier relapses, 6q loss emerges later and increases steadily across recurrences, indicating distinct evolutionary pressures and complementary mechanisms of aggressiveness. This may explain why tumours harbouring both 1q+ and 6q- exhibit the poorest outcomes [ 5 ,  15 ]. Previous research has focused mainly on 1q gain, which mimics p53 suppression through MDM4 overexpression and may be targetable with 5-FU [ 15 ]. Our data extend this paradigm by identifying 6q loss as an equally important later driver of rapid progression.  The Hippo pathway has been implicated in many malignancies and regulates cancer hallmarks, many of which have already been implicated in PFA EPN, including angiogenesis, proliferation, epithelial-mesenchymal transition, inflammation and immune evasion [ 13 ,  16 ,  28 ,  51 ,  53 ]. This work aligns with work in colorectal carcinoma, where rare “revival stem cells” emerge in response to cancer therapy and are regulated by Hippo pathway components [ 12 ,  49 ]. Similarly, our data provides initial work to identify TEAD2-high UEC-A cells as potential revival-like progenitors, consistent with prior observations of oncofetal reprogramming [ 10 ,  13 ,  16 ,  43 ]. Future studies should aim to further characterise the UEC-A population and improve understanding of its role in high-risk PFA EPN as a potential therapeutic target.  Loss of  LATS1  has previously been implicated as a potential tumorigenic mechanism in supratentorial EPN. Specifically, in the context of the exploration of  YAP1 -fused supratentorial disease. Eder and colleagues described a murine model in which deletion of YAP1's negative regulators LATS1 and LATS2 kinases in NEX-Cre lineage in double conditional knockout mice caused ependymoma-like tumours [ 11 ]. This experimental evidence strongly supports our conclusion that Hippo-pathway dysregulation represents a shared oncogenic mechanism in EPN, reinforcing the rationale for developing Hippo-targeted therapies.  Clinically, our findings carry important implications. The rarity of 6q- at PFA presentation means that its significance at that time point, as in the retrospective E-HIT2000 cohort is to be interpreted cautiously [ 21 ]. However, all studies on recurrent PFA should be stratified for 6q-. It does appear that PFA ependymoma treated with surgery ± radiation may sometimes be cured or go often years before another relapse while this is not the case in 6q- ependymoma. The ability to restore  LATS1  signalling in vitro suggests that targeting YAP/TEAD interactions or the wider Hippo pathway in 6q- PFA EPN may be feasible. Moreover, the enrichment of  TEAD2  in undifferentiated UEC-A cells raises the possibility of differentiation-based therapeutic strategies.  The current therapeutic landscape for Hippo pathway modulation is encouraging. Approaches include disrupting YAP-TEAD binding, suppressing  TEAD -regulated transcription, targeting transcriptional machinery, and blocking YAP-TEAD target genes [ 20 ]. Yap et al. reported a Phase1/2 trial of the Hippo agent VT3989 in mesothelioma, a high rate of partial responses and stable disease [ 54 ]. A Phase 3 trial is planned. VT3989 is an analogue of VT107 that demonstrated PFA 6q- specific anti-proliferative activity in our study. This approach, therefore, offers near-term translational potential for PFA 6q- and possibly YAP1-fused supratentorial disease. Over 40 PROTACs are currently in oncology clinical trials, marked by the recent FDA approval of vepdegestrant for advanced or metastatic breast cancer [ 26 ]. The high sensitivity of PFA 6q- cell lines to TEAD PROTAC H122 provide rationale for further preclinical testing of this breakthrough therapeutic strategy. Given the dismal prognosis of relapsed PFA EPN with 6q-, prioritising clinical translation of these findings is essential.  Future research should map the full spectrum of Hippo pathway dysregulation in all subtypes of EPN, including upstream regulators and other YAP/TEAD targets. Pre-clinical 6q-/LATS1 models will be crucial for evaluating candidate inhibitors, but we must simultaneously and urgently consider how we translate this new biological knowledge. However, we are confident that integrating 6q status into prospective clinical trials will refine risk stratification and guide therapy in recurrent disease.  In conclusion, loss of chromosome 6q, and consequent  LATS1  deletion emerge as a key molecular driver of recurrence and poor outcome in PFA EPN, acting through Hippo pathway dysregulation and  TEAD2 -mediated proliferative programs. These insights illuminate a new biological axis of ultra-high-risk ependymoma and provide a rationale for developing Hippo-targeted therapeutic approaches for affected children.    Key points  (1) Tumour suppressor  LATS1  is in the minimal region of chromosomal loss in PFA 6q-  (2)  LATS1  deletion drives Hippo pathway dysregulation and YAP/TEAD activation.  (3) Restoring  LATS1  expression or inhibiting TEAD suppresses growth in vitro, revealing a targetable pathway.    Supplementary Information  Below is the link to the electronic supplementary material.        Supplementary file1 (XLSX 23 KB)           Supplementary file2 (TIF 1793 KB)       Acknowledgements  Acknowledgements: TR would like to acknowledge Fighting Ependymoma for their ongoing support for ependymoma research in the UK.    Author contributions  Experimental design: AMD, AMG, VR, KWP, NKF, TAR Data collection: AMD, AMG, RJC, RGG, JPK, VR, JKS, KWP, NKF, TAR Data analysis: AMD, AMG, MLK, VR, JKS, KWP, NKF, TAR Interpretation of the data: AMD, AMG, RJC, RGG, JPK, MLK, VR, JMML, VA, JKS, KWP, NKF, TAR Funding: RGG, VR, KWP, NKF, TAR Manuscript writing: AMD, AMG, RJC, RGG, JPK, VR, JMML, VA, JKS, KWP, NKF, TAR All authors reviewed the manuscript.    Funding  The Morgan Adams Foundation, The Team Ax Foundation, The Olivia Caldwell Foundation, The Tanner Seebaum Foundation, The Team Jack Foundation. At the University of Colorado Anschutz the Genomics Shared Resource (RRID: SCR_021984), Human Immune Monitoring Share Resource (RRID:SCR_021985) and Pathology Shared Resource (RRID: SCR_021994) are funded through the University of Colorado Cancer Center (P30CA046934). Fighting Ependymoma (UK). The James Tudor Foundation (UK).    Data availability Data Availability: The datasets generated and analysed during the current study are available at GEO (Superseries  GSE327676 ). Existing published datasets referenced in this study are available from their respective sources as cited in the manuscript.  Declarations   Conflicts of interest  The authors have no conflicts of interest to declare.    Ethical approval  Copy number profiles were from previously published datasets. Newly generated data—including bulk RNA sequencing, immunohistochemistry, and Xenium assays—were collected from specimens obtained during routine surgical procedures or autopsy, in accordance with institutional guidelines and with informed patient consent (COMIRB 95–500).     Footnotes     Publisher's Note   Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.      References     1.   Amani V, Donson AM, Lummus SC, Prince EW, Griesinger AM, Witt DA et al (2017) Characterization of 2 novel ependymoma cell lines with chromosome 1q gain derived from posterior fossa tumors of childhood. J Neuropathol Exp Neurol 76:595–604. 10.1093/jnen/nlx040         2.   Araki A, Chocholous M, Gojo J, Dorfer C, Czech T, Heinzl H et al (2016) Chromosome 1q gain and tenascin-C expression are candidate markers to define different risk groups in pediatric posterior fossa ependymoma. Acta Neuropathol Commun 4:88. 10.1186/s40478-016-0349-9         3.   Bailey MH, Tokheim C, Porta-Pardo E, Sengupta S, Bertrand D, Weerasinghe A et al (2018) Comprehensive characterization of cancer driver genes and mutations. Cell 173:371-385.e18. 10.1016/j.cell.2018.02.060         4.   Barbie DA, Tamayo P, Boehm JS, Kim SY, Moody SE, Dunn IF et al (2009) Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1. Nature 462:108–112. 10.1038/nature08460         5.   Baroni LV, Sundaresan L, Heled A, Coltin H, Pajtler KW, Lin T et al (2021) Ultra high-risk PFA ependymoma is characterized by loss of chromosome 6q. Neuro Oncol 23:1360–1370. 10.1093/neuonc/noab034         6.   Cao X, Pfaff SL, Gage FH (2008) YAP regulates neural progenitor cell number via the TEA domain transcription factor. Genes Dev 22:3320–3334. 10.1101/gad.1726608         7.   DeSisto J, Donson AM, Griesinger AM, Fu R, Riemondy K, Mulcahy Levy J et al (2024) Tumor and immune cell types interact to produce heterogeneous phenotypes of pediatric high-grade glioma. Neuro Oncol 26:538–552. 10.1093/neuonc/noad207         8.   Dobin A, Davis CA, Schlesinger F, Drenkow J, Zaleski C, Jha S et al (2013) STAR: ultrafast universal RNA-seq aligner. Bioinformatics 29:15–21. 10.1093/bioinformatics/bts635         9.   Donson AM, Amani V, Warner EA, Griesinger AM, Witt DA, Levy JMM et al (2018) Identification of FDA-approved oncology drugs with selective potency in high-risk childhood ependymoma. Mol Cancer Ther 17:1984–1994. 10.1158/1535-7163.MCT-17-1185         10.   Donson AM, Bertrand KC, Riemondy KA, Gao D, Zhuang Y, Sanford B et al (2023) Significant increase of high-risk chromosome 1q gain and 6q loss at recurrence in posterior fossa group A ependymoma: a multicenter study. Neuro Oncol 25:1854–1867. 10.1093/neuonc/noad096         11.   Eder N, Roncaroli F, Domart M-C, Horswell S, Andreiuolo F, Flynn HR et al (2020) YAP1/TAZ drives ependymoma-like tumour formation in mice. Nat Commun 11:2380. 10.1038/s41467-020-16167-y         12.   Engel RM, Chan WH, Nickless D, Hlavca S, Richards E, Kerr G et al (2020) Patient-derived colorectal cancer organoids upregulate revival stem cell marker genes following chemotherapeutic treatment. J Clin Med 9:128. 10.3390/jcm9010128         13.   Fu R, Norris GA, Willard N, Griesinger AM, Riemondy KA, Amani V et al (2022) Spatial transcriptomic analysis delineates epithelial and mesenchymal subpopulations and transition stages in childhood ependymoma. Neuro Oncol. 10.1093/neuonc/noac219         14.   Gillen AE, Riemondy KA, Amani V, Griesinger AM, Gilani A, Venkataraman S et al (2020) Single-Cell RNA sequencing of childhood ependymoma reveals neoplastic cell subpopulations that impact molecular classification and etiology. Cell Rep. 10.1016/j.celrep.2020.108023         15.   Griesinger AM, Calzadilla AJ, Grimaldo E, Donson AM, Amani V, Pierce AM et al (2024) Development of chromosome 1q+ specific treatment for highest risk pediatric posterior fossa ependymoma. Clin Cancer Res 30:1544–1554. 10.1158/1078-0432.CCR-23-3156         16.   Griesinger AM, Riemondy K, Eswaran N, Donson AM, Willard N, Prince EW et al (2023) Multi-omic approach identifies hypoxic tumor-associated myeloid cells that drive immunobiology of high-risk pediatric ependymoma. iScience 26:107585. 10.1016/j.isci.2023.107585         17.   Han Y (2019) Analysis of the role of the Hippo pathway in cancer. J Transl Med 17:116. 10.1186/s12967-019-1869-4         18.   Hao Y, Chun A, Cheung K, Rashidi B, Yang X (2008) Tumor suppressor LATS1 is a negative regulator of oncogene YAP. J Biol Chem 283:5496–5509. 10.1074/jbc.M709037200        19.   Harrold AP, Cleary MM, Bharathy N, Lathara M, Berlow NE, Foreman NK et al (2020) In vitro benchmarking of NF-κB inhibitors. Eur J Pharmacol 873:172981. 10.1016/j.ejphar.2020.172981         20.   Harvey KF, Tang TT (2025) Targeting the Hippo pathway in cancer. Nat Rev Drug Discov. 10.1038/s41573-025-01234-0        21.   von Hoff K, Obrecht-Sturm D, Ghasemi DR, Wenning J, Mynarek M, Gerber NU et al (2025) Developing an advanced risk stratification model for pediatric intracranial ependymoma based on the prospective trial E-HIT2000 and subsequent registries. Neuro Oncol. 10.1093/neuonc/noaf218         22.   Hu S, Molina L, Tao J, Liu S, Hassan M, Singh S et al (2022) NOTCH-YAP1/TEAD-DNMT1 axis drives hepatocyte reprogramming into intrahepatic cholangiocarcinoma. Gastroenterology 163:449–465. 10.1053/j.gastro.2022.05.007         23.   Huang B, Starostik P, Kühl J, Tonn J, Roggendorf W (2002) Loss of heterozygosity on chromosome 22 in human ependymomas. Acta Neuropathol 103:415–420. 10.1007/s00401-001-0479-3        24.   Kardian AS, Sun H, Ippagunta S, Laboe N, Varadharajan S, Yu K et al (2026) Dominant clones leverage developmental epigenomic states to drive ependymoma. Nature. 10.1038/s41586-026-10270-8         25.   Kilday JP, Mitra B, Domerg C, Ward J, Andreiuolo F, Osteso-Ibanez T et al (2012) Copy number gain of 1q25 predicts poor progression-free survival for pediatric intracranial ependymomas and enables patient risk stratification: a prospective european clinical trial cohort analysis on behalf of the Children’s Cancer Leukaemia Group (CCLG. Clin Cancer Res 18:2001–2011. 10.1158/1078-0432.CCR-11-2489        26.   Kumar A, Ali S, Shen Q, Zhou J (2026) FDA approval of the first-ever PROTAC: Vepdegestrant (ARV-471) marks a new era in targeted protein degradation. J Med Chem 69:16135–16142. 10.1021/acs.jmedchem.6c02076         27.   Lu Y, Yan Z, Sun J, Wang C, Xu L, Lyu X et al (2025) Selective degradation of TEADs by a PROTAC molecule exhibited robust anticancer efficacy in vitro and in vivo. J Med Chem 68:5616–5640. 10.1021/acs.jmedchem.4c02884        28.   Ma S, Meng Z, Chen R, Guan K-L (2019) The Hippo pathway: biology and pathophysiology. Annu Rev Biochem 88:577–604. 10.1146/annurev-biochem-013118-111829        29.   Mendrzyk F, Korshunov A, Benner A, Toedt G, Pfister S, Radlwimmer B et al (2006) Identification of gains on 1q and epidermal growth factor receptor overexpression as independent prognostic markers in intracranial ependymoma. Clin Cancer Res 12:2070–2079. 10.1158/1078-0432.CCR-05-2363        30.   Milde T, Kleber S, Korshunov A, Witt H, Hielscher T, Koch P et al (2011) A novel human high-risk ependymoma stem cell model reveals the differentiation-inducing potential of the histone deacetylase inhibitor Vorinostat. Acta Neuropathol 122:637–650. 10.1007/s00401-011-0866-3         31.   Pajtler KW, Wei Y, Okonechnikov K, Silva PBG, Vouri M, Zhang L et al (2019) YAP1 subgroup supratentorial ependymoma requires TEAD and nuclear factor I-mediated transcriptional programmes for tumorigenesis. Nat Commun 10:3914. 10.1038/s41467-019-11884-5         32.   Pajtler KW, Wen J, Sill M, Lin T, Orisme W, Tang B et al (2018) Molecular heterogeneity and CXorf67 alterations in posterior fossa group A (PFA) ependymomas. Acta Neuropathol. 10.1007/s00401-018-1877-0         33.   Pajtler KW, Witt H, Sill M, Jones DTW, Hovestadt V, Kratochwil F et al (2015) Molecular classification of ependymal tumors across all CNS compartments, histopathological grades, and age groups. Cancer Cell 27:728–743. 10.1016/j.ccell.2015.04.002         34.   Pan D (2010) The Hippo signaling pathway in development and cancer. Dev Cell 19:491–505. 10.1016/j.devcel.2010.09.011         35.   Pathania R, Ramachandran S, Elangovan S, Padia R, Yang P, Cinghu S et al (2015) DNMT1 is essential for mammary and cancer stem cell maintenance and tumorigenesis. Nat Commun 6:6910. 10.1038/ncomms7910         36.   Primi MC, Rangarajan ES, Patil DN, Izard T (2021) Conformational flexibility determines the Nf2/merlin tumor suppressor functions. Matrix Biol Plus 12:100074. 10.1016/j.mbplus.2021.100074         37.   Riemondy KA, Venkataraman S, Willard N, Nellan A, Sanford B, Griesinger AM et al (2022) Neoplastic and immune single-cell transcriptomics define subgroup-specific intra-tumoral heterogeneity of childhood medulloblastoma. Neuro Oncol 24:273–286. 10.1093/neuonc/noab135         38.   Ritzmann TA, Chapman RJ, Kilday J-P, Thorp N, Modena P, Dineen RA et al (2022) SIOP Ependymoma I: final results, long-term follow-up, and molecular analysis of the trial cohort—A BIOMECA Consortium Study. Neuro Oncol. 10.1093/neuonc/noac012         39.   Ritzmann TA, Kilday JP, Grundy RG (2021) Pediatric ependymomas: destined to recur? Neuro Oncol 23:874–876         40.   Ritzmann TA, Rogers HA, Paine SML, Storer LCD, Jacques TS, Chapman RJ et al (2020) A retrospective analysis of recurrent pediatric ependymoma reveals extremely poor survival and ineffectiveness of current treatments across central nervous system locations and molecular subgroups. Pediatr Blood Cancer. 10.1002/pbc.28426        41.   Robert M-F, Morin S, Beaulieu N, Gauthier F, Chute IC, Barsalou A et al (2003) DNMT1 is required to maintain CpG methylation and aberrant gene silencing in human cancer cells. Nat Genet 33:61–65. 10.1038/ng1068        42.   Rubio-San-Simón A, Ritzmann TA, Obrecht-Sturm D, Benesch M, Timmermann B, Leblond P et al (2025) European standard clinical practice recommendations for newly diagnosed ependymoma of childhood and adolescence. EJC Paediatr Oncol 5:100227. 10.1016/j.ejcped.2025.100227       43.   Sharma A, Blériot C, Currenti J, Ginhoux F (2022) Oncofetal reprogramming in tumour development and progression. Nat Rev Cancer 22:593–602. 10.1038/s41568-022-00497-8        44.   Sievers P, Henneken SC, Blume C, Sill M, Schrimpf D, Stichel D et al (2021) Recurrent fusions in PLAGL1 define a distinct subset of pediatric-type supratentorial neuroepithelial tumors. Acta Neuropathol 142:827–839. 10.1007/s00401-021-02356-6         45.   Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA et al (2005) Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proc Natl Acad Sci U S A 102:15545–15550. 10.1073/pnas.0506580102         46.   Sun X, Gao H, Yang Y, He M, Wu Y, Song Y et al (2019) PROTACs: great opportunities for academia and industry. Signal Transduct Target Ther 4:64. 10.1038/s41392-019-0101-6         47.   Tallon-Cobos AC, Vazaios K, Waranecki P, van Hoesel M, Cornel A, Schwalm B et al (2026) CAR T cells targeting the glycoprotein GD2 show potent antitumor efficacy in high-risk ependymoma models. J Clin Invest. 10.1172/JCI193332         48.   Tang TT, Konradi AW, Feng Y, Peng X, Ma M, Li J et al (2021) Small molecule inhibitors of TEAD auto-palmitoylation selectively inhibit proliferation and tumor growth of NF2-deficient mesothelioma. Mol Cancer Ther 20:986–998. 10.1158/1535-7163.MCT-20-0717        49.   Tape CJ (2024) Plastic persisters: revival stem cells in colorectal cancer. Trends Cancer 10:185–195. 10.1016/j.trecan.2023.11.003        50.   Trapnell C, Roberts A, Goff L, Pertea G, Kim D, Kelley DR et al (2012) Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks. Nat Protoc 7:562–578. 10.1038/nprot.2012.016         51.   Wani K, Armstrong TS, Vera-Bolanos E, Raghunathan A, Ellison D, Gilbertson R et al (2012) A prognostic gene expression signature in infratentorial ependymoma. Acta Neuropathol 123:727–738. 10.1007/s00401-012-0941-4         52.   Witt DA, Donson AM, Amani V, Moreira DC, Sanford B, Hoffman LM et al (2018) Specific expression of PD-L1 in RELA-fusion supratentorial ependymoma: implications for PD-1-targeted therapy. Pediatr Blood Cancer 65:e26960. 10.1002/pbc.26960         53.   Witt H, Mack SC, Ryzhova M, Bender S, Sill M, Isserlin R et al (2011) Delineation of two clinically and molecularly distinct subgroups of posterior fossa ependymoma. Cancer Cell 20:143–157. 10.1016/j.ccr.2011.07.007         54.   Yap TA, Kwiatkowski DJ, Dagogo-Jack I, Offin M, Zauderer MG, Kratzke R et al (2025) YAP/TEAD inhibitor VT3989 in solid tumors: a phase 1/2 trial. Nat Med 31:4281–4290. 10.1038/s41591-025-04029-3        55.   Yu T, Bachman J, Lai Z-C (2013) Evidence for a tumor suppressor role for the  large tumor suppressor  genes  LATS1  and  LATS2  in human cancer. Genetics 195:1193–1196. 10.1534/genetics.113.156372         56.   Zacharoulis S, Ashley S, Moreno L, Gentet JC, Massimino M, Frappaz D (2010) Treatment and outcome of children with relapsed ependymoma: a multi-institutional retrospective analysis. Childs Nerv Syst 26:905–911. 10.1007/s00381-009-1067-4        57.   Zahedi S, Riemondy K, Liu T, Griesinger AM, Donson AM, Apfelbaum AA et al (2025) Multi-pronged analysis of pediatric low-grade glioma and ganglioglioma reveals a unique tumor microenvironment associated with BRAF alterations. Brain Pathology. 10.1111/bpa.70023            Associated Data   Supplementary Materials        Supplementary file1 (XLSX 23 KB)           Supplementary file2 (TIF 1793 KB)       Data Availability Statement Data Availability: The datasets generated and analysed during the current study are available at GEO (Superseries  GSE327676 ). Existing published datasets referenced in this study are available from their respective sources as cited in the manuscript. ",
+    "confidence_score": 0.827,
+    "xenium_confidence": 0.78,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-10-17T07:50:06.753444Z",
+    "last_checked_at": "2026-10-20T08:34:48.058455Z",
     "source": "europe_pmc"
   },
   {
@@ -3380,7 +3825,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-10-19T08:55:05.762131Z",
+    "last_checked_at": "2026-10-20T08:34:41.024428Z",
     "source": "europe_pmc"
   },
   {
@@ -3446,7 +3891,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-10-19T08:55:05.352915Z",
+    "last_checked_at": "2026-10-20T08:34:40.269129Z",
     "source": "europe_pmc"
   },
   {
@@ -3512,7 +3957,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-10-19T08:55:04.833650Z",
+    "last_checked_at": "2026-10-20T08:34:40.268829Z",
     "source": "europe_pmc"
   },
   {
@@ -3687,7 +4132,296 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:28.415733Z",
-    "last_checked_at": "2026-10-19T08:55:04.833392Z",
+    "last_checked_at": "2026-10-20T08:34:38.952024Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Dying cells initiate DLL4–Notch signaling to drive tumor repopulation after insufficient thermal ablation of papillary thyroid carcinoma",
+    "doi": null,
+    "pmid": null,
+    "pmcid": "PMC13673604",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-01-01",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/PMC/PMC13673604",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [
+      {
+        "identifier": "10.1186/s12964-026-03106-5",
+        "location": "data_availability",
+        "text": "he online version contains supplementary material available at  https://doi.org/10.1186/s12964-026-03106-5 .     Keywords:  Papillary thyroid carcinoma, Thermal ablation, Notch, DLL4, Dy",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.jncc.2024.01.006.",
+        "location": "data_availability",
+        "text": "er incidence and mortality in China, 2022. J Natl Cancer Cent. 2024;4(1):47–53. 10.1016/j.jncc.2024.01.006.         2.   Bray F, Laversanne M, Sung H, et al. Global cancer statistics 2022",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.3322/caac.21834.",
+        "location": "data_availability",
+        "text": "worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2024;74(3):229–63. 10.3322/caac.21834.        3.   Ho AS, Kim S, Zalt C, et al. Expanded Parameters in active surveill",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1001/jamaoncol.2022.3875.",
+        "location": "data_availability",
+        "text": "id carcinoma: a nonrandomized controlled trial. JAMA Oncol. 2022;8(11):1588–96. 10.1001/jamaoncol.2022.3875.         4.   van Dijk SPJ, Coerts HI, Gunput STG, et al. Assessment of radiofre",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1001/jamaoto.2021.4381.",
+        "location": "data_availability",
+        "text": " review and meta-analysis. JAMA Otolaryngol Head Neck Surg. 2022;148(4):317–25. 10.1001/jamaoto.2021.4381.         5.   Chu KF, Dupuy DE. Thermal ablation of tumours: biological mechanis",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/nrc3672.",
+        "location": "data_availability",
+        "text": "logical mechanisms and advances in therapy. Nat Rev Cancer. 2014;14(3):199–208. 10.1038/nrc3672.        6.   Orloff LA, Noel JE, Stack BC Jr, et al. Radiofrequency ablation and",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1002/hed.26960.",
+        "location": "data_availability",
+        "text": "ciety, and Thyroid Nodules Therapies Association. Head Neck. 2022;44(3):633–60. 10.1002/hed.26960.        7.   Li X, Yan L, Xiao J, et al. Long-term outcomes and risk factors of ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1001/jamasurg.2023.5202.",
+        "location": "data_availability",
+        "text": "y ablation for T1N0M0 papillary thyroid carcinoma. JAMA Surg. 2024;159(1):51–8. 10.1001/jamasurg.2023.5202.         8.   Yan L, Li W, Zhu Y, et al. Long-term comparison of image-guided th",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1097/js9.0000000000001595.",
+        "location": "data_availability",
+        "text": "r retrospective cohort study. Int J Surg (London England). 2024;110(8):4867–75. 10.1097/js9.0000000000001595.         9.   Jiang M, Yu Y, Yang A. Concerns regarding thermal ablation for pap",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1001/jamasurg.2024.2744.",
+        "location": "data_availability",
+        "text": "cerns regarding thermal ablation for papillary thyroid cancer. JAMA Surg. 2024. 10.1001/jamasurg.2024.2744.        10.   Ma B, Wei W, Xu W, et al. Surgical confirmation of incomplete trea",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1089/thy.2017.0558.",
+        "location": "data_availability",
+        "text": "a retrospective case review and literature review. Thyroid. 2018;28(9):1134–42. 10.1089/thy.2017.0558.        11.   Dobrinja C, Bernardi S, Fabris B, et al. Surgical and pathological",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1155/2015/576576.",
+        "location": "data_availability",
+        "text": " after radiofrequency ablation of thyroid nodules. Int J Endocrinol. 2015;2015. 10.1155/2015/576576.        12.   Sun W, Zhang H, He L, et al. Surgery after ultrasound-guided radio",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.12659/msm.928391.",
+        "location": "data_availability",
+        "text": "er in China. Med Sci Monitor Int Med J experimental Clin Res. 2020;26(e928391). 10.12659/msm.928391.        13.   Wei Y, Niu WQ, Zhao ZL, et al. Microwave ablation versus surgical ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1148/radiol.212313.",
+        "location": "data_availability",
+        "text": "for solitary T1N0M0 papillary thyroid carcinoma. Radiology. 2022;304(3):704–13. 10.1148/radiol.212313.        14.   Yu XY, Zhou HD, Wei Y, et al. Preliminary study of microwave ablat",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.jvir.2023.01.035.",
+        "location": "data_availability",
+        "text": "arcinoma in nonoperative candidates. J Vasc Interv Radiol. 2023;34(6):999–1006. 10.1016/j.jvir.2023.01.035.        15.   Ahmed M, Brace CL, Lee FT Jr., et al. Principles of and advances i",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1148/radiol.10081634.",
+        "location": "data_availability",
+        "text": "ciples of and advances in percutaneous ablation. Radiology. 2011;258(2):351–69. 10.1148/radiol.10081634.         16.   Klimek K, Mader N, Happel C, et al. Heat sink effects in thyroid ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41598-023-45926-2.",
+        "location": "data_availability",
+        "text": "d bipolar radiofrequency ablation: an ex vivo study. Sci Rep. 2023;13(1):19288. 10.1038/s41598-023-45926-2.         17.   Zhao CK, Xu HX, Lu F, et al. Factors associated with initial inco",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.3233/CH-16208.",
+        "location": "data_availability",
+        "text": "First results of CEUS evaluation. Clin Hemorheol Microcirc. 2017;65(4):393–405. 10.3233/CH-16208.        18.   Jiang MJ, Gu DN, Dai JJ, et al. Dark side of cytotoxic therapy: ch",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.trecan.2020.01.018.",
+        "location": "data_availability",
+        "text": "ion-induced cell death and tumor repopulation. Trends Cancer. 2020;6(5):419–31. 10.1016/j.trecan.2020.01.018.        19.   Jiang MJ, Chen YY, Dai JJ, et al. Dying tumor cell-derived exosoma",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1186/s12943-020-01178-6.",
+        "location": "data_availability",
+        "text": "lating cells upon radiotherapy in pancreatic cancer. Mol Cancer. 2020;19(1):68. 10.1186/s12943-020-01178-6.         20.   Wang S, Li J, Xu S, et al. Baohuoside I chemosensitises breast ca",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1002/jev2.12493.",
+        "location": "data_availability",
+        "text": " signal released from apoptotic cells. J Extracell vesicles. 2024;13(7):e12493. 10.1002/jev2.12493.         21.   Su T, Liao J, Dai Z, et al. Stress-induced phosphoprotein 1 media",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41388-018-0169-4.",
+        "location": "data_availability",
+        "text": "asis after insufficient radiofrequency ablation. Oncogene. 2018;37(26):3514–27. 10.1038/s41388-018-0169-4.        22.   Zhu S, Wu Y, Zhang X, et al. Targeting N(7)-methylguanosine tRNA m",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.ymthe.2022.08.004.",
+        "location": "data_availability",
+        "text": "diofrequency ablation. Mol therapy: J Am Soc Gene Therapy. 2023;31(6):1596–614. 10.1016/j.ymthe.2022.08.004.         23.   Huang Q, Li F, Liu X, et al. Caspase 3-mediated stimulation of tu",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/nm.2385.",
+        "location": "data_availability",
+        "text": " tumor cell repopulation during cancer radiotherapy. Nat Med. 2011;17(7):860–6. 10.1038/nm.2385.         24.   Koh SB, Mascalchi P, Rodriguez E, et al. A quantitative FastFUCCI",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1242/jcs.195164.",
+        "location": "data_availability",
+        "text": "nes cell cycle dynamics at a single-cell level. J Cell Sci. 2017;130(2):512–20. 10.1242/jcs.195164.        25.   Campbell AE, Shadle SC, Jagannathan S et al. eLife. NuRD and CAF-1",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.7554/eLife.31023",
+        "location": "data_availability",
+        "text": "ilencing of the D4Z4 array is modulated by DUX4-induced MBD3L proteins. 2018;7( 10.7554/eLife.31023        26.   Ito Y, Miyauchi A, Kakudo K, et al. Prognostic significance of ki-",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1007/s00268-010-0746-3.",
+        "location": "data_availability",
+        "text": "beling index in papillary thyroid carcinoma. World J Surg. 2010;34(12):3015–21. 10.1007/s00268-010-0746-3.        27.   Kopan R, Ilagan MX. The canonical Notch signaling pathway: unfoldi",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.cell.2009.03.045.",
+        "location": "data_availability",
+        "text": "ignaling pathway: unfolding the activation mechanism. Cell. 2009;137(2):216–33. 10.1016/j.cell.2009.03.045.         28.   Majumder S, Crabtree JS, Golde TE, et al. Targeting Notch in onco",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41573-020-00091-3.",
+        "location": "data_availability",
+        "text": "ng Notch in oncology: the path forward. Nat Rev Drug Discov. 2021;20(2):125–44. 10.1038/s41573-020-00091-3.        29.   Wu J, Zhou Z, Huang Y, et al. Radiofrequency ablation: mechanisms ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1002/mco2.746.",
+        "location": "data_availability",
+        "text": "uency ablation: mechanisms and clinical applications. MedComm. 2024;5(10):e746. 10.1002/mco2.746.         30.   Guo Y, Ren Y, Dong X, et al. An overview of hepatocellular carcin",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.2147/JHC.S358539.",
+        "location": "data_availability",
+        "text": "er insufficient radiofrequency ablation. J Hepatocell Carcinoma. 2022;9:343–55. 10.2147/JHC.S358539.         31.   Huang J, Yan L, Cheng Z, et al. A randomized trial comparing radi",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1097/SLA.0b013e3181efc656.",
+        "location": "data_availability",
+        "text": "section for HCC conforming to the Milan criteria. Ann Surg. 2010;252(6):903–12. 10.1097/SLA.0b013e3181efc656.        32.   Sparchez Z, Mocan T, Radu P, et al. Prognostic factors after percu",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.15403/jgld.2014.1121.274.pro.",
+        "location": "data_availability",
+        "text": "verall survival rates. J Gastrointest liver diseases: JGLD. 2018;27(4):399–407. 10.15403/jgld.2014.1121.274.pro.        33.   Gurney A, Hoey T. Anti-DLL4, a cancer therapeutic with multiple me",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1186/2045-824x-3-18.",
+        "location": "data_availability",
+        "text": "ncer therapeutic with multiple mechanisms of action. Vascular cell. 2011;3(18). 10.1186/2045-824x-3-18.        34.   Khelil M, Griffin H, Bleeker MCG, et al. Delta-Like Ligand-Notch1 ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1158/0008-5472.Can-20-1996.",
+        "location": "data_availability",
+        "text": " and correlates with cervical cancer prognosis. Cancer Res. 2021;81(7):1909–21. 10.1158/0008-5472.Can-20-1996.        35.   Geers C, Colin IM, Gerard AC. Delta-like 4/Notch pathway is differ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1089/thy.2010.0444.",
+        "location": "data_availability",
+        "text": "egulated in benign and malignant thyroid tissues. Thyroid. 2011;21(12):1323–30. 10.1089/thy.2010.0444.        36.   Chiorean EG, LoRusso P, Strother RM, et al. A phase I first-in-hum",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      },
+      {
+        "identifier": "10.1158/1078-0432.CCR-14-2797.",
+        "location": "data_availability",
+        "text": " in patients with advanced solid tumors. Clin Cancer Res. 2015;21(12):2695–703. 10.1158/1078-0432.CCR-14-2797.           Associated Data   Supplementary Materials        Supplementary Materi",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13673604/fullTextXML"
+      }
+    ],
+    "evidence_text": "Dying cells initiate DLL4–Notch signaling to drive tumor repopulation after insufficient thermal ablation of papillary thyroid carcinoma Background  Although lacking high-quality clinical evidence, the use of thermal ablation for papillary thyroid carcinoma (PTC) is increasing. Emerging evidence suggests that thermal ablation may accelerate tumor progression in some patients, but the underlying biological mechanisms remain unclear. This study aims to explore the mechanisms of tumor repopulation following thermal ablation and identify possible intervention strategies.    Materials and methods  In vitro and in vivo models were employed to simulate tumor repopulation after thermal ablation and investigate mechanisms. Clinicopathological features of post-ablation surgical specimens were analyzed, and Xenium in situ spatial transcriptomics was conducted. Time-lapse imaging and RNA-seq explored how dying cells influence surviving cells. qPCR, WB, IHC, and flow cytometry validated molecular mechanisms, while enChIP-MS identified upstream regulators.    Results  Post-ablation PTC tissue showed significantly higher proliferative potential. Heat-induced dying cells promote surviving cell repopulation in a contact-dependent manner. Dying cells upregulated DLL4, activating Notch signaling in surviving cells and driving proliferation. Clinical specimens and Xenium in situ spatial transcriptomics revealed elevated Notch activity in tumor cells adjacent to the ablation bed. Inhibition of DLL4–Notch signaling attenuated the dying cell–induced proliferative advantage in vitro and in vivo. enChIP–MS showed HNRNPU enrichment at the DLL4 promoter after heat treatment. Mechanistically, heat treatment increased HNRNPU nuclear enrichment and binding at the DLL4 promoter, facilitating DLL4 transcription.    Conclusion  Heat-induced dying cells promote tumor repopulation after insufficient thermal ablation in PTC through the DLL4–Notch pathway. With the expanding use of thermal ablation, understanding and mitigating its limitations is essential for clinical advancement.    Supplementary Information  The online version contains supplementary material available at  https://doi.org/10.1186/s12964-026-03106-5 .     Keywords:  Papillary thyroid carcinoma, Thermal ablation, Notch, DLL4, Dying cells      status  released    display-pdf  yes    is-olf  no    is-manuscript  no    is-preprint  no    is-journal-matter  no    is-scanned  no    is-retracted  no       Received 2026 Apr 26; Accepted 2026 Jul 19; Collection date 2026.       Introduction  The incidence of thyroid cancer is rising rapidly, making it one of the most common cancers worldwide, and it has reached the third highest incidence among all malignant cancers in China [ 1 ]. Despite the high incidence, papillary thyroid carcinoma (PTC) generally has a favorable prognosis, with over 90% of patients achieving a survival time exceeding 10 years [ 2 ]. As a result, there is growing interest in evaluating more conservative treatment strategies, such as active surveillance [ 3 ] and thermal ablation [ 4 ].  Thermal ablation has been widely adopted for the treatment of benign thyroid nodules and for palliative management of locally recurrent or metastatic PTC [ 5 ,  6 ]. Although preliminary data indicate promising effects of thermal ablation for PTC [ 7 ,  8 ], there are significant concerns regarding its efficacy, safety, and long-term outcomes as we proposed [ 9 ]. An increasing amount of evidence based on post-ablation pathological samples revealed a substantial proportion of patients possess residual viable cancer cells, increased rates of lymph node metastasis, and, even accelerated tumor progression in certain patients [ 10 – 12 ]. Moreover, larger tumor size and multifocal nodules are associated with a significantly increased risk of recurrence after ablation [ 13 ,  14 ]. However, the reasons underlying this accelerated progression remain unclear.  Mechanistically, thermal ablation induces cell death through the release of heat, with temperatures exceeding 45 °C leading to various forms of cellular damage [ 15 ]. However, due to temperature gradients and the heat sink effect [ 16 ], some regions may experience sublethal temperatures, resulting in incomplete ablation and residual tumor cells. Additionally, the thyroid’s small size and proximity to critical structures make complete ablation challenging [ 17 ], which increases the likelihood of a proportion of cells undergoing programmed cell death and leaving residual tumor cells. During the dying process, cells underlying programmed cell death may send out signals to instruct tissue regeneration and homeosis. However, the process can be hijacked by cancer cells. Previous studies have indicated that dying tumor cells generated by various cancer treatments can secrete signals that significantly influence therapy efficacy and even potentiate tumor repopulation [ 18 – 20 ]. Thermal ablation inevitably generates large numbers of dying cells, yet their potential influence on therapy efficacy has not been thoroughly investigated.  In this study, we demonstrated that dying PTC cells generated by thermal ablation promote tumor repopulation by activating the Notch signaling pathway. We further identified the unique role of thermal ablation-induced dying tumor cells in enhancing tumor repopulation through direct cell-cell interactions, rather than releasing soluble factors as seen in dying cells generated by cytotoxic therapies. Specifically, dying cells upregulated DLL4, which subsequently activated the Notch pathway in surviving cells, promoting their proliferation. Furthermore, we observed that dying cells increased nuclear enrichment of HNRNPU and its recruitment to the DLL4 promoter, thereby boosting DLL4 transcription and amplifying its expression. In summary, our study reveals the biological mechanisms underlying tumor repopulation following insufficient thermal ablation of PTC and identifies potential therapeutic targets to support future intervention strategies.    Materials and methods   Patients and tissue specimens  We retrospectively collected clinicopathological data and tissue samples of PTC patients who had received thermal ablation treatment prior to surgery and patients who received upfront surgery at a 1:9 ratio from Sun Yat-sen University Cancer Center. This study protocol was reviewed and approved by the Medical Ethics Committee of Sun Yat-sen University Cancer Center (NO. B2024-552-01). All procedures performed during the study adhere to the principles of respect for persons, beneficence, and justice as outlined in the Declaration of Helsinki as revised in 2013.    Heat treatment, co-culture system establishment, and reporter cell assays  To simulate thermal ablation in vitro, we employed the approach similar to those previously used in studies of liver cancer ablation [ 21 ,  22 ]. In brief, PTC cells were seeded in 6-well or 24-well plates and cultured for 18 h. The medium was removed and replaced with preheated medium at 55 °C, and plates were transferred to an incubator set at 55 °C for 5 min to mimic the thermal ablation process. To minimize confounding factors from cytokines in FBS, the medium was replaced with low-serum medium (3% FBS) after heat treatment for further culture. Details on the temperature optimization process are shown in Supplementary Figure S1A.  To mimic the in vivo scenario where the majority of PTC cells undergo cell death post-ablation, we drew upon previously established co-culture systems used in studies of dying cells and applied a similar approach [ 19 ,  23 ]. In brief, a small number of reporter cells (1,000 cells/well) were co-cultured with heat-treated dying cells (feeder cells, 50,000 cells/well) immediately after heat treatment with low-serum DMEM (for TPC-1) or RPMI 1640 (for KTC-1 or Nthy-ori-3-1) medium (3% FBS). After three days post-co-culture, 200 µL of 0.15 mg/mL D-luciferin solution was added to each well, and bioluminescence imaging was conducted using the IVIS Spectrum system for quantitative analysis. Where indicated, pharmacologic inhibitors or antibody were added immediately after heat treatment, at the time of reporter-cell seeding, and maintained throughout the co-culture period until the readout. For inhibitor/antibody experiments, reporter-cell proliferation was evaluated relative to the corresponding reporter-cell-alone group under matched treated or untreated conditions. Two PTC reporter cell lines (Luc-TPC-1 and Luc-KTC-1) were established by lentiviral transduction of the eGFP-luciferase construct followed by puromycin selection, as described in the Supplementary Materials and Methods. Validation data for tumor cell bioluminescence quantification can be found in Supplementary Figure S1B.    Time-lapse imaging  FUCCI (Fluorescent Ubiquitination-based Cell Cycle Indicator) reporter cells were generated by lentiviral transduction of the FastFUCCI construct followed by puromycin selection, as described in the Supplementary Materials and Methods. FUCCI reporter cells were co-cultured with heat-treated dying cells and placed in a 37 °C humidified chamber with 5% CO₂. Dynamic cell interactions were recorded using an HIS-SIM microscope, with images captured every 20 min. The FUCCI system labels cells at different stages of the cell cycle [ 24 ], allowing observation of dynamic changes in the cell cycle of the FUCCI labeled cells.    Animal experiments  All animal procedures were approved by the Institutional Animal Care and Use Committee (IACUC) of Sun Yat-sen University Cancer Center. Male BALB/c nude mice (6–8 weeks old) were subcutaneously inoculated in the right flank with human TPC-1 cells (1 × 10^7). Tumor volume was calculated as V = (length × width^2)/2. When tumors reached ~ 100 mm^3, microwave ablation (MWA) was performed under tribromoethanol anesthesia (i.p.) using a 17G MWA needle (Changcheng Microwave System Engineering Co., Ltd.) at 75 W for 15 s. The ablation probe was maintained at the tumor center throughout the procedure.  To minimize bias from tumor size–dependent ablation variability, mice were volume-matched into eight pairs immediately after MWA and assigned to receive enoticumab (human anti-DLL4 monoclonal antibody; 2.5 mg/kg, i.p.) or isotype IgG at the same dose, starting immediately after MWA and repeated every 4 days. Tumor volumes were measured at each dosing time point. Mice were euthanized on day 20 post MWA; tumors were excised, weighed, and processed for downstream analyses. Additional mice were euthanized at 72 h post MWA for histological analyses.    Chromatin immunoprecipitation (ChIP), engineered DNA-binding molecule-mediated chromatin immunoprecipitation (enChIP) and enChIP-MS  Cells were harvested 18 h post-heat treatment and fixed with formaldehyde (#12606S, CST). ChIP assays were performed using the ChIP Kit (#56383S, CST) according to the manufacturer’s instructions. Immunoprecipitation was carried out using anti-HNRNPU antibodies to pull down the HNRNPU-DNA complexes. Following de-crosslinking and DNA purification, PCR was used to evaluate HNRNPU binding to target sequences. Primer sequences for PCR are listed in Supplementary Table S1.  enChIP effectively identifies specific genomic regions using CRISPR/dCas9 technology, enabling detailed analysis of chromatin complexes associated with these regions [ 25 ]. For enChIP, the dCas9-3xFLAG stable cell line with sgRNA targeting the DLL4 promoter was subjected to ChIP as described above. Immunoprecipitation was performed using anti-3xFLAG antibodies to pull down complexes containing dCas9-3xFLAG and the DLL4 promoter region.  In enChIP-MS, immunoprecipitated complexes obtained with anti-3xFLAG antibodies were boiled in 1x SDS buffer and subjected to SDS-PAGE. The entire gel lane was excised, and pre-processed samples were analyzed by nano-liquid chromatography-tandem mass spectrometry (LC-MS/MS). Data were acquired through data-dependent analysis and processed using PLGS software (Waters). The Mascot search engine was used to search the peak lists against the NCBI database. To ensure accuracy, common keratin contaminants were excluded, and the top 10% of enriched proteins, ranked by p-value, were selected for further analysis.    Xenium in situ spatial transcriptomics and spatial ROI–distance analysis of NOTCH pathway module scores  A tumor specimen from Patient 6 was profiled using the 10x Genomics Xenium 5 K in situ spatial transcriptomics platform. Xenium generates single-cell spatial expression matrices by integrating in situ optical barcode decoding with high-resolution image segmentation. In addition to the standard 5 K panel, 50 custom genes were included to enhance cell-state characterization; the full gene list is provided in Table S2. The Xenium cell-by-gene count matrix and spatial coordinates (centroids) were analyzed using Seurat (v5). Data were normalized (NormalizeData), 2,000 highly variable genes were selected (FindVariableFeatures), and scaled with regression of available technical covariates (nCount_RNA, nFeature_RNA, cell_area, control_probe_counts, unassigned_codeword_counts). Dimensionality reduction was performed by PCA (50 PCs), followed by graph-based clustering (dims 1:20; resolution = 0.15) and UMAP visualization (dims 1–20). Cluster marker genes were identified using FindAllMarkers and annotated based on canonical markers and pathway enrichment patterns.  Genes belonging to the NOTCH signaling pathway gene set (REACTOME_SIGNALING_BY_NOTCH, MSigDB) were curated, and only genes present in the Xenium expression matrix were retained. Per-cell NOTCH module scores were computed using AddModuleScore (R Seurat package) and subsequently standardized across cells by z-score transformation.  For ROI–distance analysis, the ablation/necrotic region was first determined on matched H&amp;E sections by a board-certified pathologist. Guided by this annotation, the ROI boundary was manually delineated interactively in R as a polygon on the Xenium spatial map and saved for reproducibility. For each cell, the Euclidean distance to the ROI polygon was computed as the minimum distance from the cell centroid to the polygon boundary; cells located inside the ROI were assigned a distance of 0. Distances were binned in 50 μm increments (bin center = (bin + 0.5) × 50 μm), and bins containing fewer than 50 cells were excluded. For each distance bin, the median z-scored NOTCH module score was computed and visualized as a distance–response curve with LOESS smoothing (span = 0.80). Monotonic associations between distance and module score were assessed using Spearman correlation. To visualize spatial gradients while preserving per-cell trends, coordinates were aggregated into 40 μm × 40 μm square tiles. Within each tile, the median per-cell z-scored NOTCH module score was computed (tiles with fewer than 5 cells were excluded). Color scales were clipped to the 5th–95th percentiles, with out-of-range values squished to the limits, and the ROI boundary was overlaid on the heatmap.    RNA sequencing, bioinformatics analysis and statistics  RNA sequencing was performed on heat-treated dying tumor cells and reporter cells isolated by FACS from the co-culture system. Three replicates were included in each group. Sequencing libraries were prepared using the Illumina ®  Stranded mRNA Prep Ligation according to the manufacturer’s instructions and sequenced on an Illumina NovaSeq 6000 platform with paired-end 150-bp reads (PE150). Raw paired-end reads were trimmed and quality controlled using fastp before downstream analysis.  Bioinformatics analysis was performed using R version 4.5.2. Thyroid cancer patients’ data from the TCGA cohort ( n  = 512) were obtained from the  GEPIA  database ( http://gepia.cancer-pku.cn/ ). Data are presented as mean ± standard error of mean (SEM) from at least three independent experiments unless otherwise specified. Unpaired and paired t-tests were used for statistical comparisons as appropriate. The Pearson correlation coefficient (r value) was calculated to assess the linear relationship between variables. Log-Rank test was used for survival analysis. GraphPad Prism 9 software was used for data analysis and graphical representation.    Additional materials and methods  Other methods, including cell lines and cell culture, plasmid construction, lentivirus production and transfection, RNA extraction and RT-qPCR, western blotting, flow cytometry and cell sorting, RNA sequencing, EdU assay, immunofluorescence and Hematoxylin and Eosin (H&amp;E) Staining, Immuno-histochemistry (IHC) and Multiplex IHC are described in the supplementary materials and methods.     Results   Heat-induced dying cells enhance tumor repopulation  Previous studies have shown that a substantial proportion of PTC patients still exhibit residual tumor foci during subsequent thyroid cancer surgery after thermal ablation, and some patients’ residual lesions display increased proliferative and invasive capabilities [ 10 ,  12 ]. In our center, we identified 10 PTC patients who underwent thermal ablation prior to surgery. Interestingly, these patients exhibited similar phenomena in their postoperative pathology, including a higher rate of tumor residuals at the ablation sites (7/10), unusual capsule invasion (8/10), and lymph node metastasis (9/10) (Table  1 ). Notably, the tumors of these patients displayed a strong proliferative potential, with an average Ki-67 positive cell percentage of 7.86%. To further investigate this, we randomly matched each patient’s tissue sample with 9 samples from PTC patients who underwent upfront surgery during the same period and compared their Ki-67 expression (The clinicopathological characteristics of the ablation and surgery-only control cohorts are summarized in Supplementary Table S5). The results showed that the Ki-67 expression in thermal ablation-treated patients was significantly higher than that in the control cohort (Fig.  1 A, approximately 1%, which is consistent with previously reported Ki-67 levels in PTC patients [ 26 ]). Additionally, representative mIHC image of a patient receiving thermal ablation demonstrated a marked increase in the proliferation marker Ki-67 in PTC cells (marked by TTF1) adjacent to the ablation site (Fig.  1 B), further suggesting a potential proliferation-promoting role of the thermal ablation site. To determine whether this effect was initiated by the heat-induced dying tumor cells, we established an in vitro co-culture system by co-culturing heat-treated dying cells and reporter cells (expressing GFP and luciferase for identification and quantification, Figure S1). Reporter cells co-cultured with dying cells exhibited significantly increased proliferation after three days (Luc-TPC-1 and Luc-KTC-1, Fig.  1 C-D). Interestingly, heat-induced dying benign thyroid epithelial cells (Nthy-Ori-3-1) also significantly promoted the proliferation of PTC reporter cells (Luc-TPC-1 and Luc-KTC-1, Fig.  1 E-F), indicating that this phenomenon may apply to both benign and malignant thyroid cells. To investigate changes in reporter cells after co-culture with dying cells, reporter cells from the co-culture system were enriched by flow cytometry and subjected to bulk RNA sequencing, followed by GO enrichment analysis. The enriched signaling pathways were largely associated with conditions required for cell proliferation, such as DNA replication, strand elongation, cell cycle progression, and mismatch repair (Fig.  1 G), suggesting that these cells acquired an active proliferative potential. This was further confirmed by EdU assays, which demonstrated that more reporter cells co-cultured with dying cells entered a rapid proliferation state (Fig.  1 H-I). To further determine whether this dying cell–mediated effect could attribute to a specific mode of cell death, we pharmacologically inhibited major cell-death pathways in the co-culture system. Specifically, inhibitors of autophagy (3-MA), apoptosis (Z-VAD-FMK), necroptosis (Nec-1), and ferroptosis (Fer-1) were added to the co-culture system immediately after heat treatment, at the time of reporter-cell seeding, and were maintained throughout the co-culture period. Under both inhibitor-treated and untreated settings, reporter-cell proliferation in the co-culture group was evaluated relative to the corresponding reporter-cell-alone group. Notably, inhibition of any single pathway did not attenuate the proliferation-promoting effect induced by dying cells in either TPC-1 reporter cells (Fig.  1 J–M) or KTC reporter cells (Fig.  1 N–Q). Collectively, these data indicate that heat-induced dying cells robustly enhance tumor repopulation.    Table 1   Clinicopathology factors of PTC patients received thermal ablation prior to surgery      Patients  Sex  Age  Size of tumor(cm)  Multifocality  Capsular Invasion  Lymph node metastasis  Distant metastasis  TNM  Stage  KI67 Expression                       (%, Percentage of positive cells)       Patient 1  Male  60  0.7  Yes  Yes  Yes  No  II  19.36    Patient 2  Female  31  1.8  No  Yes  Yes  No  I  4.02    Patient 3  Female  26  0.8  No  Yes  Yes  No  I  9.79    Patient 4  Male  27  0.1  No  No  Yes  No  I  0.00    Patient 5  Female  48  0.6  Yes  Yes  Yes  No  I  6.08    Patient 6  Female  44  1.5  Yes  Yes  Yes  No  I  12.20    Patient 7  Female  26  0.7  No  Yes  Yes  No  I  3.59    Patient 8  Female  60  0.9  Yes  Yes  No  No  II  6.34    Patient 9  Male  65  2.0  No  Yes  Yes  No  II  9.21    Patient 10  Female  29  2.1  No  No  Yes  No  II  8.00        Fig. 1   Heat-induced dying cells enhance repopulation of surviving thyroid tumor cells.  A  Ki-67 expression levels in the ablation cohort ( N  = 10) versus surgery-only controls ( N  = 90).  B  Representative mIHC and H&amp;E from Patient 6; dashed line marks the ablation boundary, with proximal and distal regions indicated.  C – F  Bioluminescence results of reporter cells co-cultured with heat-treated dying feeders: Luc-TPC-1 with dying TPC-1 feeders ( C ), Luc-KTC-1 with dying KTC-1 feeders ( D ) and dying Nthy-ori-3-1 feeders co-cultured with Luc-TPC-1 ( E ) or Luc-KTC-1 ( F ) ( N  = 3).  G  Enrichment results of differentially expressed genes from RNA-seq of Luc-TPC-1 reporter cells after co-culture with dying tumor cells.  H ,  I  EdU assays in Luc-TPC-1 ( H ) and Luc-KTC-1 ( I ) after co-culture (scale bar, 100 μm;  N  = 3).  J – Q  Bioluminescence results of the co-culture system with or without cell-death pathway inhibitors: Luc-TPC-1 with dying TPC-1 feeders with or without 3-MA (2.5mM,  J ), Z-VAD-FMK (10µM,  K ), Nec-1 (5µM,  L ), or Fer-1 (1µM,  M ); Luc-KTC-1 with dying KTC-1 feeders with or without 3-MA (2.5mM,  N ), Z-VAD-FMK (10µM,  O ), Nec-1 (5µM,  P ), or Fer-1 (1µM,  Q ) ( N  = 3). Data are presented as mean ± SEM; statistical significance was assessed by unpaired two-tailed t test                     Proliferation signal transmission is dependent on direct contact between surviving and dying tumor cells  While observing the co-culture system, we noticed that although both dying cells and reporter cells remained sparsely distributed, the reporter cells consistently adhered closely to dying cells, suggesting a specific form of cell interaction (Fig.  2 A). Interestingly, culturing reporter cells with conditioned media derived from dying cells did not effectively promote their growth (Figs.  2 B-C), indicating that the transmission of the proliferative signal from dying cells is contact-dependent. To further explore this, we labeled cells with the FUCCI system, which indicates cell cycle phases in real-time when monitored with time-lapse imaging (Fig.  2 D). Time-lapse imaging revealed that FUCCI cells rapidly entered the proliferation phase upon contact with dying cells (Fig.  2 E, Video S1). Cell cycle analysis showed a significant shortening of the G1 phase in FUCCI cells after contact with dying cells (Fig.  2 F), suggesting accelerated cell proliferation.    Fig. 2   Heat-induced dying cells promote rapid proliferation of surviving tumor cells in a contact-dependent manner.  A  Co-culture images of heat-treated cells and reporter cells (GFP-labeled, green fluorescence; Scale bar: 100 μm).  B ,  C  Bioluminescence results of Luc-TPC-1 ( B ) and Luc-KTC-1 ( C ) reporter cells cultured in the supernatant derived from dying TPC-1 or KTC-1 tumor cells ( N  = 3, unpaired t test, mean with SEM). ( D ) Schematic of the FUCCI plasmid system.  E ,  F  Time-lapse imaging illustrating cell cycle changes in reporter cells upon contact with dying tumor cells (E, scale bar, 20 μm) and corresponding quantification (F) ( N  = 3, paired t test, mean with SEM)                     Heat-induced dying tumor cells activate Notch signaling to promote tumor repopulation  To further explore the mechanism by which dying cells promote the rapid proliferation of surviving cells after thermal ablation, we performed transcriptome sequencing on the dying cells following heat treatment. The results revealed significant enrichment of several signaling pathways related to stemness and stress response in the dying cells, including the Notch-related signaling pathway (Signaling by NOTCH, Fig.  3 A). Consistently, gene set enrichment analysis (GSEA) further demonstrated a significant activation of this pathway in dying cells (Fig.  3 B; NES = 1.77,  p  = 0.001, q = 0.009). The Notch signaling pathway is a crucial regulator of cell fate and tumorigenesis and transmits signals through a contact-dependent manner [ 27 ,  28 ], which is consistent with our observation of contact-dependent interactions between dying cells and surviving cells (Fig.  2 ). We subsequently examined the expression of four NICDs, which mediate Notch pathway activation, in reporter cells. All four NICDs were significantly upregulated in reporter cells co-cultured with dying tumor cells compared with those co-cultured with untreated tumor cells (Fig.  3 C), confirming the activation of the Notch pathway. Further analysis showed that HES1, a marker of Notch pathway activation, was markedly upregulated in the surviving cells (Fig.  3 D-G), suggesting a key role for the Notch signaling pathway in this process. When the Notch inhibitor DAPT was added to the co-culture system, the dying cell–induced proliferative advantage was significantly reduced (Fig.  3 H–I), indicating that the Notch signaling pathway plays a critical role in the rapid proliferation of surviving cells induced by dying tumor cells. Interestingly, dying benign thyroid epithelial cells also activated HES1 expression in reporter cells (Figure S2A-B), and DAPT effectively inhibited reporter cell proliferation (Figure S2C-D), although this effect was not significant in Luc-TPC-1 cells.    Fig. 3   Heat-induced dying tumor cells promote rapid proliferation of surviving tumor cells through activation of the Notch signaling pathway.  A  Enrichment analysis of differentially expressed genes from RNA-seq of dying TPC-1 cells after heat treatment.  B  GSEA results of the Reactome Signaling by NOTCH pathway in dying cells after heat treatment.  C  Expression levels of NICD in Luc-TPC-1 and Luc-KTC-1 reporter cells after co-culture.  D ,  E  mRNA expression levels of HES1 in Luc-TPC-1 ( D ) and Luc-KTC-1 ( E ) reporter cells after co-culture ( N  = 3).  F ,  G  Protein expression levels of HES1 in Luc-TPC-1 ( F ) and Luc-KTC-1 ( G ) reporter cells after co-culture ( N  = 3).  H ,  I  Bioluminescence results of Luc-TPC-1 ( H ) and Luc-KTC-1 ( I ) reporter cells co-cultured with heat-induced dying tumor cells with or without the Notch pathway inhibitor DAPT (10µM,  N  = 3).  J  Xenium in situ spatial transcriptomics from patient 6 shown as UMAP (left) and spatial mapping (right).  K  Representative marker genes (z-score) and pathway features used for annotation of major cell populations.  L  Spatial heatmap of z-scored NOTCH module scores in PTC cells; the dashed polygon denotes the ablation ROI boundary.  M  Median NOTCH module score in PTC cells plotted against distance to the ablation ROI boundary (50-µm bins; LOESS smoothing), with Spearman correlation shown. Data are presented as mean ± SEM; statistical significance was assessed by unpaired two-tailed t test                   To further explore the changes of clinical tissue after thermal ablation at the spatial level, we performed Xenium in situ spatial transcriptomics on one patient specimen covering the ablation region and adjacent PTC tissue (Figure S3A). Unsupervised clustering identified nine clusters; one low-quality cluster (very low nCount_RNA/nFeature_RNA) localized to the post-ablation necrotic area was excluded from subsequent analyses (Cluster 4 in Figure S3B–D; spatially corresponding to the gray region in the lower-right corner of Fig.  3 J). Based on representative marker genes and pathway features, the remaining cells were annotated into eight major populations including PTC cells (Fig.  3 J–K), and their spatial distributions recapitulated the expected tissue organization (Figure S3E). Notably, within annotated PTC cells, NOTCH pathway activity was highest adjacent to the ablation region and declined rapidly with increasing distance before reaching a relatively stable baseline (Fig.  3 L), exhibiting a significant negative association with distance from the ablation ROI (Fig.  3 M, Spearman ρ = −0.52,  p  &lt; 0.001). These spatial patterns further support that thermal ablation creates a localized Notch-activated niche in residual tumor cells proximal to the ablation bed, prompting us to identify the upstream ligand(s) induced by dying cells that initiate this signaling.    Heat-induced dying tumor cells activate the Notch pathway in surviving cells by upregulating DLL4  To investigate how dying cells activate Notch signaling in reporter cells, we examined the expression of canonical Notch ligands in dying cells after heat treatment. DLL4 was robustly upregulated in heat-induced dying tumor cells as well as dying benign thyroid epithelial cells (Fig.  4 A–C). Consistent with a potential pro-tumorigenic role of DLL4 in thyroid cancer, analysis of the TCGA thyroid cancer cohort showed that higher DLL4 expression was associated with poorer overall survival (Fig.  4 D). Flow cytometry further confirmed a marked increase in DLL4 protein expression after heat treatment (Fig.  4 E-F). To test whether DLL4 induction is functionally required for the proliferative effect, we used a CRISPRi system to generate stable DLL4 knockdown cells. As shown in Fig.  4 E–F, heat treatment increased DLL4 protein levels, and in this same heat-treatment setting, heat-treated sgiNC cells were used as the control (Fig.  4 G–H). Compared with the heat-treated sgiNC group, heat-treated sgiDLL4 cells showed markedly reduced DLL4 fluorescence intensity by flow cytometry, confirming effective DLL4 knockdown at the protein level. Importantly, dying feeder cells carrying a non-targeting sgRNA (sgiNC) retained their ability to enhance reporter-cell proliferation during co-culture, whereas DLL4 knockdown in dying cells significantly blunted this proliferation-promoting effect (Fig.  4 I-J), indicating that DLL4 is a key mediator of dying cell–induced tumor repopulation signals. Furthermore, to determine whether DLL4 upregulation and Notch activation are also observed in clinical specimens, we performed mIHC on ablation-treated PTC patients with residual PTC cells at the ablation region ( n  = 7; Table 1) to assess DLL4 and the Notch activation marker HES1. DLL4 and HES1 signals in PTC cells were detectable adjacent to the ablation bed in 4/7 patients, and representative staining patterns from two patients are shown in Fig.  4 K.    Fig. 4   Heat-induced dying tumor cells promote activation of the Notch signaling pathway in surviving tumor cells through upregulation of DLL4.  A - C  mRNA expression changes of classic Notch pathway ligands in dying TPC-1 ( A ), KTC-1 ( B ) and NTHY-ori-3-1 ( C ) cells after heat treatment ( N  = 3, unpaired t test, mean with SEM).  D  Survival analysis of overall survival in thyroid cancer patients with high and low DLL4 expression levels ( N  = 512, Log-Rank test).  E ,  F  Flow cytometry analysis and quantification of DLL4 protein levels in dying TPC-1 ( E ) and KTC-1 ( F ) cells before and after heat treatment ( N  = 3, unpaired t test, mean with SEM).  G ,  H  Flow cytometry analysis and quantification of DLL4 protein levels in CRISPRi DLL4 knockdown TPC-1 ( G ) and KTC-1 ( H ) cells after heat treatment ( N  = 3, unpaired t test, mean with SEM).  I ,  J  Bioluminescence results of reporter cells co-cultured with CRISPRi DLL4 knockdown heat-induced dying TPC-1 ( I ) and KTC-1 ( J ) cells ( N  = 3, unpaired t test, mean with SEM).  K  Representative H&amp;E (top) and mIHC (bottom) images from two PTC patients in the thermal ablation cohort (Patients 6 and 8, Scale bars, 100 μm in the overview images and 50 μm in the magnified and single-channel square panels)                     Anti-DLL4 antibody blocks dying cell–induced Notch activation and enhances the efficacy of thermal ablation  To further evaluate the efficacy of targeting DLL4 in the context of thermal ablation in PTC, we first tested a human anti-DLL4 monoclonal antibody (enoticumab) in the co-culture system. Consistent with a DLL4-dependent mechanism, enoticumab significantly blunted the dying cell–induced proliferative advantage in both TPC-1 and KTC-1 reporter cells (Fig.  5 A–B). We next assessed whether enoticumab could improve ablation outcomes in vivo using a human PTC xenograft model designed to focus on DLL4-guided signaling between dying and residual tumor cells while minimizing confounding effects from murine stromal Notch signaling (Fig.  5 C). No death or significant weight loss was observed in the enoticumab-treated mice. At 72 h after ablation, representative mIHC image showed localized enrichment of DLL4, the Notch activation marker HES1, and the proliferation marker Ki-67 in residual tumor cells adjacent to the ablation bed (Fig.  5 D), supporting the existence of a Notch-activated, highly proliferative niche proximal to the ablation site. At endpoint, enoticumab-treated mice showed reduced post-ablation tumor growth compared with paired controls (Fig.  5 E–F) and lower tumor weights (Fig.  5 G).    Fig. 5   Anti-DLL4 antibody attenuates dying cell–induced proliferation and enhances post-ablation tumor control.  A ,  B  Bioluminescence results of Luc-TPC-1 ( A ) and Luc-KTC-1 ( B ) reporter cells co-cultured with heat-induced dying TPC-1 or KTC-1 cells with or without enoticumab (30 µg/ml,  N  = 3, unpaired t test, mean with SEM).  C  Schematic of the xenograft ablation model and enoticumab treatment schedule.  D  Representative mIHC of the tumor harvested at 72 h post-ablation.  E  Representative image of tumors from paired mice in the MWA group and MWA+enoticumab group at endpoint.  F  Tumor growth curves of paired mice after ablation with or without enoticumab ( N  = 8, paired t test).  G  Tumor weights of paired mice at endpoint ( N  = 8, paired t test).  H ,  I  Representative H&amp;E and Ki-67 IHC images ( H ) of MWA group tumors showing the ablation zone and proximal/distal regions defined by a 400-µm cutoff, with quantification of Ki-67 expression levels ( I ) ( N  = 8, paired t test).  J ,  K  Representative H&amp;E and Ki-67 IHC images ( J ) of MWA+enoticumab group tumors with proximal/distal quantification of Ki-67 expression levels ( K ) ( N  = 8, paired t test, Scale bars, 100 μm).  L  Comparison of Ki-67 expression levels in the proximal region between MWA-only and MWA+enoticumab groups ( N  = 8, paired t test)                   To quantify how enoticumab modulates proliferative activity specifically at the ablation interface, we defined regions proximal to the ablation boundary versus distal regions using a 400-µm cutoff and compared Ki-67 staining between these compartments. In the MWA group, Ki-67 positivity was significantly higher in the proximal region than in the distal region (Fig.  5 H–I), whereas this proximal–distal difference was not observed in the MWA+enoticumab group (Fig.  5 J–K). In addition, Ki-67 positivity in the proximal region was lower in the MWA+enoticumab group than in the MWA-only group (Fig.  5 L). Collectively, these data support that anti-DLL4 therapy suppresses Notch-associated proliferative reactivation at the ablation interface and improves post-ablation tumor control.    Heat-induced dying tumor cells upregulate DLL4 expression by enriching HNRNPU binding to the DLL4 promoter  To determine whether DLL4 upregulation was dependent on activated transcription or suppressed RNA decay, we first treated cells with actinomycin D to inhibit RNA transcription. The upregulation of DLL4 following heat treatment was significantly suppressed after supplementation with actinomycin D (Fig.  6 A-B), indicating that DLL4 expression is highly dependent on transcriptional activation. Since the transcriptional regulation of DLL4 has not been systematically studied, we employed the CRISPR/Cas9 system-based enChIP method [ 25 ] to identify proteins that specifically bind to the DLL4 promoter region after thermal ablation, aiming to find factors that regulate DLL4 transcription (Fig.  6 C). We constructed four sgRNAs that target the DLL4 promoter region to identify potential transcriptional regulatory targets (Fig.  6 D-E, Figure S4). enChIP-PCR confirmed successful pull-down of the DLL4 promoter region (Fig.  6 F). enChIP-MS identified 805 proteins (Table S6) that bind to the promoter region of DLL4. Further signaling enrichment analysis revealed that the majority of the pathways were related to mRNA transcriptional regulation (Fig.  6 G, Table S7), supporting the specificity of the promoter-centered capture.    Fig. 6   HNRNPU promotes DLL4 expression by binding to the DLL4 promoter region following heat treatment.  A ,  B  DLL4 expression in TPC-1 ( A ) and KTC-1 ( B ) cells before and after heat treatment, with or without actinomycin D treatment to inhibit RNA transcription ( N  = 3).  C  Schematic illustration of the enChIP-MS method.  D  Position of 3xFLAG-dCAS9 gRNAs targeting the DLL4 promoter region.  E  Expression of 3xFLAG-dCAS9 complexes in stable cell lines targeting the DLL4 promoter region and control plasmid.  F  Result of enChIP-PCR in the binding of 3xFLAG-dCAS9 complexes to the DLL4 promoter region.  G  Enrichment analysis of differentially expressed genes identified by enChIP-MS.  H  HNRNPU was present in all of the top 10 most significantly enriched pathways.  I  Characteristic MS spectrum of HNRNPU based on enChIP-MS.  J ,  K  ChIP-PCR results of the binding of HNRNPU to the DLL4 promoter region in TPC-1 ( J ) and KTC-1 ( K ) cells.  L  Correlation between HNRNPU and DLL4 expression levels ( N  = 512, Pearson correlation test).  M  enChIP–WB of HNRNPU in the anti-FLAG immunoprecipitated dCas9/sgRNA-captured DLL4 promoter complex.  N  enChIP–WB of HNRNPU in the dCas9/sgRNA-captured DLL4 promoter complex before and after heat treatment.  O  Total HNRNPU protein levels in TPC-1 and KTC-1 cells before and after heat treatment.  P ,  Q  Cytoplasmic and nuclear HNRNPU levels in TPC-1 ( P ) and KTC-1 ( Q ) cells before and after heat treatment.  R  HNRNPU protein levels in CRISPRi HNRNPU knockdown TPC-1 and KTC-1 cells after heat treatment.  S ,  T  mRNA expression levels of DLL4 in CRISPRi HNRNPU knockdown TPC-1 ( S ) and KTC-1 ( T ) cells after heat treatment ( N  = 3, unpaired t test, mean with SEM).  U ,  V  Flow cytometry analysis and quantification of DLL4 protein levels in CRISPRi HNRNPU knockdown TPC-1 ( U ) and KTC-1 ( V ) cells after heat treatment ( N  = 3, unpaired t test, mean with SEM)                   Interestingly, HNRNPU, a protein that plays a vital role in RNA splicing, chromatin organization, and other processes, was the only protein consistently present in all the top 10 most enriched pathways (Fig.  6 H-I, Table S7). ChIP-PCR with an anti-HNRNPU antibody verified the binding of HNRNPU to the DLL4 promoter region following heat treatment (Fig.  6 J-K). Consistently, TCGA data analysis revealed a significant positive correlation between HNRNPU and DLL4 expression in PTC (Fig.  6 L), further suggesting a potential regulatory relationship. EnChIP–WB (anti-FLAG immunoprecipitation of the dCas9/sgRNA-captured DLL4 promoter complex) showed enrichment of HNRNPU at the DLL4 promoter (Fig.  6 M). And notably, enChIP-WB also results showed a specific enrichment of HNRNPU at the DLL4 promoter in dying cells following heat treatment (Fig.  6 N).  To explore how heat treatment increases HNRNPU occupancy at the DLL4 promoter, we first examined total HNRNPU protein levels and observed no appreciable change after heat treatment (Fig.  6 O). In contrast, subcellular fractionation revealed a marked redistribution of HNRNPU from the cytoplasm to the nucleus (Fig.  6 P–Q), consistent with enhanced nuclear availability that may facilitate its enrichment at the DLL4 promoter after heat treatment. Finally, CRISPRi-mediated knockdown of HNRNPU reduced DLL4 induction at both mRNA and protein levels following heat treatment (Fig.  6 R–V), supporting a critical role for HNRNPU in transcriptional upregulation of DLL4 in dying tumor cells.     Discussion  In this study, we provide novel insights into the biological mechanisms driving tumor repopulation and relapse following insufficient thermal ablation of papillary thyroid carcinoma (PTC). We demonstrate that dying tumor cells promote the proliferation of neighboring surviving cells in a contact-dependent manner, which is mediated by the activation of the DLL4-Notch signaling pathway. Moreover, increased nuclear enrichment and promoter binding of HNRNPU play a critical role in DLL4 upregulation (Fig.  7 ). In summary, our study underscores the need for a comprehensive understanding of the biological consequences of thermal ablation and careful consideration when selecting treatment strategies for PTC.    Fig. 7   The proposed model of this study                   As a minimally invasive method that induces tumor cell death through heat damage, thermal ablation has been widely applied to treat various solid tumor types for the last 30 years, including hepatocellular carcinoma (HCC), renal cancer, lung cancer, and other cancer types [ 29 ]. However, even in HCC, where thermal ablation has been widely used and demonstrated promising outcomes, insufficient ablation remains a major challenge [ 30 ]. Numerous studies have shown that insufficient ablation may accelerate the progression of residual tumor cells and significantly reduce overall survival [ 31 ,  32 ]. With the increasing use of thermal ablation in recent years, this challenge no longer seems limited to liver cancer, as similar issues have also been observed in PTC. Unlike HCC, which is highly malignant, PTC is relatively indolent, and accelerated progression may result in a higher harm-to-benefit ratio for patients. Our results revealed that not only malignant tumor cells but also benign thyroid epithelial cells could promote the proliferation of residual tumor cells (Fig.  1 ). Since thyroid cancer tends to be multifocal, with many small nodules that may not be detected by imaging, this poses an additional risk factor for recurrence following thermal ablation and could partly explain the high recurrence rate of multifocal nodules. Current data indicate that thermal ablation does not offer better outcomes than active surveillance, and its long-term efficacy, as well as the biological consequences, remains uncertain. Together with our findings that heat-induced dying cells could accelerate the progression of residual tumors, caution should be exercised before applying thermal ablation for PTC.  Most anti-tumor therapies achieve their therapeutic goals by inducing cell death. However, numerous studies have shown that cytotoxic therapy-induced dying tumor cells can release biomacromolecules such as proteins and nucleic acids that signal surrounding cells, reshaping the tumor microenvironment to promote proliferation, metastasis, and treatment resistance, ultimately leading to treatment failure [ 18 ]. Although the main goal of thermal ablation is to induce rapid coagulative necrosis via high temperature, various limitations can cause some cells to experience sub-lethal temperatures, leading to regulated cell death or even survival. During the dying process of cells undergoing regulated cell death, these dying cells can actively send out signals, but their role and mechanisms in the context of thermal ablation therapy have never been noticed. Our study is the first to demonstrate that dying cells induced by thermal ablation can transmit proliferative signals to surviving cells, ultimately leading to tumor repopulation. Interestingly, this signal is relayed through direct cell-cell contact, which differs from cytotoxic therapy-induced dying cells. Additionally, we observed active migration of surviving tumor cells toward dying cells (Video S1), suggesting that dying cells may release chemotactic factors to attract surviving tumor cells. Notably, we also observed several DNA damage repair-related pathways in the GO analysis of the reporter cell line that co-cultured with dying cells (e.g., Double-strand break repair via break-induced replication pathway, Fig.  1 ). Previous study on dying tumor cells after radiotherapy have suggested that dying cells may initially induce surrounding cells to repair DNA damage, enhancing their survival [ 19 ]. This indicates that this phenomenon may be highly conserved across different dying cells induced by various therapies, though further studies are needed to validate this hypothesis.  Our study reveals a crucial role for DLL4 in the context of tumor repopulation following thermal ablation. DLL4, a canonical ligand of the Notch signaling pathway, is well-documented for its roles in angiogenesis, tumorigenesis, and drug resistance across various cancer types [ 33 ]. Notably, beyond these functions, recent evidence suggests that the sustained expression of DLL4 in tumor cells is closely associated with proliferation. High expression of DLL4 in cervical cancer has been shown to promote sustained tumor cell proliferation and is closely linked to poor prognosis [ 34 ]. Similarly, earlier studies have demonstrated that DLL4 is significantly overexpressed in thyroid cancer, where it plays a critical role in tumorigenesis and angiogenesis [ 35 ]. TCGA data also indicate that high DLL4 expression in thyroid cancer patients is associated with shorter overall survival, and anti-DLL4 (Enoticumab) attenuates post-ablation repopulation in vitro and in vivo (Figs.  4  and  5 ). These findings suggest that targeting DLL4 early after thermal ablation in PTC may be a promising strategy to comprehensively reduce recurrence risk and improve tumor control. Nevertheless, given the essential role of DLL4 in normal vascular and stem cell biology, caution is warranted when considering DLL4 as a therapeutic target. Although preliminary studies have suggested an acceptable safety profile, its long-term safety remains to be established [ 36 ].  Despite these significant findings, there were some limitations to be clarified. The induction and clearance of dying cells in vivo occur rapidly and dynamically, yet obtaining clinical specimens enriched with these cells is particularly challenging. Since it is neither ethical nor clinically feasible to subject patients to immediate surgery or invasive procedures right after thermal ablation solely for research purposes, direct clinical confirmation of our mechanistic insights remains limited. Nevertheless, we elucidate how dying cells induced by thermal ablation of PTC promote the proliferation of surviving cells in this exploratory study, which may help explain why residual tumor foci after thermal ablation warrant careful clinical attention and may inform future intervention strategies. In addition, the patient cohort included in this study was relatively small, and our findings require further validation in larger, independent cohorts. Moreover, because currently available human PTC cell lines cannot establish tumors in immunocompetent mice, and no well-established syngeneic PTC model is currently available to faithfully recapitulate our experimental setting, our in vivo studies were performed using xenograft models in immunodeficient mice. Consequently, the contribution of host immunity to DLL4-mediated tumor repopulation could not be fully evaluated.    Conclusion  In summary, our study demonstrated that heat-induced dying cells promote the repopulation of residual tumor cells through the DLL4-Notch signaling pathway following incomplete thermal ablation of papillary thyroid carcinoma. These results indicate that targeting DLL4 may serve as an effective strategy to enhance the therapeutic efficacy of thermal ablation for PTC. With the increasing use of thermal ablation, understanding and mitigating its limitations are essential for further clinical application.    Supplementary Information \n       Supplementary Material 1: Figure S1. Optimization of heat treatment temperature and validation for reporter cell bioluminescence quantification. (A) Representative images showing cell morphology (24h, Scale bar: 100 μm) and colony formation ability (1 week) after heat treatment at different temperatures. We seeded cells at a density of 1x105 cells per well in 6-well plates. Results showed that cell colony formation ability was significantly reduced after treatment at temperatures above 50°C, with complete loss at 55°C. Thus, 55°C was selected for subsequent experiments. (B) Bioluminescence quantification of luciferase activity corresponding to different cell numbers ( N =3, Pearson correlation test). Bioluminescence imaging indicated a significant positive correlation between bioluminescence intensity and cell number, demonstrating that bioluminescence can be used to reflect cell quantity.    \n\n       Supplementary Material 2: Figure S2. Heat-Induced Dying normal thyroid cells promote tumor repopulation and activate Notch pathway. (A-B) mRNA expression levels of HES1 in reporter cells after co-culture ( N =3). (C-D) Bioluminescence results of Luc-TPC-1 (C) and Luc-KTC-1 (D) reporter cells co-cultured with heat-induced dying normal thyroid cells with or without DAPT (10μM,  N =3, unpaired t test, mean with SEM).     \n\n       Supplementary Material 3: Figure S3. Xenium specimen selection and spatial context. (A) Representative H&amp;E images from patient 6 showing the whole-section overview (left), the region profiled by Xenium in situ spatial transcriptomics (middle), and a higher-magnification view of the ablation bed and adjacent tissue (right). The dashed line indicates the boundary of the post-ablation region. (B) UMAP of Xenium-derived cell clusters. (C–D) Violin plots showing nFeature_RNA (C) and nCount_RNA (D) across clusters. (E) Spatial distribution of major cell populations highlighted on the Xenium tissue section (T cells, PTC cells, myeloid cells, fibroblasts, plasma cells, B cells, endothelial cells, and cycling cells).    \n\n       Supplementary Material 4: Figure S4. Subcellular localization of 3xFLAG-dCas9 complexes. The results showed that the complex was mainly localized in the cell nucleus (Scale bar: 200 μm).    \n\n       Supplementary Material 5: Video S1. Time-lapse imaging illustrating cell cycle changes in reporter cells upon contact with dying tumor cells.    \n\n       Supplementary Material 6: Table S1. List of Primers Used for RT-PCR and qRT-PCR.    \n\n       Supplementary Material 7: Table S2. Gene list for Xenium in situ spatial transcriptomics.    \n\n       Supplementary Material 8: Table S3. Oligos of sgiRNA (CRISPRi) and enChIP sgRNA used in this study.    \n\n       Supplementary Material 9: Table S4. List of antibodies used in this study.    \n\n       Supplementary Material 10: Table S5. Comparison of clinicopathological characteristics between the ablation cohort and the surgery-only control cohort.    \n\n       Supplementary Material 11: Table S6. Results of enChIP-MS identification.    \n\n       Supplementary Material 12: Table S7. Top 10 GO terms ranked by enrichment factors.    \n\n       Supplementary Material 13. Supplementary Materials and Methods    \n   Acknowledgements  Not applicable.    Authors’ contributions  Yongchao Yu: Conceptualization, Methodology, Writing – original draft, Visualization. Weichao Chen: Visualization, Software, Formal analysis. Zan Jiao: Validation, Formal analysis. Kang Ning: Validation. Taonong Cai: Methodology, Formal analysis. Bu Zou: Methodology, Formal analysis. Honghao Deng: Software. Tong Wu: Software, Validation. Zhongyuan Yang: Validation. Feng Han: Writing – review &amp; editing, Validation. Ankui Yang: Writing – review &amp; editing. Mingjie Jiang: Supervision, Writing – review &amp; editing, Validation.    Funding  This study was supported by the National Natural Science Foundation of China (No. 82573603, 82272649, 82303881, 82403855, 82403078), Guangzhou Basic and Applied Basic Research Foundation (2025A04J3600), and Fundamental Research Funds for the Central Universities, Sun Yat-sen University (24qnpy279).    Data availability Research data are stored in an institutional repository and will be shared upon request to the corresponding author on reasonable request.  Declarations   Ethics approval and consent to participate  This study protocol was reviewed and approved by the Medical Ethics Committee of Sun Yat-sen University Cancer Center (NO. B2024-552-01). All animal experiments were conducted in accordance with protocols approved by the Institutional Animal Care and Use Committee (IACUC) of Sun Yat-sen University Cancer Center.    Consent for publication  Not applicable.    Competing interests  The authors declare no competing interests.     Footnotes     Publisher’s note   Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.    Yongchao Yu, Weichao Chen and Zan Jiao contributed equally to this work and share the first authorship.      Contributor Information  Feng Han, Email: hanfeng@sysucc.org.cn.  Ankui Yang, Email: yangak@sysucc.org.cn.  Mingjie Jiang, Email: jiangmj1@sysucc.org.cn.    References     1.   Han B, Zheng R, Zeng H, et al. Cancer incidence and mortality in China, 2022. J Natl Cancer Cent. 2024;4(1):47–53. 10.1016/j.jncc.2024.01.006.         2.   Bray F, Laversanne M, Sung H, et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2024;74(3):229–63. 10.3322/caac.21834.        3.   Ho AS, Kim S, Zalt C, et al. Expanded Parameters in active surveillance for low-risk papillary thyroid carcinoma: a nonrandomized controlled trial. JAMA Oncol. 2022;8(11):1588–96. 10.1001/jamaoncol.2022.3875.         4.   van Dijk SPJ, Coerts HI, Gunput STG, et al. Assessment of radiofrequency ablation for papillary microcarcinoma of the thyroid: a systematic review and meta-analysis. JAMA Otolaryngol Head Neck Surg. 2022;148(4):317–25. 10.1001/jamaoto.2021.4381.         5.   Chu KF, Dupuy DE. Thermal ablation of tumours: biological mechanisms and advances in therapy. Nat Rev Cancer. 2014;14(3):199–208. 10.1038/nrc3672.        6.   Orloff LA, Noel JE, Stack BC Jr, et al. Radiofrequency ablation and related ultrasound-guided ablation technologies for treatment of benign and malignant thyroid disease: An international multidisciplinary consensus statement of the American Head and Neck Society Endocrine Surgery Section with the Asia Pacific Society of Thyroid Surgery, Associazione Medici Endocrinologi, British Association of Endocrine and Thyroid Surgeons, European Thyroid Association, Italian Society of Endocrine Surgery Units, Korean Society of Thyroid Radiology, Latin American Thyroid Society, and Thyroid Nodules Therapies Association. Head Neck. 2022;44(3):633–60. 10.1002/hed.26960.        7.   Li X, Yan L, Xiao J, et al. Long-term outcomes and risk factors of radiofrequency ablation for T1N0M0 papillary thyroid carcinoma. JAMA Surg. 2024;159(1):51–8. 10.1001/jamasurg.2023.5202.         8.   Yan L, Li W, Zhu Y, et al. Long-term comparison of image-guided thermal ablation vs. lobectomy for solitary papillary thyroid microcarcinoma: a multi-center retrospective cohort study. Int J Surg (London England). 2024;110(8):4867–75. 10.1097/js9.0000000000001595.         9.   Jiang M, Yu Y, Yang A. Concerns regarding thermal ablation for papillary thyroid cancer. JAMA Surg. 2024. 10.1001/jamasurg.2024.2744.        10.   Ma B, Wei W, Xu W, et al. Surgical confirmation of incomplete treatment for primary papillary thyroid carcinoma by percutaneous thermal ablation: a retrospective case review and literature review. Thyroid. 2018;28(9):1134–42. 10.1089/thy.2017.0558.        11.   Dobrinja C, Bernardi S, Fabris B, et al. Surgical and pathological changes after radiofrequency ablation of thyroid nodules. Int J Endocrinol. 2015;2015. 10.1155/2015/576576.        12.   Sun W, Zhang H, He L, et al. Surgery after ultrasound-guided radiofrequency ablation for papillary thyroid carcinoma in 21 patients: a retrospective study from a single center in China. Med Sci Monitor Int Med J experimental Clin Res. 2020;26(e928391). 10.12659/msm.928391.        13.   Wei Y, Niu WQ, Zhao ZL, et al. Microwave ablation versus surgical resection for solitary T1N0M0 papillary thyroid carcinoma. Radiology. 2022;304(3):704–13. 10.1148/radiol.212313.        14.   Yu XY, Zhou HD, Wei Y, et al. Preliminary study of microwave ablation for multifocal papillary thyroid microcarcinoma in nonoperative candidates. J Vasc Interv Radiol. 2023;34(6):999–1006. 10.1016/j.jvir.2023.01.035.        15.   Ahmed M, Brace CL, Lee FT Jr., et al. Principles of and advances in percutaneous ablation. Radiology. 2011;258(2):351–69. 10.1148/radiol.10081634.         16.   Klimek K, Mader N, Happel C, et al. Heat sink effects in thyroid bipolar radiofrequency ablation: an ex vivo study. Sci Rep. 2023;13(1):19288. 10.1038/s41598-023-45926-2.         17.   Zhao CK, Xu HX, Lu F, et al. Factors associated with initial incomplete ablation for benign thyroid nodules after radiofrequency ablation: First results of CEUS evaluation. Clin Hemorheol Microcirc. 2017;65(4):393–405. 10.3233/CH-16208.        18.   Jiang MJ, Gu DN, Dai JJ, et al. Dark side of cytotoxic therapy: chemoradiation-induced cell death and tumor repopulation. Trends Cancer. 2020;6(5):419–31. 10.1016/j.trecan.2020.01.018.        19.   Jiang MJ, Chen YY, Dai JJ, et al. Dying tumor cell-derived exosomal miR-194-5p potentiates survival and repopulation of tumor repopulating cells upon radiotherapy in pancreatic cancer. Mol Cancer. 2020;19(1):68. 10.1186/s12943-020-01178-6.         20.   Wang S, Li J, Xu S, et al. Baohuoside I chemosensitises breast cancer to paclitaxel by suppressing extracellular vesicle/CXCL1 signal released from apoptotic cells. J Extracell vesicles. 2024;13(7):e12493. 10.1002/jev2.12493.         21.   Su T, Liao J, Dai Z, et al. Stress-induced phosphoprotein 1 mediates hepatocellular carcinoma metastasis after insufficient radiofrequency ablation. Oncogene. 2018;37(26):3514–27. 10.1038/s41388-018-0169-4.        22.   Zhu S, Wu Y, Zhang X, et al. Targeting N(7)-methylguanosine tRNA modification blocks hepatocellular carcinoma metastasis after insufficient radiofrequency ablation. Mol therapy: J Am Soc Gene Therapy. 2023;31(6):1596–614. 10.1016/j.ymthe.2022.08.004.         23.   Huang Q, Li F, Liu X, et al. Caspase 3-mediated stimulation of tumor cell repopulation during cancer radiotherapy. Nat Med. 2011;17(7):860–6. 10.1038/nm.2385.         24.   Koh SB, Mascalchi P, Rodriguez E, et al. A quantitative FastFUCCI assay defines cell cycle dynamics at a single-cell level. J Cell Sci. 2017;130(2):512–20. 10.1242/jcs.195164.        25.   Campbell AE, Shadle SC, Jagannathan S et al. eLife. NuRD and CAF-1-mediated silencing of the D4Z4 array is modulated by DUX4-induced MBD3L proteins. 2018;7( 10.7554/eLife.31023        26.   Ito Y, Miyauchi A, Kakudo K, et al. Prognostic significance of ki-67 labeling index in papillary thyroid carcinoma. World J Surg. 2010;34(12):3015–21. 10.1007/s00268-010-0746-3.        27.   Kopan R, Ilagan MX. The canonical Notch signaling pathway: unfolding the activation mechanism. Cell. 2009;137(2):216–33. 10.1016/j.cell.2009.03.045.         28.   Majumder S, Crabtree JS, Golde TE, et al. Targeting Notch in oncology: the path forward. Nat Rev Drug Discov. 2021;20(2):125–44. 10.1038/s41573-020-00091-3.        29.   Wu J, Zhou Z, Huang Y, et al. Radiofrequency ablation: mechanisms and clinical applications. MedComm. 2024;5(10):e746. 10.1002/mco2.746.         30.   Guo Y, Ren Y, Dong X, et al. An overview of hepatocellular carcinoma after insufficient radiofrequency ablation. J Hepatocell Carcinoma. 2022;9:343–55. 10.2147/JHC.S358539.         31.   Huang J, Yan L, Cheng Z, et al. A randomized trial comparing radiofrequency ablation and surgical resection for HCC conforming to the Milan criteria. Ann Surg. 2010;252(6):903–12. 10.1097/SLA.0b013e3181efc656.        32.   Sparchez Z, Mocan T, Radu P, et al. Prognostic factors after percutaneous radiofrequency ablation in the treatment of hepatocellular carcinoma. Impact of incomplete ablation on recurrence and overall survival rates. J Gastrointest liver diseases: JGLD. 2018;27(4):399–407. 10.15403/jgld.2014.1121.274.pro.        33.   Gurney A, Hoey T. Anti-DLL4, a cancer therapeutic with multiple mechanisms of action. Vascular cell. 2011;3(18). 10.1186/2045-824x-3-18.        34.   Khelil M, Griffin H, Bleeker MCG, et al. Delta-Like Ligand-Notch1 signaling is selectively modulated by HPV16 E6 to promote squamous cell proliferation and correlates with cervical cancer prognosis. Cancer Res. 2021;81(7):1909–21. 10.1158/0008-5472.Can-20-1996.        35.   Geers C, Colin IM, Gerard AC. Delta-like 4/Notch pathway is differentially regulated in benign and malignant thyroid tissues. Thyroid. 2011;21(12):1323–30. 10.1089/thy.2010.0444.        36.   Chiorean EG, LoRusso P, Strother RM, et al. A phase I first-in-human study of enoticumab (REGN421), a fully human delta-like ligand 4 (Dll4) monoclonal antibody in patients with advanced solid tumors. Clin Cancer Res. 2015;21(12):2695–703. 10.1158/1078-0432.CCR-14-2797.           Associated Data   Supplementary Materials        Supplementary Material 1: Figure S1. Optimization of heat treatment temperature and validation for reporter cell bioluminescence quantification. (A) Representative images showing cell morphology (24h, Scale bar: 100 μm) and colony formation ability (1 week) after heat treatment at different temperatures. We seeded cells at a density of 1x105 cells per well in 6-well plates. Results showed that cell colony formation ability was significantly reduced after treatment at temperatures above 50°C, with complete loss at 55°C. Thus, 55°C was selected for subsequent experiments. (B) Bioluminescence quantification of luciferase activity corresponding to different cell numbers ( N =3, Pearson correlation test). Bioluminescence imaging indicated a significant positive correlation between bioluminescence intensity and cell number, demonstrating that bioluminescence can be used to reflect cell quantity.           Supplementary Material 2: Figure S2. Heat-Induced Dying normal thyroid cells promote tumor repopulation and activate Notch pathway. (A-B) mRNA expression levels of HES1 in reporter cells after co-culture ( N =3). (C-D) Bioluminescence results of Luc-TPC-1 (C) and Luc-KTC-1 (D) reporter cells co-cultured with heat-induced dying normal thyroid cells with or without DAPT (10μM,  N =3, unpaired t test, mean with SEM).            Supplementary Material 3: Figure S3. Xenium specimen selection and spatial context. (A) Representative H&amp;E images from patient 6 showing the whole-section overview (left), the region profiled by Xenium in situ spatial transcriptomics (middle), and a higher-magnification view of the ablation bed and adjacent tissue (right). The dashed line indicates the boundary of the post-ablation region. (B) UMAP of Xenium-derived cell clusters. (C–D) Violin plots showing nFeature_RNA (C) and nCount_RNA (D) across clusters. (E) Spatial distribution of major cell populations highlighted on the Xenium tissue section (T cells, PTC cells, myeloid cells, fibroblasts, plasma cells, B cells, endothelial cells, and cycling cells).           Supplementary Material 4: Figure S4. Subcellular localization of 3xFLAG-dCas9 complexes. The results showed that the complex was mainly localized in the cell nucleus (Scale bar: 200 μm).           Supplementary Material 5: Video S1. Time-lapse imaging illustrating cell cycle changes in reporter cells upon contact with dying tumor cells.           Supplementary Material 6: Table S1. List of Primers Used for RT-PCR and qRT-PCR.           Supplementary Material 7: Table S2. Gene list for Xenium in situ spatial transcriptomics.           Supplementary Material 8: Table S3. Oligos of sgiRNA (CRISPRi) and enChIP sgRNA used in this study.           Supplementary Material 9: Table S4. List of antibodies used in this study.           Supplementary Material 10: Table S5. Comparison of clinicopathological characteristics between the ablation cohort and the surgery-only control cohort.           Supplementary Material 11: Table S6. Results of enChIP-MS identification.           Supplementary Material 12: Table S7. Top 10 GO terms ranked by enrichment factors.           Supplementary Material 13. Supplementary Materials and Methods       Data Availability Statement Research data are stored in an institutional repository and will be shared upon request to the corresponding author on reasonable request. ",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-10-20T08:34:38.327271Z",
+    "last_checked_at": "2026-10-20T08:34:38.327276Z",
     "source": "europe_pmc"
   },
   {
@@ -3790,7 +4524,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721739Z",
-    "last_checked_at": "2026-10-19T08:54:59.929391Z",
+    "last_checked_at": "2026-10-20T08:34:37.397636Z",
     "source": "europe_pmc"
   },
   {
@@ -4139,7 +4873,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-12T07:56:40.268857Z",
-    "last_checked_at": "2026-10-19T08:54:58.958212Z",
+    "last_checked_at": "2026-10-20T08:34:36.306609Z",
     "source": "europe_pmc"
   },
   {
@@ -4205,7 +4939,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-10-19T08:54:58.538516Z",
+    "last_checked_at": "2026-10-20T08:34:35.970126Z",
     "source": "europe_pmc"
   },
   {
@@ -4632,73 +5366,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-21T08:58:06.808340Z",
-    "last_checked_at": "2026-10-19T08:54:53.939106Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Cellular senescence in human liver under normal aging and cancer.",
-    "doi": "10.1016/j.xgen.2025.101133",
-    "pmid": "41576948",
-    "pmcid": "PMC12903365",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-01-22",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/41576948",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "primary_dataset",
-    "xenium_reason": "New profiling/generation with Xenium is stated",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Cellular senescence in human liver under normal aging and cancer. Cellular senescence, a stress-induced program causing stable cell-cycle arrest, is a hallmark of liver aging, fibrosis, and cancer. However, the cell-type-specific mechanisms, spatial organization, and cancer-associated alterations in the liver remain unclear. We profiled 43 normal human livers spanning ages and fibrosis stages using a single-cell multiome, Xenium spatial transcriptomics, and CODEX, complemented by fibrotic mouse models and 24 colorectal cancer liver metastases. We found CDKN1A+ senescent hepatocytes, fibroblasts, cholangiocytes, and endothelial cells associated with age, liver disease, or cancer. Senescence differed between aged and fibrotic livers, with similar patterns in mice. Spatially, CDKN1A+ hepatocytes localized periportally, while SERPINE1+ aging-associated hepatocytes formed spatial clusters, potentially mediated by Claudins and THBS1. Fibrotic regions contained CXCL12+ senescent fibroblasts interacting with CXCR4+ immune cells. Chemotherapy intensified senescence in hepatocytes by 5-fold relative to aging and led to unique CDKN2A+ populations. Across conditions, senescent cells shared AP-1 activation, pro-inflammatory cytokines, and apoptosis resistance, suggesting therapeutic opportunities.",
-    "confidence_score": 0.867,
-    "xenium_confidence": 0.9,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-10-19T08:54:47.271291Z",
+    "last_checked_at": "2026-10-20T08:34:30.396788Z",
     "source": "europe_pmc"
   },
   {
@@ -4764,7 +5432,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-10-19T08:54:47.271076Z",
+    "last_checked_at": "2026-10-20T08:34:25.978279Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Cellular senescence in human liver under normal aging and cancer.",
+    "doi": "10.1016/j.xgen.2025.101133",
+    "pmid": "41576948",
+    "pmcid": "PMC12903365",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-01-22",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/41576948",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Cellular senescence in human liver under normal aging and cancer. Cellular senescence, a stress-induced program causing stable cell-cycle arrest, is a hallmark of liver aging, fibrosis, and cancer. However, the cell-type-specific mechanisms, spatial organization, and cancer-associated alterations in the liver remain unclear. We profiled 43 normal human livers spanning ages and fibrosis stages using a single-cell multiome, Xenium spatial transcriptomics, and CODEX, complemented by fibrotic mouse models and 24 colorectal cancer liver metastases. We found CDKN1A+ senescent hepatocytes, fibroblasts, cholangiocytes, and endothelial cells associated with age, liver disease, or cancer. Senescence differed between aged and fibrotic livers, with similar patterns in mice. Spatially, CDKN1A+ hepatocytes localized periportally, while SERPINE1+ aging-associated hepatocytes formed spatial clusters, potentially mediated by Claudins and THBS1. Fibrotic regions contained CXCL12+ senescent fibroblasts interacting with CXCR4+ immune cells. Chemotherapy intensified senescence in hepatocytes by 5-fold relative to aging and led to unique CDKN2A+ populations. Across conditions, senescent cells shared AP-1 activation, pro-inflammatory cytokines, and apoptosis resistance, suggesting therapeutic opportunities.",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.718790Z",
+    "last_checked_at": "2026-10-20T08:34:25.977530Z",
     "source": "europe_pmc"
   },
   {
@@ -4830,7 +5564,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-10-19T08:54:47.262921Z",
+    "last_checked_at": "2026-10-20T08:34:25.968455Z",
     "source": "europe_pmc"
   },
   {
@@ -4915,7 +5649,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-10-19T08:54:47.261704Z",
+    "last_checked_at": "2026-10-20T08:34:25.966978Z",
     "source": "europe_pmc"
   },
   {
@@ -4981,7 +5715,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717212Z",
-    "last_checked_at": "2026-10-19T08:54:47.257956Z",
+    "last_checked_at": "2026-10-20T08:34:25.962985Z",
     "source": "europe_pmc"
   },
   {
@@ -5360,7 +6094,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721377Z",
-    "last_checked_at": "2026-10-19T08:54:47.257121Z",
+    "last_checked_at": "2026-10-20T08:34:21.067455Z",
     "source": "europe_pmc"
   },
   {
@@ -5426,7 +6160,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-10-19T08:54:46.199618Z",
+    "last_checked_at": "2026-10-20T08:34:20.593534Z",
     "source": "europe_pmc"
   },
   {
@@ -5492,7 +6226,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-06T10:19:21.686886Z",
-    "last_checked_at": "2026-10-19T08:54:40.955328Z",
+    "last_checked_at": "2026-10-20T08:34:14.549857Z",
     "source": "europe_pmc"
   },
   {
@@ -6093,7 +6827,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:52:12.208032Z",
-    "last_checked_at": "2026-10-19T08:54:40.622812Z",
+    "last_checked_at": "2026-10-20T08:34:13.181182Z",
     "source": "europe_pmc"
   },
   {
@@ -6304,7 +7038,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:36.526568Z",
-    "last_checked_at": "2026-10-19T08:54:37.324716Z",
+    "last_checked_at": "2026-10-20T08:34:11.501219Z",
     "source": "europe_pmc"
   },
   {
@@ -6419,7 +7153,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:59.582477Z",
-    "last_checked_at": "2026-10-19T08:54:19.016205Z",
+    "last_checked_at": "2026-10-20T08:33:49.221880Z",
     "source": "europe_pmc"
   },
   {
@@ -6636,7 +7370,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-09T08:10:06.624860Z",
-    "last_checked_at": "2026-10-19T08:54:18.368119Z",
+    "last_checked_at": "2026-10-20T08:33:48.585747Z",
     "source": "europe_pmc"
   },
   {
@@ -6739,7 +7473,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:35.067313Z",
-    "last_checked_at": "2026-10-19T08:54:17.926286Z",
+    "last_checked_at": "2026-10-20T08:33:48.359879Z",
     "source": "europe_pmc"
   },
   {
@@ -6884,7 +7618,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-11T08:04:27.768780Z",
-    "last_checked_at": "2026-10-19T08:54:09.281512Z",
+    "last_checked_at": "2026-10-20T08:33:45.716073Z",
     "source": "europe_pmc"
   },
   {
@@ -7023,7 +7757,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:14.784026Z",
-    "last_checked_at": "2026-10-19T08:54:07.893719Z",
+    "last_checked_at": "2026-10-20T08:33:45.295170Z",
     "source": "europe_pmc"
   },
   {
@@ -7156,7 +7890,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:56:21.207734Z",
-    "last_checked_at": "2026-10-19T08:54:06.978500Z",
+    "last_checked_at": "2026-10-20T08:33:44.208272Z",
     "source": "europe_pmc"
   },
   {
@@ -7222,7 +7956,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:56.522217Z",
-    "last_checked_at": "2026-10-19T08:54:06.680946Z",
+    "last_checked_at": "2026-10-20T08:33:43.406633Z",
     "source": "europe_pmc"
   },
   {
@@ -7607,7 +8341,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:22.103796Z",
-    "last_checked_at": "2026-10-19T08:54:06.302802Z",
+    "last_checked_at": "2026-10-20T08:33:42.851889Z",
     "source": "europe_pmc"
   },
   {
