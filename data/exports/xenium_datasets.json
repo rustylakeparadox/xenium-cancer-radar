@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-10-20T08:40:16.008553Z",
+    "last_checked_at": "2026-10-21T08:46:56.481148Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-10-20T08:40:16.006000Z",
+    "last_checked_at": "2026-10-21T08:46:56.479049Z",
     "source": "biostudies"
   },
   {
@@ -226,7 +226,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-10-20T08:40:15.513234Z",
+    "last_checked_at": "2026-10-21T08:46:56.340004Z",
     "source": "biostudies"
   },
   {
@@ -323,7 +323,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813444Z",
-    "last_checked_at": "2026-10-20T08:40:13.252602Z",
+    "last_checked_at": "2026-10-21T08:46:53.147169Z",
     "source": "biostudies"
   },
   {
@@ -517,7 +517,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-10-20T08:39:55.832800Z",
+    "last_checked_at": "2026-10-21T08:46:33.069846Z",
     "source": "biostudies"
   },
   {
@@ -662,7 +662,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-10-20T08:39:55.531790Z",
+    "last_checked_at": "2026-10-21T08:46:32.633391Z",
     "source": "biostudies"
   },
   {
@@ -741,7 +741,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-10-20T08:39:53.565124Z",
+    "last_checked_at": "2026-10-21T08:46:29.987552Z",
     "source": "biostudies"
   },
   {
@@ -838,7 +838,98 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-10-20T08:39:53.168244Z",
+    "last_checked_at": "2026-10-21T08:46:29.321330Z",
+    "source": "biostudies"
+  },
+  {
+    "title": "High-resolution imaging of primary human breast cancer and matched lymph nodes for spatial transcriptomics",
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": null,
+    "publication_tier": null,
+    "paper_url": null,
+    "accession": "S-BIAD3080",
+    "repository": "BioStudies",
+    "dataset_url": "https://www.ebi.ac.uk/biostudies/studies/S-BIAD3080",
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [
+      {
+        "identifier": "S-BIAD3080",
+        "location": "repository_detail",
+        "text": "S-BIAD3080 study High-resolution imaging of primary human breast cancer and matched lymph ",
+        "source_url": null
+      },
+      {
+        "identifier": "S-BIAD3080",
+        "location": "repository_detail",
+        "text": "cer Homo sapiens (human) Surgical resection of primary, untreated breast cancer S-BIAD3080 Template BioImages.v5 Title High-resolution imaging of primary human breast can",
+        "source_url": null
+      },
+      {
+        "identifier": "S-BIAD3080",
+        "location": "repository_detail",
+        "text": "n breast cancer and matched lymph nodes for spatial transcriptomics DOI 10.6019/S-BIAD3080 ReleaseDate 2026-10-21 AttachTo BioImages study-0-o5a8 Study Title High-resolut",
+        "source_url": null
+      },
+      {
+        "identifier": "10.6019/S-BIAD3080",
+        "location": "repository_detail",
+        "text": "ary human breast cancer and matched lymph nodes for spatial transcriptomics DOI 10.6019/S-BIAD3080 ReleaseDate 2026-10-21 AttachTo BioImages study-0-o5a8 Study Title High-resolut",
+        "source_url": null
+      }
+    ],
+    "evidence_text": "S-BIAD3080 study High-resolution imaging of primary human breast cancer and matched lymph nodes for spatial transcriptomics Sophie van der Leij Leire Alonso Galicia John Reeves Joakim Lundeberg Alexander Swarbrick 153 2026-10-21 9 True  transcriptomic data, and correlate protein expression patterns with transcript abundance. breast cancer spatial transcriptomics visium xenium H&E IHC CC0 https://creativecommons.org/publicdomain/zero/1.0/legalcode Breast cancer Homo sapiens (human) Surgical resection of primary, untreated breast cancer S-BIAD3080 Template BioImages.v5 Title High-resolution imaging of primary human breast cancer and matched lymph nodes for spatial transcriptomics DOI 10.6019/S-BIAD3080 ReleaseDate 2026-10-21 AttachTo BioImages study-0-o5a8 Study Title High-resolution imaging of primary human breast cancer and matched lymph nodes for spatial transcriptomics ReleaseDate 2026-10-21 Description This dataset provides high-resolution morphological imaging and spatial alignment files associated with a multi-resolution spatial transcriptomics atlas of human breast cancer and matched uninvolved lymph nodes. The cohort includes 32 patients representing various clinical subtypes. Tissues were profiled using 10x Genomics Visium, Visium HD, and Xenium platforms.\n\nThis repository contains:\n\n1) Aligned H&E Images (.ome.tif): High-resolution, pyramidal whole-slide images that match the coordinate system of the associated spatial transcriptomics data.\n\n2) CytAssist Images (.tif): Brightfield images of the spatial capture arrays used for spot registration (Visium and Visium HD).\n\n3) Alignment Files (.json / .csv): Loupe Browser JSON files and Xenium Explorer transformation matrices that record the spatial registration between the H&E images and the CytAssist images (Visium), or the transcript coordinates (Xenium).\n\n4) IHC Images (.ome.tif): Immunohistochemistry images staining for key proteins in the cGAS/STING pathway (cGAS, STING, pTBK1) from selected breast cancer samples (P17, P22, P24, P26, P29, P32). These images provide complementary protein-level validation of the spatial transcriptomic findings.\n\nThese files enable users to reconstruct spatial registrations, re-run Space Ranger, perform high-resolution spatial mapping of the accompanying transcriptomic data, and correlate protein expression patterns with transcript abundance. Keywords breast cancer Keywords spatial transcriptomics Keywords visium Keywords xenium Keywords H&E Keywords IHC License CC0 URL https://creativecommons.org/publicdomain/zero/1.0/legalcode publ-1-pnuj Publication fund-3-wen9 Funding bios-4-2h5y Biosample Title Breast cancer Organism Homo sapiens (human) Description Surgical resection of primary, untreated breast cancer. Biological entity Human primary breast cancer tissue bios-0-lo0z-removable Biosample Title Lymph node Organism Homo sapiens (human) Description Uninvolved lymph nodes from breast cancer patients. Biological entity Human lymph node spec-5-icrn Specimen Title H&E stained FFPE section Sample preparation protocol Formalin-fixed paraffin-embedded (FFPE) tissue blocks were sectioned at 5 µm thickness and mounted on compatible slides. H&E staining was performed before (Visium and Visium HD) or after (Xenium) running spatial transcriptomics according to standard 10x Genomics protocols. spec-0-ne0s-removable Specimen Title IHC stained FFPE section Sample preparation protocol Formalin-fixed paraffin-embedded (FFPE) tissue blocks from selected breast cancer samples were sectioned and mounted on slides. Automated immunohistochemistry was performed using a Leica Bond platform. Heat-induced epitope retrieval (HIER) was performed using Epitope Retrieval Solution 2 (ER2) for varying durations depending on the primary antibody.\n\nStaining was visualized using the Bond Polymer Refine Detection kit (Leica Biosystems). Sections were stained with the following primary antibodies:\n\n1) Rabbit anti-STING (Clone D2P2F, Cell Signaling Technology #13647, 1:600 dilution, HIER ER2 20 mins).\n\n2) Rabbit anti-cGAS (Clone D1D3G, Cell Signaling Technology #15102, 1:50 dilution, HIER ER2 40 mins).\n\n3) Rabbit anti-Phospho-TBK1/NAK Ser172 (Clone D52C2, Cell Signaling Technology #5483, 1:100 dilution, HIER ER2 30 mins). imag-6-q1v5 Image acquisition Title Nanozoomer slide scanning (Visium) Imaging instrument Hamamatsu NanoZoomer S210 Image acquisition parameters Slides were scanned in 40x mode. Whole-slide H&E images were cropped to the Visium capture area and 2x downsampled before running Space Ranger. Imaging method bright-field microscopy imag-0-gbqw-removable Image acquisition Title Visium CytAssist imaging Imaging instrument 10x Genomics Visium Cytassist Image acquisition parameters Brightfield image acquired using the automated internal camera of the 10x Genomics Visium CytAssist instrument for the purpose of tissue registration and spatial alignment. Imaging method bright-field microscopy imag-1-fg1f-removable Image acquisition Title Metafer slide scanning Imaging instrument Metafer Slide Scanning Platform (Metasystems) Image acquisition parameters Whole-slide images were acquired using a 20X objective.  Imaging method bright-field microscopy stud-10-1tnt Study Component Name Spatial Transcriptomics Imaging Dataset Description High-resolution H&E images, CytAssist registration images, and corresponding spatial alignment files (JSON/CSV) for human breast cancer and matched lymph node tissues. This dataset contains the morphological imaging components associated with 10x Genomics Visium, Visium HD, and Xenium spatial transcriptomics profiling. File List bioimage_archive_file_list.json asso-11-j4n9 Associations Biosample Breast cancer Specimen H&E stained FFPE section Image acquisition Nanozoomer slide scanning (Visium) Associations Biosample Breast cancer Specimen H&E stained FFPE section Image acquisition Metafer slide scanning Associations Biosample Breast cancer Specimen H&E stained FFPE section Image acquisition Visium CytAssist imaging Associations Biosample Lymph node Specimen H&E stained FFPE section Image acquisition Metafer slide scanning Associations Biosample Lymph node Specimen H&E stained FFPE section Image acquisition Visium CytAssist imaging Associations Biosample Breast cancer Specimen IHC stained FFPE section Image acquisition Nanozoomer slide scanning (Visium) author-1 Author Name Sophie van der Leij E-mail s.vanderleij@garvan.org.au ORCID 0009-0008-4349-2806 Role submitter affiliation o1 True Role data acquisition Author Name Leire Alonso Galicia E-mail leire.alonso@scilifelab.se ORCID 0000-0001-8437-1332 Role Role data acquisition affiliation o2 True Author Name John Reeves E-mail j.reeves@garvan.org.au ORCID 0000-0001-7368-7489 Role data steward affiliation o1 True Author Name Joakim Lundeberg E-mail joakim.lundeberg@scilifelab.se ORCID 0000-0003-4313-1601 Role Role corresponding author affiliation o3 True Author Name Alexander Swarbrick E-mail a.swarbrick@garvan.org.au ORCID 0000-0002-3051-5676 Role corresponding author affiliation o1 True o1 organisation Name Garvan Institute of Medical Research RORID https://ror.org/01b3dvp57 o2 organisation Name Science for Life Laboratory RORID https://ror.org/04ev03g22 o3 organisation Name Science for life laboratory submission",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-10-21T08:46:28.428068Z",
+    "last_checked_at": "2026-10-21T08:46:28.428074Z",
     "source": "biostudies"
   },
   {
@@ -929,7 +1020,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-10-20T08:39:52.473127Z",
+    "last_checked_at": "2026-10-21T08:46:28.029130Z",
     "source": "biostudies"
   },
   {
@@ -1020,7 +1111,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-10-20T08:39:52.257264Z",
+    "last_checked_at": "2026-10-21T08:46:27.757971Z",
     "source": "biostudies"
   },
   {
@@ -1086,7 +1177,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-10-20T08:38:58.412927Z",
+    "last_checked_at": "2026-10-21T08:45:13.735169Z",
     "source": "crossref"
   },
   {
@@ -1152,7 +1243,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-10-20T08:38:58.412867Z",
+    "last_checked_at": "2026-10-21T08:45:13.735143Z",
     "source": "crossref"
   },
   {
@@ -1218,7 +1309,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-10-20T08:38:58.412842Z",
+    "last_checked_at": "2026-10-21T08:45:13.735130Z",
     "source": "crossref"
   },
   {
@@ -1284,7 +1375,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-10-20T08:38:58.412804Z",
+    "last_checked_at": "2026-10-21T08:45:13.735109Z",
     "source": "crossref"
   },
   {
@@ -1350,7 +1441,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-10-20T08:38:57.434662Z",
+    "last_checked_at": "2026-10-21T08:45:13.442660Z",
     "source": "crossref"
   },
   {
@@ -1416,7 +1507,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-10-20T08:38:56.585144Z",
+    "last_checked_at": "2026-10-21T08:45:10.749842Z",
     "source": "crossref"
   },
   {
@@ -1482,7 +1573,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-10-20T08:38:56.584974Z",
+    "last_checked_at": "2026-10-21T08:45:10.749757Z",
     "source": "crossref"
   },
   {
@@ -1548,7 +1639,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-10-20T08:38:56.584945Z",
+    "last_checked_at": "2026-10-21T08:45:10.749743Z",
     "source": "crossref"
   },
   {
@@ -1614,7 +1705,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-10-20T08:38:56.584604Z",
+    "last_checked_at": "2026-10-21T08:45:10.749565Z",
     "source": "crossref"
   },
   {
@@ -1680,7 +1771,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-10-20T08:38:56.584584Z",
+    "last_checked_at": "2026-10-21T08:45:10.749551Z",
     "source": "crossref"
   },
   {
@@ -1746,7 +1837,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-10-20T08:36:08.513871Z",
+    "last_checked_at": "2026-10-21T08:40:00.175396Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "A unified framework for identification of cell-type-specific spatially variable genes in spatial transcriptomic studies.",
+    "doi": "10.1073/pnas.2503952122",
+    "pmid": "41223223",
+    "pmcid": "PMC12646224",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2025-11-12",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/41223223",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "reused_public_dataset",
+    "xenium_reason": "Text indicates reuse of public Xenium data",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "A unified framework for identification of cell-type-specific spatially variable genes in spatial transcriptomic studies. Characterizing cell-type-specific spatially variable genes (SVGs) within tissue context is essential for exploring the landscape of complex biological systems in spatial transcriptomic (ST) studies. In this paper, we present a unified framework, the Mixture of Mixed Models (MMM), designed to directly model RNA count data and identify cell-type-specific SVGs while accounting for cell type composition and correcting for platform effects. Through a comprehensive simulation study and the analyses of eight publicly available ST datasets from various tissues and technologies with different resolutions, we demonstrate the effectiveness and robustness of MMM in identifying cell-type-specific SVGs. Notably, our integrative analysis with genome-wide association studies reveals that the cell-type-specific SVGs identified by MMM in a mouse brain study exhibit significant heritability enrichment in brain-related phenotypes. This finding suggests that cell-type-specific SVGs play a vital role in elucidating the mechanisms underlying complex traits and diseases. When applying MMM to analyze a high-resolution Xenium human breast cancer dataset by accounting for the uncertainties in cell segmentation, we find that certain cell-type-specific SVGs may contribute to cell-cell communications, thereby regulating the tissue microenvironment. Furthermore, we show the versatility of MMM by applying it to the 3D tissue models constructed from multiple ST slices, highlighting its utility in analyzing the 3D ST data.",
+    "confidence_score": 0.827,
+    "xenium_confidence": 0.78,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T07:28:32.104617Z",
+    "last_checked_at": "2026-10-21T08:40:00.169933Z",
     "source": "europe_pmc"
   },
   {
@@ -1837,73 +1994,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:57:17.666892Z",
-    "last_checked_at": "2026-10-20T08:36:08.504489Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "A unified framework for identification of cell-type-specific spatially variable genes in spatial transcriptomic studies.",
-    "doi": "10.1073/pnas.2503952122",
-    "pmid": "41223223",
-    "pmcid": "PMC12646224",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2025-11-12",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/41223223",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "reused_public_dataset",
-    "xenium_reason": "Text indicates reuse of public Xenium data",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "A unified framework for identification of cell-type-specific spatially variable genes in spatial transcriptomic studies. Characterizing cell-type-specific spatially variable genes (SVGs) within tissue context is essential for exploring the landscape of complex biological systems in spatial transcriptomic (ST) studies. In this paper, we present a unified framework, the Mixture of Mixed Models (MMM), designed to directly model RNA count data and identify cell-type-specific SVGs while accounting for cell type composition and correcting for platform effects. Through a comprehensive simulation study and the analyses of eight publicly available ST datasets from various tissues and technologies with different resolutions, we demonstrate the effectiveness and robustness of MMM in identifying cell-type-specific SVGs. Notably, our integrative analysis with genome-wide association studies reveals that the cell-type-specific SVGs identified by MMM in a mouse brain study exhibit significant heritability enrichment in brain-related phenotypes. This finding suggests that cell-type-specific SVGs play a vital role in elucidating the mechanisms underlying complex traits and diseases. When applying MMM to analyze a high-resolution Xenium human breast cancer dataset by accounting for the uncertainties in cell segmentation, we find that certain cell-type-specific SVGs may contribute to cell-cell communications, thereby regulating the tissue microenvironment. Furthermore, we show the versatility of MMM by applying it to the 3D tissue models constructed from multiple ST slices, highlighting its utility in analyzing the 3D ST data.",
-    "confidence_score": 0.827,
-    "xenium_confidence": 0.78,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-10-20T08:36:08.212406Z",
+    "last_checked_at": "2026-10-21T08:39:50.685096Z",
     "source": "europe_pmc"
   },
   {
@@ -2018,7 +2109,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-10-20T08:36:07.441847Z",
+    "last_checked_at": "2026-10-21T08:39:48.618938Z",
     "source": "europe_pmc"
   },
   {
@@ -2265,7 +2356,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-10-20T08:36:03.505263Z",
+    "last_checked_at": "2026-10-21T08:39:47.944900Z",
     "source": "europe_pmc"
   },
   {
@@ -2482,7 +2573,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.382543Z",
-    "last_checked_at": "2026-10-20T08:36:03.279212Z",
+    "last_checked_at": "2026-10-21T08:39:47.049026Z",
     "source": "europe_pmc"
   },
   {
@@ -2633,7 +2724,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719349Z",
-    "last_checked_at": "2026-10-20T08:35:54.559847Z",
+    "last_checked_at": "2026-10-21T08:39:41.899424Z",
     "source": "europe_pmc"
   },
   {
@@ -2814,7 +2905,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:09:05.256805Z",
-    "last_checked_at": "2026-10-20T08:35:16.715181Z",
+    "last_checked_at": "2026-10-21T08:39:12.315246Z",
     "source": "europe_pmc"
   },
   {
@@ -3277,7 +3368,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-10-20T08:35:16.266504Z",
+    "last_checked_at": "2026-10-21T08:39:11.486952Z",
     "source": "europe_pmc"
   },
   {
@@ -3722,7 +3813,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-17T07:50:06.753444Z",
-    "last_checked_at": "2026-10-20T08:34:48.058455Z",
+    "last_checked_at": "2026-10-21T08:38:55.545373Z",
     "source": "europe_pmc"
   },
   {
@@ -3825,7 +3916,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-10-20T08:34:41.024428Z",
+    "last_checked_at": "2026-10-21T08:38:34.486361Z",
     "source": "europe_pmc"
   },
   {
@@ -3891,7 +3982,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-10-20T08:34:40.269129Z",
+    "last_checked_at": "2026-10-21T08:38:24.423341Z",
     "source": "europe_pmc"
   },
   {
@@ -3957,7 +4048,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-10-20T08:34:40.268829Z",
+    "last_checked_at": "2026-10-21T08:38:24.423168Z",
     "source": "europe_pmc"
   },
   {
@@ -4132,7 +4223,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:28.415733Z",
-    "last_checked_at": "2026-10-20T08:34:38.952024Z",
+    "last_checked_at": "2026-10-21T08:38:23.616834Z",
     "source": "europe_pmc"
   },
   {
@@ -4421,7 +4512,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-20T08:34:38.327271Z",
-    "last_checked_at": "2026-10-20T08:34:38.327276Z",
+    "last_checked_at": "2026-10-21T08:38:20.704466Z",
     "source": "europe_pmc"
   },
   {
@@ -4524,7 +4615,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721739Z",
-    "last_checked_at": "2026-10-20T08:34:37.397636Z",
+    "last_checked_at": "2026-10-21T08:38:07.869753Z",
     "source": "europe_pmc"
   },
   {
@@ -4873,7 +4964,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-12T07:56:40.268857Z",
-    "last_checked_at": "2026-10-20T08:34:36.306609Z",
+    "last_checked_at": "2026-10-21T08:38:04.698246Z",
     "source": "europe_pmc"
   },
   {
@@ -4939,7 +5030,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-10-20T08:34:35.970126Z",
+    "last_checked_at": "2026-10-21T08:38:04.331811Z",
     "source": "europe_pmc"
   },
   {
@@ -5366,7 +5457,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-21T08:58:06.808340Z",
-    "last_checked_at": "2026-10-20T08:34:30.396788Z",
+    "last_checked_at": "2026-10-21T08:37:59.831889Z",
     "source": "europe_pmc"
   },
   {
@@ -5432,7 +5523,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-10-20T08:34:25.978279Z",
+    "last_checked_at": "2026-10-21T08:37:25.905443Z",
     "source": "europe_pmc"
   },
   {
@@ -5498,7 +5589,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-10-20T08:34:25.977530Z",
+    "last_checked_at": "2026-10-21T08:37:25.905000Z",
     "source": "europe_pmc"
   },
   {
@@ -5564,7 +5655,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-10-20T08:34:25.968455Z",
+    "last_checked_at": "2026-10-21T08:37:25.899617Z",
     "source": "europe_pmc"
   },
   {
@@ -5649,7 +5740,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-10-20T08:34:25.966978Z",
+    "last_checked_at": "2026-10-21T08:37:25.898787Z",
     "source": "europe_pmc"
   },
   {
@@ -5715,7 +5806,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717212Z",
-    "last_checked_at": "2026-10-20T08:34:25.962985Z",
+    "last_checked_at": "2026-10-21T08:37:25.896626Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma.",
+    "doi": "10.1007/s00262-026-04487-9",
+    "pmid": "42406139",
+    "pmcid": "PMC13620086",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-07-06",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42406139",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "validation_dataset",
+    "xenium_reason": "Xenium is explicitly used for validation",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma. <h4>Background and aims</h4>The conserved human correlate of interleukin-18 receptor 1 (IL-18R1)-associated immune states in hepatocellular carcinoma (HCC) remains undefined. We aimed to identify a minimal, reproducible, immune-state component associated with IL18R1 across independent human HCC cohorts and evaluate its clinical relevance.<h4>Methods</h4>Publicly available single-cell RNA sequencing datasets from five independent HCC cohorts were analyzed using a unified framework. Paired tumor-adjacent cohorts were prioritized for primary analyses, whereas tumor-only cohorts served as supportive datasets. CD8 T cells were stratified by IL18R1 expression, and tumor-specific enrichment was quantified using difference-in-differences. We validated the spatial transcriptomics using a murine liver tumor Xenium dataset. Clinical relevance was evaluated using The Cancer Genome Atlas Liver Hepatocellular Carcinoma (TCGA-LIHC) bulk RNA-seq data.<h4>Results</h4>IL18R1-positive CD8 T cells exhibited a tumor-specific, C-C motif chemokine ligand 5 (CCL5)-centered cytotoxic transcriptional program, consistently enriched across datasets. Alternative IL18R1 stratification confirmed the identified immune program's robustness. Spatial transcriptomics localized this cytotoxic state in tumor-associated CD8 T cells and highlighted increased expression of Ccl5 and Cxcr3. Tumor-only cohorts demonstrated substantial heterogeneity, highlighting the importance of paired cohort design. In TCGA-LIHC, a composite CCL5-centered cytotoxic core score, not CCL5 alone, was associated with improved overall survival, although this attenuated after adjusting for clinical covariates.<h4>Conclusions</h4>The dominant human correlate of an IL18R1-associated immune state in HCC is a compact, CCL5-centered CD8 cytotoxic module, not a broad inflammatory response. This spatially validated unit provides a reproducible framework for HCC immune-state characterization and stratification.",
+    "confidence_score": 0.84,
+    "xenium_confidence": 0.82,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.719684Z",
+    "last_checked_at": "2026-10-21T08:37:06.753580Z",
     "source": "europe_pmc"
   },
   {
@@ -6094,73 +6251,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721377Z",
-    "last_checked_at": "2026-10-20T08:34:21.067455Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma.",
-    "doi": "10.1007/s00262-026-04487-9",
-    "pmid": "42406139",
-    "pmcid": "PMC13620086",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-07-06",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/42406139",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "validation_dataset",
-    "xenium_reason": "Xenium is explicitly used for validation",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Conserved minimal CD8 cytotoxic immune-state unit in an IL18R1-associated immune program in hepatocellular carcinoma. <h4>Background and aims</h4>The conserved human correlate of interleukin-18 receptor 1 (IL-18R1)-associated immune states in hepatocellular carcinoma (HCC) remains undefined. We aimed to identify a minimal, reproducible, immune-state component associated with IL18R1 across independent human HCC cohorts and evaluate its clinical relevance.<h4>Methods</h4>Publicly available single-cell RNA sequencing datasets from five independent HCC cohorts were analyzed using a unified framework. Paired tumor-adjacent cohorts were prioritized for primary analyses, whereas tumor-only cohorts served as supportive datasets. CD8 T cells were stratified by IL18R1 expression, and tumor-specific enrichment was quantified using difference-in-differences. We validated the spatial transcriptomics using a murine liver tumor Xenium dataset. Clinical relevance was evaluated using The Cancer Genome Atlas Liver Hepatocellular Carcinoma (TCGA-LIHC) bulk RNA-seq data.<h4>Results</h4>IL18R1-positive CD8 T cells exhibited a tumor-specific, C-C motif chemokine ligand 5 (CCL5)-centered cytotoxic transcriptional program, consistently enriched across datasets. Alternative IL18R1 stratification confirmed the identified immune program's robustness. Spatial transcriptomics localized this cytotoxic state in tumor-associated CD8 T cells and highlighted increased expression of Ccl5 and Cxcr3. Tumor-only cohorts demonstrated substantial heterogeneity, highlighting the importance of paired cohort design. In TCGA-LIHC, a composite CCL5-centered cytotoxic core score, not CCL5 alone, was associated with improved overall survival, although this attenuated after adjusting for clinical covariates.<h4>Conclusions</h4>The dominant human correlate of an IL18R1-associated immune state in HCC is a compact, CCL5-centered CD8 cytotoxic module, not a broad inflammatory response. This spatially validated unit provides a reproducible framework for HCC immune-state characterization and stratification.",
-    "confidence_score": 0.84,
-    "xenium_confidence": 0.82,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-10-20T08:34:20.593534Z",
+    "last_checked_at": "2026-10-21T08:37:00.521043Z",
     "source": "europe_pmc"
   },
   {
@@ -6226,7 +6317,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-06T10:19:21.686886Z",
-    "last_checked_at": "2026-10-20T08:34:14.549857Z",
+    "last_checked_at": "2026-10-21T08:36:58.329733Z",
     "source": "europe_pmc"
   },
   {
@@ -6827,7 +6918,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:52:12.208032Z",
-    "last_checked_at": "2026-10-20T08:34:13.181182Z",
+    "last_checked_at": "2026-10-21T08:36:57.846181Z",
     "source": "europe_pmc"
   },
   {
@@ -7038,7 +7129,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:36.526568Z",
-    "last_checked_at": "2026-10-20T08:34:11.501219Z",
+    "last_checked_at": "2026-10-21T08:36:18.908708Z",
     "source": "europe_pmc"
   },
   {
@@ -7153,7 +7244,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:59.582477Z",
-    "last_checked_at": "2026-10-20T08:33:49.221880Z",
+    "last_checked_at": "2026-10-21T08:36:07.193708Z",
     "source": "europe_pmc"
   },
   {
@@ -7370,7 +7461,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-09T08:10:06.624860Z",
-    "last_checked_at": "2026-10-20T08:33:48.585747Z",
+    "last_checked_at": "2026-10-21T08:36:03.556399Z",
     "source": "europe_pmc"
   },
   {
@@ -7473,7 +7564,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:35.067313Z",
-    "last_checked_at": "2026-10-20T08:33:48.359879Z",
+    "last_checked_at": "2026-10-21T08:36:01.052464Z",
     "source": "europe_pmc"
   },
   {
@@ -7618,7 +7709,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-11T08:04:27.768780Z",
-    "last_checked_at": "2026-10-20T08:33:45.716073Z",
+    "last_checked_at": "2026-10-21T08:35:44.645577Z",
     "source": "europe_pmc"
   },
   {
@@ -7757,7 +7848,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:14.784026Z",
-    "last_checked_at": "2026-10-20T08:33:45.295170Z",
+    "last_checked_at": "2026-10-21T08:35:44.035103Z",
     "source": "europe_pmc"
   },
   {
@@ -7890,7 +7981,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:56:21.207734Z",
-    "last_checked_at": "2026-10-20T08:33:44.208272Z",
+    "last_checked_at": "2026-10-21T08:35:35.860763Z",
     "source": "europe_pmc"
   },
   {
@@ -7956,7 +8047,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:56.522217Z",
-    "last_checked_at": "2026-10-20T08:33:43.406633Z",
+    "last_checked_at": "2026-10-21T08:35:24.567281Z",
     "source": "europe_pmc"
   },
   {
@@ -8341,7 +8432,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:22.103796Z",
-    "last_checked_at": "2026-10-20T08:33:42.851889Z",
+    "last_checked_at": "2026-10-21T08:35:20.914787Z",
     "source": "europe_pmc"
   },
   {
