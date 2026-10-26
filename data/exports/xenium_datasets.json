@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-10-25T08:30:48.811926Z",
+    "last_checked_at": "2026-10-26T09:02:31.326048Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-10-25T08:30:48.809880Z",
+    "last_checked_at": "2026-10-26T09:02:31.324613Z",
     "source": "biostudies"
   },
   {
@@ -226,7 +226,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-10-25T08:30:48.710560Z",
+    "last_checked_at": "2026-10-26T09:02:31.206261Z",
     "source": "biostudies"
   },
   {
@@ -323,7 +323,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813444Z",
-    "last_checked_at": "2026-10-25T08:30:46.373804Z",
+    "last_checked_at": "2026-10-26T09:02:24.999484Z",
     "source": "biostudies"
   },
   {
@@ -517,7 +517,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-10-25T08:30:33.046203Z",
+    "last_checked_at": "2026-10-26T09:02:02.456507Z",
     "source": "biostudies"
   },
   {
@@ -662,7 +662,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-10-25T08:30:32.667080Z",
+    "last_checked_at": "2026-10-26T09:02:01.956715Z",
     "source": "biostudies"
   },
   {
@@ -771,7 +771,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-10-25T08:30:31.316841Z",
+    "last_checked_at": "2026-10-26T09:01:54.999598Z",
     "source": "biostudies"
   },
   {
@@ -850,7 +850,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-10-25T08:30:31.121505Z",
+    "last_checked_at": "2026-10-26T09:01:54.619765Z",
     "source": "biostudies"
   },
   {
@@ -941,7 +941,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-21T08:46:28.428068Z",
-    "last_checked_at": "2026-10-25T08:30:30.420198Z",
+    "last_checked_at": "2026-10-26T09:01:53.570152Z",
     "source": "biostudies"
   },
   {
@@ -1021,7 +1021,7 @@
         "source_url": null
       }
     ],
-    "evidence_text": "S-BIAD3678 study Protocol for integrated multimodal spatial RNA and protein profiling using Xenium and MACSima Cindy Pamela Ulloa Guerrero Michele Bortolomeazzi Jan-Philipp Mallm Jakob Rosenbauer 1 31 2026-07-28 7 True  of Pediatric Solid Tumors by Single Cell RNA Sequencing and Spatial Proteomics”, 458891500). Deutsche Forschungsgemeinschaft under the National Research Data Infrastructure NFDI 46/1 – 501864659 Deutsche Forschungsgemeinschaft 458891500 TMA_astrocytoma_40 Homo sapiens (human) NCBITaxon NCBITaxon_9606 S-BIAD3678 Template BioImages.v5 Title Protocol for integrated multimodal spatial RNA and protein profiling using Xenium and MACSima  DOI 10.6019/S-BIAD3678 ReleaseDate 2026-07-28 AttachTo BioImages study-0-3a9t Study Title Protocol for integrated multimodal spatial RNA and protein profiling using Xenium and MACSima  ReleaseDate 2026-07-28 Description This protocol performs multimodal spatial RNA and protein profiling on the same tissue section using Xenium transcriptomics and MACSima cyclic protein imaging. Tissue sections are prepared, hybridized with Xenium probes, and imaged to detect RNA transcripts. After slide recovery and antigen retrieval, the same section undergoes sequential MACSima antibody staining and imaging cycles. Computational scripts then register and integrate RNA and protein datasets to generate a single-cell multimodal map of the tissue microenvironment. Example data here, corresponds to one TMA core from the project: “Comprehensive Functional Immunological Profiling of Pediatric Solid Tumors by Single Cell RNA Sequencing and Spatial Proteomics”. Keywords MACSima. Xenium, Registration, Spatial OMICs Acknowledgements This work was supported by the State Parliament of Baden-Württemberg for the Innovation Campus Health + Life Science Alliance Heidelberg Mannheim, Alliance Postdoc Programm (JR) and the Sabrina Kaiser Consortium for Astrocytoma Research (SKCAR) for funding for sample preparation and data acquisition of the Xenium data.\nThis work was performed within the MULTI-SPACE program. MB is supported by the Deutsche For-schungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infra-structure – NFDI 46/1 – 501864659.\nThis work was supported by the DFG (“Comprehensive Functional Immunological Profiling of Pediat-ric Solid Tumors by Single Cell RNA Sequencing and Spatial Proteomics”, 458891500). \nWe thank Dr. med. Abigail Suwala for her help with TMA preparation and sample processing.\n License CC0 URL https://creativecommons.org/publicdomain/zero/1.0/legalcode Funding statement This work was supported by the State Parliament of Baden-Württemberg for the Innovation Campus Health + Life Science Alliance Heidelberg Mannheim, Alliance Postdoc Programm (JR) and the Sabrina Kaiser Consortium for Astrocytoma Research (SKCAR) for funding for sample preparation and data acquisition of the Xenium data.\nThis work was performed within the MULTI-SPACE program. MB is supported by the Deutsche For-schungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infra-structure – NFDI 46/1 – 501864659.\nThis work was supported by the DFG (“Comprehensive Functional Immunological Profiling of Pediatric Solid Tumors by Single Cell RNA Sequencing and Spatial Proteomics”, 458891500). \n https://github.com/scOpenLab/MACSimaXenium Description code Registration Xenium-MACSima publ-1-0b0p Publication fund-3-zmnk Funding Agency Deutsche Forschungsgemeinschaft under the National Research Data Infrastructure  grant_id NFDI 46/1 – 501864659 Funding Agency Deutsche Forschungsgemeinschaft  grant_id 458891500 bios-4-lmy0 Biosample Title TMA_astrocytoma_40 Organism Homo sapiens (human) Ontology NCBITaxon TermId NCBITaxon_9606 Description human astrocytoma. Trial registration: NCT03893903. Work was ap-proved by the institutional ethi-cal review boards (reference numbers 2017-005F-MA and 2021-689) in Neuropathology department, University Heidelberg (Germany) Biological entity Human astrocytoma spec-5-d0ax Specimen Title tumor_core_40_macsima Sample preparation protocol 1.\tAfter xenium run perform the quencher removal: \na.\tGently immerse Xenium slide into the slide mailer with Quencher Removal Solution (sodium hydrosulfite 1.74 mg/ml) and incubate for 10 min at room temperature.\nb.\tImmerse slide in each Milli-Q water containing slide mailer for 1 min, then move to the next one. \nc.\tTransfer the Xenium slide into a 50 mL Falcon tube filled with MACSima Running buffer until further usage. \n2.\tHeat-induced epitope retrieval (HIER): \na.\tImmediately before use, dilute the TEC buffer 10x stock to 1x working solution, adjust the pH to 9.0, and preheat the 1x working solution to 95 °C in a pressure cooker. \nb.\tPlace the Xenium slide in a slide mailer and immerse it in the preheated TEC buffer (1x pH9). Incubate for 20 min at 95 °C. \nc.\tAfter incubation, remove the pressure cooker container and transfer it to a pre-cooled water bath (ice-cold) for cooling. \nd.\tWhen the buffer has reached room temperature, carefully remove the slide from the buffer, dry the edges to remove excess liquid, and mount it onto a MACSwell One Small imaging frame. \ne.\tAdd 550 μL MACSima Running Buffer.\n3.\tDAPI pre-staining and dust particle removal:\na.\tIncubate the Xenium slide with DAPI staining solution at a 1:5 dilution using MACSima Running Buffer (final concentration 1 µg/mL) in the dark for 10 min at room temperature. \nb.\tWash the slides three times with 550 µL MACSima Running Buffer to remove excess dye. \nc.\tCheck the tissue section under bright transmitted light to ensure there are no dust particles or debris in the experimental area. Remove any visible dust or debris, as these can interfere with imaging quality.\nd.\tCover the slide with a final experimental volume of 550 µL MACSima Running Buffer and seal with pierceable aluminum foil. spec-0-ybn2-removable Specimen Title tumor_core_40_xenium Sample preparation protocol 1.\tObtain formalin fixed paraffin embedded (FFPE) tissue samples with preserved morphology and RNA integrity.\nCRITICAL: Following proper handling, storage, preparation and sectioning of the FFPE tissues accord-ing to the demonstrated protocol: Xenium In Situ for FFPE – Tissue Preparation Guide (10x Genomics, CG000578) is critical to ensure preservation of morphology and RNA integrity.\n2.\tOptimize sectioning conditions, such as rehydration time for the block and floating time of the sections in the water bath of the Section Transfer System (STS) before mounting on slides to prevent cutting artefacts.\n3.\tTissue quality, morphology and RNA integrity of the blocks can be assessed prior to mounting on Xenium slides by performing DAPI staining, H&E staining, and /or DV200 analysis. \n4.\tSection placement on Xenium slides and storage according to standard protocol (10x Ge-nomics, CG000578):\na.\tIf the tissue blocks are of optimal quality, section them at 4-6 µm thickness using a microtome and mount the sections on Xenium slides.\nb.\tDry the slides appropriately as per standard protocol (10x Genomics, CG000578). \nPause point: Slides can be stored at room temperature (RT) or at 4 °C with desiccators for up to 4 weeks prior to deparaffinization and Xenium workflow. The entire workflow is performed according to the Xenium Prime In Situ Gene Expression with op-tional Cell Segmentation user guide (10x Genomics, CG000760) using the Xenium Prime Sample Preparation with Cell Segmentation with Slides reagents (10x Genomics, PN: 1000742). imag-6-50mk Image acquisition Title MACSima Imaging instrument MACSima™ System, Miltenyi Biotec, 130-121-164 Image acquisition parameters Standard MACSima protocol. MACS® iQ View Software Control Module 1.0 User manual (Miltenyi Biotec) with the Nikon 20x Plan Fluor ELWD Imaging method wide-field fluorescence microscopy Ontology fbbi TermId FBbi_00100013 imag-3-lr6a-removable Image acquisition Title Xemium Imaging instrument Xenium Analyzer, 10x Genomics, PN:1000481 Image acquisition parameters Xenium workflow according to the Xenium Analyzer User Guide (10x Genomics, CG000584) Imaging method wide-field fluorescence microscopy Ontology fbbi TermId FBbi_00100013 imag-7-ryw1 Image correlation Title Aligned_core_tumor_40 Spatial and temporal alignment Alignment algorithm (Github: https://github.com/scOpenLab/MACSimaXenium) Transformation matrix [[ 1.00000000e+00,  0.00000000e+00,  0.00000000e+00,  0.00000000e+00],\n [ 0.00000000e+00,  1.24052106e+00, -1.12071596e-02,  2.79801326e+02],\n [ 0.00000000e+00,  1.12071596e-02,  1.24052106e+00,  8.22346327e+02],\n [ 0.00000000e+00,  0.00000000e+00,  0.00000000e+00,  1.00000000e+00]\n] imag-8-iez1 Image analysis Title Protein quantification MACSima Image analysis overview i.\tLoad the “RawData” folder into the “Preprocessing” tool in MACS iQ View by selecting “Open Raw Directory”. \nNote: If multiple imaging runs were performed on the same slide, append the cycles accordingly. \nii.\tVerify that the dataset is assigned to the correct objective (“Nikon 20x Plan Fluor ELWD”) and load the appropriate calibration file for the experiment and verify. \niii.\tConfigure exposure settings to “Automatic” with 100% scaling and enable the “Crop to DAPI” option during preprocessing setup.\niv.\tSave the preprocessed data to a new folder.\nV. Further image analysis go to repository (Github: https://github.com/scOpenLab/MACSimaXenium)\nHarpy allocate intensity (https://harpy.readthedocs.io/en/stable/generated/harpy.tb.allocate_intensity.html) imag-4-iygf-removable Image analysis Title Xenium Analyzer Analysis and visualization of in situ gene expression data  Image analysis overview Xenium Onboard Analysis (XOA v3.1) pipeline was used for preprocessing during standard Xenium analyser run. The general output file specifications are described in the Xenium Onboard Analysis documentation (https://www.10xgenomics.com/support/software/xenium-onboard-analysis/3.1). Files were then converted to a SpatialData object with spatialdata_io (v.) and cropped to the corresponding MACSima ROI.  stud-10-vozr Study Component Name MACSima_run Description Same slide run processed for Spatial Transcriptomics in Xenium analyser followed by MACSima imaging cyclic staining for spatial proteomics File List MACsima_antibodies.json asso-11-62qf Associations Biosample TMA_astrocytoma_40 Specimen tumor_core_40_macsima Image acquisition MACSima Image correlation Aligned_core_tumor_40 Image analysis Protein quantification MACSima stud-1-8xdw-removable Study Component Name Xenium_run Description Same slide run processed for Spatial Transcriptomics in Xenium analyser followed by MACSima imaging cyclic staining for spatial proteomics File List xenium.json asso-2-341v Associations Biosample TMA_astrocytoma_40 Specimen tumor_core_40_xenium Image acquisition Xemium Image correlation Aligned_core_tumor_40 Image analysis Xenium Analyzer Analysis and visualization of in situ gene expression data  stud-5-1lnv-removable Study Component Name Registration_Xenium_MACSima Description Registration Xenium-MACSima (Github: https://github.com/scOpenLab/MACSimaXenium) File List aligned.json asso-6-vfwb Associations Biosample TMA_astrocytoma_40 Specimen tumor_core_40_macsima Image acquisition MACSima Image correlation Aligned_core_tumor_40 Image analysis Protein quantification MACSima Associations Biosample TMA_astrocytoma_40 Specimen tumor_core_40_xenium Image acquisition Xemium Image correlation Aligned_core_tumor_40 Image analysis Xenium Analyzer Analysis and visualization of in situ gene expression data  author-1 Author Name Cindy Pamela Ulloa Guerrero E-mail cindypamela.ulloaguerrero@dkfz-heidelberg.de ORCID 0000-0003-4430-4092 Role data analyst affiliation o1 True Author Name Michele Bortolomeazzi E-mail michele.bortolomeazzi@dkfz-heidelberg.de Role data analyst affiliation o1 True ORCID Author Name Jan-Philipp Mallm E-mail j.mallm@Dkfz-Heidelberg.de Role corresponding author affiliation o1 True ORCID Author Name Jakob Rosenbauer E-mail jakob.rosenbauer@dkfz-heidelberg.de Role experiment performer affiliation o2 True ORCID o1 organisation Name DKFZ - German Cancer Research Center RORID https://ror.org/04cdgtt98 o2 organisation Name Heidelberg University - Heidelberg RORID https://ror.org/038t36y30 submission",
+    "evidence_text": "S-BIAD3678 study Protocol for integrated multimodal spatial RNA and protein profiling using Xenium and MACSima Cindy Pamela Ulloa Guerrero Michele Bortolomeazzi Jan-Philipp Mallm Jakob Rosenbauer 1 27 2026-07-28 110 True  of Pediatric Solid Tumors by Single Cell RNA Sequencing and Spatial Proteomics”, 458891500). Deutsche Forschungsgemeinschaft under the National Research Data Infrastructure NFDI 46/1 – 501864659 Deutsche Forschungsgemeinschaft 458891500 TMA_astrocytoma_40 Homo sapiens (human) NCBITaxon NCBITaxon_9606 S-BIAD3678 Template BioImages.v5 Title Protocol for integrated multimodal spatial RNA and protein profiling using Xenium and MACSima  DOI 10.6019/S-BIAD3678 ReleaseDate 2026-07-28 AttachTo BioImages study-0-3a9t Study Title Protocol for integrated multimodal spatial RNA and protein profiling using Xenium and MACSima  ReleaseDate 2026-07-28 Description This protocol performs multimodal spatial RNA and protein profiling on the same tissue section using Xenium transcriptomics and MACSima cyclic protein imaging. Tissue sections are prepared, hybridized with Xenium probes, and imaged to detect RNA transcripts. After slide recovery and antigen retrieval, the same section undergoes sequential MACSima antibody staining and imaging cycles. Computational scripts then register and integrate RNA and protein datasets to generate a single-cell multimodal map of the tissue microenvironment. Example data here, corresponds to one TMA core from the project: “Comprehensive Functional Immunological Profiling of Pediatric Solid Tumors by Single Cell RNA Sequencing and Spatial Proteomics”. Keywords MACSima. Xenium, Registration, Spatial OMICs Acknowledgements This work was supported by the State Parliament of Baden-Württemberg for the Innovation Campus Health + Life Science Alliance Heidelberg Mannheim, Alliance Postdoc Programm (JR) and the Sabrina Kaiser Consortium for Astrocytoma Research (SKCAR) for funding for sample preparation and data acquisition of the Xenium data.\nThis work was performed within the MULTI-SPACE program. MB is supported by the Deutsche For-schungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infra-structure – NFDI 46/1 – 501864659.\nThis work was supported by the DFG (“Comprehensive Functional Immunological Profiling of Pediat-ric Solid Tumors by Single Cell RNA Sequencing and Spatial Proteomics”, 458891500). \nWe thank Dr. med. Abigail Suwala for her help with TMA preparation and sample processing.\n License CC0 URL https://creativecommons.org/publicdomain/zero/1.0/legalcode Funding statement This work was supported by the State Parliament of Baden-Württemberg for the Innovation Campus Health + Life Science Alliance Heidelberg Mannheim, Alliance Postdoc Programm (JR) and the Sabrina Kaiser Consortium for Astrocytoma Research (SKCAR) for funding for sample preparation and data acquisition of the Xenium data.\nThis work was performed within the MULTI-SPACE program. MB is supported by the Deutsche For-schungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infra-structure – NFDI 46/1 – 501864659.\nThis work was supported by the DFG (“Comprehensive Functional Immunological Profiling of Pediatric Solid Tumors by Single Cell RNA Sequencing and Spatial Proteomics”, 458891500). \n https://github.com/scOpenLab/MACSimaXenium Description code Registration Xenium-MACSima publ-1-0b0p Publication fund-3-zmnk Funding Agency Deutsche Forschungsgemeinschaft under the National Research Data Infrastructure  grant_id NFDI 46/1 – 501864659 Funding Agency Deutsche Forschungsgemeinschaft  grant_id 458891500 bios-4-lmy0 Biosample Title TMA_astrocytoma_40 Organism Homo sapiens (human) Ontology NCBITaxon TermId NCBITaxon_9606 Description human astrocytoma. Trial registration: NCT03893903. Work was ap-proved by the institutional ethi-cal review boards (reference numbers 2017-005F-MA and 2021-689) in Neuropathology department, University Heidelberg (Germany) Biological entity Human astrocytoma spec-5-d0ax Specimen Title tumor_core_40_macsima Sample preparation protocol 1.\tAfter xenium run perform the quencher removal: \na.\tGently immerse Xenium slide into the slide mailer with Quencher Removal Solution (sodium hydrosulfite 1.74 mg/ml) and incubate for 10 min at room temperature.\nb.\tImmerse slide in each Milli-Q water containing slide mailer for 1 min, then move to the next one. \nc.\tTransfer the Xenium slide into a 50 mL Falcon tube filled with MACSima Running buffer until further usage. \n2.\tHeat-induced epitope retrieval (HIER): \na.\tImmediately before use, dilute the TEC buffer 10x stock to 1x working solution, adjust the pH to 9.0, and preheat the 1x working solution to 95 °C in a pressure cooker. \nb.\tPlace the Xenium slide in a slide mailer and immerse it in the preheated TEC buffer (1x pH9). Incubate for 20 min at 95 °C. \nc.\tAfter incubation, remove the pressure cooker container and transfer it to a pre-cooled water bath (ice-cold) for cooling. \nd.\tWhen the buffer has reached room temperature, carefully remove the slide from the buffer, dry the edges to remove excess liquid, and mount it onto a MACSwell One Small imaging frame. \ne.\tAdd 550 μL MACSima Running Buffer.\n3.\tDAPI pre-staining and dust particle removal:\na.\tIncubate the Xenium slide with DAPI staining solution at a 1:5 dilution using MACSima Running Buffer (final concentration 1 µg/mL) in the dark for 10 min at room temperature. \nb.\tWash the slides three times with 550 µL MACSima Running Buffer to remove excess dye. \nc.\tCheck the tissue section under bright transmitted light to ensure there are no dust particles or debris in the experimental area. Remove any visible dust or debris, as these can interfere with imaging quality.\nd.\tCover the slide with a final experimental volume of 550 µL MACSima Running Buffer and seal with pierceable aluminum foil. spec-0-ybn2-removable Specimen Title tumor_core_40_xenium Sample preparation protocol 1.\tObtain formalin fixed paraffin embedded (FFPE) tissue samples with preserved morphology and RNA integrity.\nCRITICAL: Following proper handling, storage, preparation and sectioning of the FFPE tissues accord-ing to the demonstrated protocol: Xenium In Situ for FFPE – Tissue Preparation Guide (10x Genomics, CG000578) is critical to ensure preservation of morphology and RNA integrity.\n2.\tOptimize sectioning conditions, such as rehydration time for the block and floating time of the sections in the water bath of the Section Transfer System (STS) before mounting on slides to prevent cutting artefacts.\n3.\tTissue quality, morphology and RNA integrity of the blocks can be assessed prior to mounting on Xenium slides by performing DAPI staining, H&E staining, and /or DV200 analysis. \n4.\tSection placement on Xenium slides and storage according to standard protocol (10x Ge-nomics, CG000578):\na.\tIf the tissue blocks are of optimal quality, section them at 4-6 µm thickness using a microtome and mount the sections on Xenium slides.\nb.\tDry the slides appropriately as per standard protocol (10x Genomics, CG000578). \nPause point: Slides can be stored at room temperature (RT) or at 4 °C with desiccators for up to 4 weeks prior to deparaffinization and Xenium workflow. The entire workflow is performed according to the Xenium Prime In Situ Gene Expression with op-tional Cell Segmentation user guide (10x Genomics, CG000760) using the Xenium Prime Sample Preparation with Cell Segmentation with Slides reagents (10x Genomics, PN: 1000742). imag-6-50mk Image acquisition Title MACSima Imaging instrument MACSima™ System, Miltenyi Biotec, 130-121-164 Image acquisition parameters Standard MACSima protocol. MACS® iQ View Software Control Module 1.0 User manual (Miltenyi Biotec) with the Nikon 20x Plan Fluor ELWD Imaging method wide-field fluorescence microscopy Ontology fbbi TermId FBbi_00100013 imag-3-lr6a-removable Image acquisition Title Xemium Imaging instrument Xenium Analyzer, 10x Genomics, PN:1000481 Image acquisition parameters Xenium workflow according to the Xenium Analyzer User Guide (10x Genomics, CG000584) Imaging method wide-field fluorescence microscopy Ontology fbbi TermId FBbi_00100013 imag-7-ryw1 Image correlation Title Aligned_core_tumor_40 Spatial and temporal alignment Alignment algorithm (Github: https://github.com/scOpenLab/MACSimaXenium) Transformation matrix [[ 1.00000000e+00,  0.00000000e+00,  0.00000000e+00,  0.00000000e+00],\n [ 0.00000000e+00,  1.24052106e+00, -1.12071596e-02,  2.79801326e+02],\n [ 0.00000000e+00,  1.12071596e-02,  1.24052106e+00,  8.22346327e+02],\n [ 0.00000000e+00,  0.00000000e+00,  0.00000000e+00,  1.00000000e+00]\n] imag-8-iez1 Image analysis Title Protein quantification MACSima Image analysis overview i.\tLoad the “RawData” folder into the “Preprocessing” tool in MACS iQ View by selecting “Open Raw Directory”. \nNote: If multiple imaging runs were performed on the same slide, append the cycles accordingly. \nii.\tVerify that the dataset is assigned to the correct objective (“Nikon 20x Plan Fluor ELWD”) and load the appropriate calibration file for the experiment and verify. \niii.\tConfigure exposure settings to “Automatic” with 100% scaling and enable the “Crop to DAPI” option during preprocessing setup.\niv.\tSave the preprocessed data to a new folder.\nV. Further image analysis go to repository (Github: https://github.com/scOpenLab/MACSimaXenium)\nHarpy allocate intensity (https://harpy.readthedocs.io/en/stable/generated/harpy.tb.allocate_intensity.html) imag-4-iygf-removable Image analysis Title Xenium Analyzer Analysis and visualization of in situ gene expression data  Image analysis overview Xenium Onboard Analysis (XOA v3.1) pipeline was used for preprocessing during standard Xenium analyser run. The general output file specifications are described in the Xenium Onboard Analysis documentation (https://www.10xgenomics.com/support/software/xenium-onboard-analysis/3.1). Files were then converted to a SpatialData object with spatialdata_io (v.) and cropped to the corresponding MACSima ROI.  stud-10-vozr Study Component Name MACSima_run Description Same slide run processed for Spatial Transcriptomics in Xenium analyser followed by MACSima imaging cyclic staining for spatial proteomics File List MACsima_antibodies.json asso-11-62qf Associations Biosample TMA_astrocytoma_40 Specimen tumor_core_40_macsima Image acquisition MACSima Image correlation Aligned_core_tumor_40 Image analysis Protein quantification MACSima stud-1-8xdw-removable Study Component Name Xenium_run Description Same slide run processed for Spatial Transcriptomics in Xenium analyser followed by MACSima imaging cyclic staining for spatial proteomics File List xenium.json asso-2-341v Associations Biosample TMA_astrocytoma_40 Specimen tumor_core_40_xenium Image acquisition Xemium Image correlation Aligned_core_tumor_40 Image analysis Xenium Analyzer Analysis and visualization of in situ gene expression data  stud-5-1lnv-removable Study Component Name Registration_Xenium_MACSima Description Registration Xenium-MACSima (Github: https://github.com/scOpenLab/MACSimaXenium) File List aligned.json asso-6-vfwb Associations Biosample TMA_astrocytoma_40 Specimen tumor_core_40_macsima Image acquisition MACSima Image correlation Aligned_core_tumor_40 Image analysis Protein quantification MACSima Associations Biosample TMA_astrocytoma_40 Specimen tumor_core_40_xenium Image acquisition Xemium Image correlation Aligned_core_tumor_40 Image analysis Xenium Analyzer Analysis and visualization of in situ gene expression data  author-1 Author Name Cindy Pamela Ulloa Guerrero E-mail cindypamela.ulloaguerrero@dkfz-heidelberg.de ORCID 0000-0003-4430-4092 Role data analyst affiliation o1 True Author Name Michele Bortolomeazzi E-mail michele.bortolomeazzi@dkfz-heidelberg.de Role data analyst affiliation o1 True ORCID Author Name Jan-Philipp Mallm E-mail j.mallm@Dkfz-Heidelberg.de Role corresponding author affiliation o1 True ORCID Author Name Jakob Rosenbauer E-mail jakob.rosenbauer@dkfz-heidelberg.de Role experiment performer affiliation o2 True ORCID o1 organisation Name DKFZ - German Cancer Research Center RORID https://ror.org/04cdgtt98 o2 organisation Name Heidelberg University - Heidelberg RORID https://ror.org/038t36y30 submission",
     "confidence_score": 0.867,
     "xenium_confidence": 0.9,
     "human_confidence": 0.9,
@@ -1032,7 +1032,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-10-25T08:30:29.917296Z",
+    "last_checked_at": "2026-10-26T09:01:52.950941Z",
     "source": "biostudies"
   },
   {
@@ -1123,7 +1123,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-10-25T08:30:29.710877Z",
+    "last_checked_at": "2026-10-26T09:01:52.678131Z",
     "source": "biostudies"
   },
   {
@@ -1189,7 +1189,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-10-25T08:29:45.035715Z",
+    "last_checked_at": "2026-10-26T09:00:48.866400Z",
     "source": "crossref"
   },
   {
@@ -1255,7 +1255,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-10-25T08:29:45.035678Z",
+    "last_checked_at": "2026-10-26T09:00:48.866379Z",
     "source": "crossref"
   },
   {
@@ -1321,7 +1321,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-10-25T08:29:45.035651Z",
+    "last_checked_at": "2026-10-26T09:00:48.866359Z",
     "source": "crossref"
   },
   {
@@ -1387,7 +1387,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-10-25T08:29:45.035622Z",
+    "last_checked_at": "2026-10-26T09:00:48.866332Z",
     "source": "crossref"
   },
   {
@@ -1453,7 +1453,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-10-25T08:29:44.698115Z",
+    "last_checked_at": "2026-10-26T09:00:47.975631Z",
     "source": "crossref"
   },
   {
@@ -1519,7 +1519,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-10-25T08:29:44.353166Z",
+    "last_checked_at": "2026-10-26T09:00:46.664857Z",
     "source": "crossref"
   },
   {
@@ -1585,7 +1585,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-10-25T08:29:44.353033Z",
+    "last_checked_at": "2026-10-26T09:00:46.664781Z",
     "source": "crossref"
   },
   {
@@ -1651,7 +1651,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-10-25T08:29:44.352995Z",
+    "last_checked_at": "2026-10-26T09:00:46.664738Z",
     "source": "crossref"
   },
   {
@@ -1717,7 +1717,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-10-25T08:29:44.352741Z",
+    "last_checked_at": "2026-10-26T09:00:46.664555Z",
     "source": "crossref"
   },
   {
@@ -1783,7 +1783,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-10-25T08:29:44.352723Z",
+    "last_checked_at": "2026-10-26T09:00:46.664542Z",
     "source": "crossref"
   },
   {
@@ -1849,7 +1849,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-10-25T08:28:09.867456Z",
+    "last_checked_at": "2026-10-26T08:58:40.665641Z",
     "source": "europe_pmc"
   },
   {
@@ -1915,7 +1915,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-10-25T08:28:09.859501Z",
+    "last_checked_at": "2026-10-26T08:58:40.659709Z",
     "source": "europe_pmc"
   },
   {
@@ -2006,7 +2006,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:57:17.666892Z",
-    "last_checked_at": "2026-10-25T08:28:09.287805Z",
+    "last_checked_at": "2026-10-26T08:58:39.652831Z",
     "source": "europe_pmc"
   },
   {
@@ -2121,7 +2121,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-10-25T08:28:08.710601Z",
+    "last_checked_at": "2026-10-26T08:58:39.148435Z",
     "source": "europe_pmc"
   },
   {
@@ -2368,7 +2368,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-10-25T08:28:06.561305Z",
+    "last_checked_at": "2026-10-26T08:58:38.419990Z",
     "source": "europe_pmc"
   },
   {
@@ -2585,7 +2585,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.382543Z",
-    "last_checked_at": "2026-10-25T08:28:06.336562Z",
+    "last_checked_at": "2026-10-26T08:58:35.011425Z",
     "source": "europe_pmc"
   },
   {
@@ -2736,7 +2736,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719349Z",
-    "last_checked_at": "2026-10-25T08:27:58.953413Z",
+    "last_checked_at": "2026-10-26T08:58:28.867232Z",
     "source": "europe_pmc"
   },
   {
@@ -2917,7 +2917,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:09:05.256805Z",
-    "last_checked_at": "2026-10-25T08:27:31.992559Z",
+    "last_checked_at": "2026-10-26T08:58:05.697110Z",
     "source": "europe_pmc"
   },
   {
@@ -3380,7 +3380,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-10-25T08:27:31.290118Z",
+    "last_checked_at": "2026-10-26T08:58:01.662235Z",
     "source": "europe_pmc"
   },
   {
@@ -3825,7 +3825,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-17T07:50:06.753444Z",
-    "last_checked_at": "2026-10-25T08:27:07.852710Z",
+    "last_checked_at": "2026-10-26T08:57:40.204116Z",
     "source": "europe_pmc"
   },
   {
@@ -3928,7 +3928,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-10-25T08:27:00.886655Z",
+    "last_checked_at": "2026-10-26T08:57:28.291436Z",
     "source": "europe_pmc"
   },
   {
@@ -3994,7 +3994,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-10-25T08:27:00.450330Z",
+    "last_checked_at": "2026-10-26T08:57:27.492385Z",
     "source": "europe_pmc"
   },
   {
@@ -4060,7 +4060,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-10-25T08:27:00.450086Z",
+    "last_checked_at": "2026-10-26T08:57:27.492212Z",
     "source": "europe_pmc"
   },
   {
@@ -4235,7 +4235,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:28.415733Z",
-    "last_checked_at": "2026-10-25T08:27:00.087146Z",
+    "last_checked_at": "2026-10-26T08:57:22.274183Z",
     "source": "europe_pmc"
   },
   {
@@ -4524,7 +4524,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-20T08:34:38.327271Z",
-    "last_checked_at": "2026-10-25T08:26:59.773841Z",
+    "last_checked_at": "2026-10-26T08:57:21.768053Z",
     "source": "europe_pmc"
   },
   {
@@ -4627,7 +4627,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721739Z",
-    "last_checked_at": "2026-10-25T08:26:59.110935Z",
+    "last_checked_at": "2026-10-26T08:57:20.003171Z",
     "source": "europe_pmc"
   },
   {
@@ -4976,7 +4976,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-12T07:56:40.268857Z",
-    "last_checked_at": "2026-10-25T08:26:58.879120Z",
+    "last_checked_at": "2026-10-26T08:57:19.727890Z",
     "source": "europe_pmc"
   },
   {
@@ -5042,7 +5042,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-10-25T08:26:58.662125Z",
+    "last_checked_at": "2026-10-26T08:57:19.491733Z",
     "source": "europe_pmc"
   },
   {
@@ -5469,7 +5469,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-21T08:58:06.808340Z",
-    "last_checked_at": "2026-10-25T08:26:53.676815Z",
+    "last_checked_at": "2026-10-26T08:57:14.941303Z",
     "source": "europe_pmc"
   },
   {
@@ -5535,7 +5535,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-10-25T08:26:50.557300Z",
+    "last_checked_at": "2026-10-26T08:57:08.498143Z",
     "source": "europe_pmc"
   },
   {
@@ -5601,7 +5601,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-10-25T08:26:50.557108Z",
+    "last_checked_at": "2026-10-26T08:57:08.498007Z",
     "source": "europe_pmc"
   },
   {
@@ -5667,7 +5667,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-10-25T08:26:50.548674Z",
+    "last_checked_at": "2026-10-26T08:57:08.492391Z",
     "source": "europe_pmc"
   },
   {
@@ -5752,7 +5752,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-10-25T08:26:50.547478Z",
+    "last_checked_at": "2026-10-26T08:57:08.491579Z",
     "source": "europe_pmc"
   },
   {
@@ -5818,7 +5818,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717212Z",
-    "last_checked_at": "2026-10-25T08:26:50.544197Z",
+    "last_checked_at": "2026-10-26T08:57:08.489437Z",
     "source": "europe_pmc"
   },
   {
@@ -5884,7 +5884,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-10-25T08:26:50.543530Z",
+    "last_checked_at": "2026-10-26T08:57:08.488838Z",
     "source": "europe_pmc"
   },
   {
@@ -5950,7 +5950,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-06T10:19:21.686886Z",
-    "last_checked_at": "2026-10-25T08:26:44.787326Z",
+    "last_checked_at": "2026-10-26T08:57:02.345642Z",
     "source": "europe_pmc"
   },
   {
@@ -6551,7 +6551,122 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:52:12.208032Z",
-    "last_checked_at": "2026-10-25T08:26:44.274695Z",
+    "last_checked_at": "2026-10-26T08:57:01.481265Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "An Integrated Spatial Multi-Omics Workflow for Sequential RNA and Protein Profiling in FFPE Tumor Tissue.",
+    "doi": "10.1158/2767-9764.crc-26-0182",
+    "pmid": "42568117",
+    "pmcid": "PMC13489674",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-08-01",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42568117",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "validation_dataset",
+    "xenium_reason": "Xenium is explicitly used for validation",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [
+      {
+        "identifier": "GSE335552",
+        "location": "data_availability",
+        "text": "s data generated for this study are available through Gene Expression Omnibus:  GSE335552 . The IMC dataset generated for this article is available at  https://doi.org/1",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
+      },
+      {
+        "identifier": "10.13039/501100000925",
+        "location": "data_availability",
+        "text": "     \n  National Health and Medical Research Council (NHMRC)  http://dx.doi.org/10.13039/501100000925  \n  GNT2010795  APP2032407  \n  Sharma  A.  \n  \n  George  J.  \n    \n  Medical Re",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
+      },
+      {
+        "identifier": "10.13039/501100025520",
+        "location": "data_availability",
+        "text": "  \n  George  J.  \n    \n  Medical Research Future Fund (MRFF)  http://dx.doi.org/10.13039/501100025520  \n  MRF2016215  \n  Sharma  A.  \n  \n  George  J.  \n    \n  CSL Limited (CSL)  htt",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
+      },
+      {
+        "identifier": "10.13039/501100020480",
+        "location": "data_availability",
+        "text": "  \n  Sharma  A.  \n  \n  George  J.  \n    \n  CSL Limited (CSL)  http://dx.doi.org/10.13039/501100020480  \n  CSL Centenary Fellowships  \n  Sharma  A.  \n    \n  National Health and Medic",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
+      },
+      {
+        "identifier": "10.13039/501100000925",
+        "location": "data_availability",
+        "text": "\n    \n  National Health and Medical Research Council (NHMRC)  http://dx.doi.org/10.13039/501100000925  \n  GNT2043672  \n  Sharma  A.  \n    \n  Kinghorn Foundation (The Kinghorn Founda",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
+      },
+      {
+        "identifier": "10.13039/501100022538",
+        "location": "data_availability",
+        "text": "a  A.  \n    \n  Kinghorn Foundation (The Kinghorn Foundation)  http://dx.doi.org/10.13039/501100022538  \n  Catalytic funding    \n  University of New South Wales (UNSW)  http://dx.doi",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
+      },
+      {
+        "identifier": "10.13039/501100001773",
+        "location": "data_availability",
+        "text": "Catalytic funding    \n  University of New South Wales (UNSW)  http://dx.doi.org/10.13039/501100001773  \n  TFS (MME) and RTP (LC)  \n  Eapen  M.M.  \n  \n  Chhuo  L.  \n         pmc-stat",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
+      },
+      {
+        "identifier": "10.6084/m9.figshare.32671185",
+        "location": "data_availability",
+        "text": "2 . The IMC dataset generated for this article is available at  https://doi.org/10.6084/m9.figshare.32671185 . Any other data generated in this study are available upon request to the corr",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
+      }
+    ],
+    "evidence_text": "An Integrated Spatial Multi-Omics Workflow for Sequential RNA and Protein Profiling in FFPE Tumor Tissue. Understanding complex cellular niches, such as tertiary lymphoid structures, requires spatially resolved, multi-omics approaches that link transcriptional states and protein expression levels within individual cells. Here, we present an integrated spatial multi-omics workflow that enables sequential mapping of hundreds of genes via the Xenium In Situ platform and more than 40 protein markers via imaging mass cytometry technology on a single formalin-fixed, paraffin-embedded (FFPE) tissue section. We applied this multi-modal approach to colorectal liver metastases and matched adjacent normal liver tissues. Our results demonstrate that the sequential application of these technologies maintains tissue morphology and the assay's technical sensitivity. Furthermore, high-dimensional data integration was performed through optimized computational coregistration at a single-cell level. Through this approach, we observed a correlation between β-catenin proteomic levels and malignant cell states, characterized immune cell phenotypes in lymphoid aggregates, and identified discrepancies between RNA and protein levels for key checkpoint molecules (PD-L1, TIM-3, and IDO). Overall, this technical framework enables robust profiling of functional cellular states, spatial mapping of chemokine expression, and more sensitive detection of clinically relevant targets missing in single-modality methods.<h4>Significance</h4>We present an integrated spatial multi-omics workflow that enables direct comparison of transcript and protein levels within a single FFPE section. This enables detailed profiling of the cellular microenvironment, along with relevant protein biomarkers, for clinical decision-making. Significance:  We present an integrated spatial multi-omics workflow that enables direct comparison of transcript and protein levels within a single FFPE section. This enables detailed profiling of the cellular microenvironment, along with relevant protein biomarkers, for clinical decision-making.      \n  National Health and Medical Research Council (NHMRC)  http://dx.doi.org/10.13039/501100000925  \n  GNT2010795  APP2032407  \n  Sharma  A.  \n  \n  George  J.  \n    \n  Medical Research Future Fund (MRFF)  http://dx.doi.org/10.13039/501100025520  \n  MRF2016215  \n  Sharma  A.  \n  \n  George  J.  \n    \n  CSL Limited (CSL)  http://dx.doi.org/10.13039/501100020480  \n  CSL Centenary Fellowships  \n  Sharma  A.  \n    \n  National Health and Medical Research Council (NHMRC)  http://dx.doi.org/10.13039/501100000925  \n  GNT2043672  \n  Sharma  A.  \n    \n  Kinghorn Foundation (The Kinghorn Foundation)  http://dx.doi.org/10.13039/501100022538  \n  Catalytic funding    \n  University of New South Wales (UNSW)  http://dx.doi.org/10.13039/501100001773  \n  TFS (MME) and RTP (LC)  \n  Eapen  M.M.  \n  \n  Chhuo  L.  \n         pmc-status-qastatus  0    pmc-status-live  yes    pmc-status-embargo  no    pmc-status-released  yes    pmc-prop-open-access  yes    pmc-prop-olf  no    pmc-prop-manuscript  no    pmc-prop-legally-suppressed  no    pmc-prop-has-pdf  yes    pmc-prop-has-supplement  yes    pmc-prop-pdf-only  no    pmc-prop-suppress-copyright  no    pmc-prop-is-real-version  no    pmc-prop-is-scanned-article  no    pmc-prop-preprint  no    pmc-prop-in-epmc  yes    pmc-license-ref  CC BY    crossmark  true        Introduction  Recent advances in spatial technologies have transformed the mapping of molecular organization in diseases, offering unprecedented insights into cellular architecture and spatially organized communication patterns within native tissue structures ( 1 – 4 ). Over the past decade, spatial transcriptomics has been increasingly adopted in cancer research to profile spatially resolved gene expression patterns associated with tumor initiation, progression, metastasis, and therapeutic response ( 5 – 9 ). However, the functional state of a cell is more accurately resolved at the proteomic level, as proteins define cellular identity and are directly involved in cellular interactions ( 10 ). As a result, spatial proteomics has also been widely applied across multiple cancer types, leveraging its multiplex profiling capabilities to improve the characterization of cellular phenotypes and activity ( 11 ). Collectively, these spatial transcriptomic and proteomic approaches provide the technical capabilities needed to profile complex tissue systems such as the tumor microenvironment (TME).  The tumor and its microenvironment constitute complex molecular and functional landscapes, comprising malignant epithelial cells, stromal elements, diverse immune cell subsets, and the extracellular matrix. Spatially resolved profiling of cellular states, molecular programs, and signaling pathways in cancer is becoming increasingly essential, as recent evidence underscores the prognostic and therapeutic significance of spatially defined cellular neighborhoods and the overall spatial organization of tumor tissues ( 12 – 15 ). Capturing the full biological diversity of tumor ecosystems requires more than a single modality; it demands the integration of high-plex spatial transcriptomics and proteomics to concurrently resolve transcriptional signatures and functional protein network programs ( 16 ).  Transcript-level mapping via platforms like Xenium  In Situ  provides the “blueprint” of cellular identity, whereas spatial proteomic technologies such as imaging mass cytometry (IMC) provide functional validation ( 17 – 19 ). The latter is particularly vital for detecting activation states, such as the nuclear translocation of β-catenin, which cannot be reflected solely by transcript abundance ( 20 ). Although the latest transcriptomics technologies enable RNA profiling at exceptional resolutions, mRNA abundance does not consistently correlate with protein expression ( 21 ). In contrast, spatial proteomics can directly capture functionally active molecules, but achieving reliable high multiplexing remains a significant technical limitation in clinically standard formalin-fixed, paraffin-embedded (FFPE) tissues. Despite the complementary strengths of these platforms, a major limitation to their integrated application is the technical challenge of preserving tissue integrity and antigenicity during sequential processing, as well as the lack of accurate multi-modal coregistration methods for a single tissue section. Thus, there is a clear need for optimized, integrated spatial multimodal workflows that enable precise single-cell coregistration of transcriptomic and proteomic data without compromising data quality.  In this study, we implement a cross-modality spatial workflow that achieves high-fidelity coregistration of high-plex Xenium  In Situ  (hundreds of RNA targets) and IMC data (40+ protein markers) on single FFPE sections of colorectal liver metastases (CRLM). By utilizing cross-platform DNA/nuclei identification for precise data coregistration, we directly examined the relationship between RNA and protein expression of individual cells within the complex neighborhoods of the metastatic microenvironment, a considerable advancement beyond inferring alignment of cell populations between spatial omics platforms. This approach reveals distinct transcript and protein expression patterns in signaling pathways, such as Wnt, and also enables a multi-scale characterization of lymphoid aggregates that would be missed by single-modality analysis.    Materials and Methods   Xenium  In Situ  spatial transcriptomics  CRLM from three patients and matched adjacent normal liver tissue from one patient were included for the Xenium  In Situ  and IMC workflows. All samples were obtained from the Westmead Institute for Medical Research as FFPE blocks (University of New South Wales Human Research Ethics and Compliances, Ethics ID: iRECS6671). The tissue was sectioned at 5 μm thickness and mounted on the designated sample area of the Xenium slide, followed by deparaffinization, rehydration, and decrosslinking of the tissue sections. Probe hybridization was carried out overnight at 50°C either using a 462-gene (tumor 1, tumor 2, and adjacent normal) or a 319-gene (tumor 3) Xenium standalone custom panel (Supplementary Table S1), followed by post-hybridization wash, ligation, and rolling circle amplification. Cell segmentation staining was performed using Xenium Multi-Tissue Stain Mix, followed by autofluorescence quenching and nuclei staining. The Xenium slide was subsequently loaded onto the Xenium Analyzer along with the required buffers and decoding reagents (RRID: SCR_023910).    Hyperion XTi Imaging System spatial proteomics  Prior to staining, tissue sections stored in PBS-T for less than 24 hours underwent heat-induced antigen retrieval using 1× AR9 Buffer (pH 9, Akoya Biosciences) in a pressure cooker at 96°C for 30 minutes. Following retrieval, sections were blocked with 3% BSA for 45 minutes at room temperature. For this experiment, a custom 43-marker panel was utilized (38 protein markers, 3 cell segmentation protein markers, and 2 DNA markers; 43-marker panel 1 for tumor 3; 43-marker panel 2 for tumor 1, tumor 2, and adjacent normal liver), with each marker individually validated via IHC and titrated to ensure an optimal signal-to-noise ratio (Supplementary Table S1). The slides were stained with an antibody cocktail diluted in 3% BSA and incubated overnight at 4°C.  The following day, slides were washed in PBS and subjected to nuclei staining using an Ir-intercalator for 30 minutes at room temperature. After a Milli-Q wash, slides were dried and stored at 4°C. Image acquisition was performed using the Standard BioTools Hyperion XTi Imaging System (RRID: SCR_023195). Low-resolution scans of whole slides were acquired using preview mode (1 μm/pixel resolution with 25 μm spacing), and representative 4-mm 2  regions of interest (ROI) were selected based on spatial expression patterns of all markers in the panel. Selected ROIs were laser-ablated spot-by-spot in cell mode (1 μm/pixel resolution) at 800 Hz, with metal-conjugated antibodies detected via the Hyperion XTi Imaging System. Where multiple ROIs were acquired for a sample, the ROIs used in this study are provided in Supplementary Table S2. Initial data visualization was conducted using MCD Viewer v1.0.560.6.    Data analysis  The data generated as IMC data acquisition (MCD files) were converted into OME.ZARR format using MCD SmartViewer v1.1 (Standard BioTools).  Cell segmentation and phenotyping were performed on IMC data using QuPath (v0.6; RRID: SCR_018257). Cell segmentation masks were generated using the InstanSeg extension, a deep learning–based cell segmentation method. Segmentation was performed using the DNA and IMC Cell Segmentation Kit channels, which include nuclear and membrane markers to facilitate accurate delineation of whole-cell boundaries. Following segmentation, per-cell intensity measurements (mean, median, standard deviation, minimum, and maximum) were extracted for each metal-tagged antibody channel. Cell phenotyping was performed in QuPath using the object classifier framework, in which segmented cells were assigned to phenotypic classes using a supervised classification approach based on single-cell mean marker expression features derived from the per-cell measurements. Classifier training was guided by annotated cells and marker expression patterns, with classification rules refined through inspection of feature distributions and visual validation within the images.  The coregistration of the protein and transcriptomic datasets was performed using the nuclei/DNA staining obtained from both platforms. Here, 4′,6-diamidino-2-phenylindole (DAPI)-stained images from Xenium and DNA staining from IMC workflows are individually transformed to normalize their intensities. The images were then downsampled, and using a brute-force search over a range of rotation angles, the optimal translation was determined using normalized cross-correlation, accelerated by graphics processing unit-based convolution. The resulting coarse parameters were then refined at a higher resolution to ensure subpixel accuracy. Finally, the transformation parameters were rescaled to the original image dimensions, yielding a final 3 × 3 affine transformation matrix that maps Xenium spatial coordinates to the corresponding IMC coordinate system. The pipeline also provides a comma-separated values output with the protein and transcript information for each cell, along with its coordinates, which was used to generate heatmaps to plot individual transcript and protein expression levels.  To quantify the accuracy of single-cell coregistration, Xenium centroids and boundary vertices were converted to IMC pixel units by dividing by the scale factor (0.2125 μm/px) and projected into IMC image space using the inverse of the rigid registration transformation matrix. The transformed boundary polygons were rasterized into a label mask. Matched IMC and Xenium cell pairs were identified by nearest-neighbor centroid matching, and segmentation concordance was assessed using the Jaccard index computed from the binary cell masks of each matched pair.     Results   Single-section integrated spatial transcriptomic and proteomic workflow  To address the limitations of cross-modality inference from adjacent tissue sections, a workflow was developed for sequential Xenium  In Situ  transcriptomics and IMC technology on a single FFPE tissue section ( Fig. 1A ). A custom Xenium transcript panel was used to capture key immune, stromal, and signaling pathways, followed by a 43-marker immuno-oncology protein panel ( Fig. 1B ; Supplementary Table S1). Importantly, microfluidic cycling and chemical stripping required for Xenium did not compromise tissue morphology or protein antigenicity. This sequential approach enabled the generation of single-slide multi-omics transcript and protein data. Integration of these modalities was achieved using the custom computational coregistration framework (“Materials and Methods”), which utilizes DAPI-based affine transformation to achieve subcellular correspondence across modalities ( Fig. 1C ).   Figure 1.   Overview of the integrated spatial multi-omics imaging workflow, panels designed across transcript and protein modalities, and the data analysis workflow.  A,  Overview of the experimental data generation workflow. FFPE sections from resected tumor specimens were mounted onto Xenium  In Situ  slides and processed using the 10x Genomics Xenium  In Situ  hybridization workflow, followed by transcript detection on the Xenium Analyzer. Upon completion of the transcriptomic imaging, the tissue sections underwent antigen retrieval and IMC antibody staining followed by protein codetection with the Hyperion XTi system.  B,  A subset of the key marker genes and signaling pathways included in the 462-gene Xenium custom panel is shown aligned with the protein markers used for the IMC antibody panel and targeted cell types. The full list of the targets in the transcript panel and the IMC protein panel are provided in Supplementary Table S1.  C,  Overview of the data analysis approaches as cross-platform DNA identification (DAPI and Cell-ID) enables data coregistration, joint transcript and protein visualization, and quantitative data analysis.                    To evaluate the accuracy of our computational coregistration workflow, we investigated the cell-level correspondence by calculating the centroid distance distributions between matched cells across the Xenium and IMC segmentation masks. The median values for the centroid distance of matched cells ranged from 1.49 to 2.24 μm across the four ROIs, which demonstrated single-cell level registration accuracy following our coregistration pipeline ( Fig. 2A–D ). To further quantify the agreement of cell segmentation across the Xenium and IMC masks, we calculated the distribution of Jaccard indices across matched cells from the two modalities. The median values of the Jaccard index ranged from 0.479 to 0.584, confirming sufficient overlap between independent segmentations performed in each modality (Supplementary Fig. S1).   Figure 2.   Validation of the single-cell level spatial coregistration workflow. The IMC segmentation mask (left column), Xenium segmentation mask (center-left column), coregistered mask (center-right column; red: IMC alone, green: Xenium alone; yellow: overlap), and the centroid distance distribution of matched Xenium–IMC cell pairs for the ROIs from tumor 1 ( A ), tumor 2 ( B ), tumor 3 ( C ), and adjacent normal liver ( D ). The orange dashed line indicates the median value of the centroid distribution, the red and green dashed lines represent the 5 and 10 μm thresholds, respectively, with the percentage of matched cell pairs within the given threshold indicated.                    To evaluate whether the Xenium workflow affects protein signal detection, we compared post-Xenium IMC and standalone IMC on serial FFPE tissue sections from tumor 3. Using QuPath v0.6, cells were classified as marker-positive and marker-negative populations, and their mean protein expression was compared across post-Xenium IMC and standalone IMC experiments. This revealed that the ability to distinguish cells expressing key protein markers was fully preserved even after the Xenium  In Situ  experiment ( Fig. 3 ; Supplementary Fig. S2). To evaluate overall signal preservation across the complete IMC panel, the detected median protein intensity was compared between the standalone IMC and post-Xenium IMC experiments, revealing that most markers showed well-preserved signal detection, although, as expected, some markers showed a degree of signal reduction after the multi-omics workflow (Supplementary Table S3). Despite being serial sections, the variability in signal intensity observed for some markers may reflect the effects of the Xenium workflow, the section-to-section differences in cell type composition, and minor differences in the tissue region included in the acquired ROI. Nevertheless, the overall preservation of signal intensity ratios, along with the ability to distinguish between marker-positive and marker-negative populations, shows the robustness of this integrated multi-omics spatial workflow.   Figure 3.   Application of sequential spatial multi-omics imaging and standard IMC workflow on serial sections of CRLM. Top, expression of key protein markers keratin 8/18 ( A ), α-SMA ( B ), CD45 ( C ), and vimentin ( D ) on serial tissue sections on an ROI from tumor 3. Bottom, classification of segmented cells based on the expression pattern of the selected protein markers, generated using QuPath.  E,  Quantitative assessment of the mean expression of the protein markers in the multi-omics and single-modality IMC workflow, depicting that sufficient protein signal intensity is maintained in the multi-omics workflow to distinguish between marker-positive and marker-negative cell populations.                      Integrated profiling enables β-catenin–driven phenotyping of epithelial cells  A key advantage of single-slide multi-omics is the capacity to resolve discrepancies between mRNA abundance and functional protein levels. The coregistration workflow was applied to evaluate functional Wnt signaling activation via β-catenin expression in CRLM tissues. Three distinct expression archetypes were identified: (i) tumor-associated regions with high  CTNNB1  transcript and concordant β-catenin protein expression ( Fig. 4A ), (ii) tumor regions with comparatively low protein enrichment and lower expression of the corresponding transcript ( Fig. 4B ), and (iii) vessel-associated regions exhibiting minimal expression ( Fig. 4C ).   Figure 4.   β-Catenin transcript and protein expression patterns identify Wnt signaling signatures in tumor cells.  A–C,  Representative coregistered Xenium and IMC images of two tumor samples and an adjacent normal liver tissue.  A,  Tumor sample containing a tertiary lymphoid structure adjacent to tumor cells expressing keratin 8/18 and demonstrating nuclear and cytoplasmic localization of β-catenin protein and expression of  CTNNB1  transcript.  B,  Tumor sample with epithelial-like tumor cells expressing intermediate levels of keratin 8/18 with cytoplasmic and nuclear β-catenin protein expression and lower expression of  CTNNB1  transcript.  C,  Tumor-adjacent normal liver tissue with minimal expression of β-catenin protein and  CTNNB1  transcript. The β-catenin protein and  CTNNB1  transcript heatmaps were generated using CytoMap.  D,  Heatmaps showing the raw transcript counts of epithelial markers ( EPCAM  and  CDH1 ), stemness-associated genes ( SOX9  and  LGR5 ), and EMT-associated gene  SNAI2  in tumors 1 and 2, revealing signatures associated with EMT in tumor 1. The gene expression heatmaps for epithelial markers, stemness markers, and  SNAI2  were generated using  ImageFeaturePlot  function from Seurat (v5.3.0; ref.  46 ). Scale bars, 200 μm.                    To quantitatively characterize subcellular β-catenin localization, nuclear and cytoplasmic masks were generated using the InstanSeg algorithm. Quantitative analysis confirmed that tumor 1 had higher absolute nuclear β-catenin intensity in keratin 8/18–positive cells (median 5.11 vs. 3.56 mean pixel intensity units, Supplementary Fig. S3A), alongside higher  CTNNB1  transcript detection. However, the nuclear-to-cytoplasmic ratio of β-catenin was comparable across the two tumor samples, with a median of 1.08 versus 1 (Supplementary Fig. S3B). To investigate the downstream effects of β-catenin nuclear accumulation, expression of epithelial ( EPCAM  and  CDH1 ) and stemness ( SOX9  and  LGR5 ) markers was evaluated within the same single cells ( Fig. 4D ; refs.  22 ,  23 ). Interestingly, both epithelial markers were reduced in tumor 1, suggesting that in this ROI, a higher nuclear β-catenin intensity may be driving an epithelial-to-mesenchymal transition (EMT; ref.  20 ). To further validate this EMT phenotype,  SNAI2  expression was mapped and found to be elevated within the integrated ROI of tumor 1.  SNAI2  encodes SNAIL2/SLUG, a transcription factor that induces EMT ( 23 – 25 ). Collectively, these findings demonstrate the workflow’s capacity to link functional protein states, alongside their downstream transcriptional consequences, including EMT gene signatures,  in situ .    Multiscale spatial architecture of lymphoid aggregates  The integrated workflow was utilized to characterize the organization of an immature tertiary lymphoid structure (TLS) in tumor 1, leveraging the complementary sensitivity of both platforms. IMC technology provided high-fidelity segmentation of immune cell lineages via surface markers (CD20, CD4, and CD8), whereas Xenium enabled spatial mapping of markers for which reliable antibodies are unavailable. Integration revealed the expression of chemokines involved in lymphocyte recruitment, such as  CXCL9 ,  CXCL10 ,  CXCL13 ,  CCL19 , and  CCL21  ( 26 – 29 ) which were localized specifically to the periphery of CD20-positive B-cell aggregates ( Fig. 5A–A″ ; Supplementary Fig. S4).   Figure 5.   Multi-omic characterization of immune cell subsets within a lymphoid aggregate.  A,  IMC image showing the structural organization of lymphoid cells in the immature TLS containing CD20 expressing B cells adjacent to tumor expressing keratin 8/18. Cells within this lymphoid aggregate are also seen to express Ki-67, a proliferation marker.  A′,  Zoomed in inset shows the spatial positioning of B-cell aggregates and subcellular localization of Ki-67 within replicating cells.  A″,  Coregistered transcriptomics and proteomics data reveal the expression of cytokine transcripts  CXCL9 ,  CXCL10 , and  CXCL13  in the vicinity of the immature TLS containing B cells.  B,  IMC image demonstrating the spatial distribution of CD4 T cells, T cytotoxic cells (CD8), and memory T cells (CD45RO) in the immature TLS.  B′,  Complex cellular organization of T and B cells can be detected across the entire lymphoid structure.  B″,  Coregistered transcriptomics and proteomics data highlight the expression of  GZMK  transcript on cytotoxic T cells. Expression of transcripts for checkpoint molecules  LAG3  and  TIGIT  is detected on cytotoxic T cells and other cells in this ROI.  C,  IMC image showing the localized distribution of CD4 T cells in the developing TLS and its spatial relationship with the adjacent metastatic TME.  C′,  IMC image showing the localization of Tregs expressing nuclear transcription factor FoxP3.  C″,  Coregistered transcriptomics and proteomics data show expression of corresponding transcripts for  FOXP3  as well as  CTLA4  and  TNFRSF9  on Tregs. Scale bars, 200 μm.                    The visualization of T cell–related protein markers revealed the spatial distribution of key T-cell subtypes adjacent to the B-cell aggregates, within the same ROI, revealing the structure of a TLS in development ( Fig. 5B ). Based on the protein marker expression, we identified CD4 T cells, CD8 T cells, and CD45RO-positive memory T cells aggregating within this lymphoid niche ( Fig. 5B′ ). A further magnified view of this ROI, combining the protein and RNA landscapes of this region, showed a population of CD8 T cells expressing  GZMK , a subset of T cells with elevated proinflammatory characteristics ( Fig. 5B″ ; ref.  30 ). Interestingly, a subset of CD8 T cells in this region also expressed coinhibitory genes  TIGIT  and  LAG3 , highlighting a potential population of lymphocytes transitioning toward an exhausted phenotype ( 31 ,  32 ).  Finally, we focused on the spatial distribution of CD4 T-cell subsets within this ROI, revealing CD4 T-cell aggregates adjacent to the previously identified B-cell clusters and another population of CD4 T cells clustering closer to the epithelial compartments ( Fig. 5C ). FoxP3-positive regulatory T cells (Treg) were present in this region, and high-resolution mapping of protein and transcripts revealed the coexpression of  FOXP3  along with  CTLA4  and  TNFRSF9 , highlighting the Treg population within the TLS-like lymphoid aggregate ( Fig. 5C″ ; ref.  33 ).    Checkpoint immunophenotyping reveals platform-specific detection limits  Finally, we performed comprehensive immunophenotyping of myeloid cells located adjacent to the lymphoid aggregate to investigate the spatial features of immunosuppression. The integration of transcriptomic identity with deep protein profiling allowed for the distinction of myeloid subsets and the characterization of their checkpoint expression profiles. By resolving these markers at cellular resolution, we identified specific myeloid-rich niches that harbor diverse activation states, suggesting that the identified immature TLS may serve as a critical site for localized immunoregulation in CRLM.  IMC analysis of CD68 and immune checkpoint molecule PD-L1 identified the co-localization of these two protein markers adjacent to the previously identified lymphoid aggregate ( Fig. 6A ). A further magnified image from this ROI revealed that these macrophages are a major source of PD-L1 in the TME ( Fig. 6A′ ). An integrated analysis of PD-L1 protein and its transcript ( CD274 ) showed spatial co-localization of the protein and RNA, although  CD274  transcript detection was lower relative to PD-L1 protein detection in this sample ( Fig. 6A″ ).   Figure 6.   Comprehensive checkpoint immunophenotyping of myeloid cells located adjacent to the immature TLS.  A–A′,  IMC image showing the spatial co-localization of macrophages expressing CD68 and expression of checkpoint molecule PD-L1.  B–B′,  IMC image showing the spatial localization of DCs expressing CD11c and expression of checkpoint molecule TIM-3.  C–C′,  IMC image showing the spatial expression patterns of vimentin and IDO. Coregistered transcriptomics and proteomics data demonstrate protein and RNA expression for  A″ , PD-L1/ CD274 , ( B″ ) TIM-3/ HAVCR2 , and ( C″ ) IDO/ IDO1 . The coregistered image was exported from Xenium Explorer v4.1.1, with transcript point size set to 8 for visibility.  D–F,  Heatmap of PD-L1, TIM-3, and IDO protein and transcripts show discrepancies in the level of expression. Scale bars, 200 μm ( A–C ) and 50 μm ( A″–C″ ).                    We also utilized IMC analysis to elucidate the spatial landscape of other myeloid components, such as CD11c-positive dendritic cells (DC;  Fig. 6B ). Further phenotyping of these cells indicated the expression of TIM-3, an immune checkpoint molecule, in a subset of DCs ( Fig. 6B′ ). Checkpoint expression by antigen-presenting cells was further validated by combining spatial proteomic and transcriptomic data, which showed the co-localization of TIM-3 protein and  HAVCR2  transcript, confirming the potential immunoregulatory role of the DCs in this tumor ( Fig. 6B″ ).  Spatial proteomic analysis also identified a localized region with IDO expression, adjacent to the previously identified myeloid compartment, and co-localizing with regions with high vimentin expression ( Fig. 6C–C′ ). IDO, an enzyme involved in tryptophan metabolism, has immunomodulatory functions in the TME and is actively investigated as a druggable target ( 34 ). Investigating the correlation between IDO protein and  IDO1  transcript, we identified high co-localization of its protein and mRNA signals within this stromal–immune niche ( Fig. 6C″ ).  Finally, we performed single-cell level analysis to evaluate the efficiency of signal detection across the proteomic and transcriptomic modalities, generating spatial expression heatmaps for PD-L1 /CD274 , TIM-3/ HAVCR2 , and IDO/ IDO1  ( Fig. 6D–F ). TIM-3 and IDO demonstrated similar spatial expression patterns for both protein and RNA. However, a comparison of the protein and transcript level heatmaps showed fewer cells with detectable transcripts than those expressing the corresponding protein, suggesting a reduced efficiency of transcript signal detection. This discrepancy was also pronounced between PD-L1 and  CD274 , where the PD-L1 protein signal was broadly distributed across the majority of cells in the ROI, whereas the corresponding  CD274  transcripts were detected in fewer cells, with the transcript being detected in less than 5% of cells, compared with approximately 50% of cells having above-median protein intensity (Supplementary Table S4). Spearman’s correlation was computed to investigate the relationship between the detected protein and transcript expression at single-cell level between the IMC and Xenium datasets (Supplementary Table S5). A weak positive correlation was observed between transcript and protein for checkpoint molecules including PD-L1/ CD274  (r = 0.1803), TIM-3/ HAVCR2  (r = 0.1699), and IDO/ IDO1  (r = 0.1488) in this ROI from tumor 1 (Supplementary Fig. S5). These findings highlight that a single modality may have limited sensitivity in identifying these clinically relevant cellular states, underscoring the utility of a multimodal approach for detecting functional signals that transcriptomic profiling alone may fail to capture.     Discussion  Our study describes an integrated spatial multi-omics workflow that sequentially combines Xenium  In Situ  spatial transcriptomics with IMC spatial proteomics on the Hyperion XTi Imaging System. We demonstrate that protein epitopes remain intact and reliably detectable even after the extensive cyclical imaging chemistry on the Xenium platform, ensuring high-fidelity proteomic detection with preserved signal intensity. The accuracy of the coregistration workflow was validated by calculating the Jaccard index between cell segmentation masks from the two modalities, and the centroid distance distribution between matched cell pairs, which demonstrated single-cell level correspondence after coregistration. By enabling the acquisition of transcriptomic and proteomic data from the same FFPE section, this workflow facilitates direct cell-resolved integration, reducing ambiguity and strengthening biological inferences regarding cell state and function.  As a proof-of-concept, we applied this multi-omics workflow on FFPE sections from CRLM to spatially characterize the cellular niche and its immune microenvironment at single-cell spatial resolution. The liver is a common site for organotropic metastasis, facilitated by its unique blood supply patterns, fenestrated endothelium, and the liver’s tolerogenic immune microenvironment ( 35 ,  36 ). The success of metastatic colonization is driven by bidirectional cross-talk between infiltrating tumor cells and the complex hepatic microenvironment and through subsequent remodeling of the microenvironment to foster metastatic growth ( 37 – 39 ). Therefore, a thorough characterization of the metastatic niche could delineate the processes underlying metastatic establishment and the localized cellular communications that support metastatic tumor progression. By selecting a tissue with complex architecture and known differences between RNA and protein abundance, we validated the workflow’s ability to resolve subtle cellular phenotypes.  Although performing each modality on serial tissue sections represents a widely used alternative, particularly using thinner sections to minimize the separation between them, significant limitations exist both for accurate computational integration and direct single-cell level multimodal comparisons. Despite being serial sections, the tissue architecture and cellular composition may vary, particularly as sections become further apart ( 40 – 43 ). This variability could be more pronounced for specific populations, such as relatively smaller immune cells, vasculature, or rare cell populations ( 43 ). Furthermore, artefacts such as tissue folding or tearing introduced during tissue sectioning can alter morphology and create small offsets that reduce the accuracy of single-cell matching during integration ( 44 ,  45 ). Therefore, performing multi-omics on the same tissue section, combined with a robust computational coregistration workflow, represents a more reliable approach to ensure that multiple modalities are being measured from the same cells.  Using this approach, we investigated the keratin 8/18–positive epithelial compartment in CRLM tissues, demonstrating that the nuclear enrichment of β-catenin showed transcriptomic signatures of Wnt signaling and a mesenchymal phenotype, a characterization only possible through the integration of spatial proteomics and transcriptomics on the same tissue section ( 20 ). This study also demonstrates that this workflow can reliably phenotype spatially defined local niches such as developing TLSs and illustrates how proteomic integration can compensate for the limited detection sensitivity of some transcriptomic targets such as immune checkpoint molecules. However, the observations presented in this study are drawn from a limited sample size and are intended as a proof of concept for this integrated workflow. Moreover, we acknowledge that any residual segmentation and registration mismatches, particularly for small immune cells, could also potentially contribute to the observed discordance between transcript and protein detection.  We also observed that performing Xenium first is essential, as its nondestructive chemistry preserves tissue morphology for subsequent IMC analysis. Conversely, IMC technology uses laser ablation, which releases the tissue matter from the slide, constituting it as an endpoint assay. Furthermore, although we validated this on liver tissue, applying this workflow to fatty or necrotic tissues may require additional optimization of tissue adhesion methods to prevent detachment during the multistep microfluidic cycles. A limitation of this approach is the potential for tissue damage during and after the Xenium workflow, which we partially mitigated by immediately (within 6 hours) staining for IMC. Protease treatment inherent to the Xenium assay may result in alterations to epitope stability and accessibility in a marker- and tissue-dependent manner. This could lead to variability in signal intensity or an increase in background levels of specific targets. Careful marker selection and appropriate controls, particularly generating IMC standalone data on a serial section, can help troubleshoot marker performance. Moreover, batch variability can be minimized by applying the same gene and protein panels consistently across samples within a study, although residual technical variability should still be accounted for during downstream analysis.  Beyond the biological insights demonstrated in this proof-of-concept study, this integrated same-section multi-omics workflow establishes a framework for clinically relevant applications. As most therapeutic targets are proteins, spatial proteomic profiling may offer superior clinical relevance by directly evaluating protein abundance and functional state. The clinical utility of spatial transcriptomic signatures is also being explored in ongoing clinical trials such as the DEFINERx050 trial (HREC reference number: 2024/ ETH02271 ), which utilizes spatial transcriptomic profiling to identify patients with early-stage hepatocellular carcinoma who will benefit from neoadjuvant immunotherapy prior to resection. Incorporation of spatial proteomic information could further refine pretreatment patient stratification by directly capturing functional protein states that are critical for therapeutic response. Moreover, datasets generated through similar workflows can serve as training data for Artificial Intelligence (AI) models and machine learning algorithms to model correlations between protein expression and corresponding transcript expression levels. AI-assisted integration of spatial multi-omics datasets could also improve the accuracy of cell-type identification and transcript assignment within cellular boundaries.    Supplementary Material   Supplementary Figure S1   Figure S1. Distribution of Jaccard index for cell segmentation overlap across the four ROIs.              Supplementary Figure S2   Figure S2. Expression of protein markers following sequential spatial multi-omic imaging and standard IMC workflow on serial sections.              Supplementary Figure S3   Figure S3. Beta-catenin expression patterns in the different cell compartments across the three ROIs.              Supplementary Figure S4   Figure S4. Multimodal characterization of the immature TLS in CRLM.              Supplementary Figure S5   Figure S5. Single-cell protein-transcript correlation for immune checkpoint markers in Tumor 1.              Supplementary Table S1   Table S1              Supplementary Table S2   Table S2              Supplementary Table S3   Table S3. Median single-cell values for the mean pixel intensity of 38 IMC protein markers in IMC-only and post-Xenium IMC serial sections from Tumor 3.              Supplementary Table S4   Table S4. Concordance table showing the percentage of cells with protein and RNA detection in tumor 1.              Supplementary Table S5   Table S5. Spearman's correlation coefficient between the normalized transcript values and mean pixel intensity of the corresponding protein.                 Acknowledgments  A. Sharma is supported by Ideas Grant (GNT2010795), MRFF (MRF2016215), NHMRC CTC (APP2032407), NHMRC-AMED (GNT2043672), CSL fellowship, and catalytic funding from Kinghorn Foundation. M.M. Eapen is supported by UNSW Tuition Fee Scholarship. L. Chhuo is supported by UNSW Research Training Program Scholarship. Standard BioTools products are for research use only, not for use in diagnostic procedures. Patent and License Information:  www.standardbio.com/legal/notices  Trademarks:  www.standardbio.com/legal/trademarks . Any other trademarks are the property of their respective owners. Use of third-party trademarks does not imply endorsement of any Standard BioTools products or services. 2025 Standard BioTools Inc. All rights reserved.     \n Note:  Supplementary data for this article are available at Cancer Research Communications Online ( https://aacrjournals.org/cancerrescommun/ ).     Data Availability The Xenium spatial transcriptomics data generated for this study are available through Gene Expression Omnibus:  GSE335552 . The IMC dataset generated for this article is available at  https://doi.org/10.6084/m9.figshare.32671185 . Any other data generated in this study are available upon request to the corresponding author.  Code Availability The code for the Xenium–IMC computational integration workflow is available at  https://github.com/OncofetalEcosystemLab/xenium-imc-coregistration . ",
+    "confidence_score": 0.84,
+    "xenium_confidence": 0.82,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-09-10T08:08:59.582477Z",
+    "last_checked_at": "2026-10-26T08:56:59.777473Z",
     "source": "europe_pmc"
   },
   {
@@ -6762,122 +6877,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:36.526568Z",
-    "last_checked_at": "2026-10-25T08:26:43.789526Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "An Integrated Spatial Multi-Omics Workflow for Sequential RNA and Protein Profiling in FFPE Tumor Tissue.",
-    "doi": "10.1158/2767-9764.crc-26-0182",
-    "pmid": "42568117",
-    "pmcid": "PMC13489674",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2026-08-01",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/42568117",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "validation_dataset",
-    "xenium_reason": "Xenium is explicitly used for validation",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [
-      {
-        "identifier": "GSE335552",
-        "location": "data_availability",
-        "text": "s data generated for this study are available through Gene Expression Omnibus:  GSE335552 . The IMC dataset generated for this article is available at  https://doi.org/1",
-        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
-      },
-      {
-        "identifier": "10.13039/501100000925",
-        "location": "data_availability",
-        "text": "     \n  National Health and Medical Research Council (NHMRC)  http://dx.doi.org/10.13039/501100000925  \n  GNT2010795  APP2032407  \n  Sharma  A.  \n  \n  George  J.  \n    \n  Medical Re",
-        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
-      },
-      {
-        "identifier": "10.13039/501100025520",
-        "location": "data_availability",
-        "text": "  \n  George  J.  \n    \n  Medical Research Future Fund (MRFF)  http://dx.doi.org/10.13039/501100025520  \n  MRF2016215  \n  Sharma  A.  \n  \n  George  J.  \n    \n  CSL Limited (CSL)  htt",
-        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
-      },
-      {
-        "identifier": "10.13039/501100020480",
-        "location": "data_availability",
-        "text": "  \n  Sharma  A.  \n  \n  George  J.  \n    \n  CSL Limited (CSL)  http://dx.doi.org/10.13039/501100020480  \n  CSL Centenary Fellowships  \n  Sharma  A.  \n    \n  National Health and Medic",
-        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
-      },
-      {
-        "identifier": "10.13039/501100000925",
-        "location": "data_availability",
-        "text": "\n    \n  National Health and Medical Research Council (NHMRC)  http://dx.doi.org/10.13039/501100000925  \n  GNT2043672  \n  Sharma  A.  \n    \n  Kinghorn Foundation (The Kinghorn Founda",
-        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
-      },
-      {
-        "identifier": "10.13039/501100022538",
-        "location": "data_availability",
-        "text": "a  A.  \n    \n  Kinghorn Foundation (The Kinghorn Foundation)  http://dx.doi.org/10.13039/501100022538  \n  Catalytic funding    \n  University of New South Wales (UNSW)  http://dx.doi",
-        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
-      },
-      {
-        "identifier": "10.13039/501100001773",
-        "location": "data_availability",
-        "text": "Catalytic funding    \n  University of New South Wales (UNSW)  http://dx.doi.org/10.13039/501100001773  \n  TFS (MME) and RTP (LC)  \n  Eapen  M.M.  \n  \n  Chhuo  L.  \n         pmc-stat",
-        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
-      },
-      {
-        "identifier": "10.6084/m9.figshare.32671185",
-        "location": "data_availability",
-        "text": "2 . The IMC dataset generated for this article is available at  https://doi.org/10.6084/m9.figshare.32671185 . Any other data generated in this study are available upon request to the corr",
-        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13489674/fullTextXML"
-      }
-    ],
-    "evidence_text": "An Integrated Spatial Multi-Omics Workflow for Sequential RNA and Protein Profiling in FFPE Tumor Tissue. Understanding complex cellular niches, such as tertiary lymphoid structures, requires spatially resolved, multi-omics approaches that link transcriptional states and protein expression levels within individual cells. Here, we present an integrated spatial multi-omics workflow that enables sequential mapping of hundreds of genes via the Xenium In Situ platform and more than 40 protein markers via imaging mass cytometry technology on a single formalin-fixed, paraffin-embedded (FFPE) tissue section. We applied this multi-modal approach to colorectal liver metastases and matched adjacent normal liver tissues. Our results demonstrate that the sequential application of these technologies maintains tissue morphology and the assay's technical sensitivity. Furthermore, high-dimensional data integration was performed through optimized computational coregistration at a single-cell level. Through this approach, we observed a correlation between β-catenin proteomic levels and malignant cell states, characterized immune cell phenotypes in lymphoid aggregates, and identified discrepancies between RNA and protein levels for key checkpoint molecules (PD-L1, TIM-3, and IDO). Overall, this technical framework enables robust profiling of functional cellular states, spatial mapping of chemokine expression, and more sensitive detection of clinically relevant targets missing in single-modality methods.<h4>Significance</h4>We present an integrated spatial multi-omics workflow that enables direct comparison of transcript and protein levels within a single FFPE section. This enables detailed profiling of the cellular microenvironment, along with relevant protein biomarkers, for clinical decision-making. Significance:  We present an integrated spatial multi-omics workflow that enables direct comparison of transcript and protein levels within a single FFPE section. This enables detailed profiling of the cellular microenvironment, along with relevant protein biomarkers, for clinical decision-making.      \n  National Health and Medical Research Council (NHMRC)  http://dx.doi.org/10.13039/501100000925  \n  GNT2010795  APP2032407  \n  Sharma  A.  \n  \n  George  J.  \n    \n  Medical Research Future Fund (MRFF)  http://dx.doi.org/10.13039/501100025520  \n  MRF2016215  \n  Sharma  A.  \n  \n  George  J.  \n    \n  CSL Limited (CSL)  http://dx.doi.org/10.13039/501100020480  \n  CSL Centenary Fellowships  \n  Sharma  A.  \n    \n  National Health and Medical Research Council (NHMRC)  http://dx.doi.org/10.13039/501100000925  \n  GNT2043672  \n  Sharma  A.  \n    \n  Kinghorn Foundation (The Kinghorn Foundation)  http://dx.doi.org/10.13039/501100022538  \n  Catalytic funding    \n  University of New South Wales (UNSW)  http://dx.doi.org/10.13039/501100001773  \n  TFS (MME) and RTP (LC)  \n  Eapen  M.M.  \n  \n  Chhuo  L.  \n         pmc-status-qastatus  0    pmc-status-live  yes    pmc-status-embargo  no    pmc-status-released  yes    pmc-prop-open-access  yes    pmc-prop-olf  no    pmc-prop-manuscript  no    pmc-prop-legally-suppressed  no    pmc-prop-has-pdf  yes    pmc-prop-has-supplement  yes    pmc-prop-pdf-only  no    pmc-prop-suppress-copyright  no    pmc-prop-is-real-version  no    pmc-prop-is-scanned-article  no    pmc-prop-preprint  no    pmc-prop-in-epmc  yes    pmc-license-ref  CC BY    crossmark  true        Introduction  Recent advances in spatial technologies have transformed the mapping of molecular organization in diseases, offering unprecedented insights into cellular architecture and spatially organized communication patterns within native tissue structures ( 1 – 4 ). Over the past decade, spatial transcriptomics has been increasingly adopted in cancer research to profile spatially resolved gene expression patterns associated with tumor initiation, progression, metastasis, and therapeutic response ( 5 – 9 ). However, the functional state of a cell is more accurately resolved at the proteomic level, as proteins define cellular identity and are directly involved in cellular interactions ( 10 ). As a result, spatial proteomics has also been widely applied across multiple cancer types, leveraging its multiplex profiling capabilities to improve the characterization of cellular phenotypes and activity ( 11 ). Collectively, these spatial transcriptomic and proteomic approaches provide the technical capabilities needed to profile complex tissue systems such as the tumor microenvironment (TME).  The tumor and its microenvironment constitute complex molecular and functional landscapes, comprising malignant epithelial cells, stromal elements, diverse immune cell subsets, and the extracellular matrix. Spatially resolved profiling of cellular states, molecular programs, and signaling pathways in cancer is becoming increasingly essential, as recent evidence underscores the prognostic and therapeutic significance of spatially defined cellular neighborhoods and the overall spatial organization of tumor tissues ( 12 – 15 ). Capturing the full biological diversity of tumor ecosystems requires more than a single modality; it demands the integration of high-plex spatial transcriptomics and proteomics to concurrently resolve transcriptional signatures and functional protein network programs ( 16 ).  Transcript-level mapping via platforms like Xenium  In Situ  provides the “blueprint” of cellular identity, whereas spatial proteomic technologies such as imaging mass cytometry (IMC) provide functional validation ( 17 – 19 ). The latter is particularly vital for detecting activation states, such as the nuclear translocation of β-catenin, which cannot be reflected solely by transcript abundance ( 20 ). Although the latest transcriptomics technologies enable RNA profiling at exceptional resolutions, mRNA abundance does not consistently correlate with protein expression ( 21 ). In contrast, spatial proteomics can directly capture functionally active molecules, but achieving reliable high multiplexing remains a significant technical limitation in clinically standard formalin-fixed, paraffin-embedded (FFPE) tissues. Despite the complementary strengths of these platforms, a major limitation to their integrated application is the technical challenge of preserving tissue integrity and antigenicity during sequential processing, as well as the lack of accurate multi-modal coregistration methods for a single tissue section. Thus, there is a clear need for optimized, integrated spatial multimodal workflows that enable precise single-cell coregistration of transcriptomic and proteomic data without compromising data quality.  In this study, we implement a cross-modality spatial workflow that achieves high-fidelity coregistration of high-plex Xenium  In Situ  (hundreds of RNA targets) and IMC data (40+ protein markers) on single FFPE sections of colorectal liver metastases (CRLM). By utilizing cross-platform DNA/nuclei identification for precise data coregistration, we directly examined the relationship between RNA and protein expression of individual cells within the complex neighborhoods of the metastatic microenvironment, a considerable advancement beyond inferring alignment of cell populations between spatial omics platforms. This approach reveals distinct transcript and protein expression patterns in signaling pathways, such as Wnt, and also enables a multi-scale characterization of lymphoid aggregates that would be missed by single-modality analysis.    Materials and Methods   Xenium  In Situ  spatial transcriptomics  CRLM from three patients and matched adjacent normal liver tissue from one patient were included for the Xenium  In Situ  and IMC workflows. All samples were obtained from the Westmead Institute for Medical Research as FFPE blocks (University of New South Wales Human Research Ethics and Compliances, Ethics ID: iRECS6671). The tissue was sectioned at 5 μm thickness and mounted on the designated sample area of the Xenium slide, followed by deparaffinization, rehydration, and decrosslinking of the tissue sections. Probe hybridization was carried out overnight at 50°C either using a 462-gene (tumor 1, tumor 2, and adjacent normal) or a 319-gene (tumor 3) Xenium standalone custom panel (Supplementary Table S1), followed by post-hybridization wash, ligation, and rolling circle amplification. Cell segmentation staining was performed using Xenium Multi-Tissue Stain Mix, followed by autofluorescence quenching and nuclei staining. The Xenium slide was subsequently loaded onto the Xenium Analyzer along with the required buffers and decoding reagents (RRID: SCR_023910).    Hyperion XTi Imaging System spatial proteomics  Prior to staining, tissue sections stored in PBS-T for less than 24 hours underwent heat-induced antigen retrieval using 1× AR9 Buffer (pH 9, Akoya Biosciences) in a pressure cooker at 96°C for 30 minutes. Following retrieval, sections were blocked with 3% BSA for 45 minutes at room temperature. For this experiment, a custom 43-marker panel was utilized (38 protein markers, 3 cell segmentation protein markers, and 2 DNA markers; 43-marker panel 1 for tumor 3; 43-marker panel 2 for tumor 1, tumor 2, and adjacent normal liver), with each marker individually validated via IHC and titrated to ensure an optimal signal-to-noise ratio (Supplementary Table S1). The slides were stained with an antibody cocktail diluted in 3% BSA and incubated overnight at 4°C.  The following day, slides were washed in PBS and subjected to nuclei staining using an Ir-intercalator for 30 minutes at room temperature. After a Milli-Q wash, slides were dried and stored at 4°C. Image acquisition was performed using the Standard BioTools Hyperion XTi Imaging System (RRID: SCR_023195). Low-resolution scans of whole slides were acquired using preview mode (1 μm/pixel resolution with 25 μm spacing), and representative 4-mm 2  regions of interest (ROI) were selected based on spatial expression patterns of all markers in the panel. Selected ROIs were laser-ablated spot-by-spot in cell mode (1 μm/pixel resolution) at 800 Hz, with metal-conjugated antibodies detected via the Hyperion XTi Imaging System. Where multiple ROIs were acquired for a sample, the ROIs used in this study are provided in Supplementary Table S2. Initial data visualization was conducted using MCD Viewer v1.0.560.6.    Data analysis  The data generated as IMC data acquisition (MCD files) were converted into OME.ZARR format using MCD SmartViewer v1.1 (Standard BioTools).  Cell segmentation and phenotyping were performed on IMC data using QuPath (v0.6; RRID: SCR_018257). Cell segmentation masks were generated using the InstanSeg extension, a deep learning–based cell segmentation method. Segmentation was performed using the DNA and IMC Cell Segmentation Kit channels, which include nuclear and membrane markers to facilitate accurate delineation of whole-cell boundaries. Following segmentation, per-cell intensity measurements (mean, median, standard deviation, minimum, and maximum) were extracted for each metal-tagged antibody channel. Cell phenotyping was performed in QuPath using the object classifier framework, in which segmented cells were assigned to phenotypic classes using a supervised classification approach based on single-cell mean marker expression features derived from the per-cell measurements. Classifier training was guided by annotated cells and marker expression patterns, with classification rules refined through inspection of feature distributions and visual validation within the images.  The coregistration of the protein and transcriptomic datasets was performed using the nuclei/DNA staining obtained from both platforms. Here, 4′,6-diamidino-2-phenylindole (DAPI)-stained images from Xenium and DNA staining from IMC workflows are individually transformed to normalize their intensities. The images were then downsampled, and using a brute-force search over a range of rotation angles, the optimal translation was determined using normalized cross-correlation, accelerated by graphics processing unit-based convolution. The resulting coarse parameters were then refined at a higher resolution to ensure subpixel accuracy. Finally, the transformation parameters were rescaled to the original image dimensions, yielding a final 3 × 3 affine transformation matrix that maps Xenium spatial coordinates to the corresponding IMC coordinate system. The pipeline also provides a comma-separated values output with the protein and transcript information for each cell, along with its coordinates, which was used to generate heatmaps to plot individual transcript and protein expression levels.  To quantify the accuracy of single-cell coregistration, Xenium centroids and boundary vertices were converted to IMC pixel units by dividing by the scale factor (0.2125 μm/px) and projected into IMC image space using the inverse of the rigid registration transformation matrix. The transformed boundary polygons were rasterized into a label mask. Matched IMC and Xenium cell pairs were identified by nearest-neighbor centroid matching, and segmentation concordance was assessed using the Jaccard index computed from the binary cell masks of each matched pair.     Results   Single-section integrated spatial transcriptomic and proteomic workflow  To address the limitations of cross-modality inference from adjacent tissue sections, a workflow was developed for sequential Xenium  In Situ  transcriptomics and IMC technology on a single FFPE tissue section ( Fig. 1A ). A custom Xenium transcript panel was used to capture key immune, stromal, and signaling pathways, followed by a 43-marker immuno-oncology protein panel ( Fig. 1B ; Supplementary Table S1). Importantly, microfluidic cycling and chemical stripping required for Xenium did not compromise tissue morphology or protein antigenicity. This sequential approach enabled the generation of single-slide multi-omics transcript and protein data. Integration of these modalities was achieved using the custom computational coregistration framework (“Materials and Methods”), which utilizes DAPI-based affine transformation to achieve subcellular correspondence across modalities ( Fig. 1C ).   Figure 1.   Overview of the integrated spatial multi-omics imaging workflow, panels designed across transcript and protein modalities, and the data analysis workflow.  A,  Overview of the experimental data generation workflow. FFPE sections from resected tumor specimens were mounted onto Xenium  In Situ  slides and processed using the 10x Genomics Xenium  In Situ  hybridization workflow, followed by transcript detection on the Xenium Analyzer. Upon completion of the transcriptomic imaging, the tissue sections underwent antigen retrieval and IMC antibody staining followed by protein codetection with the Hyperion XTi system.  B,  A subset of the key marker genes and signaling pathways included in the 462-gene Xenium custom panel is shown aligned with the protein markers used for the IMC antibody panel and targeted cell types. The full list of the targets in the transcript panel and the IMC protein panel are provided in Supplementary Table S1.  C,  Overview of the data analysis approaches as cross-platform DNA identification (DAPI and Cell-ID) enables data coregistration, joint transcript and protein visualization, and quantitative data analysis.                    To evaluate the accuracy of our computational coregistration workflow, we investigated the cell-level correspondence by calculating the centroid distance distributions between matched cells across the Xenium and IMC segmentation masks. The median values for the centroid distance of matched cells ranged from 1.49 to 2.24 μm across the four ROIs, which demonstrated single-cell level registration accuracy following our coregistration pipeline ( Fig. 2A–D ). To further quantify the agreement of cell segmentation across the Xenium and IMC masks, we calculated the distribution of Jaccard indices across matched cells from the two modalities. The median values of the Jaccard index ranged from 0.479 to 0.584, confirming sufficient overlap between independent segmentations performed in each modality (Supplementary Fig. S1).   Figure 2.   Validation of the single-cell level spatial coregistration workflow. The IMC segmentation mask (left column), Xenium segmentation mask (center-left column), coregistered mask (center-right column; red: IMC alone, green: Xenium alone; yellow: overlap), and the centroid distance distribution of matched Xenium–IMC cell pairs for the ROIs from tumor 1 ( A ), tumor 2 ( B ), tumor 3 ( C ), and adjacent normal liver ( D ). The orange dashed line indicates the median value of the centroid distribution, the red and green dashed lines represent the 5 and 10 μm thresholds, respectively, with the percentage of matched cell pairs within the given threshold indicated.                    To evaluate whether the Xenium workflow affects protein signal detection, we compared post-Xenium IMC and standalone IMC on serial FFPE tissue sections from tumor 3. Using QuPath v0.6, cells were classified as marker-positive and marker-negative populations, and their mean protein expression was compared across post-Xenium IMC and standalone IMC experiments. This revealed that the ability to distinguish cells expressing key protein markers was fully preserved even after the Xenium  In Situ  experiment ( Fig. 3 ; Supplementary Fig. S2). To evaluate overall signal preservation across the complete IMC panel, the detected median protein intensity was compared between the standalone IMC and post-Xenium IMC experiments, revealing that most markers showed well-preserved signal detection, although, as expected, some markers showed a degree of signal reduction after the multi-omics workflow (Supplementary Table S3). Despite being serial sections, the variability in signal intensity observed for some markers may reflect the effects of the Xenium workflow, the section-to-section differences in cell type composition, and minor differences in the tissue region included in the acquired ROI. Nevertheless, the overall preservation of signal intensity ratios, along with the ability to distinguish between marker-positive and marker-negative populations, shows the robustness of this integrated multi-omics spatial workflow.   Figure 3.   Application of sequential spatial multi-omics imaging and standard IMC workflow on serial sections of CRLM. Top, expression of key protein markers keratin 8/18 ( A ), α-SMA ( B ), CD45 ( C ), and vimentin ( D ) on serial tissue sections on an ROI from tumor 3. Bottom, classification of segmented cells based on the expression pattern of the selected protein markers, generated using QuPath.  E,  Quantitative assessment of the mean expression of the protein markers in the multi-omics and single-modality IMC workflow, depicting that sufficient protein signal intensity is maintained in the multi-omics workflow to distinguish between marker-positive and marker-negative cell populations.                      Integrated profiling enables β-catenin–driven phenotyping of epithelial cells  A key advantage of single-slide multi-omics is the capacity to resolve discrepancies between mRNA abundance and functional protein levels. The coregistration workflow was applied to evaluate functional Wnt signaling activation via β-catenin expression in CRLM tissues. Three distinct expression archetypes were identified: (i) tumor-associated regions with high  CTNNB1  transcript and concordant β-catenin protein expression ( Fig. 4A ), (ii) tumor regions with comparatively low protein enrichment and lower expression of the corresponding transcript ( Fig. 4B ), and (iii) vessel-associated regions exhibiting minimal expression ( Fig. 4C ).   Figure 4.   β-Catenin transcript and protein expression patterns identify Wnt signaling signatures in tumor cells.  A–C,  Representative coregistered Xenium and IMC images of two tumor samples and an adjacent normal liver tissue.  A,  Tumor sample containing a tertiary lymphoid structure adjacent to tumor cells expressing keratin 8/18 and demonstrating nuclear and cytoplasmic localization of β-catenin protein and expression of  CTNNB1  transcript.  B,  Tumor sample with epithelial-like tumor cells expressing intermediate levels of keratin 8/18 with cytoplasmic and nuclear β-catenin protein expression and lower expression of  CTNNB1  transcript.  C,  Tumor-adjacent normal liver tissue with minimal expression of β-catenin protein and  CTNNB1  transcript. The β-catenin protein and  CTNNB1  transcript heatmaps were generated using CytoMap.  D,  Heatmaps showing the raw transcript counts of epithelial markers ( EPCAM  and  CDH1 ), stemness-associated genes ( SOX9  and  LGR5 ), and EMT-associated gene  SNAI2  in tumors 1 and 2, revealing signatures associated with EMT in tumor 1. The gene expression heatmaps for epithelial markers, stemness markers, and  SNAI2  were generated using  ImageFeaturePlot  function from Seurat (v5.3.0; ref.  46 ). Scale bars, 200 μm.                    To quantitatively characterize subcellular β-catenin localization, nuclear and cytoplasmic masks were generated using the InstanSeg algorithm. Quantitative analysis confirmed that tumor 1 had higher absolute nuclear β-catenin intensity in keratin 8/18–positive cells (median 5.11 vs. 3.56 mean pixel intensity units, Supplementary Fig. S3A), alongside higher  CTNNB1  transcript detection. However, the nuclear-to-cytoplasmic ratio of β-catenin was comparable across the two tumor samples, with a median of 1.08 versus 1 (Supplementary Fig. S3B). To investigate the downstream effects of β-catenin nuclear accumulation, expression of epithelial ( EPCAM  and  CDH1 ) and stemness ( SOX9  and  LGR5 ) markers was evaluated within the same single cells ( Fig. 4D ; refs.  22 ,  23 ). Interestingly, both epithelial markers were reduced in tumor 1, suggesting that in this ROI, a higher nuclear β-catenin intensity may be driving an epithelial-to-mesenchymal transition (EMT; ref.  20 ). To further validate this EMT phenotype,  SNAI2  expression was mapped and found to be elevated within the integrated ROI of tumor 1.  SNAI2  encodes SNAIL2/SLUG, a transcription factor that induces EMT ( 23 – 25 ). Collectively, these findings demonstrate the workflow’s capacity to link functional protein states, alongside their downstream transcriptional consequences, including EMT gene signatures,  in situ .    Multiscale spatial architecture of lymphoid aggregates  The integrated workflow was utilized to characterize the organization of an immature tertiary lymphoid structure (TLS) in tumor 1, leveraging the complementary sensitivity of both platforms. IMC technology provided high-fidelity segmentation of immune cell lineages via surface markers (CD20, CD4, and CD8), whereas Xenium enabled spatial mapping of markers for which reliable antibodies are unavailable. Integration revealed the expression of chemokines involved in lymphocyte recruitment, such as  CXCL9 ,  CXCL10 ,  CXCL13 ,  CCL19 , and  CCL21  ( 26 – 29 ) which were localized specifically to the periphery of CD20-positive B-cell aggregates ( Fig. 5A–A″ ; Supplementary Fig. S4).   Figure 5.   Multi-omic characterization of immune cell subsets within a lymphoid aggregate.  A,  IMC image showing the structural organization of lymphoid cells in the immature TLS containing CD20 expressing B cells adjacent to tumor expressing keratin 8/18. Cells within this lymphoid aggregate are also seen to express Ki-67, a proliferation marker.  A′,  Zoomed in inset shows the spatial positioning of B-cell aggregates and subcellular localization of Ki-67 within replicating cells.  A″,  Coregistered transcriptomics and proteomics data reveal the expression of cytokine transcripts  CXCL9 ,  CXCL10 , and  CXCL13  in the vicinity of the immature TLS containing B cells.  B,  IMC image demonstrating the spatial distribution of CD4 T cells, T cytotoxic cells (CD8), and memory T cells (CD45RO) in the immature TLS.  B′,  Complex cellular organization of T and B cells can be detected across the entire lymphoid structure.  B″,  Coregistered transcriptomics and proteomics data highlight the expression of  GZMK  transcript on cytotoxic T cells. Expression of transcripts for checkpoint molecules  LAG3  and  TIGIT  is detected on cytotoxic T cells and other cells in this ROI.  C,  IMC image showing the localized distribution of CD4 T cells in the developing TLS and its spatial relationship with the adjacent metastatic TME.  C′,  IMC image showing the localization of Tregs expressing nuclear transcription factor FoxP3.  C″,  Coregistered transcriptomics and proteomics data show expression of corresponding transcripts for  FOXP3  as well as  CTLA4  and  TNFRSF9  on Tregs. Scale bars, 200 μm.                    The visualization of T cell–related protein markers revealed the spatial distribution of key T-cell subtypes adjacent to the B-cell aggregates, within the same ROI, revealing the structure of a TLS in development ( Fig. 5B ). Based on the protein marker expression, we identified CD4 T cells, CD8 T cells, and CD45RO-positive memory T cells aggregating within this lymphoid niche ( Fig. 5B′ ). A further magnified view of this ROI, combining the protein and RNA landscapes of this region, showed a population of CD8 T cells expressing  GZMK , a subset of T cells with elevated proinflammatory characteristics ( Fig. 5B″ ; ref.  30 ). Interestingly, a subset of CD8 T cells in this region also expressed coinhibitory genes  TIGIT  and  LAG3 , highlighting a potential population of lymphocytes transitioning toward an exhausted phenotype ( 31 ,  32 ).  Finally, we focused on the spatial distribution of CD4 T-cell subsets within this ROI, revealing CD4 T-cell aggregates adjacent to the previously identified B-cell clusters and another population of CD4 T cells clustering closer to the epithelial compartments ( Fig. 5C ). FoxP3-positive regulatory T cells (Treg) were present in this region, and high-resolution mapping of protein and transcripts revealed the coexpression of  FOXP3  along with  CTLA4  and  TNFRSF9 , highlighting the Treg population within the TLS-like lymphoid aggregate ( Fig. 5C″ ; ref.  33 ).    Checkpoint immunophenotyping reveals platform-specific detection limits  Finally, we performed comprehensive immunophenotyping of myeloid cells located adjacent to the lymphoid aggregate to investigate the spatial features of immunosuppression. The integration of transcriptomic identity with deep protein profiling allowed for the distinction of myeloid subsets and the characterization of their checkpoint expression profiles. By resolving these markers at cellular resolution, we identified specific myeloid-rich niches that harbor diverse activation states, suggesting that the identified immature TLS may serve as a critical site for localized immunoregulation in CRLM.  IMC analysis of CD68 and immune checkpoint molecule PD-L1 identified the co-localization of these two protein markers adjacent to the previously identified lymphoid aggregate ( Fig. 6A ). A further magnified image from this ROI revealed that these macrophages are a major source of PD-L1 in the TME ( Fig. 6A′ ). An integrated analysis of PD-L1 protein and its transcript ( CD274 ) showed spatial co-localization of the protein and RNA, although  CD274  transcript detection was lower relative to PD-L1 protein detection in this sample ( Fig. 6A″ ).   Figure 6.   Comprehensive checkpoint immunophenotyping of myeloid cells located adjacent to the immature TLS.  A–A′,  IMC image showing the spatial co-localization of macrophages expressing CD68 and expression of checkpoint molecule PD-L1.  B–B′,  IMC image showing the spatial localization of DCs expressing CD11c and expression of checkpoint molecule TIM-3.  C–C′,  IMC image showing the spatial expression patterns of vimentin and IDO. Coregistered transcriptomics and proteomics data demonstrate protein and RNA expression for  A″ , PD-L1/ CD274 , ( B″ ) TIM-3/ HAVCR2 , and ( C″ ) IDO/ IDO1 . The coregistered image was exported from Xenium Explorer v4.1.1, with transcript point size set to 8 for visibility.  D–F,  Heatmap of PD-L1, TIM-3, and IDO protein and transcripts show discrepancies in the level of expression. Scale bars, 200 μm ( A–C ) and 50 μm ( A″–C″ ).                    We also utilized IMC analysis to elucidate the spatial landscape of other myeloid components, such as CD11c-positive dendritic cells (DC;  Fig. 6B ). Further phenotyping of these cells indicated the expression of TIM-3, an immune checkpoint molecule, in a subset of DCs ( Fig. 6B′ ). Checkpoint expression by antigen-presenting cells was further validated by combining spatial proteomic and transcriptomic data, which showed the co-localization of TIM-3 protein and  HAVCR2  transcript, confirming the potential immunoregulatory role of the DCs in this tumor ( Fig. 6B″ ).  Spatial proteomic analysis also identified a localized region with IDO expression, adjacent to the previously identified myeloid compartment, and co-localizing with regions with high vimentin expression ( Fig. 6C–C′ ). IDO, an enzyme involved in tryptophan metabolism, has immunomodulatory functions in the TME and is actively investigated as a druggable target ( 34 ). Investigating the correlation between IDO protein and  IDO1  transcript, we identified high co-localization of its protein and mRNA signals within this stromal–immune niche ( Fig. 6C″ ).  Finally, we performed single-cell level analysis to evaluate the efficiency of signal detection across the proteomic and transcriptomic modalities, generating spatial expression heatmaps for PD-L1 /CD274 , TIM-3/ HAVCR2 , and IDO/ IDO1  ( Fig. 6D–F ). TIM-3 and IDO demonstrated similar spatial expression patterns for both protein and RNA. However, a comparison of the protein and transcript level heatmaps showed fewer cells with detectable transcripts than those expressing the corresponding protein, suggesting a reduced efficiency of transcript signal detection. This discrepancy was also pronounced between PD-L1 and  CD274 , where the PD-L1 protein signal was broadly distributed across the majority of cells in the ROI, whereas the corresponding  CD274  transcripts were detected in fewer cells, with the transcript being detected in less than 5% of cells, compared with approximately 50% of cells having above-median protein intensity (Supplementary Table S4). Spearman’s correlation was computed to investigate the relationship between the detected protein and transcript expression at single-cell level between the IMC and Xenium datasets (Supplementary Table S5). A weak positive correlation was observed between transcript and protein for checkpoint molecules including PD-L1/ CD274  (r = 0.1803), TIM-3/ HAVCR2  (r = 0.1699), and IDO/ IDO1  (r = 0.1488) in this ROI from tumor 1 (Supplementary Fig. S5). These findings highlight that a single modality may have limited sensitivity in identifying these clinically relevant cellular states, underscoring the utility of a multimodal approach for detecting functional signals that transcriptomic profiling alone may fail to capture.     Discussion  Our study describes an integrated spatial multi-omics workflow that sequentially combines Xenium  In Situ  spatial transcriptomics with IMC spatial proteomics on the Hyperion XTi Imaging System. We demonstrate that protein epitopes remain intact and reliably detectable even after the extensive cyclical imaging chemistry on the Xenium platform, ensuring high-fidelity proteomic detection with preserved signal intensity. The accuracy of the coregistration workflow was validated by calculating the Jaccard index between cell segmentation masks from the two modalities, and the centroid distance distribution between matched cell pairs, which demonstrated single-cell level correspondence after coregistration. By enabling the acquisition of transcriptomic and proteomic data from the same FFPE section, this workflow facilitates direct cell-resolved integration, reducing ambiguity and strengthening biological inferences regarding cell state and function.  As a proof-of-concept, we applied this multi-omics workflow on FFPE sections from CRLM to spatially characterize the cellular niche and its immune microenvironment at single-cell spatial resolution. The liver is a common site for organotropic metastasis, facilitated by its unique blood supply patterns, fenestrated endothelium, and the liver’s tolerogenic immune microenvironment ( 35 ,  36 ). The success of metastatic colonization is driven by bidirectional cross-talk between infiltrating tumor cells and the complex hepatic microenvironment and through subsequent remodeling of the microenvironment to foster metastatic growth ( 37 – 39 ). Therefore, a thorough characterization of the metastatic niche could delineate the processes underlying metastatic establishment and the localized cellular communications that support metastatic tumor progression. By selecting a tissue with complex architecture and known differences between RNA and protein abundance, we validated the workflow’s ability to resolve subtle cellular phenotypes.  Although performing each modality on serial tissue sections represents a widely used alternative, particularly using thinner sections to minimize the separation between them, significant limitations exist both for accurate computational integration and direct single-cell level multimodal comparisons. Despite being serial sections, the tissue architecture and cellular composition may vary, particularly as sections become further apart ( 40 – 43 ). This variability could be more pronounced for specific populations, such as relatively smaller immune cells, vasculature, or rare cell populations ( 43 ). Furthermore, artefacts such as tissue folding or tearing introduced during tissue sectioning can alter morphology and create small offsets that reduce the accuracy of single-cell matching during integration ( 44 ,  45 ). Therefore, performing multi-omics on the same tissue section, combined with a robust computational coregistration workflow, represents a more reliable approach to ensure that multiple modalities are being measured from the same cells.  Using this approach, we investigated the keratin 8/18–positive epithelial compartment in CRLM tissues, demonstrating that the nuclear enrichment of β-catenin showed transcriptomic signatures of Wnt signaling and a mesenchymal phenotype, a characterization only possible through the integration of spatial proteomics and transcriptomics on the same tissue section ( 20 ). This study also demonstrates that this workflow can reliably phenotype spatially defined local niches such as developing TLSs and illustrates how proteomic integration can compensate for the limited detection sensitivity of some transcriptomic targets such as immune checkpoint molecules. However, the observations presented in this study are drawn from a limited sample size and are intended as a proof of concept for this integrated workflow. Moreover, we acknowledge that any residual segmentation and registration mismatches, particularly for small immune cells, could also potentially contribute to the observed discordance between transcript and protein detection.  We also observed that performing Xenium first is essential, as its nondestructive chemistry preserves tissue morphology for subsequent IMC analysis. Conversely, IMC technology uses laser ablation, which releases the tissue matter from the slide, constituting it as an endpoint assay. Furthermore, although we validated this on liver tissue, applying this workflow to fatty or necrotic tissues may require additional optimization of tissue adhesion methods to prevent detachment during the multistep microfluidic cycles. A limitation of this approach is the potential for tissue damage during and after the Xenium workflow, which we partially mitigated by immediately (within 6 hours) staining for IMC. Protease treatment inherent to the Xenium assay may result in alterations to epitope stability and accessibility in a marker- and tissue-dependent manner. This could lead to variability in signal intensity or an increase in background levels of specific targets. Careful marker selection and appropriate controls, particularly generating IMC standalone data on a serial section, can help troubleshoot marker performance. Moreover, batch variability can be minimized by applying the same gene and protein panels consistently across samples within a study, although residual technical variability should still be accounted for during downstream analysis.  Beyond the biological insights demonstrated in this proof-of-concept study, this integrated same-section multi-omics workflow establishes a framework for clinically relevant applications. As most therapeutic targets are proteins, spatial proteomic profiling may offer superior clinical relevance by directly evaluating protein abundance and functional state. The clinical utility of spatial transcriptomic signatures is also being explored in ongoing clinical trials such as the DEFINERx050 trial (HREC reference number: 2024/ ETH02271 ), which utilizes spatial transcriptomic profiling to identify patients with early-stage hepatocellular carcinoma who will benefit from neoadjuvant immunotherapy prior to resection. Incorporation of spatial proteomic information could further refine pretreatment patient stratification by directly capturing functional protein states that are critical for therapeutic response. Moreover, datasets generated through similar workflows can serve as training data for Artificial Intelligence (AI) models and machine learning algorithms to model correlations between protein expression and corresponding transcript expression levels. AI-assisted integration of spatial multi-omics datasets could also improve the accuracy of cell-type identification and transcript assignment within cellular boundaries.    Supplementary Material   Supplementary Figure S1   Figure S1. Distribution of Jaccard index for cell segmentation overlap across the four ROIs.              Supplementary Figure S2   Figure S2. Expression of protein markers following sequential spatial multi-omic imaging and standard IMC workflow on serial sections.              Supplementary Figure S3   Figure S3. Beta-catenin expression patterns in the different cell compartments across the three ROIs.              Supplementary Figure S4   Figure S4. Multimodal characterization of the immature TLS in CRLM.              Supplementary Figure S5   Figure S5. Single-cell protein-transcript correlation for immune checkpoint markers in Tumor 1.              Supplementary Table S1   Table S1              Supplementary Table S2   Table S2              Supplementary Table S3   Table S3. Median single-cell values for the mean pixel intensity of 38 IMC protein markers in IMC-only and post-Xenium IMC serial sections from Tumor 3.              Supplementary Table S4   Table S4. Concordance table showing the percentage of cells with protein and RNA detection in tumor 1.              Supplementary Table S5   Table S5. Spearman's correlation coefficient between the normalized transcript values and mean pixel intensity of the corresponding protein.                 Acknowledgments  A. Sharma is supported by Ideas Grant (GNT2010795), MRFF (MRF2016215), NHMRC CTC (APP2032407), NHMRC-AMED (GNT2043672), CSL fellowship, and catalytic funding from Kinghorn Foundation. M.M. Eapen is supported by UNSW Tuition Fee Scholarship. L. Chhuo is supported by UNSW Research Training Program Scholarship. Standard BioTools products are for research use only, not for use in diagnostic procedures. Patent and License Information:  www.standardbio.com/legal/notices  Trademarks:  www.standardbio.com/legal/trademarks . Any other trademarks are the property of their respective owners. Use of third-party trademarks does not imply endorsement of any Standard BioTools products or services. 2025 Standard BioTools Inc. All rights reserved.     \n Note:  Supplementary data for this article are available at Cancer Research Communications Online ( https://aacrjournals.org/cancerrescommun/ ).     Data Availability The Xenium spatial transcriptomics data generated for this study are available through Gene Expression Omnibus:  GSE335552 . The IMC dataset generated for this article is available at  https://doi.org/10.6084/m9.figshare.32671185 . Any other data generated in this study are available upon request to the corresponding author.  Code Availability The code for the Xenium–IMC computational integration workflow is available at  https://github.com/OncofetalEcosystemLab/xenium-imc-coregistration . ",
-    "confidence_score": 0.84,
-    "xenium_confidence": 0.82,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-09-10T08:08:59.582477Z",
-    "last_checked_at": "2026-10-25T08:26:43.375156Z",
+    "last_checked_at": "2026-10-26T08:56:58.928093Z",
     "source": "europe_pmc"
   },
   {
@@ -7094,7 +7094,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-09T08:10:06.624860Z",
-    "last_checked_at": "2026-10-25T08:26:24.045693Z",
+    "last_checked_at": "2026-10-26T08:56:47.885281Z",
     "source": "europe_pmc"
   },
   {
@@ -7197,7 +7197,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:35.067313Z",
-    "last_checked_at": "2026-10-25T08:26:23.815371Z",
+    "last_checked_at": "2026-10-26T08:56:47.551070Z",
     "source": "europe_pmc"
   },
   {
@@ -7342,7 +7342,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-11T08:04:27.768780Z",
-    "last_checked_at": "2026-10-25T08:26:23.422424Z",
+    "last_checked_at": "2026-10-26T08:56:46.851224Z",
     "source": "europe_pmc"
   },
   {
@@ -7481,7 +7481,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:14.784026Z",
-    "last_checked_at": "2026-10-25T08:26:21.828059Z",
+    "last_checked_at": "2026-10-26T08:56:45.892770Z",
     "source": "europe_pmc"
   },
   {
@@ -7614,7 +7614,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:56:21.207734Z",
-    "last_checked_at": "2026-10-25T08:26:20.878362Z",
+    "last_checked_at": "2026-10-26T08:56:45.244634Z",
     "source": "europe_pmc"
   },
   {
@@ -7680,7 +7680,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:56.522217Z",
-    "last_checked_at": "2026-10-25T08:26:20.349455Z",
+    "last_checked_at": "2026-10-26T08:56:41.788122Z",
     "source": "europe_pmc"
   },
   {
@@ -8065,7 +8065,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:22.103796Z",
-    "last_checked_at": "2026-10-25T08:26:19.982613Z",
+    "last_checked_at": "2026-10-26T08:56:41.236673Z",
     "source": "europe_pmc"
   },
   {
@@ -8131,7 +8131,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-22T08:37:44.617167Z",
-    "last_checked_at": "2026-10-25T08:26:19.484255Z",
+    "last_checked_at": "2026-10-26T08:56:38.996941Z",
     "source": "europe_pmc"
   },
   {
