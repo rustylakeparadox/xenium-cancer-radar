@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-10-30T10:09:54.465099Z",
+    "last_checked_at": "2026-10-31T09:46:39.193192Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-10-30T10:09:54.463169Z",
+    "last_checked_at": "2026-10-31T09:46:39.190687Z",
     "source": "biostudies"
   },
   {
@@ -226,7 +226,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-10-30T10:09:54.461392Z",
+    "last_checked_at": "2026-10-31T09:46:39.188479Z",
     "source": "biostudies"
   },
   {
@@ -323,7 +323,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813325Z",
-    "last_checked_at": "2026-10-30T10:09:40.431237Z",
+    "last_checked_at": "2026-10-31T09:46:31.901114Z",
     "source": "biostudies"
   },
   {
@@ -420,7 +420,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813444Z",
-    "last_checked_at": "2026-10-30T10:09:40.281822Z",
+    "last_checked_at": "2026-10-31T09:46:31.769717Z",
     "source": "biostudies"
   },
   {
@@ -614,7 +614,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-10-30T10:09:05.443510Z",
+    "last_checked_at": "2026-10-31T09:46:08.414843Z",
     "source": "biostudies"
   },
   {
@@ -759,7 +759,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-10-30T10:09:04.405412Z",
+    "last_checked_at": "2026-10-31T09:46:07.546980Z",
     "source": "biostudies"
   },
   {
@@ -868,7 +868,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-10-30T10:08:54.487851Z",
+    "last_checked_at": "2026-10-31T09:46:04.728233Z",
     "source": "biostudies"
   },
   {
@@ -947,7 +947,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-10-30T10:08:52.102336Z",
+    "last_checked_at": "2026-10-31T09:46:02.805848Z",
     "source": "biostudies"
   },
   {
@@ -1038,7 +1038,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-21T08:46:28.428068Z",
-    "last_checked_at": "2026-10-30T10:08:50.052690Z",
+    "last_checked_at": "2026-10-31T09:46:01.001414Z",
     "source": "biostudies"
   },
   {
@@ -1129,7 +1129,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-10-30T10:08:49.143596Z",
+    "last_checked_at": "2026-10-31T09:45:58.718279Z",
     "source": "biostudies"
   },
   {
@@ -1220,7 +1220,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-10-30T10:08:48.847754Z",
+    "last_checked_at": "2026-10-31T09:45:58.429928Z",
     "source": "biostudies"
   },
   {
@@ -1286,7 +1286,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-10-30T10:07:28.604720Z",
+    "last_checked_at": "2026-10-31T09:44:57.510233Z",
     "source": "crossref"
   },
   {
@@ -1352,7 +1352,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-10-30T10:07:28.604688Z",
+    "last_checked_at": "2026-10-31T09:44:57.510175Z",
     "source": "crossref"
   },
   {
@@ -1418,7 +1418,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-10-30T10:07:28.604676Z",
+    "last_checked_at": "2026-10-31T09:44:57.510155Z",
     "source": "crossref"
   },
   {
@@ -1484,7 +1484,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-10-30T10:07:28.604625Z",
+    "last_checked_at": "2026-10-31T09:44:57.510078Z",
     "source": "crossref"
   },
   {
@@ -1550,7 +1550,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-10-30T10:07:28.290274Z",
+    "last_checked_at": "2026-10-31T09:44:57.108519Z",
     "source": "crossref"
   },
   {
@@ -1616,7 +1616,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-10-30T10:07:27.924162Z",
+    "last_checked_at": "2026-10-31T09:44:56.219312Z",
     "source": "crossref"
   },
   {
@@ -1682,7 +1682,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-10-30T10:07:27.924046Z",
+    "last_checked_at": "2026-10-31T09:44:56.219149Z",
     "source": "crossref"
   },
   {
@@ -1748,7 +1748,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-10-30T10:07:27.924020Z",
+    "last_checked_at": "2026-10-31T09:44:56.219114Z",
     "source": "crossref"
   },
   {
@@ -1814,7 +1814,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-10-30T10:07:27.923737Z",
+    "last_checked_at": "2026-10-31T09:44:56.218735Z",
     "source": "crossref"
   },
   {
@@ -1880,7 +1880,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-10-30T10:07:27.923718Z",
+    "last_checked_at": "2026-10-31T09:44:56.218711Z",
     "source": "crossref"
   },
   {
@@ -1946,7 +1946,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-10-30T10:04:50.577710Z",
+    "last_checked_at": "2026-10-31T09:42:44.820249Z",
     "source": "europe_pmc"
   },
   {
@@ -2037,7 +2037,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:57:17.666892Z",
-    "last_checked_at": "2026-10-30T10:04:50.570590Z",
+    "last_checked_at": "2026-10-31T09:42:44.810951Z",
     "source": "europe_pmc"
   },
   {
@@ -2103,7 +2103,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-10-30T10:04:48.548778Z",
+    "last_checked_at": "2026-10-31T09:42:43.284085Z",
     "source": "europe_pmc"
   },
   {
@@ -2218,7 +2218,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-10-30T10:04:44.951163Z",
+    "last_checked_at": "2026-10-31T09:42:42.312147Z",
     "source": "europe_pmc"
   },
   {
@@ -2465,7 +2465,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-10-30T10:04:40.120450Z",
+    "last_checked_at": "2026-10-31T09:42:41.083104Z",
     "source": "europe_pmc"
   },
   {
@@ -2682,7 +2682,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.382543Z",
-    "last_checked_at": "2026-10-30T10:04:39.629441Z",
+    "last_checked_at": "2026-10-31T09:42:40.296945Z",
     "source": "europe_pmc"
   },
   {
@@ -2833,7 +2833,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719349Z",
-    "last_checked_at": "2026-10-30T10:04:31.943120Z",
+    "last_checked_at": "2026-10-31T09:42:30.892013Z",
     "source": "europe_pmc"
   },
   {
@@ -3014,7 +3014,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:09:05.256805Z",
-    "last_checked_at": "2026-10-30T10:03:58.721458Z",
+    "last_checked_at": "2026-10-31T09:41:54.380903Z",
     "source": "europe_pmc"
   },
   {
@@ -3477,7 +3477,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-10-30T10:03:57.409299Z",
+    "last_checked_at": "2026-10-31T09:41:53.838492Z",
     "source": "europe_pmc"
   },
   {
@@ -3922,7 +3922,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-17T07:50:06.753444Z",
-    "last_checked_at": "2026-10-30T10:03:38.116403Z",
+    "last_checked_at": "2026-10-31T09:41:22.140574Z",
     "source": "europe_pmc"
   },
   {
@@ -4025,7 +4025,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-10-30T10:03:24.332764Z",
+    "last_checked_at": "2026-10-31T09:41:12.852916Z",
     "source": "europe_pmc"
   },
   {
@@ -4091,7 +4091,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-10-30T10:03:22.346676Z",
+    "last_checked_at": "2026-10-31T09:41:09.761154Z",
     "source": "europe_pmc"
   },
   {
@@ -4157,7 +4157,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-10-30T10:03:21.955294Z",
+    "last_checked_at": "2026-10-31T09:41:09.760840Z",
     "source": "europe_pmc"
   },
   {
@@ -4332,7 +4332,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:28.415733Z",
-    "last_checked_at": "2026-10-30T10:03:21.955117Z",
+    "last_checked_at": "2026-10-31T09:41:09.451091Z",
     "source": "europe_pmc"
   },
   {
@@ -4621,7 +4621,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-20T08:34:38.327271Z",
-    "last_checked_at": "2026-10-30T10:03:21.539454Z",
+    "last_checked_at": "2026-10-31T09:41:08.635190Z",
     "source": "europe_pmc"
   },
   {
@@ -4724,7 +4724,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721739Z",
-    "last_checked_at": "2026-10-30T10:03:20.609663Z",
+    "last_checked_at": "2026-10-31T09:41:06.862739Z",
     "source": "europe_pmc"
   },
   {
@@ -5073,7 +5073,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-12T07:56:40.268857Z",
-    "last_checked_at": "2026-10-30T10:03:20.216035Z",
+    "last_checked_at": "2026-10-31T09:41:06.616321Z",
     "source": "europe_pmc"
   },
   {
@@ -5139,7 +5139,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-10-30T10:03:19.575507Z",
+    "last_checked_at": "2026-10-31T09:41:06.261815Z",
     "source": "europe_pmc"
   },
   {
@@ -5566,7 +5566,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-21T08:58:06.808340Z",
-    "last_checked_at": "2026-10-30T10:03:14.977734Z",
+    "last_checked_at": "2026-10-31T09:41:00.994460Z",
     "source": "europe_pmc"
   },
   {
@@ -5632,7 +5632,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-10-30T10:03:07.115306Z",
+    "last_checked_at": "2026-10-31T09:40:56.220982Z",
     "source": "europe_pmc"
   },
   {
@@ -5698,7 +5698,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-10-30T10:03:07.114462Z",
+    "last_checked_at": "2026-10-31T09:40:56.220411Z",
     "source": "europe_pmc"
   },
   {
@@ -5764,7 +5764,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-10-30T10:03:07.107735Z",
+    "last_checked_at": "2026-10-31T09:40:56.209504Z",
     "source": "europe_pmc"
   },
   {
@@ -5849,7 +5849,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-10-30T10:03:07.106954Z",
+    "last_checked_at": "2026-10-31T09:40:56.208582Z",
     "source": "europe_pmc"
   },
   {
@@ -5915,7 +5915,386 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717212Z",
-    "last_checked_at": "2026-10-30T10:03:07.104111Z",
+    "last_checked_at": "2026-10-31T09:40:56.204425Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "Iron-catalyzed oxidative stress reveals an exposome-related ferroptosis-resistant karyomegalic niche in BRCA1-linked renal carcinogenesis.",
+    "doi": "10.1016/j.redox.2026.104293",
+    "pmid": "42442115",
+    "pmcid": "PMC13382131",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2026-07-08",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/42442115",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [
+      {
+        "identifier": "GSE338104",
+        "location": "data_availability",
+        "text": "study is deposited in the Gene Expression Omnibus (GEO) under accession number  GSE338104 . All other data will be made available on request. ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "phs000178",
+        "location": "data_availability",
+        "text": "he TCGA PanCanAtlas Germline dataset [ 34 ] under controlled GDC access (dbGaP: phs000178), in compliance with the TCGA data use agreement.  Regions of interest (ROIs) c",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1073/pnas.2109865118",
+        "location": "data_availability",
+        "text": "iver of evolution  Proc. Natl. Acad. Sci. U. S. A.  118  51  2021  e2109865118  10.1073/pnas.2109865118  PMC8713747  34873026     2     Toyokuni  S.    Role of iron in carcinogenesis:",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1111/j.1349-7006.2008.01001.x",
+        "location": "data_availability",
+        "text": "is: cancer as a ferrotoxic disease  Cancer Sci.  100  1  2009  9  16  19018762  10.1111/j.1349-7006.2008.01001.x  PMC11158384     3     Toyokuni  S.    Ito  F.    Yamashita  K.    Okazaki  Y. ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.freeradbiomed.2017.04.024",
+        "location": "data_availability",
+        "text": "e to escape ferroptosis  Free Radic. Biol. Med.  108  2017  610  626  28433662  10.1016/j.freeradbiomed.2017.04.024     4     Ebina  Y.    Okada  S.    Hamazaki  S.    Ogino  F.    Li  J.L.    Mi",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.3164/jcbn.22-43",
+        "location": "data_availability",
+        "text": "o share under monopoly  J. Clin. Biochem. Nutr.  71  2  2022  78  88  36213789  10.3164/jcbn.22-43  PMC9519419     6     Toyokuni  S.    Kong  Y.    Maeda  Y.    Lyu  Q.    Ohara",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1007/s00018-025-05982-5",
+        "location": "data_availability",
+        "text": "hen iron turns against tumors  Cell. Mol. Life Sci.  83  1  2025  16  41288738  10.1007/s00018-025-05982-5  PMC12748493     7     Vogelstein  B.    Kinzler  K.W.    The Genetic Basis of ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.3390/genes14051025",
+        "location": "data_availability",
+        "text": "ancer syndromes: a comprehensive review with a visual tool  Genes  14  5  2023  10.3390/genes14051025  PMC10218093  37239385     9     Narod  S.A.    Foulkes  W.D.    BRCA1 and BRCA",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/nrc1431",
+        "location": "data_availability",
+        "text": "1 and BRCA2: 1994 and beyond  Nat. Rev. Cancer  4  9  2004  665  676  15343273  10.1038/nrc1431     10     Lieberman  S.    Goldvaser  H.    Levy-Lahad  E.    Germline pathoge",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1200/JCO.22.00003",
+        "location": "data_availability",
+        "text": "reast and ovarian cancers  J. Clin. Oncol.  40  14  2022  1590  1594  35286153  10.1200/JCO.22.00003     11     Momozawa  Y.    Sasai  R.    Usui  Y.    Shiraishi  K.    Iwasaki  Y",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1001/jamaoncol.2022.0476",
+        "location": "data_availability",
+        "text": "CA1 and BRCA2 pathogenic variants  JAMA Oncol.  8  6  2022  871  878  35420638  10.1001/jamaoncol.2022.0476  PMC9011177     12     Nakamura  Y.    Kubota  J.    Nishimura  Y.    Nagata  K",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1111/cas.15485",
+        "location": "data_availability",
+        "text": "ation-induced mammary cancer  Cancer Sci.  113  10  2022  3362  3375  35851737  10.1111/cas.15485  PMC9530872     13     Tanaka  H.    Motooka  Y.    Maeda  Y.    Sonehara  R.  ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1080/10715762.2024.2320405",
+        "location": "data_availability",
+        "text": " follicular granulosa cells  Free Radic. Res.  58  2  2024  130  143  38394084  10.1080/10715762.2024.2320405     14     Motooka  Y.    Tanaka  H.    Maeda  Y.    Katabuchi  M.    Mashimo  ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41598-024-84184-8",
+        "location": "data_availability",
+        "text": " quality with male subfertility in rats  Sci. Rep.  15  1  2025  447  39747609  10.1038/s41598-024-84184-8  PMC11696240     15     Kong  Y.    Akatsuka  S.    Motooka  Y.    Zheng  H.   ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.redox.2022.102356",
+        "location": "data_availability",
+        "text": "d carcinogenesis through ferroptosis-resistance  Redox Biol.  54  2022  102356  10.1016/j.redox.2022.102356  PMC9168618  35667247     16     Toyokuni  S.    Kong  Y.    Maeda  Y.    Ohara",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41587-022-01448-2",
+        "location": "data_availability",
+        "text": " of spatial transcriptomics  Nat. Biotechnol.  41  6  2023  773  782  36192637  10.1038/s41587-022-01448-2  PMC10091579     18     Vermeulen  R.    Schymanski  E.L.    Barabási  A.-L.   ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1126/science.aay3164",
+        "location": "data_availability",
+        "text": "h: where chemistry meets biology  Science  367  6476  2020  392  396  31974245  10.1126/science.aay3164  PMC7227413     19     Liu  Y.T.    Shang  D.    Akatsuka  S.    Ohara  H.    D",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.2353/ajpath.2007.070741",
+        "location": "data_availability",
+        "text": "ivate beta-catenin pathway  Am. J. Pathol.  171  6  2007  1978  1988  18055543  10.2353/ajpath.2007.070741  PMC2111120     20     Zhong  Y.    Onuki  J.    Yamasaki  T.    Ogawa  O.    A",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/carcin/bgn255",
+        "location": "data_availability",
+        "text": "uced rat renal cell carcinoma  Carcinogenesis  30  1  2009  158  164  19028700  10.1093/carcin/bgn255     21     Onoda  N.    Kawabata  A.    Hasegawa  K.    Sakakura  M.    Urakawa",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/dnares/dsac007",
+        "location": "data_availability",
+        "text": "pression in response to drug perturbation in rat kidney  DNA Res.  29  2  2022  10.1093/dnares/dsac007  PMC9014450  35325072     22     Rath  S.    Sharma  R.    Gupta  R.    Ast  T.",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/nar/gkaa1011",
+        "location": "data_availability",
+        "text": " pathway annotations  Nucleic Acids Res.  49  D1  2021  D1541  D1547  33174596  10.1093/nar/gkaa1011  PMC7778944     23     Janesick  A.    Shelansky  R.    Gottscho  A.D.    Wagne",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41467-023-43458-x",
+        "location": "data_availability",
+        "text": "-cell, spatial and in situ analysis  Nat. Commun.  14  1  2023  8353  38114474  10.1038/s41467-023-43458-x  PMC10730913     24     Wang  H.    Huang  R.    Nelson  J.    Gao  C.    Tran ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41467-025-64990-y",
+        "location": "data_availability",
+        "text": "g spatial transcriptomics platforms in FFPE tissues  Nat. Commun.  2025  10215  10.1038/s41467-025-64990-y  PMC12635344  41266321     25     Dries  R.    Zhu  Q.    Dong  R.    Eng  C.L.",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1186/s13059-021-02286-2",
+        "location": "data_availability",
+        "text": "ualization of spatial expression data  Genome Biol.  22  1  2021  78  33685491  10.1186/s13059-021-02286-2  PMC7938609     26     Polonsky  M.    Gerhardt  L.M.S.    Yun  J.    Koppitch ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41467-024-51186-z",
+        "location": "data_availability",
+        "text": " in kidney regeneration and disease  Nat. Commun.  15  1  2024  7010  39237549  10.1038/s41467-024-51186-z  PMC11377535     27     Gu  Z.    Eils  R.    Schlesner  M.    Complex heatmaps",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/bioinformatics/btw313",
+        "location": "data_availability",
+        "text": "tidimensional genomic data  Bioinformatics  32  18  2016  2847  2849  27207943  10.1093/bioinformatics/btw313     28     Durkin  M.E.    Qian  X.    Popescu  N.C.    Lowy  D.R.    Isolation",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.21769/bioprotoc.908",
+        "location": "data_availability",
+        "text": " Lowy  D.R.    Isolation of mouse embryo fibroblasts  Bio Protoc.  3  18  2013  10.21769/bioprotoc.908  PMC4928858  27376106     29     Dhakal  P.    Soares  M.J.    Single-step PCR-",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.2144/000114548",
+        "location": "data_availability",
+        "text": "ation of rat tissues and cells  Biotechniques  62  5  2017  232  233  28528577  10.2144/000114548  PMC5831150     30     Liu  J.    Lichtenberg  T.    Hoadley  K.A.    Poisson  ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.cell.2018.02.052",
+        "location": "data_availability",
+        "text": "quality survival outcome analytics  Cell  173  2  2018  400  416 e11  29625055  10.1016/j.cell.2018.02.052  PMC6066282     31     Colaprico  A.    Silva  T.C.    Olsen  C.    Garofano  L",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/nar/gkv1507",
+        "location": "data_availability",
+        "text": "ge for integrative analysis of TCGA data  Nucleic Acids Res.  44  8  2016  e71  10.1093/nar/gkv1507  PMC4856967  26704973     32     Robinson  M.D.    McCarthy  D.J.    Smyth  G.K",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1093/bioinformatics/btp616",
+        "location": "data_availability",
+        "text": " digital gene expression data  Bioinformatics  26  1  2010  139  140  19910308  10.1093/bioinformatics/btp616  PMC2796818     33     Hanzelmann  S.    Castelo  R.    Guinney  J.    GSVA: ge",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1186/1471-2105-14-7",
+        "location": "data_availability",
+        "text": "t variation analysis for microarray and RNA-seq data  BMC Bioinf.  14  2013  7  10.1186/1471-2105-14-7  PMC3618321  23323831     34     Huang  K.L.    Mashl  R.J.    Wu  Y.    Ritter",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.cell.2018.03.039",
+        "location": "data_availability",
+        "text": "e variants in 10,389 adult cancers  Cell  173  2  2018  355  370 e14  29625052  10.1016/j.cell.2018.03.039  PMC5949147     35     Austin  P.C.    An introduction to propensity score meth",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1080/00273171.2011.568786",
+        "location": "data_availability",
+        "text": "servational studies  Multivariate Behav. Res.  46  3  2011  399  424  21818162  10.1080/00273171.2011.568786  PMC3144483     36     Bankhead  P.    Loughrey  M.B.    Fernandez  J.A.    Dom",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41598-017-17204-5",
+        "location": "data_availability",
+        "text": "ce software for digital pathology image analysis  Sci. Rep.  7  1  2017  16878  10.1038/s41598-017-17204-5  PMC5715110  29203879     37     Stringer  C.    Wang  T.    Michaelos  M.    P",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41592-020-01018-x",
+        "location": "data_availability",
+        "text": "rithm for cellular segmentation  Nat. Methods  18  1  2021  100  106  33318659  10.1038/s41592-020-01018-x     38     Toyokuni  S.    The origin and future of oxidative stress pathology:",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1111/pin.12396",
+        "location": "data_availability",
+        "text": "ance to non-thermal plasma therapy  Pathol. Int.  66  2016  245  259  26931176  10.1111/pin.12396     39     Ebina  Y.    Okada  S.    Hamazaki  S.    Ogino  F.    Li  J.L.    M",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1002/ijc.2910570122",
+        "location": "data_availability",
+        "text": "cinogen, ferric nitrilotriacetate  Int. J. Cancer  57  1994  123  128  8150530  10.1002/ijc.2910570122     41     Almouzni  G.    Probst  A.V.    Heterochromatin maintenance and esta",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.4161/nucl.2.5.17707",
+        "location": "data_availability",
+        "text": "lessons from the mouse pericentromere  Nucleus  2  5  2011  332  338  21941119  10.4161/nucl.2.5.17707     42     Guelen  L.    Pagie  L.    Brasset  E.    Meuleman  W.    Faza  M.B.",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/nature06947",
+        "location": "data_availability",
+        "text": "ng of nuclear lamina interactions  Nature  453  7197  2008  948  951  18463634  10.1038/nature06947     43     Solovei  I.    Wang  A.S.    Thanisch  K.    Schmidt  C.S.    Krebs ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.cell.2013.01.009",
+        "location": "data_availability",
+        "text": "and inversely regulate differentiation  Cell  152  3  2013  584  598  23374351  10.1016/j.cell.2013.01.009     44     Sadaie  M.    Salama  R.    Carroll  T.    Tomimatsu  K.    Chandra ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1101/gad.217281.113",
+        "location": "data_availability",
+        "text": "HF formation during senescence  Genes Dev.  27  16  2013  1800  1808  23964094  10.1101/gad.217281.113  PMC3759696     45     Meier  J.K.    Schnetz  M.    Beck  S.    Schmid  T.    ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.3390/metabo11050329",
+        "location": "data_availability",
+        "text": "renal cell carcinoma from ferroptosis  Metabolites  11  5  2021  329  34069743  10.3390/metabo11050329  PMC8161288     46     Vives-Bauza  C.    Zhou  C.    Huang  Y.    Cui  M.    D",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1073/pnas.0911187107",
+        "location": "data_availability",
+        "text": "n mitophagy  Proc. Natl. Acad. Sci. U. S. A.  107  1  2010  378  383  19966284  10.1073/pnas.0911187107  PMC2806779     47     Grgic  I.    Campanholle  G.    Bijol  V.    Wang  C.   ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/ki.2012.20",
+        "location": "data_availability",
+        "text": " fibrosis and glomerulosclerosis  Kidney Int.  82  2  2012  172  183  22437410  10.1038/ki.2012.20  PMC3480325     48     Castrop  H.    The role of renal interstitial cells in p",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1159/000496278",
+        "location": "data_availability",
+        "text": "ls in proximal tubular regeneration  Nephron  141  4  2019  265  272  30636248  10.1159/000496278     49     Dixon  S.J.    Lemberg  K.M.    Lamprecht  M.R.    Skouta  R.    Zai",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.cell.2012.03.042",
+        "location": "data_availability",
+        "text": "dent form of nonapoptotic cell death  Cell  149  5  2012  1060  1072  22632970  10.1016/j.cell.2012.03.042  PMC3367386     50     Stockwell  B.R.    Friedmann Angeli  J.P.    Bayir  H.  ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.cell.2017.09.021",
+        "location": "data_availability",
+        "text": "l death nexus linking metabolism  Redox Bio. Dis. Cell  171  2  2017  273  285  10.1016/j.cell.2017.09.021  PMC5685180  28985560     51     Bersuker  K.    Hendricks  J.M.    Li  Z.    M",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1038/s41586-019-1705-2",
+        "location": "data_availability",
+        "text": "el to GPX4 to inhibit ferroptosis  Nature  575  7784  2019  688  692  31634900  10.1038/s41586-019-1705-2  PMC6883167     52     Jiang  L.    Zheng  H.    Ishida  M.    Lyu  Q.    Akats",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.freeradbiomed.2024.02.001",
+        "location": "data_availability",
+        "text": "ctivated Ringer's lactate  Free Radic. Biol. Med.  214  2024  28  41  38325565  10.1016/j.freeradbiomed.2024.02.001     53     Zheng  H.    Jiang  L.    Tsuduki  T.    Conrad  M.    Toyokuni  S. ",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1016/j.redox.2021.102175",
+        "location": "data_availability",
+        "text": "al erythropoiesis and aging exploit ferroptosis  Redox Biol.  48  2021  102175  10.1016/j.redox.2021.102175  PMC8577445  34736120     54     Cotruvo  J.A.    Stubbe  J.    Class I ribonuc",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      },
+      {
+        "identifier": "10.1146/annurev-biochem-061408-095817",
+        "location": "data_availability",
+        "text": "repair in vitro and in vivo  Annu. Rev. Biochem.  80  2011  733  767  21456967  10.1146/annurev-biochem-061408-095817  PMC4703083      Appendix A  Supplementary data  The following are the Suppleme",
+        "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13382131/fullTextXML"
+      }
+    ],
+    "evidence_text": "Iron-catalyzed oxidative stress reveals an exposome-related ferroptosis-resistant karyomegalic niche in BRCA1-linked renal carcinogenesis. Early cancer initiation under chronic oxidative stress requires the survival of epithelial cells that should otherwise be eliminated by regulated cell death. However, the spatial and morphological identity of such stress-adapted cells remains poorly defined. Here, we integrated Xenium single-cell spatial transcriptomics, quantitative nuclear morphometrics, mitochondrial analyses, and human cancer datasets to investigate iron-driven renal carcinogenesis in Brca1(L63X/+) rats. Ferric nitrilotriacetate exposure induced dynamic remodeling of proximal tubular epithelium, characterized by loss of homeostatic transport and mitochondrial programs, and activation of Myc, Met, Lcn2, Anxa2 and iron-handling genes. BRCA1 haploinsufficiency expanded a karyomegalic proximal tubular state associated with mitochondrial dysfunction, chromatin hyperchromasia, nuclear remodeling, and ferroptosis-resistant transcriptional features. Subclassification of karyomegalic cells identified distinct stress-adaptive populations, including a BRCA1-associated K2 state enriched for Myc/Met/Lcn2 signaling and preferentially embedded within a pro-oncogenic epithelial-stromal microenvironment. Of note, neighboring non-karyomegalic proximal tubular cells acquired related iron-handling and survival-biased programs, indicating that karyomegaly marks a broader pre-neoplastic field rather than an isolated abnormality. Human TCGA renal cancer analyses and morphometric assessment of BRCA1-mutant breast tissue further supported the clinical relevance of karyomegaly-associated gene modules and nuclear remodeling. These findings define a spatially organized, ferroptosis-resistant karyomegalic niche as an early lesion in iron-driven carcinogenesis and establish quantitative nuclear morphology as a functional readout of exposome-related oxidative stress adaptation in genetically susceptible tissues. Abbreviations    AJCC   American Joint Committee on Cancer     BRCA   breast cancer     CI   confidence interval     COAD   colon adenocarcinoma     DAPI   4′,6-diamidino-2-phenylindole     DE   differential expression     DR_PT    DNA damage–response  proximal tubule     DSB   (DNA) double-strand break     FDR   false discovery rate     Fe-NTA   ferric nitrilotriacetate     Fer_PT    ferroptotic  proximal tubule     FFPE   formalin-fixed paraffin-embedded (-ing)     FOV   field of view     GLM   generalized linear model     H&amp;E   hematoxylin and eosin     HNE   4-hydroxy-2-nonenal     HOD   hematoxylin optical density     Homeo_PT    homeostatic  proximal tubule     KIRC   kidney clear cell renal cell carcinoma     K0–K5   karyomegalic epithelial subclusters 0-5     LAD   lamina-associated domain     LIHC   liver hepatocellular carcinoma     LUAD   lung adenocarcinoma     LUSC   lung squamous cell carcinoma     ME   microenvironment     MR_PT    maladaptive repair  proximal tubule     MUT    Brca1 (L63X/+; mutant) rat     n.s.   not significant     NSD   nuclear substructure density     OA_PT    oxidative stress–adaptive  proximal tubule     OCR   oxygen-consumption rate     PCA   principal component analysis     PFI   progression-free interval     PII   peripheral intensity index     PT   proximal tubule (tubular cell[s])     RCA   rolling circle amplification     RCC   renal cell carcinoma     REF   rat embryonic fibroblast     ROI   region of interest     ssGSEA   single-sample gene set enrichment analysis     ST   stromal cell(s)     STN   solid tissue normal (non-tumorous portion)     TA   tissue array     TCGA   The Cancer Genome Atlas     TEM   transmission electron microscopy     TR_PT    transient regenerative  proximal tubule     UMAP   uniform manifold approximation and projection     WSI   whole slide image (imaging)     WT   wild-type       1  Introduction  Iron is essential for life [ 1 ], yet its redox activity also drives oxidative reactions that promote mutagenesis and malignant transformation [ 2 , 3 ]. Although persistent oxidative stress is increasingly recognized as a trigger of tumor initiation, how damaged epithelial cells survive this hostile redox environment and acquire tumor-initiating potential remains poorly understood. We previously established a ferric nitrilotriacetate (Fe-NTA) model of Fenton reaction–driven carcinogenesis that reproducibly induces metastatic renal adenocarcinomas and enables mechanistic analysis of oxidative stress–mediated tumorigenesis [ [4] ,  [5] ,  [6] ]. However, the spatially organized molecular programs that allow a subset of injured epithelial cells to evade elimination and persist as pre-neoplastic precursors have not been defined.  Hereditary cancers account for 5–10% of human malignancies [ 7 , 8 ]. Among hereditary cancer genes,  BRCA1  and  BRCA2  are best known for their association with breast and ovarian cancers [ 9 ], but growing evidence suggests broader roles in epithelial cancer susceptibility, including renal cell carcinoma [ 10 , 11 ]. We recently established Brca1/2 haploinsufficient rat models that recapitulate key aspects of human disease [ [12] ,  [13] ,  [14] ]. Notably, Fe-NTA–induced carcinogenesis is markedly accelerated in Brca1 haploinsufficient rats and accompanied by recurrent  c-Myc  amplification and mitochondrial abnormalities during early tumorigenesis [ 15 , 16 ]. These findings raise the possibility that BRCA1 deficiency promotes the emergence of stress-adaptive epithelial states that evade ferroptotic elimination during tumor initiation.  Recent advances in spatial transcriptomics enable single-cell–resolution molecular profiling while preserving tissue architecture and histological context [ 17 ]. Here, we integrated Xenium-based spatial transcriptomics with quantitative digital nuclear morphometrics to investigate early carcinogenic processes under iron-driven oxidative stress. This approach identified a previously unrecognized ferroptosis-resistant karyomegalic epithelial population associated with mitochondrial dysfunction, oncogenic signaling, and iron-handling programs. Integration with human cancer datasets further suggested that related stress-adaptive programs and nuclear abnormalities may be relevant to human epithelial tumorigenesis. Together, our findings establish a spatial and morphological framework for understanding how exposome-related [ 18 ] oxidative stress intersects with hereditary susceptibility during the earliest stages of tumor initiation.    2  Materials and methods   2.1  Renal carcinogenesis model by ferric nitrilotriacetate (Fe-NTA)  All the animal experiments were approved by the animal experimental committee of Nagoya University Graduate School of Medicine.  Sprague-Dawley  strain male rats of wild-type (WT) and  Brca1(L63X/+ ; mutant, MUT) [ 12 ] were bred as described previously [ 15 ]. Representative kidney specimens of 1 and 3 weeks under the carcinogenesis protocol were obtained and fixed either in phosphate-buffered 10% formalin for 48 h for paraffin-embedding, or 2 % glutaraldehyde in 1 mM phosphate-buffered saline (PBS) for resin-embedding.    2.2  Tissue array construction  Six formalin-fixed, paraffin-embedded (FFPE) rat kidney samples were organized into a tissue array (TA) format to enable simultaneous Xenium processing (three samples per slide; two slides per instrument run). RNA quality was pre-verified by RNAScope in situ on the sections from all the donor blocks. After confirmation, sample area was selected and manually extracted to re-form new TA blocks with samples coring within proper size of area (∼12 mm × 24 mm). From each TA block, 5 μm sections were cut with a rotary microtome (Leica RM2135) and mounted onto  Xenium  adhesive slides (10x Genomics). Sections were dried overnight, then stored in a desiccator until processing. All cutting and mounting steps were performed with precautions to maintain tissue morphology and RNA integrity (sterile, RNase-free tools and surfaces).    2.3  Gene panel design  A custom 50-gene  Xenium In Situ  probe panel (ID:  TCMFHM ) was designed for  Rattus norvegicus  using the 10x Genomics Custom Panel Designer ( Table S1 ). Target genes were selected to represent major renal cell types and key kidney injury pathways, prioritizing established marker genes for nephron segments (proximal tubule, loop of Henle, distal convoluted tubule, collecting duct principal/intercalated cells), glomerular cell types (podocytes, endothelial), interstitial cells (stromal cells), immune infiltrates (inflammatory cells), and urothelium, alongside transcripts implicated in our previous differential expression array analyses [ 15 , 19 , 20 ]. Gene selection was further guided by a published rat kidney single-cell transcriptomic atlas (E-GEAD-450 [ 21 ]), retaining only genes with robust, cell type-specific expression in the reference dataset. The final panel included renal biomarkers and ferroptosis-, oncogenic/tumor suppressor-, mitochondria-associated genes relevant to renal pathophysiology [ 15 , 22 ]. Probes were tiled across exonic regions with high specificity, minimizing off-target homology and maximizing RNA accessibility; negative control and decoding control probes were included for quality control [ 23 ].    2.4  Xenium in situ workflow  FFPE tissue sections (5 μm) were processed using the Xenium FFPE in situ transcriptomics protocol (10x Genomics, v1.0; Demonstrated Protocol  CG000580 ;  Fig. 1 A). Briefly, sections were deparaffinized, rehydrated, subjected to antigen retrieval and RNA exposure, and enzymatically digested under RNase-free conditions to facilitate probe penetration while preserving tissue morphology. Probe hybridization was performed at 50 °C for approximately 18 h. After stringent washes, adjacently hybridized probe pairs were ligated for 2 h at 37 °C and amplified by rolling circle amplification (RCA) for 2 h at 30 °C to generate detectable signals [ 24 ]. Tissue autofluorescence was reduced by chemical quenching, and nuclei were counterstained with DAPI for visualization and segmentation. Processed slides were mounted in Xenium imaging buffer, sealed in Xenium cassettes, and stored at 4 °C in the dark until analysis.  Fig. 1   Xenium in situ enables spatially resolved single-cell atlas of the rat kidney with customized gene panel.  A,  Experimental workflow: Wild-type (WT) and  Brca1 -mutant (MUT) rats received ferric nitrilotriacetate (Fe-NTA) treatment and were dissected at the indicated time-points (control, 1 week, 3 weeks) to obtain kidneys. Formalin-fixed paraffin-embedded (FFPE) sections were processed on the Xenium platform. Following in-situ transcript capture and high-plex imaging, the identical sections were stained with H&amp;E to provide histological context (Scale bars, 10 μm).  B , UMAP embedding of Xenium-profiled cells from the WT control kidney, marked by cell-type annotation derived from canonical marker genes ( Table S1 ).  C,  Dot-plot of the top markers per cell type. Circle size indicates the percentage of nuclei expressing the gene; color denotes mean of normalized expression (z-scored).  D,  WT control renal cortex: H&amp;E image overlaid with Xenium-decoded cells colored by cell-type annotation in B (scale bar, 100 μm).                        2.4.1  Xenium analyzer instrument  Automated imaging and transcript decoding were performed on the 10x Genomics Xenium Analyzer using software v2.0.1.0. The instrument acquired high-resolution images through 15 iterative cycles of fluorescent probe binding, imaging, and signal removal. Four fluorescent channels were used per cycle, allowing each gene in the custom panel to be identified by a unique optical barcode. Images were acquired at 200 nm/pixel resolution with a 20× objective, and Z-stack images were collected at 0.75 μm intervals. Adjacent fields of view were tiled and computationally stitched using DAPI nuclear signals as fiducial landmarks to generate a registered whole-tissue image.  Transcripts were decoded by matching fluorescent puncta to the predefined barcode codebook. Only transcripts with a Q-score ≥20, corresponding to approximately 99% decoding accuracy, were retained for downstream analysis [ 23 ]. Detected transcripts were exported with XY coordinates, gene identities, and Q-scores. Negative-control probe signals accounted for &lt;0.03% of total reads, indicating low background noise.    2.4.2  Cell segmentation and transcript assignment  Cell segmentation was performed using the Xenium onboard segmentation pipeline. DAPI images were used to identify nuclear boundaries, which were expanded isotropically by up to 15 μm or until they reached neighboring cell boundaries. This nuclear expansion method generated non-overlapping cell polygons approximating renal epithelial cell boundaries. Decoded transcripts located within each polygon were assigned to the corresponding cell, producing a cell-by-gene expression matrix for downstream single-cell spatial analysis [ 23 ].    2.4.3  Post-Xenium histology  After transcript profiling, the same tissue sections were re-stained with hematoxylin and eosin (H&amp;E) to correlate molecular data with tissue morphology. H&amp;E images were acquired using a Leica Aperio AT2 slide scanner at 40× magnification and processed in QuPath 0.5.1 to generate OME-TIFF files. The H&amp;E images were then aligned to DAPI images in Xenium Explorer, allowing transcript-defined cell types and spatial regions to be evaluated in relation to histological structures, such as glomeruli and renal tubules.     2.5  Bioinformatic analysis of spatial transcriptomics data   2.5.1  Data preprocessing and normalization  Xenium outputs (six rat kidney FFPE tissue samples: WT_CT, MUT_CT, WT_Fe1w, MUT_Fe1w, WT_Fe3w, MUT_Fe3w) were loaded into R (version 4.4.1) and converted to a Seurat object using Seurat v5.0.1. All data normalization was performed by SCTransform to stabilize variance transformation and to regress out sequencing-depth effects. This yielded log-normalized count data (stored in Seurat “SCT” assay) for each sample, mitigating technical variability while preserving biological variation. Low-quality cells (e.g. with extremely low transcript counts) were minimal due to Xenium's preprocessing and only cells with nCount_Xenium &gt;0 were retained.    2.5.2  Data integration and clustering  Following normalization, the unified object containing data from six samples was processed for joint analysis. We re-ran SCTransform (merged), PCA (all genes; 30 PCs), FindNeighbors (dims 1–30), FindClusters (resolution 2.0), and UMAP (PCA), which yielded multiple clusters with distinct transcriptional signatures. Mixing across samples in PCA/UMAP was inspected to verify minimal batch effects. Clusters were manually annotated to kidney lineages (proximal tubule, stromal, endothelial, loop of Henle, collecting duct principal/intercalated, podocyte, inflammatory, proximal-like) based on canonical markers [ 21 ] and spatial context provided by Xenium Explorer. For focused analyses, we subset proximal_tubules and stromal_cells contents and re-ran the same pipeline on (i) the merged dataset to confirm lineage assignments and (ii) each compartment separately to resolve fine subclusters (pt_n; st_n) for downstream analyses.    2.5.3  Pathological score maps  Proximal-tubule clusters were defined into four pathology groups by expressional signatures and tubular morphology: normal_tubules (PT_1,2,5,6,10,11), acute_injured (PT_8), subacute_injured (PT_0,3,4,7), and dying_tubules (PT_9). Using Seurat v5.0.1 we set group identities and performed one-vs-rest DE per group with FindMarkers (two-sided Wilcoxon; min.pct = 0.2, logfc.threshold = 0.25, only.pos = TRUE). The top 10 genes by avg_log2FC per group were used for visualization (group-wise AverageExpression heatmap, z-scored by gene). For quantitative per-cell scores, we computed module scores with AddModuleScore on the available marker genes for each group (requiring ≥5 genes), using nbin = 3 and ctrl = 10 to ensure robust background control on the limited panel. Scores were then row-matched by cell_ID and merged into the Giotto (v4.2.0) object's cell_metadata for downstream spatial mapping. All plotting of score maps used fixed global min–max limits per score and unified diverging palettes to enable cross-sample comparison.    2.5.4  Morphological-transcriptomics analysis of nuclei  Nuclear polygons from Xenium segmentation (“nucleus_boundaries.csv.gz”) were imported into R (sf v1.0.19; tidyverse v2.0.0) to compute per-nucleus morphometrics: nuclear area, eccentricity (elongation, 0–1), circularity (4π·area/perimeter 2 ), compactness, convexity, solidity (area/convex hull area) and perimeter/area ratio (boundary irregularity). Polygons were linked to the same cell barcodes used in Seurat; analyses were restricted to proximal tubule cells with expression taken from the SCT assay.  For each gene–feature pair, we fit single-cell linear models per FOV (WT_Fe3w: FOV_3; MUT_Fe3w: FOV_6) with the morphology feature z-scored and technical covariates (library size, detected features) included; slopes (β) and two-sided  P  values were recorded and FDR-adjusted within FOV (Benjamini–Hochberg). As robustness checks, we computed Spearman correlations and ran elastic net models (glmnet) to assess whether multiple features jointly predict expression; a non-zero coefficient denoted feature selection.  To obtain genotype-robust effects, per-FOV slopes were combined by sample-size–weighted averaging (pooled β), and per-FOV  P  values were combined by Stouffer's method (weights ∝ √n), followed by FDR across all pairs. For each gene we derived a “consensus rank” integrating pooled β, pooled FDR, and elastic-net selection.  To identify coordinated programs, each gene was represented by its vector of pooled β across morphology features. Cosine similarity was computed between genes; pairs with similarity ≥0.6 were connected and clustered by Louvain community detection to define morphology-linked gene modules.    2.5.5  Quantification of nuclear phenotypes and integration with transcriptomics  For fields of view (FOVs) from WT_Fe3w (FOV3) and MUT_Fe3w (FOV6), nuclei were segmented using Cellpose (v2.3.2; pretrained nuclei model) [ 37 ]. Three per-cell nuclear morphological readouts were derived from the hematoxylin channel (skimage.color.rgb2hed) within each nuclear mask: (i) hematoxylin optical density (HOD), mean channel intensity following Gaussian smoothing (σ = 0.5 μm); (ii) nuclear substructure density (NSD), the count of intranuclear hematoxylin-dense foci, detected after within-nucleus 2nd-98th percentile normalization, Otsu thresholding, and filtration by area (0.3–6.0 μm 2 ) and circularity (4πA/P 2  ≥ 0.40), expressed per 100 μm 2  of nuclear area; and (iii) peripheral intensity index (PII), (mean        H  O  D   periphery      − mean        H  O  D   interior     )/section-median HOD, where peripheral (distance ≤ s) and interior (distance &gt; s) zones were defined from a Euclidean distance transform of the nuclear boundary at shell thicknesses  s  ∈ (0.5, 1.0, 1.5) μm ( Fig. S4C ); section-median HOD was estimated once per FOV from a random sample of ∼2000 nuclei.  Cellpose-segmented nuclei were assigned Xenium cell identity via two-stage spatial registration. First, an existing QuPath-to-Xenium cell correspondence (established by manual landmark selection and iterative refinement) provided position anchors for an affine transform between the FOV image and Xenium coordinate spaces. Second, true nuclear centroids (QuPath nucleus geometry) were matched to the affine-registered Cellpose nuclei by reciprocal nearest-neighbor matching within the shared coordinate space, at the tightest tolerance (0.5–5 μm ladder) retaining ≥90% of the maximum achievable match count. PT filtering was performed after registration to avoid selection bias. Registration accuracy was confirmed by comparing QuPath's measurements (HOD;  Fig. S4A ) against Cellpose/scikit-image values.    2.5.6  Gene–morphometry association models (HOD/NSD/PII)  For each gene     g     and within a condition (WT_Fe3w; MUT_Fe3w) independently, a single-cell ordinary least-squares model was fitted:     Y  i   =  α  +   β  g   ·   X   i  g    +  γ   A  i   +   ϵ  i     where      Y  i      is the nuclear morphometric readout for cell     i     (HOD; NSD;       P  I  I   s     ),      X   i  g       is the log 1 p-normalized Xenium transcript count for gene     g     in cell     i    , and      A  i      is Cellpose-measured nuclear area (μm 2 ). Two-sided Wald p-values were corrected for multiple comparisons across 50 genes within each condition (Benjamini–Hochberg, FDR &lt;0.05). Cross-condition concordance was assessed by Pearson correlation and sign agreement of per-gene      β  ˆ      between FOVs. Estimates were pooled by fixed-effects inverse-variance weighting:      β  ˆ    F  E    =     ∑  k    w  k     β  ˆ   k      ∑  k    w  k     ,   w  k   =  S   E  k   −  2      with pooled Wald z-statistics BH-FDR corrected across all 50 genes. Models were implemented in Python (statsmodels v0.14; scipy).    2.5.7  Karyomegaly sub-stratification and peri-karyomegaly analysis  PT cells from merged Xenium dataset were defined as karyomegalic (enlarged) if nuclear area &gt; mean+2SD within the PT cell population, and elongated if major/minor axis ratio &gt;2. SCTransform-normalized RNA counts from karyomegalic cells were stored as a SCTx assay. Morphological features processed from nuclear polygons were stored as a MORPH assay and reduced by PCA.  Karyomegalic PTs were then reclustered by a weighted nearest-neighbor (WNN) model that integrates RNA and morphology: SCTx PCA (dims 1–30) and a PCA of z-scored morphology (dims 1–6) were combined with FindMultiModalNeighbors (modality weights recorded as SCTx.weight/MORPH.weight), followed by UMAP on the weighted graph and Louvain communities on wsnn; we grid-searched morphology PCs (2-4, 6) × resolution (0.2, 0.3) and selected the setting with the highest mean silhouette in the WNN UMAP, followed by further resolution tuning, yielding the final result (K0–K5, resolution 0.15). Gene markers were computed using Seurat FindAllMarkers (logistic regression with covariates sample, fov_num, nCount_SCTx). Morphology tiles report per-feature means with significance from two-sided linear models (BH-FDR &lt;0.05).  Spatial context was obtained by overlaying subcluster labels onto H&amp;E in Xenium Explorer (Fe-NTA, 3-week). For peri-karyomegalic analyses, each karyomegalic PT served as a center; PT neighbors within 30 μm were compared with PTs &gt;30 μm away, and hallmark expression visualized as z-scored heatmaps/dot plots (Wilcoxon, BH-FDR where indicated).    2.5.8  Neighborhood composition and microenvironment analysis  Cell centroids (centroid_x, centroid_y) and annotations from the Seurat metadata were filtered to proximal_tubules and stromal_cells, and used for point map plotting and neighbor-associated computations. Independently for each sample, the number of stromal neighbors within a 30 μm Euclidean radius was recorded for each PT cell, by a KD-tree constructed over stromal cell centroids (FNN v1.1.4.1, R; k ≤ 500). Group differences were assessed by Kruskal–Wallis test; pairwise post-hoc comparisons used Dunn's test with Benjamini–Hochberg false discovery rate correction (rstatix v0.7.3, R). Beyond cell-intrinsic analysis, we modeled proximal-tubule/stromal spatial organization with Giotto (v4.2.0; Python backend) [ 25 ]. For each field, we constructed a radius-based neighbor graph (30 μm) to capture tubulointerstitial contacts in renal tissue [ 26 ]. Community detection on this neighborhood graph using the Leiden algorithm (findNetworkCommunities) yielded microenvironment (ME) clusters, i.e., spatially coherent neighborhoods that may contain mixed PT (pt_n) and stromal (st_n) subtypes. We quantified the cell-type composition and contact enrichment for each ME cluster (normalized by cell abundance). ME prevalences were compared across the six samples to assess genotype/treatment effects. ME labels were overlaid on tissue images in Xenium Explorer to verify anatomic plausibility.  To test whether ME states were independent of karyomegalic clusters, we constructed a WNN-karyomegalic × ME contingency table and applied a Pearson χ 2  test of independence (chisq.test) Tiles in the heatmap display standardized Pearson residuals (Haberman adjustment, chis$stdres): positive (green) indicates over-representation; negative (red) indicates under-representation. Significance stars denote: ∗ for     ∣   r   i  j    ∣  ≥  1.96    , ∗∗ for     ∣   r   i  j    ∣  ≥  2.58    , and ∗∗∗ for     ∣   r   i  j    ∣  ≥  3.00    . Global association was summarized by Cramér's     V  =     χ  2   /   (   N   [   min  ⁡   (   r  ,  c   )   −  1   ]    )       ; extremely small P values are reported as thresholds (e.g.,     p  &lt;  2.2  ×   10   −  16      ).    2.5.9  Data visualization  All data visualization was performed in R (v4.4.1), using ggplot2 and plotters bundled with Seurat unless noted otherwise. Low-dimensional embeddings (UMAP) were rendered with DimPlot and annotated by cluster, sample, or FOV; single-gene summaries used VlnPlot or Seurat DotPlot. Heatmaps were produced with ComplexHeatmap for clustered expression/annotation panels and pheatmap for compact correlation/residual matrices. Panel assembly used patchwork/cowplot with harmonized color palettes, fixed aspect ratios for spatial panels, and consistent legends/scales. Multi-panel gene maps ( Fig. 2 C) and pathology-score maps ( Fig. 3 E) were generated in Giotto and exported in R. Xenium Explorer was used only to overlay labels on H&amp;E/DAPI micrographs.  Fig. 2   Proximal tubular cells are remodeled in Fe-NTA induced early renal carcinogenesis for metabolic and stress-responses programs.  A,  Heatmap of the top marker genes (row-scaled Z-scores) across six Xenium datasets. Columns are ordered by genotype and treatment; rows are hierarchically clustered. CT, control.  B,  Nuclear morphometry of Xenium‐decoded proximal_tubular (PT) cells. Violin plots display the distribution of nuclear area, eccentricity, compactness and circularity for each sample.  C,  Spatial expression maps for representative “friend” metabolic genes ( Pink1, Amacr, Lrp2 ) and “foe” stress-associated genes ( Myc, Met, Lcn2, Anxa2 ). Xenium transcript intensity is overlaid on the Xenium-based single-cell resolutive image: blue–green for friends; magenta for foes (scale bar, 100 μm).                       Fig. 3   Spatially resolved clustering reveals treatment- and genotype-specific remodeling of proximal-tubular and stromal compartments.  A,  Re-classification of PT cells.  Left,  UMAP of PT cells colored by unsupervised Seurat clusters ( PT_0 – 11 ).  Right,  stacked bar chart showing relative abundance of PT clusters across the six experimental groups (WT-CT, WT-Fe1w, WT-Fe3w, MUT-CT, MUT-Fe1w, MUT-Fe3w).  B,  Dot plot of top markers per PT cluster (row-scaled expression, diameter = percentage of PT cells expressing the gene). Clusters are defined by their biological signatures into: Homeostatic PT (Clusters 1,2,5,6,10,11; Homeo_PT), Oxidative Stress–Adaptive PT (Cluster 0; OA_PT), DNA Damage–Response PT (Cluster 3; DR_PT), Maladaptive Repair PT (Clusters 4, 7; MR_PT), Transient Regenerative PT (Cluster 8; TR_PT), Ferroptotic PT (Cluster 9; Fer_PT).  C,  Spatial maps of the twelve PT clusters overlaid on representative cortex sections for each condition (scale bar, 200 μm).  D,  Stromal re-clustering analysis.  Top,  UMAP of stromal cells colored by Seurat clusters (ST_0–12).  Middle,  dot-plot of top marker signatures for each stromal_cell (ST) cluster (row-scaled expression, diameter = percentage of PT cells expressing the gene).  Bottom,  stacked bars depict a shift towards clusters ST_1,3,5,6,8,9 in MUT_Fe3w kidneys.  E,  Spatial transcriptional maps of four pathological module scores: normal-tubule, acute-injury, sub-acute-injury and dying PT (columns) across samples (rows). Scales show Z-scored module expression (purple→red for homeostatic, green→purple for acute, blue→brown for sub-acute, pink→black for dying).                       Package versions (Seurat 5.0.1, ggplot2 3.5.1, ComplexHeatmap 2.20.0 [ 27 ], ggridges 0.5.6, patchwork 1.3.0, cowplot 1.1.3, sf 1.0.19, pheatmap 1.0.12, Giotto 4.2.0 [ 25 ], among others) are indicated for reproducibility.    2.5.10  Differential expression, statistics, and reproducibility  All analyses were performed in R (v4.4.1) unless reported otherwise. Differential expression (DE) used Seurat FindMarkers/FindAllMarkers on SCT-normalized data with two-sided Wilcoxon rank-sum tests. Genes were eligible if detected in ≥5% of cells in either group; we report avg_log2FC (positive = higher in the first group), pct_in/pct_out, and adjusted P. Multiple testing was controlled by Benjamini–Hochberg; genes with FDR &lt;0.05 and log 2 FC ≥ 0.25 were considered significant. Random subsampling (set.seed 42) was applied only to downsample points for visualization and was never applied in statistical testing. Box-and-violin plots display median and inter-quartile range; error bars represent 95% confidence intervals unless specified. Because the Xenium dataset included one representative specimen per genotype/treatment condition, cell-level statistics were interpreted as discovery-level measures of spatial association or enrichment rather than animal-level biological replication; key conclusions were supported by prior Fe-NTA data, mitochondrial TEM/REF analyses, and TCGA-based human validation.    2.5.11  Code availability No new algorithms were developed for this manuscript. All code created for analysis is available from the authors upon request.  Mitochondrial cristae morphometry analysis  Transmission electron microscopic images were acquired on a JEM-1400PLUS (JEOL; Tokyo, Japan). Images were analyzed in Fiji/ImageJ (v1.54p). After pixel calibration, individual mitochondria were manually outlined as ROIs with area (μm 2 ) recorded. Within each ROI, cristae ridges were segmented using Trainable Weka Segmentation (Fiji) to obtain a probability map for cristae vs. matrix. High-confidence pixels were thresholded and processed with Ridge Detection to obtain ridge centerlines, followed by Skeletonize (2D/3D) and Analyze Skeleton to quantify branch geometry. Derived per-mitochondrion metrics were: Total cristae length (μm) = Σ branch lengths;  Mean branch length (μm) = Σ branch lengths / number of branches;  Cristae length density (μm/μm 2 ) = total cristae length / mitochondrial area.   Metrics were exported as CVS files and plotted in R.    2.7  Immunoblotting  Kidney cortex lysates were prepared in RIPA buffer, resolved by SDS–PAGE and transferred by standard methods. Primary antibodies included: anti-FTMT (ab124889, Abcam), anti-Mfrn1 (PA5-26720, Invitrogen), anti-Mfrn2 (PA5-42498, Invitrogen); anti-ACTB (AC-15, Sigma) served as loading control. Bands were quantified in ImageJ, normalized to ACTB, and analyzed in GraphPad Prism 9 (unpaired  t -test; significance thresholds: ∗ P  &lt; 0.05, ∗∗ P  &lt; 0.01, ∗∗∗ P  &lt; 0.001; n.s., not significant).    2.8  Primary rat embryonic fibroblasts (REFs) and treatments  REFs were derived from E13–15 embryos by standard protocols [ 28 ]. Genotypes and sex were determined by PCR [ 15 , 29 ]. Male-derived WT and Brca1-MUT REFs were maintained in DMEM (043-30085, Wako, Osaka, Japan) with 10% fetal bovine serum (FBS; Biowest; Nuaillé, France) and Mito + Serum Extender (355006, Corning, USA). REFs were immortalized via lentiviral transduction of SV40 (Addgene#22298) packaged with pspAX2 (#12260) and VSV-G (#14888). For oxidative stress, cells were treated with Fe-NTA (500 μM, 6 h) prior to fixation.    2.9  Immunofluorescence (confocal)  Cells were fixed, permeabilized and stained with anti-TOM20 (11802-1-AP, Proteintech) and anti-γ-H2AX (05-636, Sigma-Aldrich); nuclei were counterstained with DAPI. A Zeiss confocal microscope (LSM880, Carl Zeiss) was applied for image acquisition.    2.10  Mitochondrial respiration  Oxygen consumption (OCR) and extracellular acidification (ECAR) were measured on a Seahorse XFe24 Analyzer (Agilent) following manufacture's instructions. Briefly, REFs were seeded (6 × 10 4 /well) in Seahorse XF DMEM (103575-100) supplemented with 10 mM glucose, 1 mM pyruvate, 2 mM glutamine (103577/8/9-100) on a Seahorse XFe24 plate and incubated overnight. The XF Cell Mito Stress Test Kit (103015-100) was run with sequential injections of oligomycin 1.5 μM, FCCP 1 μM, and rotenone/antimycin A 0.5 μM. Cell count was quantified using BioTek Cytation 5 and Keyence BZ-X800 for normalization. Data were processed per manufacturer's instructions and analyzed in GraphPad Prism 9 (unpaired  t -test with significance shown in  Fig. 8 E ).    2.11  TCGA transcriptomic cohorts  To evaluate the clinical relevance of karyomegaly-associated transcriptional programs identified in our experimental model, we analyzed data obtained from the TCGA Pan-Cancer Clinical Data Resource, for TCGA-KIRC as the primary validation cohort, and additional tumor types for exploratory analyses, including TCGA-BRCA, TCGA-COAD, TCGA-LIHC, TCGA-LUAD, and TCGA-LUSC [ 30 ].  RNA-seq data were retrieved via TCGAbiolinks v2.32.0 [ 31 ] from the NCI GDC. Tumor-adjacent solid tissue normal (STN) samples were used for the primary analyses, whereas primary tumor samples were evaluated separately for independent validation. Raw counts were normalized by the trimmed mean of M-values (TMM) method using edgeR v4.2.2 [ 32 ] and converted to log 2 -counts per million (log 2 -CPM; prior count = 1). For duplicate gene entries, the isoform with the highest mean expression was retained.   2.11.1  Karyomegalic module definition and scoring  Four gene modules were evaluated (Fig. S7A). Three gene modules were defined based on findings from our Xenium spatial transcriptomics data. Module activity was quantified by single-sample gene set enrichment analysis (ssGSEA) using GSVA v1.52.3 [ 33 ], computed independently within each tissue compartment (STN or tumor). Only modules with at least three genes present in the expression matrix were retained. Patient-level scores were derived as mean across available samples.    2.11.2  Survival analysis  Clinical annotations, including progression-free interval (PFI) and overall survival (OS), were obtained from curated TCGA clinical datasets. For each module, patients were stratified into high- and low-score groups using the cohort-specific median module score as the cutoff. Kaplan–Meier survival curves were generated using the survival and survminer packages.  Associations between module activity and clinical outcome were evaluated using log-rank tests and univariable Cox proportional hazards models. Hazard ratios (HRs) and 95% confidence intervals (CIs) were estimated from Cox models. Analyses were performed separately for PFI and OS endpoints. Cohorts with fewer than five outcome events or insufficient matched samples were excluded from survival testing.  A tiered strategy was used for Multiple-testing correction. We designated TCGA-KIRC as the confirmatory cohort and analyzed non-renal cancer cohorts in an exploratory manner. Benjamini–Hochberg false discovery rate (FDR) correction was therefore performed separately within confirmatory and exploratory tiers. Statistical significance was assessed primarily using the tier-specific FDR-adjusted results.    2.11.3  BRCA1 mutation carrier and control definition  BRCA1 germline carriers were defined as described [ 34 ]. Non-carrier controls were identified by a two-tiered exclusion strategy requiring availability of diagnostic WSIs and absence of pathogenic or likely pathogenic germline variants in BRCA1, BRCA2, PALB2, ATM, CHEK2, RAD51C, RAD51D, BARD1, and NBN. Controls were further selected by two-stage propensity score matching to control for clinical covariates [ 35 ] .  The final cohort comprised 20 BRCA1 germline carriers and 63 matched non-carrier controls (76.2% ductal, 4.8% lobular, 19.0% other histological subtypes).    2.11.4  Histopathological image analysis  Diagnostic whole slide images (WSIs) for TCGA-BRCA were obtained from the NCI Genomic Data Commons (GDC). Germline variant data were accessed from the TCGA PanCanAtlas Germline dataset [ 34 ] under controlled GDC access (dbGaP: phs000178), in compliance with the TCGA data use agreement.  Regions of interest (ROIs) containing well-formed ductal tubules were manually annotated in ductal carcinoma WSIs from both groups using QuPath v0.4 [ 36 ] (15 controls, 7 carriers; ROI count was limited by preserved adjacent normal portions). Nucleus segmentation was performed using Cellpose v2.3.2 [ 37 ], and morphological features were extracted using scikit-image. A post-hoc quality filter was applied to remove spurious detections. Nucleus-level analyses are presented as exploratory findings; patient-level analyses constitute the primary statistical inference.      3  Results   3.1  Xenium in situ on early stages of Fe-NTA-induced renal carcinogenesis  To identify early alterations during iron-driven renal carcinogenesis, we analyzed kidneys from wild-type (WT) and  Brca1  mutant ( L63X/+ ; MUT) rats subjected to Fe-NTA administration, as previously described [ 15 ]. Because rat-compatible spatial transcriptomic panels remain limited, we designed a custom 50-gene Xenium panel covering renal structural markers from single-cell RNA-sequencing datasets [ 21 ], together with genes related to iron metabolism, mitochondrial function, and tumorigenesis based on our previous studies [ 5 , 38 ].  Six kidney samples representing control, 1-week, and 3-week Fe-NTA exposure in WT and MUT rats were analyzed across two Xenium slides. DAPI-based segmentation captured approximately 324,765–531,476 cells per sample, with median transcript detection of 62–104 transcripts per cell ( Fig. 1 A). Post-Xenium H&amp;E staining preserved tissue morphology and enabled direct integration of spatial transcriptomics with histopathology ( Fig. 1 A–D). Seurat-based clustering identified 53 cellular clusters, which were annotated into 10 major renal cell categories based on marker expression and histological context ( Fig. 1 B and C;  Fig. S1A and B ). Molecular annotations closely matched H&amp;E-defined structures, supporting robust cell-type assignment even with a focused gene panel ( Fig. 1 D). Cluster composition varied across genotype and treatment conditions, with prominent changes in proximal tubules and stromal cells ( Fig. S1C ), indicating early remodeling of epithelial and interstitial compartments during Fe-NTA-induced carcinogenesis.    3.2  Characterization of key-gene signatures in early renal carcinogenesis  We next focused on transcriptional remodeling of proximal tubular cells (PTs), the principal target of Fe-NTA-induced renal carcinogenesis. Refined clustering of PT and stromal compartments improved resolution of treatment- and genotype-associated cell states ( Fig. S2A and B ). Single-cell expression analysis revealed reciprocal regulation of homeostatic and injury-associated genes in PTs ( Fig. 2 A). In control kidneys, PTs highly expressed renal function and mitochondrial metabolism genes, hereafter referred to as “friend key-genes,” including  Lrp2, Pink1,  and  Amacr . In contrast, Fe-NTA exposure induced “foe key-genes” associated with injury and tumorigenesis, including  Myc, Met, Lcn2 , and  Anxa2 , with concomitant reduction of homeostatic markers.  Several foe key-genes were induced as early as 1 week after Fe-NTA exposure in both genotypes ( Fig. 2 A). Although  Met, Anxa2, Lcn2, Sfxn3 , and  Klf4  showed partial reduction by 3 weeks,  Myc  and  Slc22a17  remained elevated or further increased. At 3 weeks, MUT PTs showed stronger expression of foe markers than WT, whereas  Lrp2  and  Amacr  were more strongly reduced, indicating genotype-dependent epithelial remodeling under oxidative stress. Spatial mapping with Giotto confirmed that friend key-genes were enriched in intact tubular segments, whereas foe key-genes localized to histologically abnormal regions with tubular dilation, disruption, or loss of recognizable tubular organization ( Fig. 2 C).  Because karyomegalic PTs are a characteristic lesion in Fe-NTA-treated kidneys [ 39 , 40 ], we quantified nuclear morphology using Xenium-derived nuclear polygons ( Fig. 2 B). Fe-NTA exposure was associated with nuclear enlargement, reduced compactness and circularity, and increased eccentricity. WT karyomegalic cells had larger nuclei than MUT cells under comparable treatment conditions ( Fig. S5A ). These data indicate that nuclear remodeling accompanies early Fe-NTA-induced epithelial injury and is modified by Brca1 haploinsufficiency.    3.3  Dynamics of diverse PT subtypes in early renal carcinogenesis  To resolve PT dynamics during early carcinogenesis, we reclustered PTs and identified 11 subtypes ( Fig. 3 A and B). Homeostatic PT clusters 1, 2, 5, 6, 10, and 12 predominated in control kidneys and expressed renal functional and mitochondrial genes. In contrast, clusters 0, 3, 4, 7, 8, and 9 emerged after Fe-NTA exposure and showed increased injury-, repair-, or foe key-gene expression with reduced homeostatic programs. Genotype-specific differences became evident after Fe-NTA exposure: WT kidneys showed transient loss of normal tubular states at 1 week with partial recovery by 3 weeks, whereas MUT kidneys showed expansion of injured clusters, particularly clusters 4 and 7.  The PT subtypes represented distinct biological states ( Fig. 3 B). Oxidative Stress–Adaptive PTs (cluster 0; OA_PT) expressed antioxidant and metabolic genes such as  Cubn, Slc40a1, Lrp2, Slc27a2 , and  Gpx4 , together with moderate  Myc  and  Met  expression. DNA Damage–Response PTs (cluster 3; DR_PT) expressed repair and regenerative markers including  Mki67, Rad51, Bard1 , and  Bap1 . Maladaptive Repair PTs (clusters 4 and 7; MR_PT) expressed  Lcn2, Slc22a17 , and other foe key-genes, with cluster 4 retaining more friend key-gene expression than cluster 7. Transient Regenerative PTs (cluster 8; TR_PT) expressed proliferation and DNA repair markers, whereas Ferroptotic PTs (cluster 9; Fer_PT) were often isolated necrotic or pyknotic cells within otherwise preserved tubules, as confirmed by Xenium Explorer alignment with H&amp;E images ( Fig. S3A ).  Spatially, DR_PT localized mainly near the cortex–medulla boundary in WT kidneys at 1 week but was less evident in MUT kidneys ( Fig. 3 C). MR_PT populations frequently co-localized within MUT tubules, whereas WT tubules showed greater admixture of homeostatic, oxidative stress–adaptive, and transient regenerative states. Stromal reclustering further identified 13 stromal subtypes with genotype- and treatment-dependent composition ( Fig. 3 D). After 3 weeks of Fe-NTA, MUT kidneys showed expansion of stromal states enriched for regenerative, injury-response, iron-handling, matrix-remodeling, and macrophage-recruiting signatures, including ST_1, ST_3, ST_5/8, ST_6, and ST_9.  To summarize PT status spatially, we generated pathology-informed module scores ( Fig. S3B–D ). Spatial score maps showed that normal tubular scores declined after 1 week of Fe-NTA exposure and partially recovered in WT kidneys by 3 weeks, whereas MUT kidneys showed more persistent dysfunction ( Fig. 3 E). Interestingly, scores representing renal injury and cell death (acute/subacute injured score; dying tubules score) displayed inverse spatial patterns to normal tubules score at 1-week Fe-NTA treatment, with reduced acute injured score at 3-week Fe-NTA treatment, marking the progression of homeostatic PT clusters toward subacute injury and the initiation of cellular adaptations linked to ferroptosis resistance and potential oncogenic transformation.    3.4  Nuclear morphometrics reflect transcriptional behaviors in pathological/genotype-dependent patterns  We next asked whether nuclear morphology captures transcriptional states at single-cell resolution. Morphological features derived from Xenium polygons included nuclear area, eccentricity, circularity, compactness, convexity, and solidity ( Fig. 4 A). Gene–morphology associations were quantified using covariate-adjusted linear models with Benjamini–Hochberg FDR correction.  Fig. 4   Nuclear morphology decodes transcriptional programs in the Fe-NTA model.  A,  Schematic overview of the nuclear morphological metrics analyzed. Each spoke represents one metric; icons near the thin end illustrate the lower range and icons near the thick end indicate the higher range. Pink arrows denote scales plotted small → large; blue arrows denote large → small. Representative silhouettes show typical shapes at each extreme.  B,  Integrated morphology–gene association map. Rows, genes; columns, polygon-derived nuclear features. Tile color, weighted β across FOVs; circle size, statistical support (−log10 FDR; Stouffer-combined); black ring, features selected by elastic-net when predicting the gene (Methods).  C,  Morpho-transcriptional modules. Genes are clustered by cosine similarity of their morphology fingerprints (β vectors); edges denote high similarity; Louvain communities define modules (one color per module in each FOV).  D-E,  Per-cell nuclear chromatin-associated readouts with mapped Xenium data. Two outcomes were analyzed (Methods): hematoxylin optical density (HOD;  top  row,  D ) and peripheral intensity index (PII;  bottom  row,  E ).  D,  HOD: ( left ,  center-left ) WT and MUT volcano plots of effect size (β, x-axis) against −log 10 (FDR) (y-axis) for WT_Fe3w and MUT_Fe3w, respectively. Red, positive β (FDR &lt;0.05); blue, negative β (FDR &lt;0.05); grey, FDR ≥0.05. Labelled genes are the top significant genes by |β| in each direction. ( center-right ) Effect concordance: per-gene β in WT_Fe3w (x-axis) versus MUT_Fe3w (y-axis). Red, significant in both conditions; green, significant in MUT_Fe3w only; purple, significant in WT_Fe3w only; grey, not significant in either. Pearson  r  and percentage of genes with concordant sign were reported. ( right ) Fixed-effects meta-analysis: pooled β (point) and 95% confidence interval (error bars) for the top 15 genes by |pooled  β |; color indicates direction and meta-analysis significance.  E,  PII: analyzed in the same framework.                       In Fe-NTA 3-week samples, morphology-associated coefficients revealed coordinated relationships between nuclear shape and PT transcriptional state ( Fig. 4 B). Oncogenic and iron-associated genes, including  Lcn2, Anxa2, Met, Pcbp2, Myc , and  Sfxn3,  were positively associated with eccentricity and convexity, whereas circular and compact nuclei were associated with preserved PT markers such as S lc27a2, Lrp2, Pink1,  and  Tfrc . Although the overall direction of associations was similar between WT and MUT kidneys, MUT showed stronger coefficients, indicating amplified coupling between nuclear morphology and stress-associated transcription under Brca1 haploinsufficiency.  We then converted morphology–gene β profiles into gene–gene networks using cosine similarity. Under the pre-specified criteria of FDR ≤0.05, β ≥ 0.10, and cosine ≥0.70, robust modules were absent in control kidneys and WT Fe-NTA 3-week kidneys, whereas WT Fe-NTA 1-week kidneys showed compact Slc27a2–Lrp2–Pink1 and Mki67–Anxa2 modules ( Fig. 4 C). In contrast, MUT kidneys retained modules at both 1 and 3 weeks, including a recurrent Slc27a2–Lrp2 core and an Lcn2–Anxa2 injury-associated core, suggesting genotype-dependent persistence of morphology-linked transcriptional programs.  To identify transcriptional correlates of nuclear chromatin organization during early carcinogenic nuclear transformation, we derived three nuclear morphometric parameters: hematoxylin optical density (HOD), nuclear substructure density (NSD) [ 41 ], and peripheral intensity index (PII) [ 42 ], from H&amp;E images of WT and MUT Fe-NTA 3w kidneys. HOD provided quantitative readout of bulk nuclear chromatin compaction. In WT, the genes most strongly associated with HOD (e.g.,  Gpx4 ,  Fth1 ,  Ncoa4 ,  Pcbp1 , Tfrc) were uniformly negative, indicating that more robust iron-homeostatic programs correspond to lower nuclear hematoxylin density, consistent with a more open chromatin state ( Fig. 4 D;  Table S2 ). In MUT, PT identity genes (e.g.,  Amacr ,  Slc27a2 ,  Lrp2 ) again showed strong negative associations, whereas top positive associations were observed for  Sfxn3 ,  Sting1 ,  Mcub ,  S100a9 ,  Anxa2 , and  Lcn2 , suggesting that chromatin compaction is associated with mitochondrial alteration and stress responses in Brca1 deficient carcinogenesis. Despite that majority of significant genes were genotype-specific, effect direction was replicated across genotypes for  Lrp2 ,  Slc27a2 , and  Amacr  (negative in both) and for  Lgals1 ,  Anxa2 ,  Pcbp2 , and  Bard1  (positive in both). Fixed-effects meta-analysis was consistent with an overall pattern during oxidative stress-based carcinogenesis, where homeostatic genes downregulate with chromatin compaction, while carcinogenetic pathways across injury/iron-overload/fibrosis are activated, especially more pronounced in  BRCA1  mutants.  NSD [ 41 ], which detected hematoxylin-dense intranuclear foci, showed no detectable gene-level association in either genotype ( Fig. S4B ), consistent with its proposed role as constitutive, transcriptionally silent chromatin compartment (e.g., chromocenters). PII captured the distribution of peripheral heterochromatin (lamina-associated domains (LADs)), providing a complementary readout of nuclear architectural organization. In WT, PT metabolic genes (e.g.,  Pink1 ,  Slc27a2 ,  Tfrc ,  Fth1 ,  Gpx4 ,  Ncoa4 ,  Pcbp2 ) were positively associated with PII, indicating that they correspond to greater peripheral enrichment of condensed chromatin, consistent with intact LAD organization ( Fig. 4 E;  Table S2 ). In MUT,  Slc27a2 ,  Amacr , and  Lrp2  retained similar positive associations, while  Mcub ,  Sting1 , and  Cdkn1/2a  showed significant negative associations not observed in WT, implying a distinct transcriptional signature related to peripheral heterochromatin loss [ 43 , 44 ]. As with HOD, cross concordance was low overall, although  Slc27a2 ,  Gpx4 , and  Pink1  replicated a consistent positive direction in both genotypes. Meta-analysis identified positive pooled effects for PT/iron/mitochondrial metabolic genes (e.g.,  Lrp2 ,  Slc27a2 ,  Amacr ), alongside negative effects including  Cdkn1/2a ,  Mcub ,  Lcn2 ,  Myc , and  Lgals1  ( Fig. 4 E).  Together, these results indicate that HOD and PII both capture a shared transcriptional axis linking proximal tubule homeostasis to chromatin reorganization, with this signature more extensive in MUT. These findings also demonstrate that nuclear chromatin morphometry can be systematically linked to spatial transcriptomic profiles, identifying candidate chromatin-state markers of early renal carcinogenesis.    3.5  Epithelial karyomegaly classified into subtypes with distinct biological signatures  We defined karyomegalic epithelial cells as PTs with nuclear area greater than mean + 2SD and elongated cells as those with axis ratio &gt;2. Compared with other PTs, enlarged nuclei showed consistent  Cdkn1a  upregulation and  Pink1  downregulation, with heterogeneous induction of DNA damage repair and regenerative genes ( Fig. 5 A;  Fig. S5C and D ). Elongated cells showed impaired epithelial function with increased  Sfxn3  and modest  Rad51  and  Mki67  induction ( Fig. S5B ). Because karyomegalic cells showed clear transcriptional heterogeneity and group-dependent differences in incidence, we focused subsequent analyses on enlarged epithelial nuclei.  Fig. 5   Molecular and morphometric sub-stratification of karyomegalic proximal-tubular cells and their dynamics in WT and Brca1-MUT kidneys in the Fe-NTA model.  A,  Incidence and global markers of karyomegalic cells.  Left , proportions of karyomegalic, elongated, and dual-phenotype epithelial cells in each Xenium dataset (normalized to total PT cells; definitions in Methods).  Right , heatmap of the top 10 differentially expressed genes in karyomegalic versus non-karyomegalic PT cells (rows hierarchical-clustered; columns, randomly sampled cells per identity; log-normalize, Z-scored).  B,  Six karyomegalic subclusters (K0–K5).  Left , UMAP of karyomegalic cells colored by subclusters.  Right-top , stacked bar plot of sample contributions per subcluster.  Right-bottom , heatmap of per-cluster means for nuclear morphology descriptors (rows) derived from Xenium polygon; values z-scored across clusters (red high; blue low). Open circles mark features significantly enriched/depleted in that cluster (two-sided linear model; BH-FDR &lt;0.05).  C,  Transcriptional signatures per karyomegalic subcluster (Z scored; red high, blue low).  D,  Spatial context of karyomegalic subclusters in representative Fe-NTA 3-week cortices (by Xenium Explorer). Columns K4, K0, K1, and K2 illustrate typical distinctive nuclear outlines and locations of representative transcripts (scale bar, 50 μm).  E,  Peri-karyomegalic PT states.  Left , hallmark expression in PT neighbors within 30 μm of a karyomegalic PT (red bar) versus PT &gt; 30 μm away (blue bar), values scaled.  Right , dot plot of DE patterns across PT subsets stratified by the center karyomegalic subtype (dot color, mean scaled expression; dot size expressing-cell fraction).                       We next investigated the morphological and transcriptional features of re-clustered karyomegalic subpopulations. Among all clusters, K1 displayed the most pronounced nuclear enlargement with irregular, rough nuclear contours, and thus most closely aligned with the canonical pathological definition of karyomegaly ( Fig. 5 B, D). Transcriptional profiling further revealed strong induction of  Cdkn1a , coordinated with elevated  Ncoa4  and reduced  Fth1 , indicative of stress-associated cell-cycle arrest with an active ferritinophagy-mediated iron-mobilization program ( Fig. 5 C, S5E). K4 was enriched for markers of proximal tubule homeostasis and metabolic competence (e.g.,  Lrp2, Slc27a2, Amacr, Pink1 ), suggesting maintenance of epithelial transport and mitochondrial quality control in WT ( Fig. 5 B, C). And in morphological perspectives, K4 showed relatively more solid and compact nucleus. Strikingly, K2 and K5 co-expressed  Met, Lcn2,  and  Myc , pointing to an adaptive stress program with oncogenic features, whereas significant nuclear morphology features included elongation yet smaller area than K1. We interpret these states as a potential early pro-tumorigenic niche in BRCA1-haploinsufficient kidneys that may represent an actionable window for intervention in carcinogenesis.  To determine whether karyomegaly represents not only an altered epithelial state but also a local epithelial microenvironment, we profiled PT neighbors located within 30 μm of either karyomegalic or non-karyomegalic PT cells. PTs adjacent to karyomegalic cells showed increased expression of iron-handling, oxidative stress–adaptive, and pro-survival genes, including  Lcn2, Anxa2, Mki67, Sfxn3, Cdkn1a,  and  Myc , together with reduced  Amacr, Aqp3,  and  Pink1  ( Fig. 5 E). These signatures partially mirrored those of karyomegalic cells themselves, indicating that surrounding epithelial cells acquire a stress-adapted, survival-biased state. This interpretation is supported by the induction of factors linked to ferroptotic vulnerability, including  Lcn2 , which can modulate labile iron availability and antioxidant defenses [ 45 ], and by reduced  Pink1 , suggesting impaired mitophagy [ 46 ].  Subtype-stratified analysis further showed that PTs surrounding K2 cells were enriched for  Myc, Lcn2, Slc40a1,  and  Met , with reduced  Amacr, Pink1,  and  Slc27a2,  whereas PTs surrounding K4 cells maintained metabolic and mitochondrial homeostasis genes ( Fig. 5 E). Thus, karyomegalic states appear to act as focal organizers of local epithelial programs, with BRCA1-haploinsufficient karyomegaly defining a stress-adaptive, iron-handling, proto-oncogenic niche permissive for iron-driven carcinogenesis.    3.6  Stromal neighbors contribute to distinct regulatory system in BRCA1-MUT kidneys  Because renal epithelial injury occurs within an integrated tubulointerstitial environment [ 47 , 48 ], we examined stromal proximity and microenvironmental organization. Xenium-derived spatial maps showed increased exposome-responsive stromal infiltration around PTs in MUT kidneys compared with WT ( Fig. 6 A;  Fig. S6A ). Quantification of stromal neighbors within 30 μm of each PT revealed progressive stromal proximity after Fe-NTA exposure, with significantly higher stromal adjacency in MUT Fe-NTA 3-week kidneys than WT Fe-NTA 3-week kidneys (WT_Fe3w mean = 8.25, MUT_Fe3w mean = 11.3, p &lt; 2.2 x 10  -16 ).  Fig. 6   Stromal-epithelial crosstalk and karyomegalic cell-centered population are rewired in  Brca1 -mutant kidneys during early carcinogenesis.  A,  Left , spatial maps of stromal (ST; red) and proximal-tubular (PT; blue) cells from representative cortex tiles in control (CT), 1-week (Fe 1w) and 3-week (Fe 3w) Fe-NTA treatment (wild-type, WT; and  Brca1   +/−  , MUT).  Right , quantitative neighborhood analysis. Boxplots show medians and inter-quartile ranges (whiskers, 1.5× IQR). Kruskal–Wallis test: χ 2  = 2.82 × 10 5 , df = 5,  P  &lt; 2.2 × 10 −16 .  B,  PT/ST cluster composition of twelve spatially defined microenvironments (ME-0 – ME-11; by Leiden clustering). Each column represents one epithelial (PT-0 – PT-11) or stromal (ST-0 – ST-12) neighbor cluster; color denotes the fraction of immediate neighbors from that cluster (0 → purple, 0.20 → lime). Hierarchical clustering of rows/columns reveals two hubs: ME-2 (green; enriched for ST-1 regenerative and ST-3 injury-response niches) and ME-5 (brown; enriched for ferroptosis-resistant ST-0/9 and pro-fibrotic ST-5), indicating genotype- and injury-specific rewiring of local PT–ST interactions.  C,  ME-cluster composition across all samples (stacked bars).  D,  Whole-section renderings highlighting ME-2 (green) versus ME-5 (brown) in Fe-3w WT and MUT kidneys (scale bars, 50 μm); insets, H&amp;E images of equivalent areas.  E,  Comparative gene-gene correlation matrix (ME-2 versus ME-5). Red blocks mark gene sets selectively co-regulated in ME-2; blue highlights ME-5-centric programs.  F,  Standardized Pearson residual heatmap from a chi-square test of independence on the karyomegalic-cluster × ME contingency table (green = over-represented, red = under-represented). Asterisks mark residual magnitude: |std. resid.| ≥ 1.96 ∗, ≥2.58 ∗∗, ≥3.00 ∗∗∗). Global association: Cramér's V = 0.232; χ 2  test  p  &lt; 2.2 × 10 −16 .                       To characterize these changes, we performed Leiden-based microenvironmental (ME) clustering, using previously defined PT and stromal subclusters within a 30 μm radius. Twelve predominant MEs were retained for analysis ( Fig. 6 B;  Fig. S6B ). ME_2 and ME_5 showed marked differences between WT and MUT kidneys after 3 weeks of Fe-NTA exposure ( Fig. 6 C). Spatial projection revealed that ME_2 localized mainly to the cortex–medulla boundary, whereas ME_5 predominated in the upper cortex ( Fig. 6 D). ME_2 was enriched in WT_Fe3w and contained stromal programs associated with cell cycling, DNA repair, and moderate injury responses. In contrast, ME_5 predominated in MUT_Fe3w and showed stromal signatures related to iron storage, ferroptosis protection, matrix remodeling, and angiogenesis, including  Fth1, Ftl1, Pink1, Ncoa4, Gpx4, Slc40a1, Vegfa,  and  Col3a1  (Figs.  3D  and  6 B;  Fig. S6C ).  Gene–gene correlation analysis further distinguished ME_2 and ME_5 regulatory patterns ( Fig. 6 E). In ME_2, mitochondrial and PT metabolic genes correlated strongly with  Gpx4 , whereas in ME_5 they correlated more strongly with  Mki67  and  Ncoa4 . Oncogenic genes such as  Anxa2  and  Lcn2  also showed distinct interaction patterns between the two MEs, suggesting different epithelial–stromal regulatory states under oxidative stress. Finally, overlay of karyomegalic subtypes onto ME states showed that K2 was selectively enriched in ME_5, whereas K1, K4, and K5 did not show comparable association ( Fig. 6 F). This selective coupling links a BRCA1-associated karyomegalic state to a pro-oncogenic epithelial–stromal microenvironment ( Fig. 7 ).  Fig. 7   Schematic overview of integrating Xenium spatial transcriptomics with nuclear morphometry and neighborhood context.  Top left , integration of Xenium outputs with H&amp;E to align transcripts, nuclear polygons, and tissue architecture.  Top right , representative morphology-graded nuclear-state trends: oncogenic/stress markers (e.g.,  Anxa2, Met, Myc ) rise with nuclear atypia, whereas proximal homeostatic programs (e.g.,  Slc27a2, Lrp2 ) diminish along elongation axis.  Bottom , three symbolic karyomegalic-wired ME niches (PT–stromal neighborhoods) engaged by persistent Fe-NTA exposure: (i) quiescent PT–stromal units (center cells: K1; enlarged convex nucleus;  p21  + ), (ii) injury/regenerative neighborhoods (center cells: K4; solid round nucleus; mitochondria/metabolic marker upregulated), and (iii) rewired pro-fibrotic/ferroptosis-resistant niches (enriched in  Brca1   +/−  ; center cell: K2; elongated bizarre nucleus). The central “microscope” loop highlights the iterative coupling of pathology readout, spatial context, and gene programs that underpins the study.                         3.7  Brca1-MUT model exhibits abnormal mitochondrial ultrastructure and impaired respiratory function  Because spatial transcriptomics indicated coordinated shifts in mitochondrial and iron-regulatory programs, we examined mitochondrial structure and function. Transmission electron microscopy revealed BRCA1-dependent cristae remodeling after Fe-NTA exposure ( Fig. 8 A). Cristae length density increased in MUT epithelium but decreased in WT, with group-specific relationships between total cristae length and mitochondrial area. These changes coincided with increased mitochondrial iron deposition in MUT cortices after 3 weeks of Fe-NTA exposure ( Fig. 8 B).  Fig. 8   Mitochondrial dysfunction in BRCA1-MUT models.  A,  Mitochondrial cristae morphometry from TEM.  Top : representative TEM fields with the quantified ROI (yellow outline); insets show cristae ridges traced from the boxed areas (yellow) (scale bars, 1.0 μm in main panels; 0.5 μm in insets).  Bottom : per-mitochondrion metrics including cristae length density (total cristae length per mitochondrial area), mean branch length, and total cristae length versus mitochondrial area, summarized for each group.  B,  Immunoblotting of mitochondrial iron-handling proteins. Representative blots and quantification for FTMT and mitoferrins (Mfrn1/2) in kidney cortex from each group, normalized to ACTB (n = 3; ns, not significant, ∗∗ P  &lt; 0.01  vs  wild-type).  C,  Primary rat embryonic fibroblast (REF) workflow. Genotype-determined male-derived REFs were maintained for following assays.  D,  Immunofluorescence of TOM20/γ-H2AX in REFs. Representative images of WT and BRCA1-MUT REFs with/without Fe-NTA (500 μM, 6h). TOM20 labels mitochondria (green); γ-H2AX marks DNA double-strand breaks (red); nuclei, DAPI (blue). Scale bars, 5 μm.  E,  Mitochondrial stress test of WT/Brca1-MUT REFs using the seahorse analyzer. Oxygen-consumption rate (OCR) traces and summary of basal respiration, maximal respiration, coupling efficiency and proton leak in WT vs BRCA1-MUT REFs under the standard oligomycin/FCCP/rotenone + antimycin A sequence. Dots, biological replicates; ∗ P  &lt; 0.05, ∗∗ P  &lt; 0.01, ∗∗∗ P  &lt; 0.001  vs  wild-type.                       To assess mitochondrial function, we established immortalized primary rat embryonic fibroblasts (REFs) from male WT and Brca1-MUT embryos ( Fig. 8 C). After Fe-NTA-induced DNA double-strand breaks, MUT REFs showed fragmented mitochondrial networks, whereas WT cells retained more fused or branched mitochondria ( Fig. 8 D). Seahorse assays showed reduced basal and maximal oxygen-consumption rates, reduced proton leak, and increased coupling efficiency in MUT REFs compared with WT ( Fig. 8 E). These findings indicate that BRCA1 haploinsufficiency alters mitochondrial architecture, iron handling, and respiratory function during Fe-NTA-induced stress.    3.8  Clinical validation of karyomegalic transcriptional modules identifies prognostic risk states and morphology-associated programs  To assess clinical relevance, we analyzed TCGA RNA-seq cohorts, designating TCGA-KIRC as the primary validation cohort. Three modules were derived from karyomegalic clusters in the rat model: KaryoCore ( CDKN1A, MET, LCN2, SLC11A2 ), representing shared karyomegalic identity; Karyo2 ( COL3A1, MYC, SFXN3, SLC22A17, VEGFA, BRCA2, LGALS1, CGAS, MCUB ), representing the BRCA1-associated oncogenic K2 state; and Karyo4 ( AMACR, PINK1, UMOD, LRP2, SLC27A2 ), representing a homeostatic karyomegalic state. A literature-curated FerroResistance module ( GPX4, SLC7A11, AIFM2, NFE2L2, HMOX1, NQO1, FTL, GSS ) [ [49] ,  [50] ,  [51] ] was also evaluated ( Fig. S7A ).  In TCGA-KIRC tumor-adjacent solid-tissue-normal samples (STN; n = 72), higher KaryoCore and Karyo2 activity was associated with shorter progression-free interval (PFI) and overall survival (OS), whereas Karyo4 and FerroResistance were not significant in this compartment ( Fig. 9 A). In TCGA-KIRC primary tumors (n = 537), Karyo4 was associated with favorable OS and PFI, whereas Karyo2 was associated with adverse outcomes for both endpoints. FerroResistance showed a concordant adverse association with PFI, while KaryoCore was not prognostic in tumors. These associations were not reproduced in other carcinoma STN cohorts examined (COAD, LUAD, LUSC), although LIHC showed a non-significant adverse trend for Karyo2 ( Fig. S7B ). These results support Karyo2 and KaryoCore as renal pre-tumoral risk signals rather than generic pan-cancer markers.  Fig. 9   Karyomegalic gene module activity in STN predicts clinical outcome and correlates with nuclear morphology across  BRCA1  mutation contexts. A, Kaplan-Meier curves for progression-free interval (PFI) in TCGA-KIRC surgical tumor-adjacent normal (STN;  top panel ) and tumor ( bottom panel ) samples, stratified by median Karyo2, Karyo4, KaryoCore, and FerroResistance ssGSEA score. Statistics shown: log-rank p-value, hazard ratio (HR) with 95% confidence interval (CI), and Cox  p -value. Shaded bands indicate 95% CIs for the estimates.  B,  Violin plots of nucleus-level distributions of eccentricity, solidity, and extent for WT (blue; n = 15 patients, 5521 nuclei) and BRCA1-mutant (red; n = 7 patients, 2141 nuclei) ductal epithelial nuclei from annotated ROIs in TCGA-BRCA samples. Individual patient means are overlaid as circles. Significance labels reflect nucleus-level Wilcoxon rank-sum comparisons (exploratory); patient-level comparisons ( p -value and Cohen's d) were performed in parallel as the primary inference. ∗∗∗ p  &lt; 0.001.  C,  Scatter plots of patient-level STN Karyo2 ssGSEA scores against mean nuclear eccentricity ( left ), and STN KaryoCore scores against mean nuclear solidity ( right ), stratified by BRCA1 status. Overall, WT, MUT Spearman correlation coefficients ( ρ ;  rho ) and p-values are annotated. Correlations were considered as exploratory given the limited cohort size and the paucity of preserved ductal epithelial content in breast STN specimens.                       Because TCGA-BRCA STN transcriptomic signals are limited by sparse ductal epithelium, we analyzed diagnostic whole-slide images from TCGA-BRCA cases with known germline BRCA1 status [ 34 ]. ROIs containing well-formed ductal structures adjacent to ductal carcinoma were manually annotated, followed by nuclear segmentation and morphometric analysis in  BRCA1  germline mutation carriers and matched non-carrier controls. At the nucleus level,  BRCA1 -mutant carriers showed significant differences in eccentricity, solidity, and extent compared with controls ( Fig. 9 B). Although patient-level significance was not reached, effect sizes suggested less compact and more irregular nuclear contours in  BRCA1 -mutant ductal epithelium.  Finally, we correlated nuclear features with karyomegalic module activities by genotype. In  BRCA1 -mutant carriers, Karyo2 activity positively correlated with nuclear eccentricity (Spearman ρ = 0.82, p = 0.034), whereas KaryoCore activity correlated with nuclear solidity (ρ = 0.86, p = 0.024) ( Fig. 9 C). These relationships were absent in non-carrier cases ( Fig. S7C ). Nuclear area analyses showed divergent but non-significant trends across modules ( Fig. S7D ). Although limited by sample size, these findings support the concept that BRCA1-associated karyomegalic transcriptional programs are linked to nuclear remodeling in human epithelial tissue.     4  Discussion  In the present study, we combined single-cell spatial transcriptomics with digital nuclear morphometrics and identified a ferroptosis-resistant karyomegalic epithelial population as the earliest detectable preneoplastic alteration during exposome-related [ 18 ], iron-driven carcinogenesis. This stress-adaptive state was markedly expanded in Brca1 haploinsufficient rats, linking hereditary cancer susceptibility to impaired ferroptotic elimination under iron-catalyzed oxidative stress during tumor initiation. ( Fig. 7 ).  Spatial transcriptomics has transformed tissue biology by enabling molecular profiling while preserving histological architecture. Here, we further integrated spatial transcriptomic data with quantitative nuclear morphology derived from H&amp;E sections. In diagnostic pathology, nuclear atypia remains one of the most fundamental indicators of cellular state, yet its quantitative integration with molecular programs has remained limited. By establishing digital metrics for nuclear size, contour smoothness, chromatin density, and nuclear substructure, we generated a framework that translates classical histopathological features into spatially resolved functional genomic states. This approach revealed that nuclear enlargement and hyperchromasia closely track ferroptosis-resistant and stress-adaptive transcriptional programs during early carcinogenesis.  Our analysis identified a karyomegalic proximal tubular population enriched for oncogenic, iron-handling, and ferroptosis-resistance pathways. Importantly, neighboring non-karyomegalic epithelial cells displayed highly similar transcriptional profiles, suggesting that karyomegaly marks a broader pre-neoplastic field rather than an isolated cellular phenotype. Although karyomegalic cells themselves may represent a transient stress-adaptive state, they function as a histological beacon for the earliest detectable stages of tumor initiation under oxidative stress.  A central feature of this state was mitochondrial dysfunction. Electron microscopy previously demonstrated abundant small, interconnected mitochondria in  Brca1  mutant kidneys after Fe-NTA exposure [ 15 ], consistent with stress-induced mitochondrial remodeling. Concordantly, mitochondrial stress assays demonstrated impaired respiration and reduced metabolic flexibility, likely driven by a broad failure of mitochondrial quality control. Because mitochondria are major execution sites of ferroptosis [ 52 ], these alterations likely promote ferroptosis resistance and aberrant epithelial survival under iron-catalyzed oxidative stress. Reduced 4-hydroxy-2-nonenal (HNE) production detected by HNEJ-1 staining may similarly reflect depletion of mitochondrial substrates for lipid peroxidation [ 15 , 53 ]. Further investigation into biogenesis and maintenance of the diminished functional mitochondrial pool will likely clarify how exposome-related iron stress establishes and sustains the ferroptosis-resistant niches. Moreover, Brca1 haploinsufficiency perturbs iron homeostasis even under physiological conditions [ 15 ], potentially increasing susceptibility to stress-adaptive transformation through heightened iron demand during DNA synthesis [ 54 ].  Importantly, integration with human cancer datasets suggested that this ferroptosis-resistant karyomegalic state is conserved across multiple epithelial cancers beyond the experimental rat model ( Fig. 9 ). These findings support a broader model in which oxidative stress and hereditary susceptibility cooperate to generate stress-adaptive epithelial states that evade ferroptotic elimination during early tumorigenesis.  In conclusion, this study establishes a spatial and morphological framework for dissecting early tumor initiation by integrating single-cell spatial transcriptomics with digital pathology. We identify a ferroptosis-resistant karyomegalic epithelial state associated with mitochondrial dysfunction and expanded under BRCA1 haploinsufficiency, linking nuclear morphology to stress-adaptive pre-neoplastic programs across experimental and human tissue contexts. These findings provide a framework for understanding how exposome-driven oxidative stress intersects with hereditary cancer susceptibility during the earliest stages of tumor initiation. Limitations include the use of a preclinical male rat model, a restricted Xenium gene panel, and representative rather than biologically replicated specimens for each Xenium condition. Accordingly, single-cell statistical significance should be interpreted as supporting spatial cell-state associations rather than animal-level biological replication, with biological relevance strengthened by independent mitochondrial analyses, prior Fe-NTA observations, and human TCGA validation. Future studies should determine whether targeting mitochondrial adaptation or ferroptosis resistance can prevent tumor initiation in genetically susceptible tissues exposed to carcinogenic oxidative stress.    CRediT authorship contribution statement   Yingyi Kong:  Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Software, Supervision, Writing – original draft.  Yukihiro Shiraki:  Methodology.  Kazuhiro Furuhashi:  Methodology, Software.  Shoichi Maruyama:  Methodology.  Tatsuhiko Imaoka:  Resources.  Atsushi Enomoto:  Methodology, Supervision.  Shinya Toyokuni:  Conceptualization, Data curation, Funding acquisition, Methodology, Project administration, Writing – original draft, Writing – review &amp; editing.    Declaration of competing interest  All the authors declare that they have no competing interests.      References   1     Wade  J.    Byrne  D.J.    Ballentine  C.J.    Drakesmith  H.    Temporal variation of planetary iron as a driver of evolution  Proc. Natl. Acad. Sci. U. S. A.  118  51  2021  e2109865118  10.1073/pnas.2109865118  PMC8713747  34873026     2     Toyokuni  S.    Role of iron in carcinogenesis: cancer as a ferrotoxic disease  Cancer Sci.  100  1  2009  9  16  19018762  10.1111/j.1349-7006.2008.01001.x  PMC11158384     3     Toyokuni  S.    Ito  F.    Yamashita  K.    Okazaki  Y.    Akatsuka  S.    Iron and thiol redox signaling in cancer: an exquisite balance to escape ferroptosis  Free Radic. Biol. Med.  108  2017  610  626  28433662  10.1016/j.freeradbiomed.2017.04.024     4     Ebina  Y.    Okada  S.    Hamazaki  S.    Ogino  F.    Li  J.L.    Midorikawa  O.    Nephrotoxicity and renal cell carcinoma after use of iron- and aluminum- nitrilotriacetate complexes in rats  J. Natl. Cancer Inst.  76  1986  107  113  3455733     5     Toyokuni  S.    Kong  Y.Y.    Zheng  H.    Maeda  Y.    Motooka  Y.    Akatsuka  S.    Iron as spirit of life to share under monopoly  J. Clin. Biochem. Nutr.  71  2  2022  78  88  36213789  10.3164/jcbn.22-43  PMC9519419     6     Toyokuni  S.    Kong  Y.    Maeda  Y.    Lyu  Q.    Ohara  Y.    Sato  K.    Motooka  Y.    Nakamura  K.    Tanaka  H.    Ferroptosis and cancer: when iron turns against tumors  Cell. Mol. Life Sci.  83  1  2025  16  41288738  10.1007/s00018-025-05982-5  PMC12748493     7     Vogelstein  B.    Kinzler  K.W.    The Genetic Basis of Human Cancer  1998  McGraw-Hill  New York     8     Garutti  M.    Foffano  L.    Mazzeo  R.    Michelotti  A.    Da Ros  L.    Viel  A.    Miolo  G.    Zambelli  A.    Puglisi  F.    Hereditary cancer syndromes: a comprehensive review with a visual tool  Genes  14  5  2023  10.3390/genes14051025  PMC10218093  37239385     9     Narod  S.A.    Foulkes  W.D.    BRCA1 and BRCA2: 1994 and beyond  Nat. Rev. Cancer  4  9  2004  665  676  15343273  10.1038/nrc1431     10     Lieberman  S.    Goldvaser  H.    Levy-Lahad  E.    Germline pathogenic variants in BRCA1 and BRCA2: malignancies beyond female breast and ovarian cancers  J. Clin. Oncol.  40  14  2022  1590  1594  35286153  10.1200/JCO.22.00003     11     Momozawa  Y.    Sasai  R.    Usui  Y.    Shiraishi  K.    Iwasaki  Y.    Taniyama  Y.    Parsons  M.T.    Mizukami  K.    Sekine  Y.    Hirata  M.    Kamatani  Y.    Endo  M.    Inai  C.    Takata  S.    Ito  H.    Kohno  T.    Matsuda  K.    Nakamura  S.    Sugano  K.    Yoshida  T.    Nakagawa  H.    Matsuo  K.    Murakami  Y.    Spurdle  A.B.    Kubo  M.    Expansion of cancer risk profile for BRCA1 and BRCA2 pathogenic variants  JAMA Oncol.  8  6  2022  871  878  35420638  10.1001/jamaoncol.2022.0476  PMC9011177     12     Nakamura  Y.    Kubota  J.    Nishimura  Y.    Nagata  K.    Nishimura  M.    Daino  K.    Ishikawa  A.    Kaneko  T.    Mashimo  T.    Kokubo  T.    Takabatake  M.    Inoue  K.    Fukushi  M.    Arai  M.    Saito  M.    Shimada  Y.    Kakinuma  S.    Imaoka  T.    Brca1(L63X) (/+) rat is a novel model of human BRCA1 deficiency displaying susceptibility to radiation-induced mammary cancer  Cancer Sci.  113  10  2022  3362  3375  35851737  10.1111/cas.15485  PMC9530872     13     Tanaka  H.    Motooka  Y.    Maeda  Y.    Sonehara  R.    Nakamura  T.    Kajiyama  H.    Mashimo  T.    Toyokuni  S.    Brca2((p.T1942fs/+)) dissipates ovarian reserve in rats through oxidative stress in follicular granulosa cells  Free Radic. Res.  58  2  2024  130  143  38394084  10.1080/10715762.2024.2320405     14     Motooka  Y.    Tanaka  H.    Maeda  Y.    Katabuchi  M.    Mashimo  T.    Toyokuni  S.    Heterozygous mutation in BRCA2 induces accelerated age-dependent decline in sperm quality with male subfertility in rats  Sci. Rep.  15  1  2025  447  39747609  10.1038/s41598-024-84184-8  PMC11696240     15     Kong  Y.    Akatsuka  S.    Motooka  Y.    Zheng  H.    Cheng  Z.    Shiraki  Y.    Mashimo  T.    Imaoka  T.    Toyokuni  S.    BRCA1 haploinsufficiency promotes chromosomal amplification under Fenton reaction-based carcinogenesis through ferroptosis-resistance  Redox Biol.  54  2022  102356  10.1016/j.redox.2022.102356  PMC9168618  35667247     16     Toyokuni  S.    Kong  Y.    Maeda  Y.    Ohara  Y.    Motooka  Y.    Ferroptosis in BRCA-associated disorders: extracellular vesicles as potential messengers beyond the cell  EXO  1  1  2026  2     17     Tian  L.    Chen  F.    Macosko  E.Z.    The expanding vistas of spatial transcriptomics  Nat. Biotechnol.  41  6  2023  773  782  36192637  10.1038/s41587-022-01448-2  PMC10091579     18     Vermeulen  R.    Schymanski  E.L.    Barabási  A.-L.    Miller  G.W.    The exposome and health: where chemistry meets biology  Science  367  6476  2020  392  396  31974245  10.1126/science.aay3164  PMC7227413     19     Liu  Y.T.    Shang  D.    Akatsuka  S.    Ohara  H.    Dutta  K.K.    Mizushima  K.    Naito  Y.    Yoshikawa  T.    Izumiya  M.    Abe  K.    Nakagama  H.    Noguchi  N.    Toyokuni  S.    Chronic oxidative stress causes amplification and overexpression of ptprz1 protein tyrosine phosphatase to activate beta-catenin pathway  Am. J. Pathol.  171  6  2007  1978  1988  18055543  10.2353/ajpath.2007.070741  PMC2111120     20     Zhong  Y.    Onuki  J.    Yamasaki  T.    Ogawa  O.    Akatsuka  S.    Toyokuni  S.    Genome-wide analysis identifies a tumor suppressor role for aminoacylase 1 in iron-induced rat renal cell carcinoma  Carcinogenesis  30  1  2009  158  164  19028700  10.1093/carcin/bgn255     21     Onoda  N.    Kawabata  A.    Hasegawa  K.    Sakakura  M.    Urakawa  I.    Seki  M.    Zenkoh  J.    Suzuki  A.    Suzuki  Y.    Spatial and single-cell transcriptome analysis reveals changes in gene expression in response to drug perturbation in rat kidney  DNA Res.  29  2  2022  10.1093/dnares/dsac007  PMC9014450  35325072     22     Rath  S.    Sharma  R.    Gupta  R.    Ast  T.    Chan  C.    Durham  T.J.    Goodman  R.P.    Grabarek  Z.    Haas  M.E.    Hung  W.H.W.    Joshi  P.R.    Jourdain  A.A.    Kim  S.H.    Kotrys  A.V.    Lam  S.S.    McCoy  J.G.    Meisel  J.D.    Miranda  M.    Panda  A.    Patgiri  A.    Rogers  R.    Sadre  S.    Shah  H.    Skinner  O.S.    To  T.L.    Walker  M.A.    Wang  H.    Ward  P.S.    Wengrod  J.    Yuan  C.C.    Calvo  S.E.    Mootha  V.K.    MitoCarta3.0: an updated mitochondrial proteome now with sub-organelle localization and pathway annotations  Nucleic Acids Res.  49  D1  2021  D1541  D1547  33174596  10.1093/nar/gkaa1011  PMC7778944     23     Janesick  A.    Shelansky  R.    Gottscho  A.D.    Wagner  F.    Williams  S.R.    Rouault  M.    Beliakoff  G.    Morrison  C.A.    Oliveira  M.F.    Sicherman  J.T.    Kohlway  A.    Abousoud  J.    Drennon  T.Y.    Mohabbat  S.H.    10x Development Teams  T.    Taylor  S.E.B.    High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis  Nat. Commun.  14  1  2023  8353  38114474  10.1038/s41467-023-43458-x  PMC10730913     24     Wang  H.    Huang  R.    Nelson  J.    Gao  C.    Tran  M.    Yeaton  A.    Krishna  S.    Felt  K.    Pfaff  K.L.    Bowman  T.    Rodig  S.J.    Wei  K.    Goods  B.A.    Farhi  S.L.    Systematic benchmarking of imaging spatial transcriptomics platforms in FFPE tissues  Nat. Commun.  2025  10215  10.1038/s41467-025-64990-y  PMC12635344  41266321     25     Dries  R.    Zhu  Q.    Dong  R.    Eng  C.L.    Li  H.    Liu  K.    Fu  Y.    Zhao  T.    Sarkar  A.    Bao  F.    George  R.E.    Pierson  N.    Cai  L.    Yuan  G.C.    Giotto: a toolbox for integrative analysis and visualization of spatial expression data  Genome Biol.  22  1  2021  78  33685491  10.1186/s13059-021-02286-2  PMC7938609     26     Polonsky  M.    Gerhardt  L.M.S.    Yun  J.    Koppitch  K.    Colon  K.L.    Amrhein  H.    Wold  B.    Zheng  S.    Yuan  G.C.    Thomson  M.    Cai  L.    McMahon  A.P.    Spatial transcriptomics defines injury specific microenvironments and cellular interactions in kidney regeneration and disease  Nat. Commun.  15  1  2024  7010  39237549  10.1038/s41467-024-51186-z  PMC11377535     27     Gu  Z.    Eils  R.    Schlesner  M.    Complex heatmaps reveal patterns and correlations in multidimensional genomic data  Bioinformatics  32  18  2016  2847  2849  27207943  10.1093/bioinformatics/btw313     28     Durkin  M.E.    Qian  X.    Popescu  N.C.    Lowy  D.R.    Isolation of mouse embryo fibroblasts  Bio Protoc.  3  18  2013  10.21769/bioprotoc.908  PMC4928858  27376106     29     Dhakal  P.    Soares  M.J.    Single-step PCR-based genetic sex determination of rat tissues and cells  Biotechniques  62  5  2017  232  233  28528577  10.2144/000114548  PMC5831150     30     Liu  J.    Lichtenberg  T.    Hoadley  K.A.    Poisson  L.M.    Lazar  A.J.    Cherniack  A.D.    Kovatich  A.J.    Benz  C.C.    Levine  D.A.    Lee  A.V.    Omberg  L.    Wolf  D.M.    Shriver  C.D.    Thorsson  V.    Cancer Genome Atlas Research  N.    Hu  H.    An integrated TCGA pan-cancer clinical data resource to drive high-quality survival outcome analytics  Cell  173  2  2018  400  416 e11  29625055  10.1016/j.cell.2018.02.052  PMC6066282     31     Colaprico  A.    Silva  T.C.    Olsen  C.    Garofano  L.    Cava  C.    Garolini  D.    Sabedot  T.S.    Malta  T.M.    Pagnotta  S.M.    Castiglioni  I.    Ceccarelli  M.    Bontempi  G.    Noushmehr  H.    TCGAbiolinks: an R/Bioconductor package for integrative analysis of TCGA data  Nucleic Acids Res.  44  8  2016  e71  10.1093/nar/gkv1507  PMC4856967  26704973     32     Robinson  M.D.    McCarthy  D.J.    Smyth  G.K.    edgeR: a Bioconductor package for differential expression analysis of digital gene expression data  Bioinformatics  26  1  2010  139  140  19910308  10.1093/bioinformatics/btp616  PMC2796818     33     Hanzelmann  S.    Castelo  R.    Guinney  J.    GSVA: gene set variation analysis for microarray and RNA-seq data  BMC Bioinf.  14  2013  7  10.1186/1471-2105-14-7  PMC3618321  23323831     34     Huang  K.L.    Mashl  R.J.    Wu  Y.    Ritter  D.I.    Wang  J.    Oh  C.    Paczkowska  M.    Reynolds  S.    Wyczalkowski  M.A.    Oak  N.    Scott  A.D.    Krassowski  M.    Cherniack  A.D.    Houlahan  K.E.    Jayasinghe  R.    Wang  L.B.    Zhou  D.C.    Liu  D.    Cao  S.    Kim  Y.W.    Koire  A.    McMichael  J.F.    Hucthagowder  V.    Kim  T.B.    Hahn  A.    Wang  C.    McLellan  M.D.    Al-Mulla  F.    Johnson  K.J.    Cancer Genome Atlas Research  N.    Lichtarge  O.    Boutros  P.C.    Raphael  B.    Lazar  A.J.    Zhang  W.    Wendl  M.C.    Govindan  R.    Jain  S.    Wheeler  D.    Kulkarni  S.    Dipersio  J.F.    Reimand  J.    Meric-Bernstam  F.    Chen  K.    Shmulevich  I.    Plon  S.E.    Chen  F.    Ding  L.    Pathogenic germline variants in 10,389 adult cancers  Cell  173  2  2018  355  370 e14  29625052  10.1016/j.cell.2018.03.039  PMC5949147     35     Austin  P.C.    An introduction to propensity score methods for reducing the effects of confounding in observational studies  Multivariate Behav. Res.  46  3  2011  399  424  21818162  10.1080/00273171.2011.568786  PMC3144483     36     Bankhead  P.    Loughrey  M.B.    Fernandez  J.A.    Dombrowski  Y.    McArt  D.G.    Dunne  P.D.    McQuaid  S.    Gray  R.T.    Murray  L.J.    Coleman  H.G.    James  J.A.    Salto-Tellez  M.    Hamilton  P.W.    QuPath: open source software for digital pathology image analysis  Sci. Rep.  7  1  2017  16878  10.1038/s41598-017-17204-5  PMC5715110  29203879     37     Stringer  C.    Wang  T.    Michaelos  M.    Pachitariu  M.    Cellpose: a generalist algorithm for cellular segmentation  Nat. Methods  18  1  2021  100  106  33318659  10.1038/s41592-020-01018-x     38     Toyokuni  S.    The origin and future of oxidative stress pathology: from the recognition of carcinogenesis as an iron addiction with ferroptosisresistance to non-thermal plasma therapy  Pathol. Int.  66  2016  245  259  26931176  10.1111/pin.12396     39     Ebina  Y.    Okada  S.    Hamazaki  S.    Ogino  F.    Li  J.L.    Midorikawa  O.    Nephrotoxicity and renal cell carcinoma after use of iron- and aluminum-nitrilotriacetate complexes in rats  J. Natl. Cancer Inst.  76  1  1986  107  113  3455733     40     Toyokuni  S.    Mori  T.    Dizdaroglu  M.    DNA base modifications in renal chromatin of Wistar rats treated with a renal carcinogen, ferric nitrilotriacetate  Int. J. Cancer  57  1994  123  128  8150530  10.1002/ijc.2910570122     41     Almouzni  G.    Probst  A.V.    Heterochromatin maintenance and establishment: lessons from the mouse pericentromere  Nucleus  2  5  2011  332  338  21941119  10.4161/nucl.2.5.17707     42     Guelen  L.    Pagie  L.    Brasset  E.    Meuleman  W.    Faza  M.B.    Talhout  W.    Eussen  B.H.    de Klein  A.    Wessels  L.    de Laat  W.    van Steensel  B.    Domain organization of human chromosomes revealed by mapping of nuclear lamina interactions  Nature  453  7197  2008  948  951  18463634  10.1038/nature06947     43     Solovei  I.    Wang  A.S.    Thanisch  K.    Schmidt  C.S.    Krebs  S.    Zwerger  M.    Cohen  T.V.    Devys  D.    Foisner  R.    Peichl  L.    Herrmann  H.    Blum  H.    Engelkamp  D.    Stewart  C.L.    Leonhardt  H.    Joffe  B.    LBR and lamin A/C sequentially tether peripheral heterochromatin and inversely regulate differentiation  Cell  152  3  2013  584  598  23374351  10.1016/j.cell.2013.01.009     44     Sadaie  M.    Salama  R.    Carroll  T.    Tomimatsu  K.    Chandra  T.    Young  A.R.    Narita  M.    Perez-Mancera  P.A.    Bennett  D.C.    Chong  H.    Kimura  H.    Narita  M.    Redistribution of the Lamin B1 genomic binding profile affects rearrangement of heterochromatic domains and SAHF formation during senescence  Genes Dev.  27  16  2013  1800  1808  23964094  10.1101/gad.217281.113  PMC3759696     45     Meier  J.K.    Schnetz  M.    Beck  S.    Schmid  T.    Dominguez  M.    Kalinovic  S.    Daiber  A.    Brüne  B.    Jung  M.    Iron-bound lipocalin-2 protects renal cell carcinoma from ferroptosis  Metabolites  11  5  2021  329  34069743  10.3390/metabo11050329  PMC8161288     46     Vives-Bauza  C.    Zhou  C.    Huang  Y.    Cui  M.    De Vries  R.L.    Kim  J.    May  J.    Tocilescu  M.A.    Liu  W.    Ko  H.S.    PINK1-dependent recruitment of Parkin to mitochondria in mitophagy  Proc. Natl. Acad. Sci. U. S. A.  107  1  2010  378  383  19966284  10.1073/pnas.0911187107  PMC2806779     47     Grgic  I.    Campanholle  G.    Bijol  V.    Wang  C.    Sabbisetti  V.S.    Ichimura  T.    Humphreys  B.D.    Bonventre  J.V.    Targeted proximal tubule injury triggers interstitial fibrosis and glomerulosclerosis  Kidney Int.  82  2  2012  172  183  22437410  10.1038/ki.2012.20  PMC3480325     48     Castrop  H.    The role of renal interstitial cells in proximal tubular regeneration  Nephron  141  4  2019  265  272  30636248  10.1159/000496278     49     Dixon  S.J.    Lemberg  K.M.    Lamprecht  M.R.    Skouta  R.    Zaitsev  E.M.    Gleason  C.E.    Patel  D.N.    Bauer  A.J.    Cantley  A.M.    Yang  W.S.    Ferroptosis: an iron-dependent form of nonapoptotic cell death  Cell  149  5  2012  1060  1072  22632970  10.1016/j.cell.2012.03.042  PMC3367386     50     Stockwell  B.R.    Friedmann Angeli  J.P.    Bayir  H.    Bush  A.I.    Conrad  M.    Dixon  S.J.    Fulda  S.    Gascon  S.    Hatzios  S.K.    Kagan  V.E.    Noel  K.    Jiang  X.    Linkermann  A.    Murphy  M.E.    Overholtzer  M.    Oyagi  A.    Pagnussat  G.C.    Park  J.    Ran  Q.    Rosenfeld  C.S.    Salnikow  K.    Tang  D.    Torti  F.M.    Torti  S.V.    Toyokuni  S.    Woerpel  K.A.    Zhang  D.D.    Ferroptosis: a regulated cell death nexus linking metabolism  Redox Bio. Dis. Cell  171  2  2017  273  285  10.1016/j.cell.2017.09.021  PMC5685180  28985560     51     Bersuker  K.    Hendricks  J.M.    Li  Z.    Magtanong  L.    Ford  B.    Tang  P.H.    Roberts  M.A.    Tong  B.    Maimone  T.J.    Zoncu  R.    Bassik  M.C.    Nomura  D.K.    Dixon  S.J.    Olzmann  J.A.    The CoQ oxidoreductase FSP1 acts parallel to GPX4 to inhibit ferroptosis  Nature  575  7784  2019  688  692  31634900  10.1038/s41586-019-1705-2  PMC6883167     52     Jiang  L.    Zheng  H.    Ishida  M.    Lyu  Q.    Akatsuka  S.    Motooka  Y.    Sato  K.    Sekido  Y.    Nakamura  K.    Tanaka  H.    Ishikawa  K.    Kajiyama  H.    Mizuno  M.    Hori  M.    Toyokuni  S.    Elaborate cooperation of poly(rC)-binding proteins 1/2 and glutathione in ferroptosis induced by plasma-activated Ringer's lactate  Free Radic. Biol. Med.  214  2024  28  41  38325565  10.1016/j.freeradbiomed.2024.02.001     53     Zheng  H.    Jiang  L.    Tsuduki  T.    Conrad  M.    Toyokuni  S.    Embryonal erythropoiesis and aging exploit ferroptosis  Redox Biol.  48  2021  102175  10.1016/j.redox.2021.102175  PMC8577445  34736120     54     Cotruvo  J.A.    Stubbe  J.    Class I ribonucleotide reductases: metallocofactor assembly and repair in vitro and in vivo  Annu. Rev. Biochem.  80  2011  733  767  21456967  10.1146/annurev-biochem-061408-095817  PMC4703083      Appendix A  Supplementary data  The following are the Supplementary data to this article.   Multimedia component 1               Multimedia component 2                Data availability The Xenium spatial transcriptomics data generated in this study is deposited in the Gene Expression Omnibus (GEO) under accession number  GSE338104 . All other data will be made available on request. ",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:16.721377Z",
+    "last_checked_at": "2026-10-31T09:40:51.170811Z",
     "source": "europe_pmc"
   },
   {
@@ -5981,7 +6360,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-10-30T10:03:07.103316Z",
+    "last_checked_at": "2026-10-31T09:40:50.166504Z",
     "source": "europe_pmc"
   },
   {
@@ -6047,7 +6426,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-06T10:19:21.686886Z",
-    "last_checked_at": "2026-10-30T10:02:58.520477Z",
+    "last_checked_at": "2026-10-31T09:40:43.141959Z",
     "source": "europe_pmc"
   },
   {
@@ -6648,7 +7027,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:52:12.208032Z",
-    "last_checked_at": "2026-10-30T10:02:55.306417Z",
+    "last_checked_at": "2026-10-31T09:40:42.676186Z",
     "source": "europe_pmc"
   },
   {
@@ -6859,7 +7238,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:36.526568Z",
-    "last_checked_at": "2026-10-30T10:02:48.582884Z",
+    "last_checked_at": "2026-10-31T09:40:41.249495Z",
     "source": "europe_pmc"
   },
   {
@@ -6974,7 +7353,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:59.582477Z",
-    "last_checked_at": "2026-10-30T10:02:23.595468Z",
+    "last_checked_at": "2026-10-31T09:40:15.052147Z",
     "source": "europe_pmc"
   },
   {
@@ -7191,7 +7570,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-09T08:10:06.624860Z",
-    "last_checked_at": "2026-10-30T10:02:22.394355Z",
+    "last_checked_at": "2026-10-31T09:40:14.816211Z",
     "source": "europe_pmc"
   },
   {
@@ -7294,7 +7673,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:35.067313Z",
-    "last_checked_at": "2026-10-30T10:02:18.873570Z",
+    "last_checked_at": "2026-10-31T09:40:14.469928Z",
     "source": "europe_pmc"
   },
   {
@@ -7439,7 +7818,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-11T08:04:27.768780Z",
-    "last_checked_at": "2026-10-30T10:02:16.888915Z",
+    "last_checked_at": "2026-10-31T09:40:14.184912Z",
     "source": "europe_pmc"
   },
   {
@@ -7578,7 +7957,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:14.784026Z",
-    "last_checked_at": "2026-10-30T10:02:09.957002Z",
+    "last_checked_at": "2026-10-31T09:40:10.583476Z",
     "source": "europe_pmc"
   },
   {
@@ -7711,7 +8090,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:56:21.207734Z",
-    "last_checked_at": "2026-10-30T10:02:06.927475Z",
+    "last_checked_at": "2026-10-31T09:40:09.637387Z",
     "source": "europe_pmc"
   },
   {
@@ -7777,7 +8156,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:56.522217Z",
-    "last_checked_at": "2026-10-30T10:02:01.859849Z",
+    "last_checked_at": "2026-10-31T09:40:09.356079Z",
     "source": "europe_pmc"
   },
   {
@@ -8162,7 +8541,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:22.103796Z",
-    "last_checked_at": "2026-10-30T10:02:01.505983Z",
+    "last_checked_at": "2026-10-31T09:40:09.057306Z",
     "source": "europe_pmc"
   },
   {
@@ -8228,7 +8607,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-22T08:37:44.617167Z",
-    "last_checked_at": "2026-10-30T10:01:59.299625Z",
+    "last_checked_at": "2026-10-31T09:40:08.771092Z",
     "source": "europe_pmc"
   },
   {
