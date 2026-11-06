@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-11-05T11:16:40.942631Z",
+    "last_checked_at": "2026-11-06T11:07:15.422912Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-11-05T11:16:40.940101Z",
+    "last_checked_at": "2026-11-06T11:07:15.420788Z",
     "source": "biostudies"
   },
   {
@@ -226,7 +226,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813503Z",
-    "last_checked_at": "2026-11-05T11:16:40.937791Z",
+    "last_checked_at": "2026-11-06T11:07:15.418902Z",
     "source": "biostudies"
   },
   {
@@ -323,7 +323,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813325Z",
-    "last_checked_at": "2026-11-05T11:16:21.930393Z",
+    "last_checked_at": "2026-11-06T11:07:11.357465Z",
     "source": "biostudies"
   },
   {
@@ -420,7 +420,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813444Z",
-    "last_checked_at": "2026-11-05T11:16:21.813673Z",
+    "last_checked_at": "2026-11-06T11:07:11.185258Z",
     "source": "biostudies"
   },
   {
@@ -614,7 +614,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-11-05T11:15:41.899652Z",
+    "last_checked_at": "2026-11-06T11:06:47.862031Z",
     "source": "biostudies"
   },
   {
@@ -759,7 +759,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-11-05T11:15:41.466264Z",
+    "last_checked_at": "2026-11-06T11:06:46.968470Z",
     "source": "biostudies"
   },
   {
@@ -868,7 +868,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-11-05T11:15:36.418775Z",
+    "last_checked_at": "2026-11-06T11:06:44.509989Z",
     "source": "biostudies"
   },
   {
@@ -947,7 +947,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-11-05T11:15:36.096413Z",
+    "last_checked_at": "2026-11-06T11:06:43.971325Z",
     "source": "biostudies"
   },
   {
@@ -1038,7 +1038,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-21T08:46:28.428068Z",
-    "last_checked_at": "2026-11-05T11:15:35.337311Z",
+    "last_checked_at": "2026-11-06T11:06:42.780680Z",
     "source": "biostudies"
   },
   {
@@ -1129,7 +1129,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-11-05T11:15:35.003540Z",
+    "last_checked_at": "2026-11-06T11:06:42.270360Z",
     "source": "biostudies"
   },
   {
@@ -1220,7 +1220,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-11-05T11:15:34.774948Z",
+    "last_checked_at": "2026-11-06T11:06:41.946693Z",
     "source": "biostudies"
   },
   {
@@ -1286,7 +1286,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665584Z",
-    "last_checked_at": "2026-11-05T11:04:02.810727Z",
+    "last_checked_at": "2026-11-06T11:03:55.227381Z",
     "source": "crossref"
   },
   {
@@ -1352,7 +1352,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-11-05T11:04:02.810669Z",
+    "last_checked_at": "2026-11-06T11:03:55.227330Z",
     "source": "crossref"
   },
   {
@@ -1418,7 +1418,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-11-05T11:04:02.810635Z",
+    "last_checked_at": "2026-11-06T11:03:55.227296Z",
     "source": "crossref"
   },
   {
@@ -1484,7 +1484,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-11-05T11:04:02.810610Z",
+    "last_checked_at": "2026-11-06T11:03:55.227282Z",
     "source": "crossref"
   },
   {
@@ -1550,7 +1550,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-11-05T11:04:01.457132Z",
+    "last_checked_at": "2026-11-06T11:03:54.825905Z",
     "source": "crossref"
   },
   {
@@ -1616,7 +1616,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-11-05T11:04:00.816667Z",
+    "last_checked_at": "2026-11-06T11:03:53.972381Z",
     "source": "crossref"
   },
   {
@@ -1682,7 +1682,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-11-05T11:04:00.816484Z",
+    "last_checked_at": "2026-11-06T11:03:53.972216Z",
     "source": "crossref"
   },
   {
@@ -1748,7 +1748,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-11-05T11:04:00.816457Z",
+    "last_checked_at": "2026-11-06T11:03:53.972187Z",
     "source": "crossref"
   },
   {
@@ -1814,7 +1814,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-11-05T11:04:00.816083Z",
+    "last_checked_at": "2026-11-06T11:03:53.971900Z",
     "source": "crossref"
   },
   {
@@ -1880,7 +1880,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-11-05T11:04:00.816064Z",
+    "last_checked_at": "2026-11-06T11:03:53.971884Z",
     "source": "crossref"
   },
   {
@@ -1946,73 +1946,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-11-05T11:00:46.589422Z",
-    "source": "europe_pmc"
-  },
-  {
-    "title": "A unified framework for identification of cell-type-specific spatially variable genes in spatial transcriptomic studies.",
-    "doi": "10.1073/pnas.2503952122",
-    "pmid": "41223223",
-    "pmcid": "PMC12646224",
-    "journal": null,
-    "issn": null,
-    "publisher": null,
-    "container_title": null,
-    "first_author": null,
-    "publication_date": "2025-11-12",
-    "publication_tier": null,
-    "paper_url": "https://europepmc.org/article/MED/41223223",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "reused_public_dataset",
-    "xenium_reason": "Text indicates reuse of public Xenium data",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "A unified framework for identification of cell-type-specific spatially variable genes in spatial transcriptomic studies. Characterizing cell-type-specific spatially variable genes (SVGs) within tissue context is essential for exploring the landscape of complex biological systems in spatial transcriptomic (ST) studies. In this paper, we present a unified framework, the Mixture of Mixed Models (MMM), designed to directly model RNA count data and identify cell-type-specific SVGs while accounting for cell type composition and correcting for platform effects. Through a comprehensive simulation study and the analyses of eight publicly available ST datasets from various tissues and technologies with different resolutions, we demonstrate the effectiveness and robustness of MMM in identifying cell-type-specific SVGs. Notably, our integrative analysis with genome-wide association studies reveals that the cell-type-specific SVGs identified by MMM in a mouse brain study exhibit significant heritability enrichment in brain-related phenotypes. This finding suggests that cell-type-specific SVGs play a vital role in elucidating the mechanisms underlying complex traits and diseases. When applying MMM to analyze a high-resolution Xenium human breast cancer dataset by accounting for the uncertainties in cell segmentation, we find that certain cell-type-specific SVGs may contribute to cell-cell communications, thereby regulating the tissue microenvironment. Furthermore, we show the versatility of MMM by applying it to the 3D tissue models constructed from multiple ST slices, highlighting its utility in analyzing the 3D ST data.",
-    "confidence_score": 0.827,
-    "xenium_confidence": 0.78,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-11-05T11:00:46.579766Z",
+    "last_checked_at": "2026-11-06T10:57:56.570816Z",
     "source": "europe_pmc"
   },
   {
@@ -2103,7 +2037,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:57:17.666892Z",
-    "last_checked_at": "2026-11-05T11:00:45.531234Z",
+    "last_checked_at": "2026-11-06T10:57:56.563148Z",
+    "source": "europe_pmc"
+  },
+  {
+    "title": "A unified framework for identification of cell-type-specific spatially variable genes in spatial transcriptomic studies.",
+    "doi": "10.1073/pnas.2503952122",
+    "pmid": "41223223",
+    "pmcid": "PMC12646224",
+    "journal": null,
+    "issn": null,
+    "publisher": null,
+    "container_title": null,
+    "first_author": null,
+    "publication_date": "2025-11-12",
+    "publication_tier": null,
+    "paper_url": "https://europepmc.org/article/MED/41223223",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "reused_public_dataset",
+    "xenium_reason": "Text indicates reuse of public Xenium data",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "A unified framework for identification of cell-type-specific spatially variable genes in spatial transcriptomic studies. Characterizing cell-type-specific spatially variable genes (SVGs) within tissue context is essential for exploring the landscape of complex biological systems in spatial transcriptomic (ST) studies. In this paper, we present a unified framework, the Mixture of Mixed Models (MMM), designed to directly model RNA count data and identify cell-type-specific SVGs while accounting for cell type composition and correcting for platform effects. Through a comprehensive simulation study and the analyses of eight publicly available ST datasets from various tissues and technologies with different resolutions, we demonstrate the effectiveness and robustness of MMM in identifying cell-type-specific SVGs. Notably, our integrative analysis with genome-wide association studies reveals that the cell-type-specific SVGs identified by MMM in a mouse brain study exhibit significant heritability enrichment in brain-related phenotypes. This finding suggests that cell-type-specific SVGs play a vital role in elucidating the mechanisms underlying complex traits and diseases. When applying MMM to analyze a high-resolution Xenium human breast cancer dataset by accounting for the uncertainties in cell segmentation, we find that certain cell-type-specific SVGs may contribute to cell-cell communications, thereby regulating the tissue microenvironment. Furthermore, we show the versatility of MMM by applying it to the 3D tissue models constructed from multiple ST slices, highlighting its utility in analyzing the 3D ST data.",
+    "confidence_score": 0.827,
+    "xenium_confidence": 0.78,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T07:28:32.104617Z",
+    "last_checked_at": "2026-11-06T10:57:56.056215Z",
     "source": "europe_pmc"
   },
   {
@@ -2218,7 +2218,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-11-05T11:00:40.965099Z",
+    "last_checked_at": "2026-11-06T10:57:54.786070Z",
     "source": "europe_pmc"
   },
   {
@@ -2465,7 +2465,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-11-05T11:00:39.424461Z",
+    "last_checked_at": "2026-11-06T10:57:46.908454Z",
     "source": "europe_pmc"
   },
   {
@@ -2682,7 +2682,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.382543Z",
-    "last_checked_at": "2026-11-05T11:00:36.939446Z",
+    "last_checked_at": "2026-11-06T10:57:46.533841Z",
     "source": "europe_pmc"
   },
   {
@@ -2833,7 +2833,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719349Z",
-    "last_checked_at": "2026-11-05T11:00:22.194513Z",
+    "last_checked_at": "2026-11-06T10:57:28.566147Z",
     "source": "europe_pmc"
   },
   {
@@ -3014,7 +3014,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:09:05.256805Z",
-    "last_checked_at": "2026-11-05T10:59:37.388069Z",
+    "last_checked_at": "2026-11-06T10:56:37.883486Z",
     "source": "europe_pmc"
   },
   {
@@ -3477,7 +3477,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-11-05T10:59:36.957840Z",
+    "last_checked_at": "2026-11-06T10:56:37.450998Z",
     "source": "europe_pmc"
   },
   {
@@ -3922,7 +3922,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-17T07:50:06.753444Z",
-    "last_checked_at": "2026-11-05T10:59:05.318742Z",
+    "last_checked_at": "2026-11-06T10:56:15.137903Z",
     "source": "europe_pmc"
   },
   {
@@ -4025,7 +4025,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-11-05T10:58:53.567222Z",
+    "last_checked_at": "2026-11-06T10:56:04.768017Z",
     "source": "europe_pmc"
   },
   {
@@ -4091,7 +4091,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-11-05T10:58:52.814587Z",
+    "last_checked_at": "2026-11-06T10:55:53.650685Z",
     "source": "europe_pmc"
   },
   {
@@ -4157,7 +4157,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-11-05T10:58:52.814301Z",
+    "last_checked_at": "2026-11-06T10:55:53.650452Z",
     "source": "europe_pmc"
   },
   {
@@ -4332,7 +4332,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:28.415733Z",
-    "last_checked_at": "2026-11-05T10:58:52.095067Z",
+    "last_checked_at": "2026-11-06T10:55:53.315638Z",
     "source": "europe_pmc"
   },
   {
@@ -4621,7 +4621,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-20T08:34:38.327271Z",
-    "last_checked_at": "2026-11-05T10:58:50.782393Z",
+    "last_checked_at": "2026-11-06T10:55:52.206143Z",
     "source": "europe_pmc"
   },
   {
@@ -4724,7 +4724,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721739Z",
-    "last_checked_at": "2026-11-05T10:58:49.423774Z",
+    "last_checked_at": "2026-11-06T10:55:45.568788Z",
     "source": "europe_pmc"
   },
   {
@@ -5073,7 +5073,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-12T07:56:40.268857Z",
-    "last_checked_at": "2026-11-05T10:58:48.975217Z",
+    "last_checked_at": "2026-11-06T10:55:43.268867Z",
     "source": "europe_pmc"
   },
   {
@@ -5139,7 +5139,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-11-05T10:58:46.980466Z",
+    "last_checked_at": "2026-11-06T10:55:41.185807Z",
     "source": "europe_pmc"
   },
   {
@@ -5566,7 +5566,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-21T08:58:06.808340Z",
-    "last_checked_at": "2026-11-05T10:58:38.891490Z",
+    "last_checked_at": "2026-11-06T10:55:35.952683Z",
     "source": "europe_pmc"
   },
   {
@@ -5632,7 +5632,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718790Z",
-    "last_checked_at": "2026-11-05T10:58:17.496948Z",
+    "last_checked_at": "2026-11-06T10:55:06.119720Z",
     "source": "europe_pmc"
   },
   {
@@ -5698,7 +5698,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717880Z",
-    "last_checked_at": "2026-11-05T10:58:17.496737Z",
+    "last_checked_at": "2026-11-06T10:55:06.119557Z",
     "source": "europe_pmc"
   },
   {
@@ -5764,7 +5764,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-11-05T10:58:17.484798Z",
+    "last_checked_at": "2026-11-06T10:55:06.110053Z",
     "source": "europe_pmc"
   },
   {
@@ -5849,7 +5849,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-11-05T10:58:17.483587Z",
+    "last_checked_at": "2026-11-06T10:55:06.109076Z",
     "source": "europe_pmc"
   },
   {
@@ -5915,7 +5915,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717212Z",
-    "last_checked_at": "2026-11-05T10:58:17.479285Z",
+    "last_checked_at": "2026-11-06T10:55:06.105443Z",
     "source": "europe_pmc"
   },
   {
@@ -5981,7 +5981,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-11-05T10:58:17.477872Z",
+    "last_checked_at": "2026-11-06T10:55:06.104436Z",
     "source": "europe_pmc"
   },
   {
@@ -6047,7 +6047,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-06T10:19:21.686886Z",
-    "last_checked_at": "2026-11-05T10:58:08.765207Z",
+    "last_checked_at": "2026-11-06T10:54:58.714466Z",
     "source": "europe_pmc"
   },
   {
@@ -6648,7 +6648,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:52:12.208032Z",
-    "last_checked_at": "2026-11-05T10:58:08.510778Z",
+    "last_checked_at": "2026-11-06T10:54:55.244407Z",
     "source": "europe_pmc"
   },
   {
@@ -6859,7 +6859,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:36.526568Z",
-    "last_checked_at": "2026-11-05T10:58:07.880329Z",
+    "last_checked_at": "2026-11-06T10:54:53.526827Z",
     "source": "europe_pmc"
   },
   {
@@ -6974,7 +6974,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:59.582477Z",
-    "last_checked_at": "2026-11-05T10:57:39.490078Z",
+    "last_checked_at": "2026-11-06T10:54:52.847988Z",
     "source": "europe_pmc"
   },
   {
@@ -7191,7 +7191,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-09T08:10:06.624860Z",
-    "last_checked_at": "2026-11-05T10:57:39.259550Z",
+    "last_checked_at": "2026-11-06T10:54:35.853659Z",
     "source": "europe_pmc"
   },
   {
@@ -7294,7 +7294,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:35.067313Z",
-    "last_checked_at": "2026-11-05T10:57:38.737862Z",
+    "last_checked_at": "2026-11-06T10:54:35.351480Z",
     "source": "europe_pmc"
   },
   {
@@ -7439,7 +7439,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-11T08:04:27.768780Z",
-    "last_checked_at": "2026-11-05T10:57:34.911503Z",
+    "last_checked_at": "2026-11-06T10:54:33.605629Z",
     "source": "europe_pmc"
   },
   {
@@ -7578,7 +7578,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:14.784026Z",
-    "last_checked_at": "2026-11-05T10:57:33.203191Z",
+    "last_checked_at": "2026-11-06T10:54:31.813276Z",
     "source": "europe_pmc"
   },
   {
@@ -7711,7 +7711,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:56:21.207734Z",
-    "last_checked_at": "2026-11-05T10:57:32.017099Z",
+    "last_checked_at": "2026-11-06T10:54:29.454165Z",
     "source": "europe_pmc"
   },
   {
@@ -7777,7 +7777,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:56.522217Z",
-    "last_checked_at": "2026-11-05T10:57:31.752896Z",
+    "last_checked_at": "2026-11-06T10:54:26.995174Z",
     "source": "europe_pmc"
   },
   {
@@ -8162,7 +8162,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:22.103796Z",
-    "last_checked_at": "2026-11-05T10:57:31.529658Z",
+    "last_checked_at": "2026-11-06T10:54:24.282874Z",
     "source": "europe_pmc"
   },
   {
@@ -8228,7 +8228,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-22T08:37:44.617167Z",
-    "last_checked_at": "2026-11-05T10:57:30.623626Z",
+    "last_checked_at": "2026-11-06T10:54:13.043168Z",
     "source": "europe_pmc"
   },
   {
