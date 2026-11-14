@@ -62,7 +62,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813815Z",
-    "last_checked_at": "2026-11-13T11:26:16.351314Z",
+    "last_checked_at": "2026-11-14T10:39:56.157429Z",
     "source": "biostudies"
   },
   {
@@ -128,7 +128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813595Z",
-    "last_checked_at": "2026-11-13T11:26:16.348407Z",
+    "last_checked_at": "2026-11-14T10:39:56.155302Z",
     "source": "biostudies"
   },
   {
@@ -225,7 +225,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813325Z",
-    "last_checked_at": "2026-11-13T11:26:13.683748Z",
+    "last_checked_at": "2026-11-14T10:39:53.340691Z",
     "source": "biostudies"
   },
   {
@@ -322,7 +322,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813444Z",
-    "last_checked_at": "2026-11-13T11:26:12.930560Z",
+    "last_checked_at": "2026-11-14T10:39:53.229802Z",
     "source": "biostudies"
   },
   {
@@ -516,7 +516,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813259Z",
-    "last_checked_at": "2026-11-13T11:25:56.053407Z",
+    "last_checked_at": "2026-11-14T10:39:38.153077Z",
     "source": "biostudies"
   },
   {
@@ -661,7 +661,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813293Z",
-    "last_checked_at": "2026-11-13T11:25:55.323802Z",
+    "last_checked_at": "2026-11-14T10:39:37.667026Z",
     "source": "biostudies"
   },
   {
@@ -770,7 +770,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813233Z",
-    "last_checked_at": "2026-11-13T11:25:52.846298Z",
+    "last_checked_at": "2026-11-14T10:39:35.940614Z",
     "source": "biostudies"
   },
   {
@@ -849,7 +849,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813193Z",
-    "last_checked_at": "2026-11-13T11:25:52.489579Z",
+    "last_checked_at": "2026-11-14T10:39:35.518351Z",
     "source": "biostudies"
   },
   {
@@ -940,7 +940,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-21T08:46:28.428068Z",
-    "last_checked_at": "2026-11-13T11:25:51.677337Z",
+    "last_checked_at": "2026-11-14T10:39:34.665582Z",
     "source": "biostudies"
   },
   {
@@ -1037,7 +1037,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-29T06:14:15.095427Z",
-    "last_checked_at": "2026-11-13T11:25:51.314050Z",
+    "last_checked_at": "2026-11-14T10:39:34.306839Z",
     "source": "biostudies"
   },
   {
@@ -1128,7 +1128,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-11-10T11:19:49.202417Z",
-    "last_checked_at": "2026-11-13T11:25:51.183203Z",
+    "last_checked_at": "2026-11-14T10:39:34.125862Z",
     "source": "biostudies"
   },
   {
@@ -1219,7 +1219,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:41.813242Z",
-    "last_checked_at": "2026-11-13T11:25:50.726260Z",
+    "last_checked_at": "2026-11-14T10:39:33.701018Z",
     "source": "biostudies"
   },
   {
@@ -1285,7 +1285,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:26.583082Z",
-    "last_checked_at": "2026-11-13T11:21:04.679552Z",
+    "last_checked_at": "2026-11-14T10:38:36.237413Z",
     "source": "crossref"
   },
   {
@@ -1351,7 +1351,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:30:00.665548Z",
-    "last_checked_at": "2026-11-13T11:21:04.679451Z",
+    "last_checked_at": "2026-11-14T10:38:36.237380Z",
     "source": "crossref"
   },
   {
@@ -1417,7 +1417,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654424Z",
-    "last_checked_at": "2026-11-13T11:21:04.653184Z",
+    "last_checked_at": "2026-11-14T10:38:36.237357Z",
     "source": "crossref"
   },
   {
@@ -1483,7 +1483,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654461Z",
-    "last_checked_at": "2026-11-13T11:21:03.319273Z",
+    "last_checked_at": "2026-11-14T10:38:35.210621Z",
     "source": "crossref"
   },
   {
@@ -1549,7 +1549,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653978Z",
-    "last_checked_at": "2026-11-13T11:21:01.676727Z",
+    "last_checked_at": "2026-11-14T10:38:34.643101Z",
     "source": "crossref"
   },
   {
@@ -1615,7 +1615,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.654003Z",
-    "last_checked_at": "2026-11-13T11:21:01.676549Z",
+    "last_checked_at": "2026-11-14T10:38:34.642946Z",
     "source": "crossref"
   },
   {
@@ -1681,73 +1681,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653878Z",
-    "last_checked_at": "2026-11-13T11:21:01.676539Z",
-    "source": "crossref"
-  },
-  {
-    "title": "Xenium Prime In Situ Gene Expression (5K human or mouse panel+100 custom panel) v1",
-    "doi": "10.17504/protocols.io.8epv5w144v1b/v1",
-    "pmid": null,
-    "pmcid": null,
-    "journal": null,
-    "issn": null,
-    "publisher": "Springer Science and Business Media LLC",
-    "container_title": null,
-    "first_author": null,
-    "publication_date": null,
-    "publication_tier": null,
-    "paper_url": "https://doi.org/10.17504/protocols.io.8epv5w144v1b/v1",
-    "accession": null,
-    "repository": null,
-    "dataset_url": null,
-    "downloadable": null,
-    "download_status": null,
-    "total_size_bytes": null,
-    "file_count": 0,
-    "file_manifest": [],
-    "species": null,
-    "is_human": true,
-    "is_cancer": true,
-    "is_xenium_related": true,
-    "cancer_type_raw": null,
-    "cancer_type": null,
-    "cancer_subtype": null,
-    "tissue": null,
-    "patient_count": null,
-    "sample_count": null,
-    "section_count": null,
-    "cell_count": null,
-    "gene_panel_size": null,
-    "fresh_frozen_or_ffpe": null,
-    "xenium_panel": null,
-    "xenium_role": "primary_dataset",
-    "xenium_reason": "New profiling/generation with Xenium is stated",
-    "paired_scrna": false,
-    "paired_snrna": false,
-    "paired_histology": false,
-    "paired_protein": false,
-    "paired_clinical": false,
-    "foundation_model_related": false,
-    "model_name": null,
-    "model_task": null,
-    "training_sample_count": null,
-    "training_cell_count": null,
-    "model_code_url": null,
-    "model_weights_url": null,
-    "training_data_public": null,
-    "evidence": [],
-    "evidence_text": "Xenium Prime In Situ Gene Expression (5K human or mouse panel+100 custom panel) v1 <p>Xenium Prime In Situ Gene Expression is a high-resolution spatial transcriptomics platform that enables multiplexed detection of RNA transcripts directly within intact tissue sections. This protocol describes the workflow for performing Xenium Prime analysis using either the 5K human or mouse panel combined with a 100-gene custom panel. The method includes tissue section preparation, histological quality assessment, assay setup,  in situ hybridization, cell segmentation,  instrument loading, imaging &amp; decoding, and post Xenium H&amp;E. By preserving spatial context while profiling thousands of transcripts at single-cell or subcellular resolution, Xenium Prime supports detailed characterization of tissue architecture, cellular heterogeneity, and cell–cell interactions. This protocol is applicable to a broad range of research applications, including cancer biology, developmental biology, and disease microenvironment studies, and provides a flexible framework for integrating predefined panels with user-defined targets of interest.</p>",
-    "confidence_score": 0.867,
-    "xenium_confidence": 0.9,
-    "human_confidence": 0.9,
-    "cancer_confidence": 0.8,
-    "record_kind": "xenium_dataset",
-    "record_status": "accepted",
-    "rejection_reasons": [],
-    "manual_review_required": false,
-    "source_updated_at": null,
-    "first_seen_at": "2026-07-17T05:46:19.654115Z",
-    "last_checked_at": "2026-11-13T11:21:01.676118Z",
+    "last_checked_at": "2026-11-14T10:38:34.642938Z",
     "source": "crossref"
   },
   {
@@ -1813,7 +1747,73 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:19.653869Z",
-    "last_checked_at": "2026-11-13T11:21:01.676107Z",
+    "last_checked_at": "2026-11-14T10:38:34.642626Z",
+    "source": "crossref"
+  },
+  {
+    "title": "Xenium Prime In Situ Gene Expression (5K human or mouse panel+100 custom panel) v1",
+    "doi": "10.17504/protocols.io.8epv5w144v1b/v1",
+    "pmid": null,
+    "pmcid": null,
+    "journal": null,
+    "issn": null,
+    "publisher": "Springer Science and Business Media LLC",
+    "container_title": null,
+    "first_author": null,
+    "publication_date": null,
+    "publication_tier": null,
+    "paper_url": "https://doi.org/10.17504/protocols.io.8epv5w144v1b/v1",
+    "accession": null,
+    "repository": null,
+    "dataset_url": null,
+    "downloadable": null,
+    "download_status": null,
+    "total_size_bytes": null,
+    "file_count": 0,
+    "file_manifest": [],
+    "species": null,
+    "is_human": true,
+    "is_cancer": true,
+    "is_xenium_related": true,
+    "cancer_type_raw": null,
+    "cancer_type": null,
+    "cancer_subtype": null,
+    "tissue": null,
+    "patient_count": null,
+    "sample_count": null,
+    "section_count": null,
+    "cell_count": null,
+    "gene_panel_size": null,
+    "fresh_frozen_or_ffpe": null,
+    "xenium_panel": null,
+    "xenium_role": "primary_dataset",
+    "xenium_reason": "New profiling/generation with Xenium is stated",
+    "paired_scrna": false,
+    "paired_snrna": false,
+    "paired_histology": false,
+    "paired_protein": false,
+    "paired_clinical": false,
+    "foundation_model_related": false,
+    "model_name": null,
+    "model_task": null,
+    "training_sample_count": null,
+    "training_cell_count": null,
+    "model_code_url": null,
+    "model_weights_url": null,
+    "training_data_public": null,
+    "evidence": [],
+    "evidence_text": "Xenium Prime In Situ Gene Expression (5K human or mouse panel+100 custom panel) v1 <p>Xenium Prime In Situ Gene Expression is a high-resolution spatial transcriptomics platform that enables multiplexed detection of RNA transcripts directly within intact tissue sections. This protocol describes the workflow for performing Xenium Prime analysis using either the 5K human or mouse panel combined with a 100-gene custom panel. The method includes tissue section preparation, histological quality assessment, assay setup,  in situ hybridization, cell segmentation,  instrument loading, imaging &amp; decoding, and post Xenium H&amp;E. By preserving spatial context while profiling thousands of transcripts at single-cell or subcellular resolution, Xenium Prime supports detailed characterization of tissue architecture, cellular heterogeneity, and cell–cell interactions. This protocol is applicable to a broad range of research applications, including cancer biology, developmental biology, and disease microenvironment studies, and provides a flexible framework for integrating predefined panels with user-defined targets of interest.</p>",
+    "confidence_score": 0.867,
+    "xenium_confidence": 0.9,
+    "human_confidence": 0.9,
+    "cancer_confidence": 0.8,
+    "record_kind": "xenium_dataset",
+    "record_status": "accepted",
+    "rejection_reasons": [],
+    "manual_review_required": false,
+    "source_updated_at": null,
+    "first_seen_at": "2026-07-17T05:46:19.654115Z",
+    "last_checked_at": "2026-11-14T10:38:34.642619Z",
     "source": "crossref"
   },
   {
@@ -1879,7 +1879,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:45.628719Z",
-    "last_checked_at": "2026-11-13T11:12:10.575771Z",
+    "last_checked_at": "2026-11-14T10:32:37.398187Z",
     "source": "europe_pmc"
   },
   {
@@ -1970,7 +1970,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:57:17.666892Z",
-    "last_checked_at": "2026-11-13T11:12:10.566232Z",
+    "last_checked_at": "2026-11-14T10:32:37.389721Z",
     "source": "europe_pmc"
   },
   {
@@ -2036,7 +2036,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:32.104617Z",
-    "last_checked_at": "2026-11-13T11:12:06.797996Z",
+    "last_checked_at": "2026-11-14T10:32:29.381636Z",
     "source": "europe_pmc"
   },
   {
@@ -2151,7 +2151,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.866877Z",
-    "last_checked_at": "2026-11-13T11:12:04.097182Z",
+    "last_checked_at": "2026-11-14T10:32:28.497744Z",
     "source": "europe_pmc"
   },
   {
@@ -2398,7 +2398,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:31.470906Z",
-    "last_checked_at": "2026-11-13T11:11:46.729105Z",
+    "last_checked_at": "2026-11-14T10:32:27.879941Z",
     "source": "europe_pmc"
   },
   {
@@ -2615,7 +2615,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.382543Z",
-    "last_checked_at": "2026-11-13T11:11:37.164947Z",
+    "last_checked_at": "2026-11-14T10:32:27.229772Z",
     "source": "europe_pmc"
   },
   {
@@ -2766,7 +2766,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719349Z",
-    "last_checked_at": "2026-11-13T11:11:18.107553Z",
+    "last_checked_at": "2026-11-14T10:32:14.521400Z",
     "source": "europe_pmc"
   },
   {
@@ -2947,7 +2947,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:09:05.256805Z",
-    "last_checked_at": "2026-11-13T11:10:10.286478Z",
+    "last_checked_at": "2026-11-14T10:31:42.731269Z",
     "source": "europe_pmc"
   },
   {
@@ -3410,7 +3410,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:28:23.802693Z",
-    "last_checked_at": "2026-11-13T11:09:59.212810Z",
+    "last_checked_at": "2026-11-14T10:31:37.688200Z",
     "source": "europe_pmc"
   },
   {
@@ -3513,7 +3513,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:31.303752Z",
-    "last_checked_at": "2026-11-13T11:08:53.184698Z",
+    "last_checked_at": "2026-11-14T10:30:46.915090Z",
     "source": "europe_pmc"
   },
   {
@@ -3579,7 +3579,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:30.192543Z",
-    "last_checked_at": "2026-11-13T11:08:32.941103Z",
+    "last_checked_at": "2026-11-14T10:30:45.851627Z",
     "source": "europe_pmc"
   },
   {
@@ -4138,7 +4138,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-11-12T11:17:14.244366Z",
-    "last_checked_at": "2026-11-13T11:08:32.940814Z",
+    "last_checked_at": "2026-11-14T10:30:45.851360Z",
     "source": "europe_pmc"
   },
   {
@@ -4204,7 +4204,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T07:27:11.378660Z",
-    "last_checked_at": "2026-11-13T11:08:17.142707Z",
+    "last_checked_at": "2026-11-14T10:30:45.442969Z",
     "source": "europe_pmc"
   },
   {
@@ -4379,7 +4379,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:28.415733Z",
-    "last_checked_at": "2026-11-13T11:08:17.142464Z",
+    "last_checked_at": "2026-11-14T10:30:45.209499Z",
     "source": "europe_pmc"
   },
   {
@@ -4668,7 +4668,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-20T08:34:38.327271Z",
-    "last_checked_at": "2026-11-13T11:08:12.931812Z",
+    "last_checked_at": "2026-11-14T10:30:44.934385Z",
     "source": "europe_pmc"
   },
   {
@@ -4771,7 +4771,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721739Z",
-    "last_checked_at": "2026-11-13T11:07:51.610737Z",
+    "last_checked_at": "2026-11-14T10:30:44.365517Z",
     "source": "europe_pmc"
   },
   {
@@ -5120,7 +5120,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-12T07:56:40.268857Z",
-    "last_checked_at": "2026-11-13T11:07:49.839140Z",
+    "last_checked_at": "2026-11-14T10:30:44.138402Z",
     "source": "europe_pmc"
   },
   {
@@ -5186,7 +5186,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.721700Z",
-    "last_checked_at": "2026-11-13T11:07:42.154658Z",
+    "last_checked_at": "2026-11-14T10:30:43.604093Z",
     "source": "europe_pmc"
   },
   {
@@ -5613,7 +5613,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-21T08:58:06.808340Z",
-    "last_checked_at": "2026-11-13T11:07:29.389010Z",
+    "last_checked_at": "2026-11-14T10:30:39.101589Z",
     "source": "europe_pmc"
   },
   {
@@ -6064,7 +6064,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.718154Z",
-    "last_checked_at": "2026-11-13T11:07:05.213562Z",
+    "last_checked_at": "2026-11-14T10:30:38.121097Z",
     "source": "europe_pmc"
   },
   {
@@ -6130,7 +6130,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717671Z",
-    "last_checked_at": "2026-11-13T11:04:49.347239Z",
+    "last_checked_at": "2026-11-14T10:30:12.271057Z",
     "source": "europe_pmc"
   },
   {
@@ -6215,7 +6215,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717504Z",
-    "last_checked_at": "2026-11-13T11:04:49.346156Z",
+    "last_checked_at": "2026-11-14T10:30:12.270278Z",
     "source": "europe_pmc"
   },
   {
@@ -6281,7 +6281,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.717212Z",
-    "last_checked_at": "2026-11-13T11:04:49.341938Z",
+    "last_checked_at": "2026-11-14T10:30:12.266626Z",
     "source": "europe_pmc"
   },
   {
@@ -6347,7 +6347,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-07-17T05:46:16.719684Z",
-    "last_checked_at": "2026-11-13T11:04:49.340705Z",
+    "last_checked_at": "2026-11-14T10:30:12.265297Z",
     "source": "europe_pmc"
   },
   {
@@ -6462,7 +6462,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:59.582477Z",
-    "last_checked_at": "2026-11-13T11:04:49.339328Z",
+    "last_checked_at": "2026-11-14T10:30:12.264031Z",
     "source": "europe_pmc"
   },
   {
@@ -7063,7 +7063,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:52:12.208032Z",
-    "last_checked_at": "2026-11-13T11:04:48.587710Z",
+    "last_checked_at": "2026-11-14T10:29:45.646845Z",
     "source": "europe_pmc"
   },
   {
@@ -7280,7 +7280,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-09T08:10:06.624860Z",
-    "last_checked_at": "2026-11-13T11:03:46.888940Z",
+    "last_checked_at": "2026-11-14T10:29:36.952728Z",
     "source": "europe_pmc"
   },
   {
@@ -7383,7 +7383,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-04T07:59:35.067313Z",
-    "last_checked_at": "2026-11-13T11:03:28.860639Z",
+    "last_checked_at": "2026-11-14T10:29:06.733309Z",
     "source": "europe_pmc"
   },
   {
@@ -7528,7 +7528,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-11T08:04:27.768780Z",
-    "last_checked_at": "2026-11-13T11:02:40.008938Z",
+    "last_checked_at": "2026-11-14T10:29:06.416947Z",
     "source": "europe_pmc"
   },
   {
@@ -7667,7 +7667,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-29T09:51:14.784026Z",
-    "last_checked_at": "2026-11-13T11:02:19.876529Z",
+    "last_checked_at": "2026-11-14T10:28:59.256769Z",
     "source": "europe_pmc"
   },
   {
@@ -7800,7 +7800,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-14T08:56:21.207734Z",
-    "last_checked_at": "2026-11-13T11:02:14.242063Z",
+    "last_checked_at": "2026-11-14T10:28:58.432124Z",
     "source": "europe_pmc"
   },
   {
@@ -7866,7 +7866,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-10T08:08:56.522217Z",
-    "last_checked_at": "2026-11-13T11:01:46.962058Z",
+    "last_checked_at": "2026-11-14T10:28:44.439580Z",
     "source": "europe_pmc"
   },
   {
@@ -8251,7 +8251,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-09-05T07:42:22.103796Z",
-    "last_checked_at": "2026-11-13T11:01:33.257205Z",
+    "last_checked_at": "2026-11-14T10:28:27.214079Z",
     "source": "europe_pmc"
   },
   {
@@ -8317,7 +8317,7 @@
     "manual_review_required": false,
     "source_updated_at": null,
     "first_seen_at": "2026-10-22T08:37:44.617167Z",
-    "last_checked_at": "2026-11-13T11:01:03.127241Z",
+    "last_checked_at": "2026-11-14T10:28:08.555973Z",
     "source": "europe_pmc"
   },
   {
